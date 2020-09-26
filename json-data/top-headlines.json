@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 734,
+  "articles": [
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "[{\"@type\":\"Person\",\"name\":\"Hannah Marder\",\"url\":\"https://www.buzzfeed.com/hannahmarder\",\"jobTitle\":\"BuzzFeed Staff\"}]",
+      "title": "21 TV Episodes That Are Terrifying From Start To Finish",
+      "description": "I'm going to have nightmares tonight.",
+      "url": "https://www.buzzfeed.com/hannahmarder/most-terrifying-tv-episodes",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/21/22/enhanced/19b0de03aa06/original-19450-1600725717-3.jpg?crop=1245:652;0,89%26downsize=1250:*",
+      "publishedAt": "2020-09-26T12:22:22.8173528Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Protesters take the streets for a third night after the decision in Breonna Taylor case",
+      "description": "Fox News' Bryan Llenas reports from Louisville, Kentucky on the violence and confrontations.",
+      "url": "https://video.foxnews.com/v/6194788216001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6d433df0-8caa-4293-88ff-e0e1ed2d422b/a0b89dc3-7941-4944-bb74-9af2b058e260/1280x720/match/image.jpg",
+      "publishedAt": "2020-09-26T12:22:17.7873552Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": null,
+      "title": "Hyrule Warriors: Age of Calamity - Official Trailer - IGN",
+      "description": "Hyrule Warriors: Age of Calamity is a new game set 100 years before The Legend of Zelda: Breath of the Wild.",
+      "url": "https://www.ign.com/videos/hyrule-warriors-age-of-calamity-official-trailer",
+      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/9/8/hyrule-blog-1599574265436.jpg?width=1280",
+      "publishedAt": "2020-09-26T12:22:16.9594355Z",
+      "content": "Did you enjoy this video?"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Should suspect in Louisville police shooting be charged with attempted murder?",
+      "description": "National Police Association spokesperson Sgt. Betsy Brantner Smith joins 'FOX &amp; Friends' to discuss the charges.",
+      "url": "https://video.foxnews.com/v/6194793514001/",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/99ac1a1a-db41-45c2-9f1c-727059bf7adf/cdb0fe35-42a6-4809-86dd-416794135690/1280x720/match/image.jpg",
+      "publishedAt": "2020-09-26T12:22:16.631393Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Ruby 3.0 Preview 1",
+      "description": "",
+      "url": "https://www.ruby-lang.org/en/news/2020/09/25/ruby-3-0-0-preview1-released/?hn=t",
+      "urlToImage": null,
+      "publishedAt": "2020-09-26T12:22:05.2436012Z",
+      "content": "Posted by naruse on 25 Sep 2020\r\nWe are pleased to announce the release of Ruby 3.0.0-preview1.\r\nIt introduces a number of new features and performance improvements.\r\nRBS\r\nRBS is a language to descri… [+7641 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Aviation industry rocked by furloughs amid COVID-19 pandemic",
+      "description": "The aviation industry was among the hardest-hit by the coronavirus pandemic. For months, government support has kept many airlines from furloughing or laying off their employees. But that support is coming to an end, and with it, the reprieve that thousands o…",
+      "url": "https://www.cbsnews.com/video/aviation-industry-rocked-by-furloughs-amid-covid-19-pandemic/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/26/86ff6316-7b85-4e23-9c9d-1ad6981ce11c/thumbnail/1200x630/efced9f72e7c680e3e2a38e2e58aacd6/cbsn-fusion-aviation-industry-rocked-by-furloughs-amid-covid-19-pandemic-thumbnail-554730-640x360.jpg",
+      "publishedAt": "2020-09-26T12:14:28+00:00",
+      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": null,
+      "title": "The last ice: How open summer seas in the Arctic endanger Canada’s efforts to protect it",
+      "description": "In protected areas off Nunavut’s coast, ‘the place where the ice never melts’ is quickly melting. Can efforts to conserve iconic species keep pace?",
+      "url": "https://www.theglobeandmail.com/canada/article-the-last-ice-how-open-summer-seas-in-the-arctic-endanger-canadas/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/KeFJuZa6VIlS0ZXw9tOP55f9lOs=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/3ZU6DUOE3NE2TAWNHZLN2AGZJI.jpg",
+      "publishedAt": "2020-09-26T12:14:06Z",
+      "content": "The Tuvaijuittuq Marine Protected Area is one of two large regions of Nunavut where the Canadian government is trying to protect Canada's Arctic marine and coastal areas. \r\n© Christine Michel\r\nKnown … [+12458 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Louisville protesters defy curfew in third night of Breonna Taylor demonstrations",
+      "description": "In Louisville, hundreds of people protested for a third straight night demanding justice for Breonna Taylor. Police fired flash bangs to break up crowds on Friday evening. Several protesters were arrested for being out past the city's 9 p.m. curfew as other p…",
+      "url": "https://www.cbsnews.com/video/louisville-protesters-defy-curfew-in-third-night-of-breonna-taylor-demonstrations/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/26/510016fb-d613-46c2-af8b-ac008ec208f2/thumbnail/1200x630/ef5e7b6686d01e77aef69a4af6f28bc5/cbsn-fusion-louisville-protesters-defy-curfew-in-third-night-of-breonna-taylor-demonstrations-thumbnail-554722-640x360.jpg",
+      "publishedAt": "2020-09-26T12:13:59+00:00",
+      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Shauna Bowers",
+      "title": "Co Donegal hotel offers €2 rooms to locals to circumvent Covid-19 outdoor dining rules",
+      "description": "The Beach Hotel, Downings said the offer was to ’recoup our costs’",
+      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/news/ireland/irish-news/co-donegal-hotel-offers-2-rooms-to-locals-to-circumvent-covid-19-outdoor-dining-rules-1.4365587\t",
+      "urlToImage": "https://www.irishtimes.com/polopoly_fs/1.4365586.1601122247!/image/image.jpg",
+      "publishedAt": "2020-09-26T12:11:34Z",
+      "content": "A Co Donegal hotel has invited locals to book a room for 2 per person sharing, in order to circumvent public health rules on restaurants and permit them to dine indoors.\r\nThe Government announced las… [+2015 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "U.S. surpasses 7 million COVID-19 cases as states relax restrictions",
+      "description": "There are now more than 7 million coronavirus infections in the U.S., with a death toll climbing above 203,000. While the CDC is warning 90% of the population remains vulnerable to the virus, Florida is lifting all restrictions on bars and restaurants and New…",
+      "url": "https://www.cbsnews.com/video/us-surpasses-7-million-covid-19-cases-as-states-relax-restrictions/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/26/7d4347a1-749d-4fc7-8e3c-31f0a0588cca/thumbnail/1200x630/9bb2cfaf11f890b506bf98371df0883d/cbsn-fusion-us-surpasses-7-million-covid-19-cases-as-states-relax-restrictions-thumbnail-554717-640x360.jpg",
+      "publishedAt": "2020-09-26T12:11:27+00:00",
+      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "CLAIRE GALOFARO and AARON MORRISON",
+      "title": "In Breonna Taylor's name: Devastation and a search for hope",
+      "description": "LOUISVILLE, Ky. (AP) — Chea Woolfolk searched the crowd until she found the face of the woman she’d come to regard as a second mother. And then she watched the tears roll down Rose Henderson’s...",
+      "url": "https://apnews.com/8642e16774f02a97d04bc666e508ccb5",
+      "urlToImage": "",
+      "publishedAt": "2020-09-26T12:09:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "BRYAN ANDERSON and NICHOLAS RICCARDI",
+      "title": "Early vote shows signs of Black voters' shift to mail voting",
+      "description": "RALEIGH, N.C. (AP) — Shirley Dixon-Mosley had never sent a ballot through the mail. She always treasured casting her ballot in person. But for November's election, she voted early and by mail...",
+      "url": "https://apnews.com/40a44a85e544366b8e3c428ff375ff21",
+      "urlToImage": "",
+      "publishedAt": "2020-09-26T12:08:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "LIVE 2020 Irish Open: Day Three",
+      "description": "The Irish challenge has been tame so far at Galgorm Castle - can anyone make a third round charge? Find out with Ruaidhrí Croke!",
+      "url": "https://www.irishtimes.com/sport/2020-irish-open-day-three-1.4365572",
+      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4365583&origw=1200",
+      "publishedAt": "2020-09-26T12:07:40.704573Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "[{\"@type\":\"Person\",\"name\":\"Kristin Magaldi\",\"url\":\"https://www.buzzfeed.com/kristinmagaldi\",\"jobTitle\":\"BuzzFeed Contributor\"}]",
+      "title": "31 Practical Things From Walmart That Don’t Cost A Lot, But Will Be Used All The Time",
+      "description": "You will sincerely wish these products entered into your life sooner.",
+      "url": "https://www.buzzfeed.com/kristinmagaldi/cheap-practical-useful-products-walmart",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/25/18/enhanced/a1e0aeb39aa5/original-25777-1601058091-8.jpg?crop=1581:830;0,0%26downsize=1250:*",
+      "publishedAt": "2020-09-26T12:07:29.5667195Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "[{\"@type\":\"Person\",\"name\":\"Seasoned Sessions\",\"url\":\"https://www.buzzfeed.com/seasonedsessions\",\"jobTitle\":\"BuzzFeed Contributor\"}]",
+      "title": "Seasoned Sessions: Is Your Mask Catfishing People?",
+      "description": "Listen on Spotify, Apple Podcasts, or wherever you find your favourite shows!",
+      "url": "https://www.buzzfeed.com/seasonedsessions/seasoned-sessions-ep-13",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/26/10/campaign_images/19b0de03aa06/seasoned-sessions-is-your-mask-catfishing-people-2-26995-1601115023-30_dblbig.jpg",
+      "publishedAt": "2020-09-26T12:07:23.0214733Z",
+      "content": "2. The renaming of Bristol's Colston Hall, and the National Trust revealing that 93 of their properties have links to colonialism and slavery. (Skip to 11.50)\r\n3. Odell Beckham Jr. responding to some… [+137 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "South Africans remember Winnie Madikizela-Mandela on what would have been her 84th birthday",
+      "description": "South Africans have taken to social media to commemorate the late Winnie Madikizela-Mandela on what would have been her 84th birthday.",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/south-africans-remember-winnie-madikizela-mandela-on-what-would-have-been-her-84th-birthday-20200926",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9980/a2a1b84c8e774bdda0b5cfb7183136e2.png",
+      "publishedAt": "2020-09-26T12:04:37+00:00",
+      "content": "Political parties and South Africans took to social media on Saturday to honour Winnie Madikizela-Mandela on what would have been the ANC stalwart's 84th birthday.\r\nThe EFF described Madikizela-Mande… [+1326 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Celine Castronuovo",
+      "title": "Trump says he wants 'beautiful transition' but must be 'an honest vote' | TheHill",
+      "description": "President Trump maintained Friday night that he supports a \"...",
+      "url": "http://thehill.com/homenews/campaign/518407-trump-says-he-wants-beautiful-transition-but-must-be-an-honest-vote",
+      "urlToImage": "https://thehill.com/sites/default/files/trumpdonald2_092520getty_0.jpg",
+      "publishedAt": "2020-09-26T12:00:33Z",
+      "content": "President TrumpDonald John TrumpFederal prosecutor speaks out, says Barr 'has brought shame' on Justice Dept.Former Pence aide: White House staffers discussed Trump refusing to leave officeProgressiv… [+4764 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": null,
+      "title": "What can Mozambique’s farmers teach the world about survival in a changing climate?",
+      "description": "On a continent that’s more vulnerable to climate change than any other, Mozambique is one of the most vulnerable countries. Despite cyclones and drought, people are adapting",
+      "url": "https://www.theglobeandmail.com/world/article-what-can-mozambiques-farmers-teach-the-world-about-survival-in-a/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/hQnr1W4-x2tuxbW95dJHxR1J1Dw=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/DTZG6E4HH5GQFMNVTPCLNWIMGM.JPG",
+      "publishedAt": "2020-09-26T12:00:00Z",
+      "content": "Women prepare land for crops in Dondo, Mozambique, this past February as part of a World Food Programme initiative in communities recovering from last year's Cyclone Idai. \r\nEd Ram/Reuters\r\nAt the ag… [+8757 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": null,
+      "title": "Canada’s peatlands are tinderboxes that are more likely to ignite in a warming world",
+      "description": "Peat deposits are an even bigger carbon sink than the world’s forests, and recent wildfires in Canada and Siberia have burned it out of the ground. That’s bad news for our planet’s climate",
+      "url": "https://www.theglobeandmail.com/canada/article-canadas-peatlands-are-tinderboxes-that-are-more-likely-to-ignite-in-a/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/RZR20y7j8JXn1QLnxGnGiz668fE=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GI6X6QMNHZLQJJMNV35IJ2I6ZE.jpg",
+      "publishedAt": "2020-09-26T12:00:00Z",
+      "content": "Scorched trees stand near Britt, Ont., in the summer of 2018 after the Parry Sound 33 forest fire swept through the area. The fire spread in a part of the country where peat is abundant.\r\nNathan Dene… [+8712 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Samsung’s new Galaxy Buds Live wireless earbuds are $35 off at Woot",
+      "description": "At Woot until the end of the day, Amazon Prime members can get Samsung’s Galaxy Buds Live wireless earbuds for $135. You also can save $10 off the most affordable Apple Watch SE in the 40mm size with GPS.",
+      "url": "https://www.theverge.com/good-deals/2020/9/26/21456586/samsung-galaxy-buds-live-beans-wireless-earbuds-apple-watch-se-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IeTRhhK6kAkA39_h1-tJSWKBJRY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21700189/IMG_0628_1.jpg",
+      "publishedAt": "2020-09-26T12:00:00Z",
+      "content": "Amazon Prime members check out for $135, $145 for everyone else\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThis story is part of a group of s… [+1419 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Bob Davis, Josh Zumbrun",
+      "title": "Where Trump and Biden Stand on Trade",
+      "description": "A second Trump administration is bound to rely heavily on tariffs, which Biden says the president has misused by acting unilaterally",
+      "url": "https://www.wsj.com/articles/where-trump-and-biden-stand-on-trade-11601121601?mod=hp_lead_pos7",
+      "urlToImage": "https://images.wsj.net/im-236789/social",
+      "publishedAt": "2020-09-26T12:00:00Z",
+      "content": "This article is part of a Wall Street Journal guide comparing President Donald Trump and former Vice President Joe Biden on issues from climate change to health care and jobs.WASHINGTONDonald Trumps … [+8203 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Trump expected to nominate Amy Coney Barrett to Supreme Court",
+      "description": "President Trump is set to announce his pick to fill the late Justice Ruth Bader Ginsburg's Supreme Court seat Saturday, just over a week since the icon's death. The president is expected to nominate Judge Amy Coney Barrett, a federal judge who currently sits …",
+      "url": "https://www.cbsnews.com/video/trump-expected-to-nominate-amy-coney-barrett-to-supreme-court/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/26/6b1278c3-f851-4ba5-83be-e816e52b17ad/thumbnail/1200x630/c5fda5014babfc96e687966f82f7fe2f/cbsn-fusion-trump-expected-to-nominate-amy-coney-barrett-to-supreme-court-thumbnail-554706-640x360.jpg",
+      "publishedAt": "2020-09-26T11:58:21+00:00",
+      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Eye Opener: Trump expected to nominate Amy Coney Barrett to Supreme Court",
+      "description": "President Trump is expected to choose Judge Amy Coney Barrett to replace Justice Ruth Bader Ginsburg on the Supreme Court. Also, Florida Governor Ron DeSantis has lifted restrictions on bars and restaurants, concerning some health experts. All that and all th…",
+      "url": "https://www.cbsnews.com/video/eye-opener-trump-expected-to-nominate-amy-coney-barrett-to-supreme-court/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/26/21f69fb6-f857-4633-bfac-0ea489604d32/thumbnail/1200x630/acbdd12a4ffae916ae8b6dae00c40685/cbsn-fusion-eye-opener-trump-expected-to-nominate-amy-coney-barrett-to-supreme-court-thumbnail-554701-640x360.jpg",
+      "publishedAt": "2020-09-26T11:54:32+00:00",
+      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Champions Cup semi-finals: Racing 92 v Saracens - radio & text",
+      "description": "Follow live text and BBC radio commentary of the European Champions Cup semi-finals.",
+      "url": "http://www.bbc.co.uk/sport/live/rugby-union/54258194",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.20.1/images/bbc-sport-logo.png",
+      "publishedAt": "2020-09-26T11:52:47.6860474Z",
+      "content": "Wing Teddy Thomas and second row Donnacha Ryan come into the Racing XV.\r\nThe French side have Scotland international Finn Russell at fly-half, with Teddy Iribaren preferred to Maxime Machenaud at nin… [+444 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "EFL: Swansea lead at Wycombe, Watford goalless with Luton",
+      "description": "Follow live text updates from the Championship, League One and League Two.",
+      "url": "http://www.bbc.co.uk/sport/live/football/53936138",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.20.1/images/bbc-sport-logo.png",
+      "publishedAt": "2020-09-26T11:52:45.5928192Z",
+      "content": "James Garner and Ismaila Sarr return for Watford, with Domingos Quina and Glenn Murray dropping to the bench. Talismanic forward Troy Deeney is on the bench.\r\nLuton make just one change, Ryan Tunnicl… [+374 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "England aim to seal series win over West Indies - TV, radio & text",
+      "description": "England women attempt to wrap up a Twenty20 series victory over West Indies at Derby.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/53913074",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.20.1/images/bbc-sport-logo.png",
+      "publishedAt": "2020-09-26T11:52:30.7095361Z",
+      "content": "England name the same team as the first two T20s.\r\nEngland: Tammy Beaumont, Danni Wyatt, Heather Knight (c), Nat Sciver, Fran Wilson, Amy Jones (wk), Katherine Brunt, Mady Villiers, Sarah Glenn, Soph… [+346 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Let's talk about safety of Pinephone",
+      "description": null,
+      "url": "https://xnux.eu/log/#017",
+      "urlToImage": null,
+      "publishedAt": "2020-09-26T11:52:28.3507478Z",
+      "content": "20200920:\r\nSome ways to improve Pinephone safety\r\nThis is a follow up on some issues from the previous article. On surface,\r\nsolutions to some of the previously presented issues can seem simple. Togg… [+44565 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Show HN: Rentify – Create an online rental store",
+      "description": null,
+      "url": "https://rentify.store",
+      "urlToImage": null,
+      "publishedAt": "2020-09-26T11:52:05.1846381Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Marc Williams",
+      "title": "Brighton v Man United LIVE commentary: Seagulls star Trossard hits the post at the AMEX",
+      "description": "",
+      "url": "https://talksport.com/football/764792/brighton-v-man-united-live-stream-talksport-commentary-premier-league/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/09/talksport-Maupay.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-09-26T11:51:47Z",
+      "content": "Brighton will be looking to continue their good form this weekend and inflict more pain on Ole Gunnar Solskjaer and Manchester United.\r\nThe Seagulls smashed Newcastle last weekend and have claimed tw… [+1710 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Coronavirus updates: 9% of American adults exposed to COVID-19; world deaths could double before a vaccine is widely available, WHO warns",
+      "description": "Texas A&M's Midnight Yell was a little \"eerie\" with no fans. Florida is easing more restrictions. California is seeing more cases. Latest COVID news.",
+      "url": "https://www.usatoday.com/story/news/health/2020/09/26/covid-news-herd-immunity-study-florida-lifts-restrictions/3545728001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a1c5b3e4-7c53-4c9a-b91a-5230e08fd561-002_CORONAVIRUS_SPORTS.001.JPG?crop=6624,3726,x1,y0&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2020-09-26T11:45:56+00:00",
+      "content": "COVID-19 widespread testing is crucial to fighting the pandemic, but is there enough testing? The answer is in the positivity rates.\r\nUSA TODAY\r\nAmericans have a long way to go for \"herd immunity\" gi… [+5391 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Grace Segers",
+      "title": "Watch live: President Trump to announce his Supreme Court nominee on Saturday",
+      "description": "President Trump is expected to announce his nominee for the seat vacated by the death of Justice Ruth Bader Ginsburg.",
+      "url": "https://www.cbsnews.com/news/trump-supreme-court-justice-nominee-candidate-announcement-live-stream/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/26/3dc286a7-cf03-4a6e-9fa0-aacd039ace8b/thumbnail/1200x630g2/3a06547ad048c1103c27be6842d945e3/gettyimages-1228675727.jpg",
+      "publishedAt": "2020-09-26T11:38:59+00:00",
+      "content": "President Trump is expected to announce on Saturday his nominee for the Supreme Court seat left vacant by Justice Ruth Bader Ginsburg's death last week, leaving the Republican-controlled Senate littl… [+3715 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Lebanon’s prime minister designate quits",
+      "description": "Mustapha Adib was unable to appoint a cabinet within deadline set by French president",
+      "url": "https://www.ft.com/content/5187336d-8aae-42a1-8d49-f8ba785149b8",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fda4ca960-d603-4b47-a35c-aa0c1f79213d.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2020-09-26T11:37:28.0211087Z",
+      "content": "Lebanon’s prime minister designate resigned on Saturday morning, saying he was unable to form a crisis government to pull the country out of economic disaster, despite pressure to do so from former r… [+2910 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": null,
+      "title": "The Undertaker Responds to IGN Comments - IGN",
+      "description": "IGN comments are funny, knowledgeable, passionate... and sometimes pretty weird. We got WWE legend The Undertaker to respond to some of our favourites.",
+      "url": "https://www.ign.com/videos/the-undertaker-responds-to-ign-comments",
+      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/9/25/igncomments-undertakeryt-1601069719327.jpg?width=1280",
+      "publishedAt": "2020-09-26T11:37:26.2535883Z",
+      "content": "Did you enjoy this video?"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "US sanctions China’s biggest chipmaker",
+      "description": "Blacklisting of SMIC hurts China’s chip self-sufficiency drive",
+      "url": "https://www.ft.com/content/7325dcea-e327-4054-9b24-7a12a6a2cac6",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9518c5b5-c4e8-42fb-9cc3-aa201e4b987c.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2020-09-26T11:37:25.7068494Z",
+      "content": "The US government has sanctioned China’s biggest chipmaker, dealing further damage to the country’s semiconductor industry after cutting Huawei off from its chip suppliers.\r\nOn Friday, the US Departm… [+1951 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "US oil groups grow less fearful of a Biden presidency",
+      "description": "Industry’s preference in November’s election has become less clear-cut",
+      "url": "https://www.ft.com/content/22aea330-7614-487e-b282-b41438746249",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Facb4e6ba-361e-4080-955e-3abafe7585f1.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2020-09-26T11:37:20.7237139Z",
+      "content": "Joe Biden’s election as president would dash the US oil industry’s hopes for a swift recovery from this year’s crash, with new drilling limits cutting production and leaving the country more reliant … [+5194 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": null,
+      "title": "Ghostrunner - Switch Gameplay (with Developer Commentary)  | TGS 2020 - IGN",
+      "description": "Radosław Ratusznik of Polish game developer One More Level talks us through never-before-seen gameplay footage from the Japanese build of Ghostrunner on Nintendo Switch.",
+      "url": "https://www.ign.com/videos/ghostrunner-switch-gameplay-with-developer-commentary-tgs-2020",
+      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/9/26/ghostrunnerblog-1601114826260.jpg?width=1280",
+      "publishedAt": "2020-09-26T11:37:20.7080939Z",
+      "content": "Did you enjoy this video?"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Daniel Robson",
+      "title": "Ni no Kuni: Cross Worlds - First Gameplay Revealed - IGN",
+      "description": "Tokyo Game Show gave us our first look at Ni no Kuni: Cross Worlds, the upcoming mobile RPG with a Ghibli-like aesthetic.",
+      "url": "https://www.ign.com/articles/ni-no-kuni-cross-worlds-first-gameplay-revealed",
+      "urlToImage": "https://assets1.ignimgs.com/2020/09/26/untitled-4-1601116580315.jpg?width=1280",
+      "publishedAt": "2020-09-26T11:36:39Z",
+      "content": "At a special online presentation during Tokyo Game Show 2020 today, publisher Level-5 and developer Netmarble showed a few minutes of gameplay of their upcoming mobile RPG Ni no Kuni: Cross Worlds. T… [+4339 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Michele Manelis",
+      "title": "James Comey’s shocking story portrayed by Jeff Daniels in The Comey Rule",
+      "description": "James Comey’s shocking story portrayed by Jeff Daniels in The Comey Rule",
+      "url": "https://www.news.com.au/entertainment/tv/james-comeys-shocking-story-portrayed-by-jeff-daniels-in-the-comey-rule/news-story/68be5229ba2909bee3e2f2503f5faf2c",
+      "urlToImage": "https://cdn.newsapi.com.au/image/v1/6056fdd5172b84b379a62469acba5d0c?width=650",
+      "publishedAt": "2020-09-26T11:36:00Z",
+      "content": "When director Billy Ray approached Jeff Daniels with an offer to play the much-maligned former FBI director James Comey in a new documentary-drama, The Newsroom and Dumb and Dumber star worried it wa… [+6386 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": null,
+      "title": "In BJP Reshuffle, Ram Madhav, Others Replaced, Tejasvi Surya Promoted",
+      "description": "The BJP on Saturday announced it would replace senior leaders like Ram Madhav, P Muralidhar Rao, Anil Jain, Saroj Pandey as general secretaries with new faces in a reshuffle of the party's office bearers.",
+      "url": "https://www.ndtv.com/india-news/in-bjp-reshuffle-ram-madhav-others-replaced-tejasvi-surya-promoted-2301438",
+      "urlToImage": "https://c.ndtvimg.com/2018-10/c8ivp8ag_ram-madhav_625x300_28_October_18.jpg",
+      "publishedAt": "2020-09-26T11:33:00+00:00",
+      "content": "Ram Madhav was among those dropped as general secretaries of the BJP.\r\nNew Delhi: The BJP on Saturday announced it would replace senior leaders like Ram Madhav, P Muralidhar Rao, Anil Jain, Saroj Pan… [+1995 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scott K. Johnson",
+      "title": "Seismic sound waves crossing the deep ocean could be a new thermometer",
+      "description": "Sumatran earthquakes can be used to track the warming of the Indian Ocean.",
+      "url": "https://arstechnica.com/science/2020/09/seismic-sound-waves-crossing-the-deep-ocean-could-be-a-new-thermometer/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/seismic_ocean_thermometry-1-760x380.jpg",
+      "publishedAt": "2020-09-26T11:30:29+00:00",
+      "content": "Enlarge/ A seismometer on the atoll of Diego Garcia (left) can calculate ocean temperature with earthquakes near Sumatra (right).\r\n2 with 2 posters participating\r\nGeophysics has shown that precise me… [+5457 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": "Imgur",
+      "title": "Hentai joke (OC)",
+      "description": "651000 views on Imgur: The magic of the Internet",
+      "url": "https://i.imgur.com/qvOG7tO.gifv",
+      "urlToImage": "https://i.imgur.com/qvOG7tO.jpg?fbplay",
+      "publishedAt": "2020-09-26T11:22:49.0999325Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "r/BikiniBottomTwitter - Here comes the money!!",
+      "description": "7,939 votes and 46 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/BikiniBottomTwitter/comments/j01bx8/here_comes_the_money/",
+      "urlToImage": "https://preview.redd.it/karhv4oixfp51.jpg?auto=webp&s=3c49ff30d2d0cdc96f76efb4b6c321d8ed308e5a",
+      "publishedAt": "2020-09-26T11:22:48.9281014Z",
+      "content": "Don't forget to join the official r/BikiniBottomTwitterDiscord Server we have games, activities, and more!\r\npssst!Areyouinterestinginhelpingout?Checkoutthis!\r\nI am a bot, and this action was performe… [+102 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "r/formula1 - Why Ricciardo is my favourite on the grid - FP2",
+      "description": "4,454 votes and 83 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/formula1/comments/j02hgn/why_ricciardo_is_my_favourite_on_the_grid_fp2/",
+      "urlToImage": "https://external-preview.redd.it/LXZ-21nPF4kOpE_oJexfmpjIFkbBswS2rYNCs2kUHk8.png?format=pjpg&auto=webp&s=27c36dda956f695ffa036f88a786c0383245d60c",
+      "publishedAt": "2020-09-26T11:22:43.117046Z",
+      "content": "McLaren is looking pretty solid up until this point. A real bummer for Sainz, but Im sure Danny and Lando are gonna get some good results next season."
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "r/interestingasfuck - A pair of cave lion cubs that died up to 44,000 years ago were found perfectly preserved in the Siberian permafrost.",
+      "description": "46,713 votes and 862 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/interestingasfuck/comments/izzjfo/a_pair_of_cave_lion_cubs_that_died_up_to_44000/",
+      "urlToImage": "https://preview.redd.it/1o2iscpn9fp51.jpg?auto=webp&s=e9ecdc69cf9c96d28e6166826eb1fa8b6545db64",
+      "publishedAt": "2020-09-26T11:22:41.0238175Z",
+      "content": "They are actively excavating woolly mammoths in Siberia, as the fossils fetch a significant amount of money. My guess is these other findings are a result.\r\nThere's a great episode on the show Expedi… [+191 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "r/MadeMeSmile - Be kind. Be compassionate. Be human.",
+      "description": "15,376 votes and 212 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/MadeMeSmile/comments/j011sh/be_kind_be_compassionate_be_human/",
+      "urlToImage": "https://preview.redd.it/4rg3c6vctfp51.jpg?auto=webp&s=47cb5a4451f5324caa94f0c311bae45b442415f9",
+      "publishedAt": "2020-09-26T11:22:38.3838506Z",
+      "content": "During my first year of college, so much happened that was out of my classmates', professor's, and my control. My professor even said it was one of the worst years he's ever seen, even with other cla… [+573 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "r/me_irl - Me irl",
+      "description": "17,478 votes and 177 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/me_irl/comments/j01co9/me_irl/",
+      "urlToImage": "https://preview.redd.it/l92beqrsxfp51.jpg?auto=webp&s=1adce67e451901673a5c03a5c6f0427309c5e969",
+      "publishedAt": "2020-09-26T11:22:35.9739141Z",
+      "content": "I used to work for a small company whose employees were all introverts, including me. I didn't know whether my boss did it on purpose or not, though. So, every Monday we would have a team meeting hos… [+279 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "r/pics - Love how this photo of our dog, Scully turned out!",
+      "description": "7,642 votes and 96 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/pics/comments/j02988/love_how_this_photo_of_our_dog_scully_turned_out/",
+      "urlToImage": "https://preview.redd.it/ucddnqk4bgp51.jpg?auto=webp&s=0133b05b622dc805bd2f085ddebc3eb986703713",
+      "publishedAt": "2020-09-26T11:22:34.4118021Z",
+      "content": "Beautiful, but would be even better if you got another one named Hitchcock"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "Create your Azure free account today | Microsoft Azure",
+      "description": "Get started with 12 months of free services and USD 200 in credit. Create your free account today with Microsoft Azure.",
+      "url": "https://alb.reddit.com/cr?z=gAAAAABfbyRiUPt-R9-wdoqMd3zsk37QdFwqNaKXpp9s-wTQT1dLKhEJe4_3kp3oTkGnB2d5ANW2nXKyb4NOrgykS3XI5LfpWlfzcjOrt8BvVQQ6PzzZ70A6RiRrSW35l2EWZcc7LRQ5irefb8z_7QT6iYYmDOLQNbtaMlvxL-xv6A2-URgjXalJS_kCAS-z426Ev9gLYwMzg0qEMMgPbaVIrc0Esir2uuRAsSjmYCTvtOrAzqyadgakoKhmYTlq6IQdMhFNX7f14yw69FlG117LFB-1JiCvMbE711wBjEfkJMkc38nCGjUcRvhHAfnzZMbtbPH2AlK1p8IekW6Ke65FuvXDUhXlBV_v5jmHJE-2NwbH49Oj6peSYE0rZ9kPZ4iiSHkAKyiUzDeOBQP-FGFobooATe_p-xMQ3_GJlUnz_jfiHy_FhI8xJOYT20msKUGx1qqJ5gA8VX-zpUSRYKvYhNPNeu0IUj2v9yp2nlAx69WM0WrB0IgOyHUHhupDw3xls3TcZB4PkLHjhkmmN8iMo03wHM1z6roLbU7HSkwoEvqIlwPhkiOYQ4Fd8kfKEdldatBmRjzsNClw9kKx1IEdZMfSm4KvrXdCHtjU5YBMvqGTgUTrSZqKfk4BBtbfctshY6rMTy9yq3QYk6Njmz8x-_2_a6UJ5Oe1lCIupqllPCPBn-3F5cvXZsH0VXl-5JkqVXO1oNa2Lw3LXaD1H6MaxOcgoP7L20Oenj-Lav2KARbb-8jzB1vw1GmokZvaCtPARvSPGsACkIicejMjwun-o_9R53UjD-ZnBtkQPB47svYW3ZQfomMsRZ46q5n94UzeVMLyp2x3uxcj21A2l0jd_brHa3Xa2-LUAUq64tLEYTKC6X29zLtuLHEIVVhx1GBYNsHkjU-3cyVbwRcwyL462Zgtba58eW4XQtWE30kud_iIoGLwxPAmFU9zRNT-HpRHCuJspPbz348SzCDpJR7F_hFnqewFm_nXyX_TgbxRuri__4_VRf7XNoswt_e_0ZA49Dw1tEUdDFlB2aYPCR4uafhbYxh-NF9NY9mgvco4LwPadv5lzwrEP6l6-Vpqn-kPArK5D_SZ7m44SM8ejy5Tg3fKcJFZcO7KVan1NGrtQj6Sfu4cNRTgcMG2csEZHa5bNYTDZ87h7_8MOY9SG9y2qcFhjAJi_WoZmM_w_JaU31uZC-KSy6dK7XhTHmRgaPGkXoL3DA51iz3yhiizkoL3vVYGUFsSEnQF6tvc_YkmGvorbtxeXuNBfQYME5Q8D8KvnqgnRYXtt0zBLO0vX6Gdc1O1mGnmGeTU1nm8Z2NrrvlXdEORYki5zpZbIgwfqfMYXilncLQd8TrXg_Jc0WKDMDJ2etiYx9kL1fctqGvj_hHhf21JggITf4E7acHgt7zGAo7J5kPdYRUrsFTWE2FVrZK_g_mifMlHe5Wbg4fhVCbksZyyuSMmBm81O_zqC8X1TQUolKz-QiFdylAQtSS6j32i5XJT9eUwuq0Kk2mfh6P2iWL4iGdZYBXDyRRf3gIPKlosmRfCBHMYJq7st16WIeIPchN49XZK3-8CWTtRjHnz1D537zks-tSbr3VdG8EDo_060SaM7esAj_1ZGIYBnibgldES44swc11hpi2tMpOI7dOW4n1j0EQXm_Tnx-kN9w8j8r8cGaqh-5vHc8h4i9W9j77dX5ZXk--ci5QdjD-4O0Fhr6HIPxqFN2ubbOEJXStbJ8tsKOkQ8VyazXNdjHEnSnC17NXxKXJnyrCdWapTkDiELRL7QK6-EpGUj1OZHixrGkte6XDiuxsClEJIUwRbtGJnIg7SSaieGqKhd6Uh6tQZusjL6hiliejOBEBrTHgofX1CuYCKFjJS5Yz4bddj4NwybubK6w0DfSFHspp69ApCfaVrJn-9iHnz47nTMWfROKo9fi1wAVmEU9pmUCLTG_Qw8vHJ-nDoU1Oo6pxfD0lFOAcpq5SVMas21FUaADkY3UePJ0nUEE3FcuTEZ8I08kpPHOt29hZM44cnoaNSOPS00uETiSg3T76kbbPtYcYPdqRmSAry50ncFiVaLdHdvnTIEcL_1ZUyJ150u56-uc9eUeyhN7ES13pcC7-1OHzH3d7jrHb0VFCKeKoHfcjdyP0WMg==",
+      "urlToImage": "https://azurecomcdn.azureedge.net/cvt-d65e26561dbf1e7cbee212fd69c76eac9eba8f89e3da7e4fa24073f5bcf359fe/images/shared/social/azure-icon-250x250.png",
+      "publishedAt": "2020-09-26T11:22:31.8655613Z",
+      "content": "What happens once Ive used my $200 free credit or Im at the end of 30 days?\r\nWell notify you so you can decide whether you want to upgrade to pay-as-you-go pricing and remove the spending limit. If y… [+186 chars]"
+    },
+    {
+      "source": {
+        "id": "reddit-r-all",
+        "name": "Reddit /r/all"
+      },
+      "author": null,
+      "title": "r/memes - Among us meme lol",
+      "description": "40,715 votes and 178 comments so far on Reddit",
+      "url": "https://www.reddit.com/r/memes/comments/j01wrv/among_us_meme_lol/",
+      "urlToImage": "https://preview.redd.it/olr7eaex5gp51.jpg?auto=webp&s=06a1e8064e9352e5c4d1d7f9f82b6631c92bcd58",
+      "publishedAt": "2020-09-26T11:22:30.6783565Z",
+      "content": "Sorry for misunderstanding I did not realized that you are the author and credited me hehe... I first taught that you mentioned me because someone reposted this without crediting me... Sorry a lot bro"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Murray on golfing, family & tennis",
+      "description": "As he prepares for the French Open, Jamie Murray tells Tom English about golf, tennis posers and the importance of family.",
+      "url": "http://www.bbc.co.uk/sport/tennis/54289833",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/231F/production/_114619980_shutterstock_editorial_8475843ao.jpg",
+      "publishedAt": "2020-09-26T11:22:25.898296Z",
+      "content": "Jamie Murray holds fond early memories of playing golf with father Willie\r\n<table><tr><th>French Open 2020</th></tr>\r\n<tr><td>Dates: 27 September - 11 October Venue: Roland Garros, Paris</td></tr><tr… [+7297 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Oakland police assaulted during rioting; unrest prompts BART station closure",
+      "description": "Police in Oakland, Calif. arrested several protesters for assaulting officers Friday night as demonstrations calling for justice for Breonna Taylor turned violent.",
+      "url": "https://www.foxnews.com/us/oakland-police-assaulted-during-rioting-unrest-prompts-bart-station-closure",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/oakland.jpg",
+      "publishedAt": "2020-09-26T11:22:23.1489794Z",
+      "content": "Police in Oakland, Calif. arrested several protesters for assaulting officers Friday night as demonstrations calling for justice for Breonna Taylor turned violent.\r\nThe Oakland Police Department said… [+911 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Trump set to announce Barrett as Supreme Court pick, as Dems vow to fight",
+      "description": "Trump will announce his nominee to fill the seat of late Justice Ruth Bader Ginsburg at 5 p.m. ET on Saturday.",
+      "url": "https://www.foxnews.com/politics/trump-set-to-announce-supreme-court-pick-dems-vow-fight",
+      "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg",
+      "publishedAt": "2020-09-26T11:22:21.0245083Z",
+      "content": "The new Supreme Court battle officially starts today.\r\nPresident Trump is expected to announce his pick to fill the Supreme Court seat vacated by the death of Justice Ruth Bader Ginsburg this afterno… [+9296 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Analysis by Maeve Reston, CNN",
+      "title": "Analysis: Trump set to name Supreme Court pick as he sows fears of election chaos",
+      "description": "As President Donald Trump continues to sow uncertainty about the November election, he will announce his third Supreme Court nominee Saturday, the capstone of his promise to name a long line of conservative judges who will reshape the courts for generations.",
+      "url": "http://us.cnn.com/2020/09/26/politics/donald-trump-supreme-court-nomination-2020-election/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200925151553-01-trump-0925-super-tease.jpg",
+      "publishedAt": "2020-09-26T11:21:49Z",
+      "content": "(CNN)As President Donald Trump continues to sow doubt and uncertainty about the election, he's set to announce his third Supreme Court nominee in the Rose Garden Saturday, the capstone of the promise… [+8204 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Anton Stanley",
+      "title": "Ryan Fraser let down Bournemouth and his ex-teammates to take an ‘easy’ way out and join Newcastle, talkSPORT",
+      "description": "",
+      "url": "https://talksport.com/football/765206/ryan-fraser-bournemouth-newcastle/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/09/GETTY_Newcastle-United-Unveil-New-Signing-Ryan-Fraser_SPO_GYI1271161183jpg-JS606772407-1-e1600084488468.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-09-26T11:19:09Z",
+      "content": "Ryan Fraser should have stayed at Bournemouth and become a hero instead of worrying about possible injury and his next transfer, talkSPORT have been told.\r\nThe Scottish star, now a Newcastle United p… [+2437 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Sean O'Brien",
+      "title": "Rio Ferdinand urges Man United to sign Dayot Upamecano as ‘Jadon Sancho won’t solve their problems’ – but joke",
+      "description": "",
+      "url": "https://talksport.com/football/765225/rio-ferdinand-man-united-dayot-upamecano-jadon-sancho/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/09/TALKSPORT-RIO.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-09-26T11:17:02Z",
+      "content": "Rio Ferdinand insists Manchester United must prioritise signing a new centre-back before the transfer window shuts – and identifies Dayot Upamecano as the ideal target.\r\nThe Red Devils have only made… [+1905 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "HOPE YEN, JOSH BOAK and MARK SHERMAN",
+      "title": "AP FACT CHECK: Trump's wrongs on court, virus; Biden errs",
+      "description": "WASHINGTON (AP) — In a momentous week, President Donald Trump painted a fantastical portrait of a coronavirus that affects “virtually nobody” among the young as he faced a grim U.S. milestone of...",
+      "url": "https://apnews.com/4da026ccd88a499e6e584a875c0215b2",
+      "urlToImage": "",
+      "publishedAt": "2020-09-26T11:13:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Clare Foran, CNN",
+      "title": "Republicans signal plans for a quick Supreme Court confirmation process. Here's when it could happen.",
+      "description": "President Donald Trump on Saturday will announce a Supreme Court nominee to fill the vacancy left by the death of Justice Ruth Bader Ginsburg, formally kicking off a contentious and high-stakes battle over the fate of the court that will play out in a bitterl…",
+      "url": "https://www.cnn.com/2020/09/26/politics/supreme-court-confirmation-timeline/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170926162023-mcconnell-graham-cassidy-super-tease.jpg",
+      "publishedAt": "2020-09-26T11:10:00+00:00",
+      "content": "Washington (CNN)President Donald Trump on Saturday will announce a Supreme Court nominee to fill the vacancy left by the death of Justice Ruth Bader Ginsburg, formally kicking off a contentious and h… [+6911 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "UFC 253: Is Adesanya poised to become UFC’s next superstar?",
+      "description": "\"This fight will shoot me into the next stratosphere\" - Could Israel Adesanya's UFC 253 bout against Paulo Costa create MMA's next superstar?",
+      "url": "http://www.bbc.co.uk/sport/mixed-martial-arts/54298575",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/60A4/production/_114604742_gettyimages-1276484346-1.jpg",
+      "publishedAt": "2020-09-26T11:07:31.9218482Z",
+      "content": "Adesanya (left) goes into his fight against Paulo Costa with a record of 19 wins and zero losses\r\nIn a story that reads like it was plucked from one of his beloved comic books, undefeated UFC middlew… [+4513 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "'The Olympics and my wedding were postponed on the same day",
+      "description": "British climber Shauna Coxsey hopes her sport will still make its much-anticipated Olympic debut next year, but only if it is \"truly safe\" to hold it.",
+      "url": "http://www.bbc.co.uk/sport/olympics/54302996",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/15A0E/production/_114609588_mediaitem114609587.jpg",
+      "publishedAt": "2020-09-26T11:07:26.2670044Z",
+      "content": "Coxsey had wrist and knee surgery during lockdown\r\nBritish climber Shauna Coxsey hopes her sport will still make its much-anticipated Olympic debut next year, but says the Games should only take plac… [+3487 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Now is a time of bubble companies, not of market bubbles",
+      "description": "Since time immemorial cash shell listing booms have heralded fraud and collapse, but not today",
+      "url": "https://www.ft.com/content/19f6ba3b-2995-4ddb-9d07-6a29d84a485c",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8278960-355f-4ea9-bb02-1916ee90bc78.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2020-09-26T11:07:20.9089626Z",
+      "content": "The writer is editor-in-chief of MoneyWeek\r\nAnyone with an entrepreneurial bone in his body in 1720 Britain had his own cash shell company. Charles Mackay, in his classic history Extraordinary Popula… [+5069 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "[{\"@type\":\"Person\",\"name\":\"Jennifer Tonti\",\"url\":\"https://www.buzzfeed.com/jennifertonti\",\"jobTitle\":\"BuzzFeed Staff\"}]",
+      "title": "22 Things From Nordstrom That People Actually Swear By",
+      "description": "Trendy face masks, lounge favorites, goodies for your house, and more.",
+      "url": "https://www.buzzfeed.com/jennifertonti/things-from-nordstrom-that-people-actually-swear-by-9-20-1",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/23/17/enhanced/348ba8bac7a5/original-22551-1600883360-5.jpg?crop=1024:538;0,0%26downsize=1250:*",
+      "publishedAt": "2020-09-26T11:07:20.1435287Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Brexit lessons as Swiss vote on future Brussels relations",
+      "description": "‘Yes’ win in referendum on ending free movement would scupper EU ‘framework agreement’",
+      "url": "https://www.ft.com/content/eb22b826-1e37-4b98-96bf-561994eb1ee8",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1b6340bb-dd8f-4323-b109-831b68d78a62.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2020-09-26T11:07:19.0031869Z",
+      "content": "Years of higher than expected immigration, a strained relationship with Brussels and an impending referendum to take back control of borders.\r\nOn Sunday, the Swiss will go to the polls to vote on an … [+5773 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Lebanon's PM-designate Adib fails to form new government after blast",
+      "description": "The previous cabinet resigned in August amid angry calls for reform after the Beirut port explosion.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-54307896",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17AEA/production/_114620079_mediaitem114620078.jpg",
+      "publishedAt": "2020-09-26T11:07:17.4879399Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Donald Trump set to nominate Amy Coney Barrett to US Supreme Court",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/19d08c2e-7130-4147-a8b9-a6763bb92777",
+      "urlToImage": null,
+      "publishedAt": "2020-09-26T11:07:17.2692436Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dan Strumpf",
+      "title": "U.S. Sets Export Controls on China’s Top Chip Maker",
+      "description": "Commerce Department letter says exports to SMIC risk being used for Chinese military activities",
+      "url": "https://www.wsj.com/articles/u-s-sets-export-controls-on-chinas-top-chip-maker-11601118353?mod=hp_lead_pos6",
+      "urlToImage": "https://images.wsj.net/im-237128/social",
+      "publishedAt": "2020-09-26T11:05:00Z",
+      "content": "The Commerce Department has told U.S. computer-chip companies that they must obtain licenses before exporting certain technology to Chinas largest manufacturer of semiconductors, a blow to Chinas eff… [+4017 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "José Torre",
+      "title": "How to solve any design problem by understanding its roots",
+      "description": "In this article, you’ll learn (or remember) what is the one thing you need to start solving any problem. I wrote this originally for a talk I gave a while ago, and I also ...",
+      "url": "https://thenextweb.com/syndication/2020/09/26/how-to-solve-any-design-problem-by-understanding-its-roots/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F09%2F1-30.jpg&signature=af4f33ff3166a922d8a79f53e05ff627",
+      "publishedAt": "2020-09-26T11:00:17Z",
+      "content": "In this article, youll learn (or remember) what is the one thing you need to start solving any problem. I wrote this originally for a talk I gave a while ago, and I also posted a video on my youtube … [+4944 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Meet the groups bailing protesters nationwide from jail. They're demanding bail reform.",
+      "description": "Bail funds in Louisville and across the country won a massive financial infusion this summer as protests began in late May.",
+      "url": "https://www.usatoday.com/story/news/nation/2020/09/26/louisville-groups-bailing-out-hundreds-breonna-taylor-protesters-want-reform/3535459001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/09/17/PLOU/4c91507b-4b94-4605-af4b-c6dabf35c6c9-0F9A8790.JPG?crop=5759,3240,x0,y292&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2020-09-26T11:00:14+00:00",
+      "content": "Shelton McElroy of the Louisville Community Bail Fund posts bail for clients.\r\n (Photo: Chris Kenning)\r\nLOUISVILLE, Ky. It was after midnight when Louisville police hauled the last of 127 people into… [+14324 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "Women-owned businesses present lower risk factor, data shows",
+      "description": "Data indicates that women-owned businesses present a lower statistical risk for business financiers, says the area manager at SME finance company Business Partners.",
+      "url": "https://www.news24.com/fin24/Economy/women-owned-businesses-present-lower-risk-factor-data-shows-20200922",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10476/0981c524be7d4b2a89f7c6873b609b85.jpg",
+      "publishedAt": "2020-09-26T11:00:02+00:00",
+      "content": "<ul><li>Data indicates that women-owned businesses present a lower statistical risk for business financiers, according to the area manager at an SME finance company.</li><li>The growth of entrepreneu… [+2933 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "Close contacts not restricting movements, warns GP",
+      "description": "A Donegal GP has said that close contacts who receive a negative Covid-19 test are not getting the message that they need to restrict their movements for 14 days.",
+      "url": "https://www.rte.ie/news/2020/0926/1167633-donegal-gp-close-contacts/",
+      "urlToImage": "https://img.rasset.ie/00155d8d-1600.jpg",
+      "publishedAt": "2020-09-26T10:59:46Z",
+      "content": "A Donegal GP has said that close contacts who receive a negative Covid-19 test are not getting the message that they need to restrict their movements for 14 days.\r\nSpeaking on RTÉ's Brendan O'Connor,… [+2695 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "KZN 'robber' killed during shootout with cops",
+      "description": "Officers from the Ladysmith Dog Unit were alerted to a robbery at a business, where three armed men demanded cash. A shootout ensued, in which two people were shot. One later died in hospital.",
+      "url": "https://www.news24.com/news24/southafrica/news/kzn-robber-killed-during-shootout-with-cops-20200926",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8380/3c19f79b86bd4aa996b2671adcb98539.jpg",
+      "publishedAt": "2020-09-26T10:59:17+00:00",
+      "content": "A man was killed during a shootout with police in Ladysmith, KwaZulu-Natal, on Heritage Day.\r\nPolice officers from the Ladysmith Dog Unit were alerted to a robbery in Illing Street, where it is alleg… [+920 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Nic Savage",
+      "title": "Benji Marshall suffers suspected MCL injury and broken ribs in farewell match",
+      "description": "Benji Marshall suffers suspected MCL injury and broken ribs in farewell match",
+      "url": "https://www.news.com.au/sport/nrl/benji-marshall-suffers-suspected-mcl-injury-in-farewell-match/news-story/1ff0dfbabab680bb6714df7cb24172f3",
+      "urlToImage": "https://cdn.newsapi.com.au/image/v1/684a3ce5f89519727bc15333efa4a9cb?width=650",
+      "publishedAt": "2020-09-26T10:56:00Z",
+      "content": "Benji Marshalls time with the Wests Tigers has come to a horror end, with the NRL icon taken off the field with a suspected MCL injury in the first half.Earlier this month, the Tigers dropped a bombs… [+2969 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "The First Appearance of a Real Computer in a Comic Book",
+      "description": null,
+      "url": "http://fivedots.coe.psu.ac.th/~ad/computerComics/index.html",
+      "urlToImage": null,
+      "publishedAt": "2020-09-26T10:52:05.0433818Z",
+      "content": "One of the pleasures of working on a humorous history of \r\ncomputing (which is growing into the \r\n\"A Year of 379 Computing \r\nDays\" website, is \r\nto come across intriguing \"out of left field\" question… [+16552 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "PTI",
+      "title": "Nadda announces new team of BJP’s national office-bearers",
+      "description": "BJP president J.P. Nadda on Saturday announced a new team of party’s national office-bearers which has an element of continuity as well as change.The list of eight general secretaries, crucial organis",
+      "url": "https://www.thehindu.com/news/national/nadda-announces-new-team-of-bjps-national-office-bearers/article32702282.ece",
+      "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+      "publishedAt": "2020-09-26T10:47:21Z",
+      "content": "BJP president J.P. Nadda on Saturday announced a new team of partys national office-bearers which has an element of continuity as well as change.\r\nThe list of eight general secretaries, crucial organ… [+683 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "Rakesh Trivedi",
+      "title": "Exclusive: Shraddha Kapoor admits to partying with Sushant Singh Rajput at farmhouse, WhatsApp drug chat accessed",
+      "description": "The Narcotics Control Bureau (NCB) investigation in the drug angle of Bollywood actor Sushant Singh Rajput s death case has landed several A-listers such as Deepika Padukone, Sara Ali Khan and Shraddha Kapoor in trouble.  While Deepika is being interrogated t…",
+      "url": "https://zeenews.india.com/people/exclusive-shraddha-kapoor-admits-to-partying-with-sushant-singh-rajput-at-farmhouse-whatsapp-drug-chat-accessed-2312565.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2020/09/26/888599-ssr-shraddha.jpg",
+      "publishedAt": "2020-09-26T10:43:06+00:00",
+      "content": "New Delhi: The Narcotics Control Bureau (NCB) investigation in the drug angle of Bollywood actor Sushant Singh Rajput's death case has landed several A-listers such as Deepika Padukone, Sara Ali Khan… [+1811 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": null,
+      "title": "Earth Defense Force: World Brothers - 12 Minutes of Gameplay (Japanese VO) | TGS 2020 - IGN",
+      "description": "Check out 12 minutes of gameplay for Earth Defense Force: World Brothers, a 3D voxel-based take on the fantastic EDF formula!",
+      "url": "https://www.ign.com/videos/earth-defense-force-world-brothers-12-minutes-of-gameplay-japanese-vo-tgs-2020",
+      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/9/26/edf-thumb-1601114768985.jpg?width=1280",
+      "publishedAt": "2020-09-26T10:37:26.6305711Z",
+      "content": "Did you enjoy this video?"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Ukraine plane crash death toll rises to 26, with 1 survivor",
+      "description": "MOSCOW (AP) — Searchers combing the area where a Ukrainian military aircraft crashed found two more bodies on Saturday, bringing the death toll to 26. One person survived.The plane, a...",
+      "url": "https://apnews.com/3159e881560f097674f52d9d5ae56bff",
+      "urlToImage": "",
+      "publishedAt": "2020-09-26T10:32:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "Special Correspondent",
+      "title": "Renowned economist Isher Judge Ahluwalia dies aged 74",
+      "description": "The former chairperson of the Indian Council for Research on International Economic Relations, which she is credited with transforming into a research institution to reckon with, had been battling cancer over the past ten months",
+      "url": "https://www.thehindu.com/news/national/renowned-economist-isher-judge-ahluwalia-dies-aged-74/article32702143.ece",
+      "urlToImage": "https://www.thehindu.com/news/national/etb38t/article32702142.ece/ALTERNATES/LANDSCAPE_615/ISHERAHLUWALIAKB",
+      "publishedAt": "2020-09-26T10:31:02Z",
+      "content": "Dr. Isher Judge Ahluwalia, a renowned economist and Padma Bhushan awardee, who had also worked extensively on issues related to urbanisation and education, passed away on Saturday in the national cap… [+1904 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Sean O'Brien",
+      "title": "Ole Gunnar Solskjaer makes Donny van de Beek and David de Gea decisions as Manchester United opt against",
+      "description": "",
+      "url": "https://talksport.com/football/765210/ole-gunnar-solskjaer-donny-van-de-beek-premier-league-manchester-united-brighton-team-news/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/09/NINTCHDBPICT000609397734-e1601115013390.jpg?strip=all&quality=100&w=568&h=411&crop=1",
+      "publishedAt": "2020-09-26T10:30:04Z",
+      "content": "Can Donny van de Beek, Paul Pogba and Bruno Fernandes play in the same team? Ole Gunnar Solskjaer doesn’t think so just yet.\r\nThe Manchester United boss has opted against all-out attack for the trip … [+2006 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "PTI",
+      "title": "New labour codes have ‘weakened’ trade unions, removed ‘security net’ for workers: Congress",
+      "description": "Describing the three labour codes passed by Parliament as “anti-labour”, the Congress on Saturday attacked the government, alleging the legislations have “weakened” trade unions and removed the “secur",
+      "url": "https://www.thehindu.com/news/national/new-labour-codes-have-weakened-trade-unions-removed-security-net-for-workers-congress/article32702100.ece",
+      "urlToImage": "https://www.thehindu.com/todays-paper/tp-national/f9zyws/article31762728.ece/ALTERNATES/LANDSCAPE_615/05bgbgnagkharGC97FR0BC3jpgjpg",
+      "publishedAt": "2020-09-26T10:23:20Z",
+      "content": "Describing the three labour codes passed by Parliament as anti-labour, the Congress on Saturday attacked the government, alleging the legislations have weakened trade unions and removed the security … [+3991 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Premier League: Build-up to Brighton v Man Utd, with Everton & Chelsea to follow",
+      "description": "Follow live text updates and BBC Radio 5 Live commentary from the Premier League with Manchester United, Tottenham and Chelsea all in action.",
+      "url": "http://www.bbc.co.uk/sport/live/football/53936414",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.20.1/images/bbc-sport-logo.png",
+      "publishedAt": "2020-09-26T10:22:33.523005Z",
+      "content": "First things first, still time for you to sort your fantasy teams out.\r\nHands up if you picked Son Heung-min and Harry Kane in your fantasy football team for last weekend's Premier League fixtures.\r\n… [+224 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "Jail threat for guest after negative Thai resort review",
+      "description": "An American man has been sued by an island resort in Thailand over a negative Tripadvisor review, authorities have revealed.",
+      "url": "https://www.rte.ie/news/2020/0926/1167630-thailand-tripadvisor-review/",
+      "urlToImage": "https://img.rasset.ie/00155dfc-1600.jpg",
+      "publishedAt": "2020-09-26T10:21:25Z",
+      "content": "An American man has been sued by an island resort in Thailand over a negative Tripadvisor review, authorities have revealed.\r\nHe could face up to two years in prison if found guilty.\r\nDomestic touris… [+1584 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Diamond Feit",
+      "title": "Earth Defense Force 6 and World Brothers: New Footage Shown at Tokyo Game Show - IGN",
+      "description": "We got a look at two upcoming Earth Defense Force games at Tokyo Game Show 2020.",
+      "url": "https://www.ign.com/articles/earth-defense-force-6-and-world-brothers-new-footage-shown-at-tokyo-game-show",
+      "urlToImage": "https://assets1.ignimgs.com/2020/07/08/vlcsnap-2020-07-08-10h52m20s182-1594201961003.png?width=1280",
+      "publishedAt": "2020-09-26T10:17:28Z",
+      "content": "During a special livestream event at Tokyo Game Show 2020, D3 Publisher producer Nobuyuki Okajima outlined what to expect from the upcoming Earth Defense Force spin-off title, World Brothers, and we … [+5466 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "Anulekha Ray",
+      "title": "Made-in-India affordable COVID-19 test kit will show result in 1.5 hours",
+      "description": "Dubbed as GlobalTM diagnostic kit, it has been developed by Equine Biotech.The test takes about one and half hours to confirm the presence of SARS-CoV-2 in patient samples, said founder of Equine Biotech",
+      "url": "https://www.livemint.com/science/health/made-in-india-covid-19-test-kit-will-show-result-in-1-5-hours-11601112922010.html",
+      "urlToImage": "https://images.livemint.com/img/2020/09/26/600x338/AFP_1W30K4_1596277580892_1601114789783.jpg",
+      "publishedAt": "2020-09-26T10:08:31+00:00",
+      "content": "Indian Council of Medical Research approved another made-in-India coronavirus RT-PCR diagnostic kit for use. Dubbed as GlobalTM diagnostic kit, it has been developed by Equine Biotech, a startup comp… [+2643 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "[{\"@type\":\"Person\",\"name\":\"Genevieve Scarano\",\"url\":\"https://www.buzzfeed.com/genevievescarano\",\"jobTitle\":\"BuzzFeed Staff\"}]",
+      "title": "20 Little Gifts That'll Help Make Long-Distance Relationships Better",
+      "description": "Kissing keychains, cheeky cards, and more things that'll warm the heart even if you're miles apart.",
+      "url": "https://www.buzzfeed.com/genevievescarano/little-gifts-long-distance-relationships",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/16/23/enhanced/49f653424ccb/original-11558-1600297866-51.jpg?crop=1243:650;0,89%26downsize=1250:*",
+      "publishedAt": "2020-09-26T10:07:30.7062189Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Tasmania pilot whales: Rescuers release 108 surviving animals",
+      "description": "Efforts now turn to the disposal of 400 whale carcasses after Australia's worst ever stranding.",
+      "url": "http://www.bbc.co.uk/news/world-australia-54307815",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD34/production/_114582665_hi063467386.jpg",
+      "publishedAt": "2020-09-26T10:07:28.4411574Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "[{\"@type\":\"Person\",\"name\":\"Hanifah Rahman\",\"url\":\"https://www.buzzfeed.com/hanifahrahman\",\"jobTitle\":\"BuzzFeed Staff\"},{\"@type\":\"Person\",\"name\":\"Ben Armson\",\"url\":\"https://www.buzzfeed.com/benarmson90\",\"jobTitle\":\"BuzzFeed Staff\"}]",
+      "title": "26 British Tweets That Made Us Laugh Out Loud This Week",
+      "description": "\"Pretty sure we could test the entire UK in 24hrs if we let Aldi checkout assistants run the testing centres.\"",
+      "url": "https://www.buzzfeed.com/hanifahrahman/brit-tweets-sept-4",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-09/25/16/enhanced/0d00c66f0935/original-25849-1601052058-29.jpg?crop=1250:654;0,0%26downsize=1250:*",
+      "publishedAt": "2020-09-26T10:07:21.0367507Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news-au",
+        "name": "Google News (Australia)"
+      },
+      "author": "Henrietta Cook, Sumeyya Ilanbey",
+      "title": "'I don't run from problems and challenges': Premier stares down calls for him to quit",
+      "description": "When asked whether he would yield to the opposition’s calls for him to resign, a steadfast Daniel Andrews said he had no intention of walking away from the top job.",
+      "url": "https://www.theage.com.au/politics/victoria/i-don-t-run-from-problems-and-challenges-premier-stares-down-calls-for-him-to-quit-20200926-p55zk1.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/34006b87547eea9a11889d063e51038ed9534750",
+      "publishedAt": "2020-09-26T10:03:00+00:00",
+      "content": "\"I've got a very important job to do, which is to continue to get these case numbers down and then to begin the biggest recovery project that our state has ever seen.\"\r\nThe Andrews government has now… [+5489 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "HT Correspondent I Edited by Zara Khan",
+      "title": "On former PM Manmohan Singh’s birthday, Chidambaram seeks Bharat Ratna for him",
+      "description": "Singh is credited with playing a key role in ushering in economic reforms as the finance minister in the PV Narasimha Rao government during 1991-96",
+      "url": "https://www.hindustantimes.com/india-news/on-former-pm-manmohan-singh-s-birthday-chidambaram-seeks-bharat-ratna-for-him/story-Ac9li3dKT9Vg0xIKNuO67M.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/26/Pictures/manish-tewari-s-book-launch_80493abe-ffdd-11ea-ac80-07fcacbe9f14.jpg",
+      "publishedAt": "2020-09-26T10:01:00+00:00",
+      "content": "Senior Congress leader P Chidambaram made a strong pitch for the Bharat Ratna, the country’s highest civilian award, for former Prime Minister Manmohan Singh who turned 88 on Saturday. \r\n“Today is Dr… [+2856 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Niall Stanage",
+      "title": "The Memo: Trump furor stokes fears of unrest | TheHill",
+      "description": "Fears are rising across the political spectrum that the nation is...",
+      "url": "http://thehill.com/homenews/the-memo/518363-the-memo-trump-furor-stokes-fears-of-unrest",
+      "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_092420getty_memo.jpg",
+      "publishedAt": "2020-09-26T10:00:43Z",
+      "content": "Fears are rising across the political spectrum that the nation is close to coming off the rails, amid uproar over recent comments by President TrumpDonald John TrumpFederal prosecutor speaks out, say… [+8314 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Kalhan Rosenblatt",
+      "title": "A summer of digital protest: How 2020 became the summer of activism both online and offline",
+      "description": "The summer of 2020 was marked with frustration amid the coronavirus, protests for Black lives and myriad digital movements ahead of a fast-approaching election.",
+      "url": "https://www.nbcnews.com/news/us-news/summer-digital-protest-how-2020-became-summer-activism-both-online-n1241001",
+      "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2020_38/3413472/200920-jacob-blake-sr-dc-jm-0927_ea2770f2a7521a22b28a646cb1f96d1e.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2020-09-26T10:00:07Z",
+      "content": "A pandemic, the death of George Floyd and an upcoming presidential election were just a few of the things that have called Americans to action this year.\r\nBut while some called 2020 the apocalypse, o… [+10890 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Mike Lillis and Scott Wong",
+      "title": "Centrist Democrats got their COVID bill, now they want a vote | TheHill",
+      "description": "Speaker Nancy Pelosi (D-Calif.) took a remarkable step this week ...",
+      "url": "http://thehill.com/homenews/house/518279-centrist-democrats-got-their-covid-bill-now-they-want-a-vote",
+      "urlToImage": "https://thehill.com/sites/default/files/rosemax_091520gn_lead.jpg",
+      "publishedAt": "2020-09-26T10:00:07Z",
+      "content": "Speaker Nancy PelosiNancy PelosiDemocratic senator to party: 'A little message discipline wouldn't kill us'Overnight Health Care: New wave of COVID-19 cases builds in US | Florida to lift all coronav… [+10169 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Esra Krabbe",
+      "title": "How Scarlet Nexus Uses RPG Elements Alongside Action - IGN",
+      "description": "We spoke to Scarlet Nexus' developers to see how the flashy 'brain-punk' action game is built with RPG fundamentals.",
+      "url": "https://www.ign.com/articles/how-scarlet-nexus-uses-rpg-elements-alongside-action",
+      "urlToImage": "https://assets1.ignimgs.com/2020/08/28/scarlet-nexus-blogroll-1598589337568.jpg?width=1280",
+      "publishedAt": "2020-09-26T10:00:03Z",
+      "content": "In Scarlet Nexus Bandai Namcos anticipated title that is being developed for current-gen and next-gen consoles as well as PC players will slay over-the-top monsters by combining sword attacks with ex… [+2294 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": null,
+      "title": "Shocking: Groom throttled to death by in-laws in Hyderabad | City - Times of India Videos",
+      "description": "In a shocking case of honour-killing, a 26-year-old man was throttled to death by in-laws in Hyderabad. The victim Hemant was in a relationship with Avanthi since last four years and they got married on 11 June 2020. The girl's parents were against relationsh…",
+      "url": "https://timesofindia.indiatimes.com/videos/city/hyderabad/shocking-groom-throttled-to-death-by-in-laws-in-hyderabad/videoshow/78332902.cms",
+      "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-78332902,imgsize-168951.cms",
+      "publishedAt": "2020-09-26T09:59:37+00:00",
+      "content": "Sep 26, 2020, 03:29PM ISTSource: Times NowIn a shocking case of honour-killing, a 26-year-old man was throttled to death by in-laws in Hyderabad. The victim Hemant was in a relationship with Avanthi … [+611 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Quarter of UK population under strict Covid rules",
+      "description": "More parts of south Wales and northern England see local lockdown restrictions start this weekend.",
+      "url": "http://www.bbc.co.uk/news/uk-54304659",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF7B/production/_114611275_gettyimages-1276505371.jpg",
+      "publishedAt": "2020-09-26T09:57:22Z",
+      "content": "Image copyrightGetty ImagesImage caption\r\n A man and woman wear masks in Cardiff, which will see stricter rules from Sunday\r\nMore than a quarter of the UK population is set to be under coronavirus lo… [+5819 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "Komphela expresses sympathy for Middendorp: Our job is a thankless job",
+      "description": null,
+      "url": "https://www.news24.com/sport/Soccer/PSL/komphela-expresses-sympathy-for-middendorp-our-job-is-a-thankless-job-20200926",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10480/ba6d82c147274dd7b0262c561368ce72.jpg",
+      "publishedAt": "2020-09-26T09:55:10+00:00",
+      "content": "Golden Arrows coach Steve Komphela\r\nexpressed his sympathies towards former Kaizer Chiefs coach Ernst Middendorp\r\nand said it was a reminder that football coaching is a 'thankless job'.\r\nMiddendorp, … [+1538 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Sophia Ankel",
+      "title": "Inside CentroU: The online business school transforming sex workers into entrepreneurs - Insider",
+      "description": "CentroU teaches adult performers branding and marketing, home production, health awareness, accounting, and navigating censorship.",
+      "url": "https://www.insider.com/fancentro-a-university-turning-sex-workers-into-online-entrepreneurs-2020-9",
+      "urlToImage": "https://i.insider.com/5f6cda4ec4049200115cb73c?width=1200&format=jpeg",
+      "publishedAt": "2020-09-26T09:55:00Z",
+      "content": "The porn industry is having a moment. \r\nSince the start of the coronavirus pandemic, traffic on porn websites has skyrocketed, adult performers are moving online, and subscription-based platforms lik… [+6283 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Sophia Ankel",
+      "title": "Inside CentroU: The online business school transforming sex workers into entrepreneurs - Insider",
+      "description": "CentroU teaches adult performers branding and marketing, home production, health awareness, accounting, and navigating censorship.",
+      "url": "https://www.insider.com/fancentro-a-university-turning-sex-workers-into-online-entrepreneurs-2020-9",
+      "urlToImage": "https://i.insider.com/5f6cda4ec4049200115cb73c?width=1200&format=jpeg",
+      "publishedAt": "2020-09-26T09:55:00Z",
+      "content": "The porn industry is having a moment. \r\nSince the start of the coronavirus pandemic, traffic on porn websites has skyrocketed, adult performers are moving online, and subscription-based platforms lik… [+6283 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "Public participation launched for road renaming to honour Winnie Madikizela-Mandela",
+      "description": "Johannesburg Mayor Geoff Makhubo has announced a public participation process to rename William Nicol Drive after Winnie Madikizela-Mandela.",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/public-participation-launched-for-road-renaming-to-honour-winnie-madikizela-mandela-20200926",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8698/ab21e66e532e491493f082d3fdeb963c.jpg",
+      "publishedAt": "2020-09-26T09:50:59+00:00",
+      "content": "<ul><li>A public participation process has been launched to rename William Nicol Drive after the late Winnie Madikizela-Mandela.</li><li>Johannesburg mayor Geoff Makhubo announced the process at a me… [+1901 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "PTI",
+      "title": "NPPA caps price of liquid medical oxygen, medical oxygen cylinders",
+      "description": "To ensure availability of medical oxygen in the country at a reasonable price amidst the COVID-19 pandemic, the national drug pricing regulator NPPA has capped the price of medical oxygen cylinders an",
+      "url": "https://www.thehindu.com/business/Industry/nppa-caps-price-of-liquid-medical-oxygen-medical-oxygen-cylinders/article32701891.ece",
+      "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+      "publishedAt": "2020-09-26T09:47:09Z",
+      "content": "To ensure availability of medical oxygen in the country at a reasonable price amidst the COVID-19 pandemic, the national drug pricing regulator NPPA has capped the price of medical oxygen cylinders a… [+2466 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "Education Desk",
+      "title": "NTA NEET 2020 Answer Key released, window to raise objections not active yet",
+      "description": "NTA NEET 2020 Answer Key: The answer keys are available at nta.ac.in in a PDF format. Students will be given the chance to raise objections, as per NTA, however, the window to do so will be open shortly",
+      "url": "https://indianexpress.com/article/education/nta-neet-answer-key-2020-released-window-to-raise-objections-not-yet-ntaneet-nic-in-6597269/",
+      "urlToImage": "https://images.indianexpress.com/2019/09/answer-key-1200.jpg",
+      "publishedAt": "2020-09-26T09:42:49+00:00",
+      "content": "By: Education Desk | New Delhi | \r\nUpdated: September 26, 2020 3:42:49 pm\r\nNEET answer key released at ntaneet.nic.in. Representational image NTA NEET 2020 Answer Key: The National Testing Agency (NT… [+2649 chars]"
+    }
+  ]
+}
