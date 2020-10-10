@@ -24,8 +24,8 @@ const topHeadlinesApi = {
 
 const everyNews = {
   name: 'everything',
-  q: 'erdogan',
-  qlnTitle: null,
+  q: null,
+  qInTitle: 'Karabakh',
   sources: null,
   domains: null,
   excludeDomains: null,
@@ -49,7 +49,7 @@ const fetchJson = async (option) => {
   let optionUrl = apiUrl + option.name + '?apiKey=' + API_KEY;
 
   for (let [key, value] of Object.entries(option)) {
-    if (key === 'name' || value === null) { continue; }
+    if (key === 'name' || value === null || value === '') { continue; }
     optionUrl = optionUrl + `&${key}=${value}`;
   }
 
@@ -59,7 +59,6 @@ const fetchJson = async (option) => {
     const response = await fetch(optionUrl)
     const json = await response.json();
     const data = JSON.stringify(json, null, 2);
-    
     return data;
   } catch (err) {
     console.log('node-fetch error:', err);
@@ -76,6 +75,23 @@ const saveData = async (option) => {
   }
 }
 
-options.forEach(option => {
-  saveData(option);
-})
+if (typeof require !== 'undefined' && require.main === module) {
+  options.forEach(option => {
+    saveData(option);
+  });
+}
+
+const saveSources = () => saveData(sourcesApi);
+const saveTopHeadlines = () => saveData(topHeadlinesApi);
+const saveEveryNews = (q, qInTitle, sources, domains, excludeDomains, from, to) => {
+  everyNews.q = q;
+  everyNews.qInTitle = qInTitle;
+  everyNews.sources = sources;
+  everyNews.domains = domains;
+  everyNews.excludeDomains = excludeDomains;
+  everyNews.from = from;
+  everyNews.to = to;
+  return saveData(everyNews);
+}
+
+module.exports = { saveSources, saveTopHeadlines, saveEveryNews };

@@ -1,45 +1,1228 @@
 {
   "status": "ok",
-  "totalResults": 1299,
+  "totalResults": 16755,
   "articles": [
     {
       "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Chris Tomlinson",
-      "title": "Migrant Crisis Balkan Route Nations Have Least Favourable Opinions Towards Migrants",
-      "description": "Polling firm Gallup has revealed that residents of Balkan countries have some of the most negative views of migrants in the world.",
-      "url": "https://www.breitbart.com/europe/2020/09/26/migrant-crisis-balkan-route-nations-have-least-favourable-opinions-towards-migrants/",
-      "urlToImage": "https://media.breitbart.com/media/2020/09/Balkans-migrants-640x335.jpg",
-      "publishedAt": "2020-09-26T10:18:08Z",
-      "content": "Polling firm Gallup has revealed that residents from many of the countries that formed the Balkan route of the 2015 European migrant crisis have some of the most negative views of migrants in the wor… [+3301 chars]"
+      "author": "Celine Castronuovo",
+      "title": "Local GOP, Democratic groups condemn letter threatening Biden supporters",
+      "description": "Local Maryland GOP and Democratic groups have condemned a letter left at a home with Biden-Harris signs that threatened to attack the Democratic candidates and their supporters.The Frederick Poli...",
+      "url": "https://thehill.com/homenews/state-watch/520474-local-gop-democratic-groups-condemn-letter-threatening-biden-supporters",
+      "urlToImage": "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg",
+      "publishedAt": "2020-10-10T15:32:20Z",
+      "content": "Local Maryland GOP and Democratic groups have condemned a letter left at a home with Biden-Harris signs that threatened to attack the Democratic candidates and their supporters.\r\nThe Frederick Police… [+2580 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Protothema.gr"
+        "name": "Freerepublic.com"
       },
-      "author": "Thema Newsroom",
-      "title": "Ideology & not just energy, explains Turkey’s Mediterranean disruptions – Analysis",
-      "description": "Left unchecked, Turkey’s Pan-Islamist, Neo-Ottoman inspired ideology will enflame regional tensions well into the future",
-      "url": "http://en.protothema.gr/ideology-not-just-energy-explains-turkeys-mediterranean-disruptions-analysis/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/09/Erdogan-150x150.jpg",
-      "publishedAt": "2020-09-26T10:14:53Z",
-      "content": "Over the next few days, European Union leaders will meet to discuss potential sanctions against Turkey based on Ankaras aggressive energy claims against EU members Greece and Cyprus. Conflicting inte… [+2343 chars]"
+      "author": "TTG",
+      "title": "BIDEN: Voters Dont Deserve To Know My Position on Court Packing",
+      "description": "Joe Biden on voters asking to know his position on court packing ABC News: Well sir, dont the voters deserve to know Biden: No, they dont deserve to know. WATCH BIDEN TELL REPORTER VOTERS DON'T DESERVE TO KNOW HIS POSITION...../a>",
+      "url": "https://www.freerepublic.com/focus/f-bloggers/3892421/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T15:31:37Z",
+      "content": "Skip to comments.\r\nBIDEN: Voters Dont Deserve To Know My Position on Court Packing\r\nTTG ^\r\n | 10/10/2020\r\n | Evan\r\nPosted on 10/10/2020 8:31:37 AM PDT by wrrock\r\nJoe Biden on voters’ asking to know h… [+2231 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Free Malaysia Today"
+      },
+      "author": "AFP",
+      "title": "Greta Thunberg urges US voters to pick Biden",
+      "description": "Current president Donald Trump once tweeted saying Greta has to work on her anger management.",
+      "url": "https://www.freemalaysiatoday.com/category/world/2020/10/10/greta-thunberg-urges-us-voters-to-pick-biden/",
+      "urlToImage": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2020/10/AP20283276434362.jpg",
+      "publishedAt": "2020-10-10T15:29:54Z",
+      "content": "Climate activist Greta Thunberg attends a Fridays For Future protest outside the Swedish Parliament on Friday. (AP pic)\r\nSTOCKHOLM: Swedish environmental campaigner Greta Thunberg on Saturday asked U… [+1450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Scottadamssays.com"
+      },
+      "author": "Scott Adams, Scott Adams",
+      "title": "Episode 1150 Scott Adams: Biden and Kim Jong-Un and Hillary Email",
+      "description": "My new book LOSERTHINK, available now on Amazon https://tinyurl.com/rqmjc2a Find my “extra” content on Locals: https://ScottAdams.Locals.com Content: President Trump’s appropriate usage of the “F bomb” A coup without penalty…everyone walks? The big unexplaine…",
+      "url": "http://www.scottadamssays.com/2020/10/10/episode-1150-scott-adams-biden-and-kim-jong-un-and-hillary-email/",
+      "urlToImage": "http://www.scottadamssays.com/wp-content/uploads/2020/10/Episode-1150.png",
+      "publishedAt": "2020-10-10T15:28:10Z",
+      "content": "My new book LOSERTHINK, available now on Amazon https://tinyurl.com/rqmjc2a\r\nFind my “extra” content on Locals: https://ScottAdams.Locals.com\r\nContent:\r\n<ul><li>President Trump’s appropriate usage of… [+561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Tommy Christopher",
+      "title": "Cindy McCain Cuts New Arizona-Targeted Ad for Biden: ‘Joe Will Always Fight for the American People — Just Like John Did’",
+      "description": "Cindy McCain, wife of late Arizona Senator John McCain, has cut a new ad for Joe Biden in which she extolls Biden's friendship with her husband, and says the former VP \"will always fight for the American people. Just like John did.\"",
+      "url": "https://www.mediaite.com/news/cindy-mccain-cuts-new-arizona-targeted-ad-for-biden-joe-will-always-fight-for-the-american-people-just-like-john-did/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2020/10/Cindy-McCain-Biden-ad-1200x675.jpg",
+      "publishedAt": "2020-10-10T15:22:31Z",
+      "content": "Cindy McCain, wife of late Arizona Senator John McCain, has cut a new ad for Joe Biden in which she extolls Biden’s friendship with her husband, and says the former VP “will always fight for the Amer… [+1995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tathasta.com"
+      },
+      "author": "suman",
+      "title": "Democrat Joe Biden: Voters ‘Don’t’ Deserve To Know If I’m Going To Pack Supreme Court",
+      "description": "Democratic presidential nominee Joe Biden told a local news reporter on Friday afternoon that voters do not deserve to know whether he will pack the Supreme Court if he wins the upcoming the election.",
+      "url": "http://www.tathasta.com/2020/10/democrat-joe-biden-voters-dont-deserve.html",
+      "urlToImage": "https://lh3.googleusercontent.com/-dVt0TgoZhCs/X4HKsLRFjUI/AAAAAAAAB0Y/XR-_seFfFvk9SK2b0WOL23mM_twWMNsqgCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png",
+      "publishedAt": "2020-10-10T15:11:38Z",
+      "content": "“Sir, I’ve got to ask you about packing the courts and I know you said yesterday you aren’t going to answer the question until after the election, but this is the number one thing that I’ve been aski… [+2517 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Jordan Williams",
+      "title": "Teen climate change activist Greta Thunberg endorses Biden",
+      "description": "Teen climate change activist Greta Thunberg has endorsed Democratic presidential nominee Joe Biden.",
+      "url": "https://thehill.com/homenews/campaign/520473-teen-climate-change-activist-greta-thunberg-endorses-biden",
+      "urlToImage": "https://thehill.com/sites/default/files/ca_thunbergbbc_021120getty.jpg",
+      "publishedAt": "2020-10-10T15:10:42Z",
+      "content": "Teen climate change activist Greta Thunberg has endorsed Democratic presidential nominee Joe BidenJoe BidenFederal judge shoots down Texas proclamation allowing one ballot drop-off location per count… [+2179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Sydney Morning Herald"
+      },
+      "author": null,
+      "title": "Greta Thunberg urges US voters to support Joe Biden in election",
+      "description": "Teen climate-change activist Greta Thunberg showed support for Democrat Joe Biden on Saturday, urging voters concerned about the environment to make their voices heard in the US presidential election.",
+      "url": "https://www.smh.com.au/world/europe/greta-thunberg-urges-us-voters-to-support-joe-biden-in-election-20201011-p563xc.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.4723%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_295%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/84d2d5eda84a414dced36ef0be494b2264d10f0e",
+      "publishedAt": "2020-10-10T15:05:31Z",
+      "content": "Stockholm: Teen climate-change activist Greta Thunberg showed support for Democrat Joe Biden on Saturday, urging voters concerned about the environment to make their voices heard in the US presidenti… [+582 chars]"
     },
     {
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Rahila Gupta",
-      "title": "Treaties alone can't protect women from violence",
-      "description": "Treaties alone can't protect women from violence. Opinion by Rahila Gupta.",
-      "url": "https://www.cnn.com/2020/09/26/opinions/violence-against-women-turkey-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200805184958-01-turkey-gender-protests-istanbul-convention-intl-super-tease.jpg",
-      "publishedAt": "2020-09-26T07:59:56Z",
-      "content": "Rahila Gupta is an author and journalist. She has written several books, including \"Don't Wake Me: The Ballad of Nihal Armstrong\" and \"Enslaved: The New British Slavery.\" Follow her on Twitter: @Rahi… [+5533 chars]"
+      "author": "Analysis by Harry Enten, CNN",
+      "title": "Why Donald Trump still has a shot against Joe Biden",
+      "description": "The polls look awful for President Donald Trump. He will probably lose. Yet, with more than three weeks to go until Election Day, it's important to note that Trump still has a non-trivial chance of winning",
+      "url": "https://www.cnn.com/2020/10/10/politics/polling-trump-can-win/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg",
+      "publishedAt": "2020-10-10T15:00:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Colby Itkowitz",
+      "title": "Election live updates: Trump to address supporters at White House event; Biden campaigns in Erie, Pa.",
+      "description": "President Trump, who has yet to reveal results of his most recent coronavirus test, will address supporters at the White House from a balcony as they gather on the lawn.",
+      "url": "https://www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6MWK4QK4II6XBYZBXYVTUKHSQ.jpg&w=1440",
+      "publishedAt": "2020-10-10T14:56:39Z",
+      "content": "Biden leads Trump by 11 percentage points nationally, 53 percent to 42 percent, according to an average of national polls since Sept. 16. Bidens margin is smaller in key states: eight points in Penns… [+1218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "www.brayincandy.com",
+      "title": "The Harris/Biden Campaign (Saturbray)",
+      "description": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end. There are many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand. Proverbs 19:20-21 (King James Version) To imagine Senile Joe picked Willie Brow…",
+      "url": "https://www.freerepublic.com/focus/f-news/3892411/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T14:56:11Z",
+      "content": "Skip to comments.\r\nThe Harris/Biden Campaign (Saturbray)www.brayincandy.com ^\r\n | 10/10/20\r\n | bray\r\nPosted on 10/10/2020 7:56:11 AM PDT by bray\r\nHear counsel, and receive instruction, that thou maye… [+13581 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Asma Khalid",
+      "title": "Michigan's Minority Voters: Lukewarm On Biden, But 'Damn Sure Don't Want Trump'",
+      "description": "Donald Trump won Michigan four years ago in part because turnout dipped among Black and brown voters in key Democratic strongholds. Joe Biden is trying to energize these voters, but some remain wary.",
+      "url": "https://www.npr.org/2020/10/10/922243751/michigans-minority-voters-lukewarm-on-biden-but-damn-sure-don-t-want-trump",
+      "urlToImage": "https://media.npr.org/assets/img/2020/10/10/gettyimages-1271608815_wide-2472d8d1225bb8834d7332e4fcfbcde6cffc8072.jpg?s=1400",
+      "publishedAt": "2020-10-10T14:56:03Z",
+      "content": "Joe Biden shops at Three Thirteen, a Detroit apparel store on Sept. 9. Biden is hoping Black and brown voters can help propel him to victory in Michigan, a state narrowly won by Trump in 2016.\r\nChip … [+7300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGN TV Chicago"
+      },
+      "author": "Sydney Kalich",
+      "title": "Trump lays out campaign return, Biden holds event in Pennsylvania",
+      "description": "President Donald Trump and his team laid out a return to political activities, including a big White House event on Saturday. Biden is holding an event in PA.",
+      "url": "https://wgntv.com/news/trump-lays-out-campaign-return-biden-holds-event-in-pennsylvania/",
+      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2020/10/2020-10-07T224552Z_504895489_RC2YDJ9WGZ9E_RTRMADP_3_HEALTH-CORONAVIRUS-TRUMP.jpg?w=1280",
+      "publishedAt": "2020-10-10T14:55:57Z",
+      "content": "WASHINGTON (NewsNation Now) President Donald Trump and his team laid out a return to political activities, including a big White House event on Saturday and a rally in Florida on Monday, a week after… [+1474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Tommy Christopher",
+      "title": "Joe Biden QUINTUPLES Trump’s Support Among Non-White Voters in New Fox News Poll",
+      "description": "Former Vice President Joe Biden has a mammoth lead with non-white voters over President Donald Trump in the latest Fox News poll, quintupling Trump's support from that subgroup.",
+      "url": "https://www.mediaite.com/news/joe-biden-quintuples-trumps-support-among-non-white-voters-in-new-fox-news-poll/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-Donald-Trump-Getty-Split-1200x675.png",
+      "publishedAt": "2020-10-10T14:50:59Z",
+      "content": "Photo credit: Joyce N. Boghosian, The White House via Getty Images, Chip Somodevilla/Getty Images.\r\nFormer Vice President Joe Biden has a mammoth lead with non-white voters over President Donald Trum… [+1112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Wire"
+      },
+      "author": "Daily Wire News",
+      "title": "Democrat Joe Biden: Voters ‘Don’t’ Deserve To Know If I’m Going To Pack Supreme Court | The Daily Wire",
+      "description": "Democratic presidential nominee Joe Biden told a local news reporter on Friday afternoon that voters do not deserve to know whether he will pack the Supreme Court if he wins the upcoming the election. WATCH: “Well sir, don’t the voters deserve to know—“ “No, …",
+      "url": "https://www.dailywire.com/news/democrat-joe-biden-voters-dont-deserve-to-know-if-im-going-to-pack-supreme-court",
+      "urlToImage": "https://dw-wp-production.imgix.net/2020/10/Biden-4-1200x800.jpg",
+      "publishedAt": "2020-10-10T14:45:49Z",
+      "content": "Democratic presidential nominee Joe Biden told a local news reporter on Friday afternoon that voters do not deserve to know whether he will pack the Supreme Court if he wins the upcoming the election… [+508 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Julia Musto",
+      "title": "Bernie Sanders to stump for Biden in Arizona with virtual town hall",
+      "description": "Independent Vermont Sen. Bernie Sanders will headline a virtual town hall Saturday in support of Arizona Democrats to help drum up support for Democratic presidential nominee Joe Biden and running-mate California Sen. Kamala Harris.",
+      "url": "https://www.foxnews.com/politics/bernie-sanders-to-stump-for-arizona-democrats-in-virtual-town-hall",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279856040245.jpg",
+      "publishedAt": "2020-10-10T14:41:49Z",
+      "content": "Bernie Sanders will headline a virtual town hall Saturday to help ArizonaDemocrats drum up support for presidential nominee Joe Biden.\r\nThe hope for the Biden campaign is that Sanders' legions of sup… [+2530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Climate Activist Greta Thunberg Urges US Voters To Pick Joe Biden",
+      "description": "Swedish environmental campaigner Greta Thunberg on Saturday asked US voters to choose Joe Biden, saying the outcome of the US presidential election was crucial for fighting climate change.",
+      "url": "https://www.ndtv.com/world-news/us-presidential-elections-2020-climate-activist-greta-thunberg-urges-us-voters-to-pick-joe-biden-2308214",
+      "urlToImage": "https://c.ndtvimg.com/2020-03/7s7rstpg_greta-thunberg-in-brussels-afp_625x300_04_March_20.jpg",
+      "publishedAt": "2020-10-10T14:40:42Z",
+      "content": "Joe Biden had hailed Greta Thunberg commitment to the fight against climate change. (File)\r\nStockholm: Swedish environmental campaigner Greta Thunberg on Saturday asked US voters to choose Joe Biden,… [+1557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reason"
+      },
+      "author": "Jonathan H. Adler",
+      "title": "Of Biden, Bush, and the History of Judicial Confirmation Fights",
+      "description": "Imagine how things would be different had a 2002 Bush proposal to deescalate judicial nominations been adopted.",
+      "url": "https://reason.com/2020/10/10/of-biden-bush-and-the-history-of-judicial-confirmation-fights/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T14:35:33Z",
+      "content": "There is no question that judicial confirmations have become more contentious over the past thirty years. Things were relatively peaceful from the mid-1970s until the mid-1980s. President Carter had … [+7085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": "CNA",
+      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet",
+      "description": "Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election.",
+      "url": "https://www.channelnewsasia.com/news/world/greta-thunberg-support-joe-biden-climate-change-13249192",
+      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13249190/16x9/991/557/b5d417a74b741253ccc6368356ffc1da/eX/file-photo--swedish-climate-activist-greta-thunberg-leaves-fridays-for-future-protest-in-stockholm-2.jpg",
+      "publishedAt": "2020-10-10T14:35:09Z",
+      "content": "STOCKHOLM: Teen climate-change fighter Greta Thunberg on Saturday (Oct 10) showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the US pr… [+1547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "The Star Online",
+      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet",
+      "description": "STOCKHOLM (Reuters) - Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2020/10/10/climate-activist-greta-thunberg-shows-support-for-biden-in-rare-political-tweet",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2020/10/10/894001.JPG",
+      "publishedAt": "2020-10-10T14:34:00Z",
+      "content": "STOCKHOLM (Reuters) - Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S… [+1560 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Hannah Bleau, \nHannah Bleau",
+      "title": "Watch: Joe Biden Lowers Mask to Cough in Hand During Speech",
+      "description": "Former Vice President Joe Biden briefly lowered his mask to uncover his mouth and coughed in his hand while delivering a speech.",
+      "url": "https://www.breitbart.com/politics/2020/10/10/watch-joe-biden-lowers-mask-to-cough-in-hand-during-speech/",
+      "urlToImage": "https://media.breitbart.com/media/2020/10/Biden-mask-640x335.jpg",
+      "publishedAt": "2020-10-10T14:23:34Z",
+      "content": "Former Vice President Joe Biden (D) briefly lowered his mask to uncover his mouth and coughed in his hand while delivering a speech in Las Vegas, Nevada on Friday.\r\nBiden stumped in Las Vegas on Frid… [+2743 chars]"
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": "By REUTERS",
+      "title": "Greta Thunberg shows support for Biden in rare political tweet",
+      "description": "She said that she never engages in party politics, but that \"the upcoming US elections is above and beyond all that.\"",
+      "url": "https://www.jpost.com/international/greta-thunberg-shows-support-for-biden-in-rare-political-tweet-645248",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452760",
+      "publishedAt": "2020-10-10T14:20:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STLtoday.com"
+      },
+      "author": "By Tamara Lush Associated Press",
+      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages",
+      "description": "Mostly, it seems, older voters have been put off by Trump's handling of the coronavirus, which affects these voters more acutely than others. They were particularly alarmed by Trump's performances at daily task force briefings in the spring because his…",
+      "url": "https://www.stltoday.com/news/national/govt-and-politics/a-senior-warning-sign-for-trump-go-biden-cry-at-villages/article_12fa3072-191a-5d9d-9162-654f41e655ce.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/ec/aecef315-073e-58af-b712-bedff7a516e6/5f81c407b1e3c.image.jpg?crop=341%2C192%2C0%2C160&resize=356%2C200&order=crop%2Cresize",
+      "publishedAt": "2020-10-10T14:19:00Z",
+      "content": "\"That's the group that's leaving Trump,\" she said. \"And it's because of his demeanor, more than his policies. For older women, especially. They went through the battles. They frankly do not appreciat… [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet - Reuters",
+      "description": "Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election.",
+      "url": "https://www.reuters.com/article/us-usa-election-thunberg-idUSKBN26V0NO",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536961395&r=LYNXMPEG990C9&w=800",
+      "publishedAt": "2020-10-10T14:18:00Z",
+      "content": "By Reuters Staff\r\nSTOCKHOLM (Reuters) - Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voice… [+1494 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet - Reuters UK",
+      "description": "Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election.",
+      "url": "https://www.reuters.com/article/uk-usa-election-thunberg-idUKKBN26V0NI",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536961227&r=LYNXMPEG990C7&w=800",
+      "publishedAt": "2020-10-10T14:16:00Z",
+      "content": "By Reuters Staff\r\nFILE PHOTO: Swedish climate activist Greta Thunberg attends a Fridays For Future protest at the Swedish Parliament (Riksdagen) in Stockholm, Sweden October 9, 2020. Jessica Gow /TT … [+1701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lizzy Gurdus",
+      "title": "What a Joe Biden win could mean for the ETF industry",
+      "description": "As the 2020 presidential race intensifies, three market analysts assess what the possible outcomes could mean for exchange-traded funds.",
+      "url": "https://www.cnbc.com/2020/10/10/etf-edge-gurdus-w.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106732745-1602017926075-joey.jpg?v=1602017961",
+      "publishedAt": "2020-10-10T14:15:01Z",
+      "content": "Exchange-traded funds are in for an eventful election season.\r\nAs former Vice President Joe Biden leads President Donald Trump in the polls less than a month ahead of the presidential election, some … [+2704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia? - Fox News",
+      "description": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?Fox News Commission cancels second debate between Trump and BidenCNN Biden moves to stave off surprise loss in NevadaPOLITICO Larry Elder: Attacks on Trump’s COVID-19 response per…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137078268",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T14:13:44Z",
+      "content": "\"Luke, I'm yer father, eh. Come over to the dark side, you hoser.\"\r\n-- Dave Thomas, \"Strange Brew\""
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sarah Mucha, CNN",
+      "title": "Biden campaign launches first ad featuring Cindy McCain",
+      "description": "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battlegroun…",
+      "url": "https://www.cnn.com/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200923170004-cindy-mccain-intv-super-tease.jpg",
+      "publishedAt": "2020-10-10T14:07:49Z",
+      "content": "(CNN)Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground… [+2423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mediaite"
+      },
+      "author": "Tommy Christopher",
+      "title": "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer",
+      "description": "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer.",
+      "url": "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg",
+      "publishedAt": "2020-10-10T14:01:49Z",
+      "content": "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it’s “a legitimate question” then ga… [+3929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brittany Shepherd",
+      "title": "Biden campaign enlists Black mayors in get-out-the-vote ad push",
+      "description": "Joe Biden’s presidential campaign announced Saturday a seven-figure multi-media advertising buy for a spot featuring over a dozen Black mayors of major...",
+      "url": "https://news.yahoo.com/biden-campaign-enlists-black-mayors-in-getoutthevote-ad-push-140013779.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xjN6HCATwMy8WsVa2lkQpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NzI-/https://s.yimg.com/uu/api/res/1.2/cVkd7ao.wTqfTLUG2MQtiQ--~B/aD0xNDg0O3c9MjgyNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-10/e3045ae0-0af9-11eb-8ff7-94ec72e85651",
+      "publishedAt": "2020-10-10T14:00:13Z",
+      "content": "Black mayors of major U.S. cities urge Black voters to turn out in a new Joe Biden ad.\r\nhttps://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23877668.283695875;dc_trk_aid=463692681;… [+3433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Memeorandum.com"
+      },
+      "author": null,
+      "title": "Biden enters final weeks in commanding position as Trump wastes precious days (Eric Bradner/CNN)",
+      "description": "Eric Bradner / CNN:\nBiden enters final weeks in commanding position as Trump wastes precious days  —  Who is winning the 2020 election money race?  —  (CNN)Joe Biden is in a commanding position as the presidential race enters its final stretch, leading Presid…",
+      "url": "https://www.memeorandum.com/201010/p21",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg",
+      "publishedAt": "2020-10-10T14:00:06Z",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "AP Domestic, AP",
+      "title": "A warning sign for Trump: 'Go Biden' at Villages",
+      "description": "Nowhere is the battle for the 2020 election more evident than in The Villages, the nation's largest retirement community, located in the all-important swing state of Florida. (Oct. 10)",
+      "url": "https://www.usatoday.com/videos/news/nation/2020/10/10/warning-sign-trump-go-biden-villages/5952556002/",
+      "urlToImage": "https://www.gannett-cdn.com/authoring/video-thumbnails/fe3eb578-3f71-4492-b421-ff9de01388d4_poster.jpg?quality=10",
+      "publishedAt": "2020-10-10T13:57:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Teen Vogue"
+      },
+      "author": "De Elizabeth",
+      "title": "Commission on Presidential Debates Cancels Second Debate Between Trump and Biden",
+      "description": "The second presidential debate between Donald Trump and Joe Biden has been canceled.",
+      "url": "https://www.teenvogue.com/story/second-debate-canceled-trump-biden",
+      "urlToImage": "https://assets.teenvogue.com/photos/5f81ba6121f250e0096e7f9a/16:9/w_1280,c_limit/debate-FB.jpg",
+      "publishedAt": "2020-10-10T13:47:17Z",
+      "content": "The second presidential debate between Donald Trump and Joe Biden has officially been canceled by the Commission on Presidential Debates (CPD), CNN reports. The decision comes after two days of discu… [+3786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Domigood.com"
+      },
+      "author": "mayaleo",
+      "title": "BUSTED! Joe Biden Removes His Face Mask to Cough – Then He’s Seen Inside a Gym and Around Other People without a Mask! (VIDEO)",
+      "description": "Daily Dose Of Entertaiment",
+      "url": "http://www.domigood.com/2020/10/busted-joe-biden-removes-his-face-mask.html",
+      "urlToImage": "https://lh3.googleusercontent.com/proxy/Ka-SFW4f2CX4Q5bJYI8xHtE6fCEvQR7OGlet1LgQUadX-rNb0PM6hhQRjsmxgot8Yascwe36zTCbnlNUMomvM1_Lrb0W_7InHWJbyMYauIOPsYDNM3Bqa8uq2WEP_6k=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T13:46:38Z",
+      "content": "Mask Nazi Joe Biden got caught without his face mask on while he was indoors and near other people on Friday during his campaign stop in Nevada.\r\nBiden has repeatedly called for a nationwide mask man… [+576 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Https"
+      },
+      "author": null,
+      "title": "Biden dodges court-packing questions as Supreme Court nomination moves forward",
+      "description": "\"They'll know my position on court-packing when the election is over,\" Biden said.",
+      "url": "https://https://6abc.com/politics/biden-harris-dodge-questions-about-supreme-court-expansion/6915427/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T13:40:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Https"
+      },
+      "author": null,
+      "title": "Biden dodges court-packing questions as Supreme Court nomination moves forward",
+      "description": "\"They'll know my position on court-packing when the election is over,\" Biden said.",
+      "url": "https://https://abc7.com/politics/biden-harris-dodge-questions-about-supreme-court-expansion/6915427/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T13:40:15Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AlterNet"
+      },
+      "author": "Tom Boggioni",
+      "title": "'The entire map has moved': Trump's faltering campaign has handed Biden 'multiple pathways' to victory",
+      "description": "According to a report from CNN, Donald Trump's chances of being re-elected are diminishing daily which is handing his Democratic opponent, former Vice President Joe Biden, multiple pathways to the presidency.Noting the president is falling behind in both poll…",
+      "url": "https://www.alternet.org/2020/10/the-entire-map-has-moved-trumps-faltering-campaign-has-handed-biden-multiple-pathways-to-victory/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T13:39:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stationgossip.com"
+      },
+      "author": "orraz",
+      "title": "The REAL winner of the debates: Fly that landed on Mike Pence's head got more mentions on Twitter than any of the 2020 candidates, including Trump and Biden",
+      "description": "Vice President Mike Pence and Senator Kamala Harris went head-to-head during a debate Wednesday, but a third-participant showed up and stole the show – a little housefly.",
+      "url": "http://www.stationgossip.com/2020/10/the-real-winner-of-debates-fly-that.html",
+      "urlToImage": "https://lh4.googleusercontent.com/proxy/25e2NEWUdemohAUOKqrP2EYjrZMh4W8KI93Urlu2pLBEPdGNMJssUaon6l1S5Qogg5PQefOAPr52Z35JUiZbOkDJLTTEVStY47x6-jL6m2gfZYAnsu6Zmxp04IKjZ5aU4JuB84343lqpVuM=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T13:38:28Z",
+      "content": "Vice President Mike Pence and Senator Kamala Harris went head-to-head during a debate Wednesday, but a third-participant showed up and stole the show – a little housefly.\r\nThe insect landed on Pence'… [+3881 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hideoutnow.com"
+      },
+      "author": "pooja",
+      "title": "Joe Biden Continues to Smear Trump after Trump-Hating Anarchist Arrested for Alleged Kidnapping Plot Against Gretchen Whitmer",
+      "description": "The FBI announced on Thursday during a press conference that it thwarted a plot by a so-called “right-wing militia” to kidnap and kill Michigan Governor Gretchen Whitmer and overthrow the state government.",
+      "url": "http://www.hideoutnow.com/2020/10/joe-biden-continues-to-smear-trump.html",
+      "urlToImage": "https://lh6.googleusercontent.com/proxy/DSKFwO_InnmTM4e5hYAeInIhjS1xN7esp_VuEfU8kJPkwgR16v4dsmSCtkieaPHiZGqxKXRiuoEH6Olb8MSYBSrC63ztLtGN8paNKnSZsMZRhXRoIPV6mgrAnTLtVPc=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T13:32:58Z",
+      "content": "Brandon Caserta\r\nThe FBI announced on Thursday during a press conference that it thwarted a plot by a so-called “right-wing militia” to kidnap and kill Michigan Governor Gretchen Whitmer and overthro… [+1078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Tom Boggioni",
+      "title": "‘The entire map has moved’: Trump’s faltering campaign has handed Biden ‘multiple pathways’ to victory",
+      "description": "According to a report from CNN, Donald Trump’s chances of being re-elected are diminishing daily which is handing his Democratic opponent, former Vice President Joe Biden, multiple pathways to the presidency. Noting the president is falling behind in both pol…",
+      "url": "https://www.rawstory.com/2020/10/the-entire-map-has-moved-trumps-faltering-campaign-has-handed-biden-multiple-pathways-to-victory/",
+      "urlToImage": "https://www.rawstory.com/wp-content/uploads/2020/09/Trump_biden.jpg",
+      "publishedAt": "2020-10-10T13:31:43Z",
+      "content": "According to a report from CNN, Donald Trump’s chances of being re-elected are diminishing daily which is handing his Democratic opponent, former Vice President Joe Biden, multiple pathways to the pr… [+4647 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "AP",
+      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages",
+      "description": "Branscome's cart was festooned with two American flags that flapped in the warm afternoon breeze. A line of oncoming carts bedecked with balloons and patriotic streamers chugged past while honking. Branscome jabbed her left foot on the horn pedal, then gave a…",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-senior-warning-sign-for-trump-go-biden-cry-at-villages/articleshow/78592261.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-78592273,width-1070,height-580,imgsize-212513,overlay-economictimes/photo.jpg",
+      "publishedAt": "2020-10-10T13:23:53Z",
+      "content": "Sara Branscome's golf cart whizzed down the smooth asphalt path that winds through The Villages, the nation's largest retirement community, an expanse of beautiful homes, shops and entertainment venu… [+5011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Memeorandum.com"
+      },
+      "author": null,
+      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages (Tamara Lush/Associated Press)",
+      "description": "Tamara Lush / Associated Press:\nA senior warning sign for Trump: ‘Go Biden’ cry at Villages  —  THE VILLAGES, Fla. (AP) — Sara Branscom's golf cart whizzed down the smooth asphalt path that winds through The Villages, the nation's largest retirement community…",
+      "url": "https://www.memeorandum.com/201010/p14",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2a712bf9146e4ee0be7a25c8e8d9a8df/3000.jpeg",
+      "publishedAt": "2020-10-10T13:20:05Z",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": "Mike Rivero",
+      "title": "Chris Wallace ‘jumped on every grenade’ Trump threw at Biden",
+      "description": "Sky News host James Morrow says the problem President Donald Trump didn’t count on in the first presidential debate was the degree to which moderator Chris W...",
+      "url": "https://www.youtube.com/watch?v=aSXrO5QTTuc",
+      "urlToImage": "https://i.ytimg.com/vi/aSXrO5QTTuc/maxresdefault.jpg",
+      "publishedAt": "2020-10-10T13:15:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RealClearPolitics"
+      },
+      "author": "Rachel Bucchino, National Interest",
+      "title": "Biden, Democrats & the Court-Packing Nightmare",
+      "description": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.",
+      "url": "https://www.realclearpolitics.com/2020/10/10/biden_democrats_amp_the_court-packing_nightmare_525935.html",
+      "urlToImage": "https://assets.realclear.com/images/51/515124_5_.jpg",
+      "publishedAt": "2020-10-10T13:07:37Z",
+      "content": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.\r\nRead Full Article »"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Euronews"
+      },
+      "author": null,
+      "title": "US election: Trump plans more rallies as Biden slams president's 'reckless' conduct",
+      "description": "The US president's plans include another White House event but next week's scheduled TV debate is now officially off.",
+      "url": "https://www.euronews.com/2020/10/10/us-election-trump-plans-more-rallies-as-biden-slams-president-s-reckless-conduct",
+      "urlToImage": "https://static.euronews.com/articles/stories/05/04/64/86/1000x563_cmsv2_c9c71f13-a024-59a1-9753-5f4c194f014b-5046486.jpg",
+      "publishedAt": "2020-10-10T13:03:42Z",
+      "content": "Donald Trump will on Saturday hold his first in-person event since testing positive for the coronavirus.\r\nTwo weeks after the Rose Garden event that is now considered a “superspreader,” the US presid… [+5847 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "Townhall.com",
+      "title": "Study Reveals What the Biden-Harris Agenda Will Really Cost",
+      "description": "When Democratic Vice Presidential nominee Sen. Kamala Harris recently said, âthe economy is a disaster,â I thought of both the millions of Americans who get up and go to work every day grateful for the job they have and the many others who are not as fort…",
+      "url": "https://www.freerepublic.com/focus/f-news/3892384/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T13:03:26Z",
+      "content": "Skip to comments.\r\nStudy Reveals What the Biden-Harris Agenda Will Really CostTownhall.com ^\r\n | October 10, 2020\r\n | Bob McClure\r\nPosted on 10/10/2020 6:03:26 AM PDT by Kaslin\r\nWhen Democratic Vice … [+2350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GQ Magazine"
+      },
+      "author": "Cam Wolf",
+      "title": "Let Joe Biden Lead You...as a Watch Collector",
+      "description": "Biden is proof that collecting interesting and unique watches doesn’t need to cost a fortune.",
+      "url": "https://www.gq.com/story/watches-of-the-week-10-10-20",
+      "urlToImage": "https://media.gq.com/photos/5f8096e0ece9eb827214a633/16:9/w_1280,c_limit/wotw-biden.jpg",
+      "publishedAt": "2020-10-10T13:00:00Z",
+      "content": "Welcome toWatches of the Week, where we'll track the rarest, wildest, and most covetable watches spotted on celebrities.\r\nIf this whole president thing doesnt work out for Joe Biden, he should really… [+4814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "DB Daily Update",
+      "title": "Saturday News Roundup: Trump has Voter Enthusiasm, Biden Doesnt",
+      "description": "That time NPR lied to you, part 6,292,593.  The taxpayer-funded hacks at NPR spent all morning Friday claiming that President Trump was hoarse, congested and having difficulty breathing due to his bout with the China virus, all based, of course, on unnamed …",
+      "url": "https://www.freerepublic.com/focus/f-bloggers/3892381/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T12:58:45Z",
+      "content": "Skip to comments.\r\nSaturday News Roundup: Trump has Voter Enthusiasm, Biden DoesntDB Daily Update ^\r\n | David Blackmon\r\nPosted on 10/10/2020 5:58:45 AM PDT by EyesOfTX\r\nThat time NPR lied to you, par… [+5355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thegatewaypundit.com"
+      },
+      "author": "Cristina Laila",
+      "title": "Attendees Standing in Social Distancing Circles Laugh at Joe Biden When He Tells Them to Sit Down – But They Have No Chairs (VIDEO)",
+      "description": "Joe Biden spoke to a small group of people standing in social distancing circles during a campaign stop in Las Vegas, Nevada on Friday. At one point, Biden told people standing in social distancing circles to sit down, but they had no chairs. The attendees st…",
+      "url": "https://www.thegatewaypundit.com/2020/10/attendees-standing-social-distancing-circles-laugh-joe-biden-tells-sit-no-chairs-video/",
+      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/IMG_5176.jpg",
+      "publishedAt": "2020-10-10T12:52:14Z",
+      "content": "Joe Biden spoke to a small group of people standing in social distancing circles during a campaign stop in Las Vegas, Nevada on Friday.\r\nAt one point, Biden told people standing in social distancing … [+457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Domigood.com"
+      },
+      "author": "mayaleo",
+      "title": "Debate Moderator and Biden Pal Steve Scully Panics and Deletes His Twitter Account After Claiming He Got “Hacked”",
+      "description": "Steve Scully was supposed to moderate the second scheduled presidential debate that was set for October 15 in Miami.",
+      "url": "http://www.domigood.com/2020/10/debate-moderator-and-biden-pal-steve.html",
+      "urlToImage": "https://lh5.googleusercontent.com/proxy/n_qNMzXi0l-mlsz61H8QvrqJI-RBpCahj6mnRT6t0B8dC1yuKoBmS6ZbBIy5unoqWYX07XPxTPS6dM91_uOwLWKRC7a4myZcPKx9WPLrbOsVRWdJpjnioNMP3ihBkpwL=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T12:47:21Z",
+      "content": "Steve Scully was supposed to moderate the second scheduled presidential debate that was set for October 15 in Miami.\r\nThat was until the debate commission changed it from an in person to virtual town… [+917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PJ Media"
+      },
+      "author": "Glenn Reynolds",
+      "title": "PAUL BEDARD: Charge: It’s a 2-point race, not 16, pro-Biden media polls trying to suppress Trump …",
+      "description": "PAUL BEDARD: Charge: It’s a 2-point race, not 16, pro-Biden media polls trying to suppress Trump vote. To be fair, they’re also trying to make cover for Democrats’ election-stealing efforts.",
+      "url": "https://pjmedia.com/instapundit/405770/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T12:30:19Z",
+      "content": "PAUL BEDARD: Charge: Its a 2-point race, not 16, pro-Biden media polls trying to suppress Trump vote.\r\nTo be fair, they’re also trying to make cover for Democrats’ election-stealing efforts."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Salon"
+      },
+      "author": "Jay Hancock",
+      "title": "As Trump touts his \"great\" COVID drugs, the Big Pharma cash flows to Biden",
+      "description": "In the final stretch of the campaign, former Vice President Joe Biden is feeling the love in pharma contributions",
+      "url": "https://www.salon.com/2020/10/10/as-trump-touts-his-great-covid-drugs-the-big-pharma-cash-flows-to-biden_partner/",
+      "urlToImage": "https://media.salon.com/2020/07/donald-trump-joe-biden-0726201.jpg",
+      "publishedAt": "2020-10-10T12:29:01Z",
+      "content": "Pharmaceutical giants Regeneron and Gilead Sciences got the kind of publicity money can't buy this week after President Donald Trump took their experimental drugs for his coronavirus infection, left … [+7108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RealClearPolitics"
+      },
+      "author": "Rachel Bucchino, National Interest",
+      "title": "Biden, Democrats & the Court-Packing Nightmare",
+      "description": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.",
+      "url": "https://www.realclearpolitics.com/2020/10/09/biden_democrats_amp_the_court-packing_nightmare_525935.html",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T12:28:48Z",
+      "content": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.\r\nRead Full Article »"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "MOTUS A.D.",
+      "title": "The 2020 Joe Biden Ass Hattery Award",
+      "description": "Heres a classic display of Democrats emphasis on adhering to the letter of the law rather than the intent: Now who looks too stupid to follow the science with regards to the spread of the cooties? And this, even after Jake Tapper took the effort of school…",
+      "url": "https://www.freerepublic.com/focus/f-bloggers/3892370/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T12:23:17Z",
+      "content": "Skip to comments.\r\nThe 2020 Joe Biden Ass Hattery AwardMOTUS A.D. ^\r\n | 10-10-20\r\n | MOTUS\r\nPosted on 10/10/2020 5:23:17 AM PDT by NOBO2012\r\nHere’s a classic display of Democrat’s emphasis on adherin… [+1141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hideoutnow.com"
+      },
+      "author": "pooja",
+      "title": "Not Making Headlines: President Trump is Doing Better in Battleground Polls Against Biden than He Did Against Hillary",
+      "description": "President Trump is doing better in battleground states in 2020 against China Joe than he did in 2016 against crooked Hillary Clinton.",
+      "url": "http://www.hideoutnow.com/2020/10/not-making-headlines-president-trump-is.html",
+      "urlToImage": "https://lh4.googleusercontent.com/proxy/qXk8Ui6Y34I_IYKOF3ebWjzx-MbMchjzY_KJ6QYmaZsUDNLC8JcMlRXqmgCGcQfxWuKMYnC-czCBaF1VzcTjnuTjY-77XCesc4hJb3GYaTu6rtoKw17HNKrlAHbeyCWz2T7fMX0pnMrd9mQ294_COHd2SYBGi-4D4kcM_nig7JqMRYmeYIRTAqgEvEip=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T12:22:38Z",
+      "content": "Well this is not making headlines.\r\nPresident Trump is doing better in battleground states in 2020 against China Joe than he did in 2016 against crooked Hillary Clinton.\r\nAnd that is despite of the m… [+174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hideoutnow.com"
+      },
+      "author": "pooja",
+      "title": "A Record 56% of Americans Say They Are Better Off Today Than They Were Four Years Ago Under Obama-Biden",
+      "description": "This really comes as no surprise to anyone with a fair mind. A recent Gallup poll found that a record number of Americans – 56% – believe they are better off today than they were four years ago.",
+      "url": "http://www.hideoutnow.com/2020/10/a-record-56-of-americans-say-they-are.html",
+      "urlToImage": "https://lh3.googleusercontent.com/proxy/iqHIdPEupKCAHqNPty2Mh4zwTHLtThSWe98u-o51mEMm4EZaz83X-9mDh8Da09667cDtwao4H95uRCyUhvelu8IX8_ysnf_bGi72h_flPXIuapVcaM7CZj3RkTXO7IBMwdII4Zkd1gxoaEo=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T12:22:08Z",
+      "content": "This really comes as no surprise to anyone with a fair mind.  A recent Gallup poll found that a record number of Americans –  56% – believe they are better off today than they were four years ago. \r\n… [+2490 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages - Yahoo News",
+      "description": "A senior warning sign for Trump: 'Go Biden' cry at VillagesYahoo News View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137074528",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T12:12:37Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hideoutnow.com"
+      },
+      "author": "pooja",
+      "title": "EXCLUSIVE UPDATE: Video of Joe Biden Calling for a Muslim Jihad Was Created, Translated, Promoted and Endorsed By the US Government",
+      "description": "Most Americans didn’t realize it or see it but Democrat Joe Biden in a recent ad called for Muslim Voters to wage jihad.",
+      "url": "http://www.hideoutnow.com/2020/10/exclusive-update-video-of-joe-biden.html",
+      "urlToImage": "https://lh6.googleusercontent.com/proxy/UrvQKbrryGqaEx-BZ2qdiUhD4lcBu5p6yLk_10LEIyv5wn5PBidVVnrP82tO7ASCAHbPDRUZjZA9zJ0p0VPaB4WFsEtpztVwhjNKG0J7fSJuacHoRSOmCTKQfW0oTRwcHA=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T12:05:32Z",
+      "content": "Most Americans didn’t realize it or see it but Democrat Joe Biden in a recent ad called for Muslim Voters to wage jihad.\r\nThe former Obama Vice President called for Muslim voters to wage Jihad while … [+2479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Los Angeles Times"
+      },
+      "author": "Melissa Gomez",
+      "title": "Biden supporters flock from other states to door-knock in Arizona, where it matters",
+      "description": "The Biden campaign has mostly done virtual outreach because of the pandemic, but union members and others have moved to Arizona to knock on doors.",
+      "url": "https://www.latimes.com/politics/story/2020-10-10/arizona-democrats-election",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/faf5758/2147483647/strip/true/crop/1536x806+0+59/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2Fb4%2Ffadf46e64e4fba157ce302e408f0%2Fla-pol-na-pol-2020-arizona-democratic-volunteers01.JPG",
+      "publishedAt": "2020-10-10T12:00:28Z",
+      "content": "Alex Rosado hasnt hugged his father in months, and he blames President Trump. Rosado said the presidents failure to contain the coronavirus pandemic has kept him away from his dad and made him want t… [+6978 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "Mike Rivero",
+      "title": "Thanks, Europeans. Your overwhelming support for Biden means Trump’s now more likely to win. You just don’t understand us at all",
+      "description": "Polls taken in seven European countries reveal they massively favor Biden there, by 67 percent to 14 percent for the incumbent. It just shows that continent’s ignorance of the US, and will make Americans more likely to vote Trump.\nAs an American who’s lived i…",
+      "url": "https://www.rt.com/op-ed/503068-europeans-joe-biden-trump/",
+      "urlToImage": "https://cdni.rt.com/files/2020.10/article/5f8080e385f5400dd67a96e9.jpg",
+      "publishedAt": "2020-10-10T12:00:27Z",
+      "content": "As an American who’s lived in Europe for the majority of my adult life (if Brexit Britain can still be described as being part of that continent), I am constantly amazed at how little people over her… [+7257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cuzzblue.com"
+      },
+      "author": "mayaleo",
+      "title": "Joe Biden’s Handlers Shoo Away Reporters After Biden Finishes Las Vegas Speech, Panders to Latinos, Takes a Knee (VIDEO)",
+      "description": "Joe Biden on Friday traveled to Nevada for a campaign stop.\nBiden took in Mariachi music before he delivered remarks in East Las Vegas.",
+      "url": "http://www.cuzzblue.com/2020/10/joe-bidens-handlers-shoo-away-reporters.html",
+      "urlToImage": "https://lh4.googleusercontent.com/proxy/hlgZwpHmf5JP5zPO3XgdImXbkBMyz5nyM1MadMdzEb_B1xO815XoHSrJzovBWBlSc15B6Xh8ApKDqwAdYJenoeIwbhTuuVA9OHW7D27se7tt3Azr9fiNIlLi4okLo8Y=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T12:00:16Z",
+      "content": "Joe Biden on Friday traveled to Nevada for a campaign stop.\r\nBiden took in Mariachi music before he delivered remarks in East Las Vegas.\r\n77-year-old Joe Biden pandered to the Latino community and cr… [+829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stationgossip.com"
+      },
+      "author": "orraz",
+      "title": "“Go Home Joe!” – Trump Supporters Tell Biden How They Really Feel About His Trip to Las Vegas as His Motorcade Drives By (VIDEO)",
+      "description": "Creepy Joe Biden traveled to Nevada on Friday and delivered remarks at two separate campaign events.",
+      "url": "http://www.stationgossip.com/2020/10/go-home-joe-trump-supporters-tell-biden.html",
+      "urlToImage": "https://lh5.googleusercontent.com/proxy/yovbOd1X52m-kcPwDAVWPlwDXi3qEGAhMGGgS0iK8aqpdnWjZpogu3ZU5nwHsQ4t07rbI7qJz_MbnjomLnULhj67F31guY21jt6vagXW5cPkM3PlbUBpj9iezxQ5dZE=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T11:58:09Z",
+      "content": "Creepy Joe Biden traveled to Nevada on Friday and delivered remarks at two separate campaign events.\r\nOnly a handful of people showed up to Biden’s speech in East Las Vegas.\r\nThe entire event was cri… [+259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": "Mike Rivero",
+      "title": "Pollsters claim 'Joe Biden is surging'...do you believe these polls?",
+      "description": "Pollsters claim 'Joe Biden is surging'...do you believe these polls? The Duran: Episode 694. Via Bloomberg (https://www.bloomberg.com/news/articles/2020-10-0...",
+      "url": "https://www.youtube.com/watch?v=tJaCmYaS2xM",
+      "urlToImage": "https://i.ytimg.com/vi/tJaCmYaS2xM/maxresdefault.jpg",
+      "publishedAt": "2020-10-10T11:55:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investmentwatchblog.com"
+      },
+      "author": "alexmark",
+      "title": "Is Joe Biden Secretly Suffering From Parkinson's Disease? New Video Suggests YES",
+      "description": null,
+      "url": "https://www.investmentwatchblog.com/is-joe-biden-secretly-suffering-from-parkinsons-disease-new-video-suggests-yes/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T11:53:23Z",
+      "content": "Copyright Disclaimer: Works and images presented here fall under Fair Use Section 107 and are used for commentary on globally significant newsworthy events. Under Section 107 of the Copyright Act 197… [+456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": null,
+      "title": "YOUTUBE edited out the \"You ain't Black\" comment from Biden on Rush Limbaugh Trump Interview.",
+      "description": "In the live interview Rush played actual clips of Biden. One of them was the \"You ain't Black\" comment if you don't vote for me. Watching it this morning on YOUTUBE I noticed that clip was edited out. Unbelievable. They just went on with the commentary withou…",
+      "url": "https://www.freerepublic.com/focus/f-chat/3892364/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T11:41:14Z",
+      "content": "Skip to comments.\r\nYOUTUBE edited out the \"You ain't Black\" comment from Biden on Rush Limbaugh Trump Interview.Posted on 10/10/2020 4:41:14 AM PDT by Saveourcountry\r\nIn the live interview Rush playe… [+1328 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Analysis by Harry Enten, CNN",
+      "title": "How Joe Biden is actually a good politician",
+      "description": "Democrats spent the primary season trying to find the perfect candidate to take on President Donald Trump. In the minds of some, they ended up \"settling\" on former Vice President Joe Biden.",
+      "url": "https://www.cnn.com/2020/10/10/politics/joe-biden-politician-analysis/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201006175423-03-biden-gettysburg-1006-super-tease.jpg",
+      "publishedAt": "2020-10-10T11:41:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PJ Media"
+      },
+      "author": "Glenn Reynolds",
+      "title": "COLLUSION: Putin Says He Wants to Work With Biden, Claims ‘Shared Values’ Between Democrats and Com…",
+      "description": "COLLUSION: Putin Says He Wants to Work With Biden, Claims ‘Shared Values’ Between Democrats and Communism.",
+      "url": "https://pjmedia.com/instapundit/405778/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T11:30:54Z",
+      "content": "As an Amazon Associate,I earn from qualifying purchases."
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Your Weekend Reading: Trump Is Running Out of Time to Catch Biden",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/newsletters/2020-10-10/your-weekend-reading-trump-is-running-out-of-time-to-catch-biden",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T11:30:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Paul Steinhauser",
+      "title": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?",
+      "description": "It’s been nearly three decades since a Democrat carried Georgia in a presidential election.",
+      "url": "https://www.foxnews.com/politics/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
+      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg",
+      "publishedAt": "2020-10-10T11:28:20Z",
+      "content": "It’s been nearly three decades since a Democrat carried Georgia in a presidential election.\r\nYou’ve got to go back to 1992, when then-Arkansas Gov. Bill Clinton won the state.\r\nBut Democratic preside… [+3138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PJ Media"
+      },
+      "author": "Ed Driscoll",
+      "title": "BIDEN-TRUMP PRESIDENTIAL DEBATE IN MIAMI OFFICIALLY CANCELED:\nAt this stage, the third Trump-Biden …",
+      "description": "BIDEN-TRUMP PRESIDENTIAL DEBATE IN MIAMI OFFICIALLY CANCELED: At this stage, the third Trump-Biden contest in Nashville on Oct. 22 is still going ahead. The Trump campaign later issued a statement on the cancelation. “There is no medical reason to stop the Oc…",
+      "url": "https://pjmedia.com/instapundit/405744/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T11:14:16Z",
+      "content": "BIDEN-TRUMP PRESIDENTIAL DEBATE IN MIAMI OFFICIALLY CANCELED:\r\nAt this stage, the third Trump-Biden contest in Nashville on Oct. 22 is still going ahead.\r\nThe Trump campaign later issued a statement … [+2862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yourdestinationnow.com"
+      },
+      "author": "neha1985",
+      "title": "Creepy Joe Biden Tells Young Boy During Campaign Stop in Nevada, “I’ve Got a Couple of People I’d Like You to Lasso” (VIDEO)",
+      "description": "Creepy Joe is at it again.\nJoe Biden on Friday traveled to Nevada for a campaign stop.",
+      "url": "http://www.yourdestinationnow.com/2020/10/creepy-joe-biden-tells-young-boy-during.html",
+      "urlToImage": "https://lh5.googleusercontent.com/proxy/BDeuTgnS5Qa8gAXun8FIU4wBT7sOoE4ubDPvRPLBFt3_QaAkTEHNwMG1JnbKqtzQ2iVUJBQp4tjF1MmpNjGJITVzHttKSTB9dqSSauoRaxRl0XKuzgav_diXzHBv1VU=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T11:12:56Z",
+      "content": "Creepy Joe is at it again.\r\nJoe Biden on Friday traveled to Nevada for a campaign stop.\r\nBiden took in Mariachi music before he delivered remarks in East Las Vegas.\r\nA young boy with a lasso showed o… [+647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Stationgossip.com"
+      },
+      "author": "orraz",
+      "title": "OMG! NO ONE Is Showing Up to Biden-Harris Events and NO ONE Is Watching Online – Biden-Harris Have Only 3% of President Trump’s Online Viewership",
+      "description": "The 2020 campaign is shaping up to become one of the most lopsided elections in history.",
+      "url": "http://www.stationgossip.com/2020/10/omg-no-one-is-showing-up-to-biden.html",
+      "urlToImage": "https://lh6.googleusercontent.com/proxy/wMk-7fRpg9TOwQWuzo64KCzm8ThWReh3P2PTXAmfFixV80caESKqHCwaBCr2VXvvsoBnS75QssT_XsVAou3SKgn0F356-PC_GZ2NLPXfeeAy_EwcxmGy67sfVc1infDD6MvIhQmi6mYwXM0pXVBOkwbIstWFgLI-ZdACwQ=w1200-h630-p-k-no-nu",
+      "publishedAt": "2020-10-10T11:10:52Z",
+      "content": "The media wants us to believe Biden is ahead in the polls but the President Trump is crushing Biden in events and viewership, in person and online.\r\nThe Democrats and their media continue to force th… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liveleak.com"
+      },
+      "author": "Smitty Werbenjagermanjens",
+      "title": "Biden: World's 1st Segregationist / Integrationist",
+      "description": "GAME OVER! Worked with racists, sought their help, accepted their praise, attended their birthday parties, put his name on every crime bill, increased penalties & prisons, condescending attitudes towards blacks. \n\nOCTOBER SURPRISE! Send this link to everyone …",
+      "url": "https://www.liveleak.com/view?t=Cci4U_1602327893",
+      "urlToImage": "https://cdn3.liveleak.com/2020/Oct/10/LiveLeak-dot-com-5f81933d510ea_88_thumb.jpg",
+      "publishedAt": "2020-10-10T11:04:53Z",
+      "content": "GAME OVER! Worked with racists, sought their help, accepted their praise, attended their birthday parties, put his name on every crime bill, increased penalties &amp; prisons, condescending attitudes… [+638 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erin Einhorn",
+      "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
+      "description": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Some of these voters say they plan to support Joe Biden in 2020.",
+      "url": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
+      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_41/3418868/201009-michigan-democrats-mn-1220_53056cbdd628d3ff081d82fed4e96fa0.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2020-10-10T11:01:25Z",
+      "content": "Proffer is one of those Richfield Township voters who comes from generations of Democrats. Her father was named after Woodrow Wilson, she said. \"We were a Democratic family.\"\r\nBut as she and her adul… [+7259 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erin Einhorn",
+      "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
+      "description": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Some of these voters say they plan to support Joe Biden in 2020.",
+      "url": "https://www.nbcnews.com/news/us-news/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
+      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_41/3418868/201009-michigan-democrats-mn-1220_53056cbdd628d3ff081d82fed4e96fa0.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2020-10-10T11:01:00Z",
+      "content": "Proffer is one of those Richfield Township voters who comes from generations of Democrats. Her father was named after Woodrow Wilson, she said. \"We were a Democratic family.\"\r\nBut as she and her adul… [+7259 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY, Kate Sosin, The 19th",
+      "title": "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?",
+      "description": "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades.",
+      "url": "https://www.usatoday.com/story/news/politics/2020/10/10/trump-has-gutted-lgbtq-rights-biden-presidency-might-undo-damage/3608929001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?crop=2399,1349,x0,y0&width=1600&height=800&fit=bounds",
+      "publishedAt": "2020-10-10T11:00:18Z",
+      "content": "This story was published in partnership with The 19th, a nonprofit, nonpartisan newsroom reporting on gender, politics and policy. \r\nFor a lot of LGBTQ+ Americans, Joe Biden is the man who fueled the… [+7273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kate Sosin, The 19th",
+      "title": "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?",
+      "description": "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades.",
+      "url": "https://news.yahoo.com/trump-gutted-lgbtq-rights-could-110018333.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BMXiII1PK7_gQFnsshdTvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NzIuNTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/FjLPxXkWIrSQFeu.y6YPig--~B/aD0xNjM2O3c9MjQwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-us/usa_today_news_641/1a9c093e731dff349748f405b8e81e89",
+      "publishedAt": "2020-10-10T11:00:18Z",
+      "content": "This story was published in partnership with The 19th, a nonprofit, nonpartisan newsroom reporting on gender, politics and policy. \r\nFor a lot of LGBTQ+ Americans, Joe Biden is the man who fueled the… [+6999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Biden enters final weeks in commanding position as Trump wastes precious days - CNN",
+      "description": "Biden enters final weeks in commanding position as Trump wastes precious daysCNN Biden moves to stave off surprise loss in NevadaPOLITICO Commission cancels second debate between Trump and BidenCNN Abolish the Debate Commission | OpinionNewsweek Opinion: A vi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137071698",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T10:52:56Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Thomas Colson",
+      "title": "A Joe Biden presidency would repair most of the damage Trump has done to America's historic alliance with Europe",
+      "description": "Summary List Placement\n\nUnder Trump, relations between the United States and its longstanding European allies have hit a historic low.\nTrump's attacks on European leaders, his withdrawal from multilateral treaties and his wider 'America First' policy have res…",
+      "url": "https://www.businessinsider.com/joe-biden-donald-trump-us-europe-alliances-merkel-china-2020-10",
+      "urlToImage": "https://i.insider.com/5f808bdd4c3b2e0019bba2cd?width=1200&format=jpeg",
+      "publishedAt": "2020-10-10T10:45:00Z",
+      "content": "Business Insider\r\nUnder Trump, relations between the United States and its longstanding European allies have hit a historic low.\r\nTrump's attacks on European leaders, his withdrawal from multilateral… [+4664 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Agence France-Presse",
+      "title": "Trump restarts public speeches, Biden calls it ‘reckless’",
+      "description": "Washington (AFP) – US President Donald Trump will give a public speech at the White House Saturday for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three weeks before the election.The 74-year-old…",
+      "url": "https://www.rawstory.com/2020/10/trump-restarts-public-speeches-biden-calls-it-reckless/",
+      "urlToImage": "https://www.rawstory.com/wp-content/uploads/2020/10/1674700-origin_1.jpg",
+      "publishedAt": "2020-10-10T10:33:42Z",
+      "content": "Enjoy good journalism?\r\n then let us make a small request. The COVID crisis has cut advertising rates in half, and we need your help. Like you, we here at Raw Story believe in the power of progressiv… [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "LocalNews8.com"
+      },
+      "author": "CNN",
+      "title": "Biden enters final weeks in commanding position as Trump wastes precious days",
+      "description": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory while Trump struggles to defend must-win states. With 24 days u…",
+      "url": "https://localnews8.com/politics/2020/10/10/biden-enters-final-weeks-in-commanding-position-as-trump-wastes-precious-days/",
+      "urlToImage": "https://localnews8.b-cdn.net/2019/11/Politics-logo-new.jpg",
+      "publishedAt": "2020-10-10T10:31:55Z",
+      "content": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory whi… [+7721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tathasta.com"
+      },
+      "author": "suman",
+      "title": "Biden mocked for lowering his mask to cough in his hand",
+      "description": "Democratic vice presidential nominee Joe Biden was mocked on social media Friday for flouting basic hygiene rules, after a video went viral showing him pulling down his protective mask mid-speech in order to cough into his hand.",
+      "url": "http://www.tathasta.com/2020/10/biden-mocked-for-lowering-his-mask-to.html",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T10:19:08Z",
+      "content": "Democratic vice presidential nominee Joe Biden was mocked on social media Friday for flouting basic hygiene rules, after a video went viral showing him pulling down his protective mask mid-speech in … [+1587 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Second presidential debate between President Trump, Joe Biden cancelled - WDIV ClickOnDetroit",
+      "description": "Second presidential debate between President Trump, Joe Biden cancelledWDIV ClickOnDetroit Commission cancels second debate between Trump and BidenCNN Bob Dole claims no Republicans on debate commission support Trump | TheHillThe Hill Abolish the Debate Commi…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137070192",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T10:12:49Z",
+      "content": "For every complex problem, there is a solution that is simple, neat, and wrong.\r\n-- H. L. Mencken"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Times of Israel"
+      },
+      "author": null,
+      "title": "Billy Crystal and Bill Kristol compete to endorse Biden",
+      "description": "Jewish Democratic Council of America ad including liberal star and conservative pundit to be featured online in swing states",
+      "url": "https://www.timesofisrael.com/billy-crystal-and-bill-kristol-compete-to-endorse-biden/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2020/10/10-09-2020-Crystal-Kristol-1024x640.png",
+      "publishedAt": "2020-10-10T10:07:44Z",
+      "content": "JTA — Take your pick: Crystal method, or Kristol, Bills persuasion.\r\nBilly Crystal, the actor and comedian, and Bill Kristol, the onetime top adviser to Republican officials who has become a prominen… [+1127 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Averi Harper, John Verhovek",
+      "title": "Biden dodges court-packing questions as SCOTUS nomination moves forward",
+      "description": "The Biden campaign is dodging court-packing questions as the Supreme Court nomination moves forward.",
+      "url": "https://abcnews.go.com/Politics/biden-dodges-court-packing-questions-scotus-nomination-moves/story?id=73523933",
+      "urlToImage": "https://s.abcnews.com/images/Politics/biden-harris-ap-ml-201009_1602265874990_hpMain_16x9_992.jpg",
+      "publishedAt": "2020-10-10T10:03:49Z",
+      "content": "As the Senate moves forward on the president's Supreme Court pick, both former Vice President Joe Biden and his running mate, Sen. Kamala Harris, continue to deflect when asked if they would try to a… [+5146 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Eric Bradner, CNN",
+      "title": "Biden enters final weeks in commanding position as Trump wastes precious days",
+      "description": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory while Trump struggles to defend must-win states.",
+      "url": "https://www.cnn.com/2020/10/10/politics/2020-election-biden-trump/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg",
+      "publishedAt": "2020-10-10T09:35:55Z",
+      "content": "(CNN)Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victor… [+7620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Upstract.com"
+      },
+      "author": "editors",
+      "title": "Biden enters final weeks in commanding position as Trump wastes precious days",
+      "description": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory...",
+      "url": "https://upstract.com/p/p9ddfeu9?ref=rss&rd=1",
+      "urlToImage": "https://cdn.upstract.com/p/p9qet8SsMZUTKEKeW55o/p9ddfeu9/6byfydzqn2_t.jpg",
+      "publishedAt": "2020-10-10T09:35:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Washington Free Beacon"
+      },
+      "author": "Paul Crookston, Paul Crookston",
+      "title": "With No Tough Questions, Biden Still Bumbles Through Another Week",
+      "description": "As mainstream media networks kept Joe Biden safe from difficult questions this week, the Democratic nominee still stumbled over his words, even telling voters they won't know his position on court packing until after they elect him.\nThe post With No Tough Que…",
+      "url": "https://freebeacon.com/2020-election/with-no-tough-questions-biden-still-bumbles-through-another-week/",
+      "urlToImage": "https://freebeacon.com/wp-content/uploads/2020/08/GettyImages-1227818493-1024x682.jpg",
+      "publishedAt": "2020-10-10T08:59:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Japan Times"
+      },
+      "author": null,
+      "title": "A stark warning sign for Trump: ‘Go Biden’ cries in Florida retirement community",
+      "description": "THE VILLAGES, Florida – Sara Branscom’s golf cart whizzed down the smooth asphalt path that winds through The Villages, the largest retirement community in the ...",
+      "url": "https://www.japantimes.co.jp/news/2020/10/10/world/politics-diplomacy-world/biden-florida-retirement-community/",
+      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/10/np_file_43681-870x579.jpeg",
+      "publishedAt": "2020-10-10T08:37:47Z",
+      "content": "THE VILLAGES, Florida – Sara Branscoms golf cart whizzed down the smooth asphalt path that winds through The Villages, the largest retirement community in the U.S., an expanse of beautiful homes, sho… [+12393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": "Ashley Kirk, Dominic Gilbert, Bruno Riddy",
+      "title": "US election poll tracker: Will Donald Trump or Joe Biden win 2020 presidency?",
+      "description": "Joe Biden and Donald Trump will go head to head for the White House on 3 November, with polls showing Biden currently has a slight advantage",
+      "url": "https://www.telegraph.co.uk/news/2020/10/10/us-election-poll-tracker-who-win-donald-trump-joe-biden-2020/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2020/05/04/010520_ADB_INSTAGRAM-TRUMPBIDEN_trans_NvBQzQNjv4BqSZCfQn3UNBPwFTCNOaG4IelS64mSNPESJC2oDVKqy_s.jpg?impolicy=logo-overlay",
+      "publishedAt": "2020-10-10T08:33:49Z",
+      "content": "Trump and Biden to clash in debates\r\nDonald Trump and Joe Biden faced each other in the first presidential debate in September.\r\nIn a bad-tempered and at times chaotic debate, the candidates ripped c… [+1961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PJ Media"
+      },
+      "author": "Sarah Hoyt",
+      "title": "THIS IS MY SHOCKED FACE:  Trump’s first-term gains for oil industry could be undone by Biden.\n\nNo…",
+      "description": "THIS IS MY SHOCKED FACE:  Trump’s first-term gains for oil industry could be undone by Biden. No, not could, WILL.",
+      "url": "https://pjmedia.com/instapundit/405840/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T08:21:12Z",
+      "content": "As an Amazon Associate,I earn from qualifying purchases."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "feedfeeder",
+      "title": "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer' - Newsweek",
+      "description": "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer'Newsweek View Full Coverage on Google News ...",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137066004",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T08:12:48Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Joseph Wulfsohn",
+      "title": "C-SPAN's Steve Scully breaks silence, thanks debate commission as Trump-Biden event is canceled",
+      "description": "C-SPAN host Steve Scully resurfaced online Friday evening for the first time since his account was allegedly hacked.",
+      "url": "https://www.foxnews.com/media/steve-scully-breaks-silence-twitter-debate-trump-biden",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/10991453-Steve-Scully-GETTY.jpg",
+      "publishedAt": "2020-10-10T07:32:49Z",
+      "content": "C-SPAN host Steve Scully resurfaced online Friday evening for the first time since his account was allegedly hacked.\r\nIn a Twitter post, Scully thanked the Commission on Presidential Debates (CPD) an… [+3911 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheJournal.ie"
+      },
+      "author": "AFP",
+      "title": "The second Trump-Biden debate has been cancelled",
+      "description": "A bullish Donald Trump is returning to campaigning but his rival Joe Biden has labelled his behaviour “reckless”.",
+      "url": "https://www.thejournal.ie/trump-biden-debate-5229494-Oct2020/",
+      "urlToImage": "https://img2.thejournal.ie/article/5229494/river/?height=400&version=5229496",
+      "publishedAt": "2020-10-10T07:19:56Z",
+      "content": "US PRESIDENT DONALD Trump will give a public speech at the White House today for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three wee… [+4765 chars]"
     },
     {
       "source": {
@@ -47,90 +1230,51 @@
         "name": "Hurriyet Daily News"
       },
       "author": "hurriyetdailynews.com",
-      "title": "Turkey's US envoy slams WSJ editorial board's op-ed",
-      "description": "Turkey's U.S. envoy on Sept. 25 disputed allegations by the Wall Street Journal's editorial board that Turkey and Greece could go to war because of a maritime dispute.",
-      "url": "https://www.hurriyetdailynews.com/turkeys-us-envoy-slams-wsj-editorial-boards-op-ed-158597",
-      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5f6ede3f7152d82d30f39ee4.jpg",
-      "publishedAt": "2020-09-26T06:22:57Z",
-      "content": "WASHINGTON- Anadolu Agency\r\nTurkey's U.S. envoy on Sept. 25 disputed allegations by the Wall Street Journal's editorial board that Turkey and Greece could go to war because of a maritime dispute.  \r\n… [+1533 chars]"
+      "title": "Trump restarts public speeches, Biden calls it ’reckless’",
+      "description": "U.S. President Donald Trump was scheduled to give a public speech at the White House on Oct. 10 for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three weeks before the election.",
+      "url": "https://www.hurriyetdailynews.com/trump-restarts-public-speeches-biden-calls-it-reckless-159013",
+      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5f815e7b0f254429d08741ec.jpeg",
+      "publishedAt": "2020-10-10T07:10:00Z",
+      "content": "WASHINGTON- Agence France-Presse\r\nU.S. President Donald Trump was scheduled to give a public speech at the White House on Oct. 10 for the first time since testing positive for Covid-19, as he prepare… [+4635 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The National Interest "
+        "name": "Debka.com"
       },
-      "author": "Sarah Feuer",
-      "title": "UAE-Israel Peace Is Revealing The Middle East's Faultlines",
-      "description": "Sarah Feuer\nSecurity, Middle East\n \nThe normalization of ties between Israel and these two Gulf states reflects a broader struggle between competing regional camps over the contours of a regional order.\nIn the wake of the recent peace agreements between Israe…",
-      "url": "https://nationalinterest.org/blog/middle-east-watch/uae-israel-peace-revealing-middle-easts-faultlines-169689",
-      "urlToImage": "https://nationalinterest.org/sites/default/files/main_images/2012-01-03T120000Z_537549744_GM1E8131JMY01_RTRMADP_3_TURKEY-PALESTINE.JPG.jpg",
-      "publishedAt": "2020-09-26T06:00:00Z",
-      "content": "In the wake of the recent peace agreements between Israel and both the United Arab Emirates (UAE) and Bahrain, much of the public analysis and commentary has focused on what normalization may portend… [+9618 chars]"
+      "author": null,
+      "title": "Second Trump-Biden debate canceled",
+      "description": "US President Donald Trump rejected the virtual format for the Oct. 15 debate against Democrats' Joe Biden in Miami Florida The post Second Trump-Biden debate canceled appeared first on DEBKAfile .",
+      "url": "https://www.debka.com/mivzak/second-trump-biden-debate-canceled/",
+      "urlToImage": "https://www.debka.com/wp-content/uploads/2016/09/logo-debka-sq-512.png",
+      "publishedAt": "2020-10-10T06:57:13Z",
+      "content": "US President Donald Trump rejected the virtual format for the Oct. 15 debate against Democrats Joe Biden in Miami Florida that was ordered by the Commission on Presidential Debates after Trump tested… [+159 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Zoom"
+        "name": "People.cn"
       },
-      "author": "Sahil Bakshi",
-      "title": "Virat Kohli joins PM Modi, Amitabh Bachchan, SRK in list of 'Most Admired men'; 4 Indians make top 20 - Times Now",
-      "description": "<ol><li>Virat Kohli joins PM Modi, Amitabh Bachchan, SRK in list of 'Most Admired men'; 4 Indians make top 20  Times Now\r\n</li><li>PM Narendra Modi to Highlight India’s Role as ‘Pharmacy to World’, Seek Greater Say in Peacekeeping...  News18\r\n</li><li>PM Modi…",
-      "url": "https://www.timesnownews.com/sports/cricket/article/virat-kohli-joins-pm-modi-amitabh-bachchan-srk-in-list-of-most-admired-men-4-indians-make-top/658274",
-      "urlToImage": "https://imgk.timesnownews.com/story/Modi-Kohli-PTI.jpg?tr=w-560,h-292,fo-top",
-      "publishedAt": "2020-09-26T04:35:57Z",
-      "content": "<ul><li>Virat Kohli found himself in the 16th position in the list of 'Most Admired Men' across the world</li></ul>\r\n<ul><li>The survey was conducted by YouGov for the year 20202</li></ul>\r\n<ul><li>P… [+4389 chars]"
+      "author": "F_300923",
+      "title": "Commission cancels second Trump-Biden debate",
+      "description": "WASHINGTON, Oct. 9 (Xinhua) -- The second debate between U.S. President Donald Trump and 2020 Demo",
+      "url": "http://en.people.cn/n3/2020/1010/c90000-9767831.html",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T06:30:37Z",
+      "content": "WASHINGTON, Oct. 9 (Xinhua) -- The second debate between U.S. President Donald Trump and 2020 Democratic presidential nominee Joe Biden won't take place, the Commission on Presidential Debates (CPD) … [+2491 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Protothema.gr"
+        "name": "Freerepublic.com"
       },
-      "author": "Πρώτο Θέμα",
-      "title": "Mitsotakis at the UN: I extended a hand of friendship to Erdogan and he responded with provocations & aggression (video)",
-      "description": "“Turkey’s actions undermine international law & threaten the security & stability of the broader region of the Eastern Mediterranean” | English News",
-      "url": "https://www.protothema.gr/english-news/article/1048484/mitsotakis-at-the-un-i-extended-a-hand-of-friendship-to-erdogan-and-he-responded-with-provocations-aggression-video/",
-      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2020-09-26/km-870x4181.png",
-      "publishedAt": "2020-09-26T03:00:00Z",
-      "content": "Turkeys actions undermine international law &amp; threaten the security &amp; stability of the broader region of the Eastern Mediterranean"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Independent.ie"
-      },
-      "author": "Max Boot",
-      "title": "America must beware - the chilling threat to democracy is very real",
-      "description": "It is not simply the casting of ballots that makes a democracy. Many dictatorships have faux elections that change nothing.",
-      "url": "https://www.independent.ie/world-news/north-america/us-presidential-election-2020/america-must-beware-the-chilling-threat-to-democracy-is-very-real-39563881.html",
-      "urlToImage": "https://www.independent.ie/incoming/44065/39563914.ece/AUTOCROP/w1240h700/30trump.jpg",
-      "publishedAt": "2020-09-26T01:30:00Z",
-      "content": "It is not simply the casting of ballots that makes a democracy. Many dictatorships have faux elections that change nothing. \r\nThe real test of a nation's political system is whether politicians respe… [+4704 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Opinion by Ruth Ben-Ghiat",
-      "title": "Opinion: Trump's 2020 campaign strategy is psychological warfare",
-      "description": "Ruth Ben-Ghiat writes that Donald Trump only cares about serving those Americans who support him, although even his most devoted followers must be kept as dependent as possible on him and distrustful of everyone and everything else. To that end, it's useful f…",
-      "url": "https://www.cnn.com/2020/09/25/opinions/trump-campaign-strategy-psychological-warfare-ghiat/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-super-tease.jpg",
-      "publishedAt": "2020-09-25T23:33:52Z",
-      "content": "Ruth Ben-Ghiat, a frequent contributor to CNN Opinion, is professor of history at New York University and the author of \"Strongmen: From Mussolini to the Present.\" The views expressed here are her ow… [+5615 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Opinion by Ruth Ben-Ghiat",
-      "title": "Opinion: Trump's 2020 campaign strategy is psychological warfare",
-      "description": "During the third presidential debate in 2016, candidate Donald Trump made headlines for refusing to answer Fox News journalist Chris Wallace, who was moderating, on whether he would accept the result of the upcoming election. \"I will look at it at the time. I…",
-      "url": "https://www.cnn.com/2020/09/25/opinions/trump-campaign-strategy-psychological-warfare-ghiat/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/160728093323-01-trump-smirk-super-tease.jpg",
-      "publishedAt": "2020-09-25T23:33:52Z",
-      "content": "Ruth Ben-Ghiat, a frequent contributor to CNN Opinion, is professor of history at New York University and the author of \"Strongmen: From Mussolini to the Present.\" The views expressed here are her ow… [+5615 chars]"
+      "author": "Semi-News/Semi-Satire",
+      "title": "Biden Mocks Trump's \"Don't Be Afraid of COVID\" Advice [semi-satire]",
+      "description": "President Trump's brief bout with COVID-19 was followed by him urging the American people to \"not let it control your life. Don't be afraid of COVID. Go on and live your lives like Americans always have with courage, enterprise, and optimism.\" Democratic pres…",
+      "url": "https://www.freerepublic.com/focus/f-bloggers/3892337/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-10-10T06:28:34Z",
+      "content": "Skip to comments.\r\nBiden Mocks Trump's \"Don't Be Afraid of COVID\" Advice [semi-satire]Semi-News/Semi-Satire ^\r\n | 11 Oct 2020\r\n | John Semmens\r\nPosted on 10/09/2020 11:28:34 PM PDT by John Semmens\r\nP… [+2320 chars]"
     },
     {
       "source": {
@@ -138,1169 +1282,25 @@
         "name": "RT"
       },
       "author": "RT",
-      "title": "‘This is not a colony!’ Ankara snaps at Washington over threat that US pharma may exit Turkey if it fails to repay $2.3bn debt",
-      "description": "US Ambassador David Satterfield is treating Turkey like a colony, Ankara’s health minister Fahrettin Koca said, commenting on the escalating row over the skyrocketing debt Turkey owes to American drug companies. Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/501754-usa-turkey-medical-debt-colony/",
-      "urlToImage": "https://cdni.rt.com/files/2020.09/article/5f6e764e85f5400f401e670a.JPG",
-      "publishedAt": "2020-09-25T23:06:02Z",
-      "content": "“What the ambassador did is neither correct nor ethical. He is using manipulation at a time when we are holding talks with drug companies. He may be able to do such acts in colonies, but this is not … [+2894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Khaled Ahmed",
-      "title": "Clueless In West Asia",
-      "description": "Pakistan may not be intellectually flexible enough to deal with Arab-Israel thaw",
-      "url": "https://indianexpress.com/article/opinion/columns/clueless-in-west-asia-israel-uae-peace-deal-trump-6611997/",
-      "urlToImage": "https://images.indianexpress.com/2020/08/UAE-ISRAEL-1.jpg",
-      "publishedAt": "2020-09-25T22:34:08Z",
-      "content": "Israel-UAE peace deal: President Donald Trump, accompanied by U.S. Ambassador to Israel David Friedman, second from right, and others applaud in the Oval Office at the White House, Aug. 12, 2020, in … [+4285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Presstv.com"
-      },
-      "author": null,
-      "title": "Ankara lashes out at Pelosi for suggesting Turkey not democratic",
-      "description": "The Turkish foreign minister slams US House Speaker Nancy Pelosi's \"blatant ignorance\" for suggesting that Turkey is not democratic.",
-      "url": "https://www.presstv.com/Detail/2020/09/25/635012/Ankara-lashes-out-at-Pelosi-for-suggesting-Turkey-not-democratic-",
-      "urlToImage": "https://cdn.presstv.com/Photo/2020/9/25/bf684217-21ac-4adc-a675-6c13a9a0e8f4.jpg",
-      "publishedAt": "2020-09-25T22:24:57Z",
-      "content": "The Turkish foreign minister has slammed US House Speaker Nancy Pelosis blatant ignorance for suggesting that Turkey is not democratic.\r\nIn remarks meant primarily against US President Donald Trump, … [+1563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Naftemporiki.gr"
-      },
-      "author": "naftemporiki.gr",
-      "title": "Greek PM in UN address: Restart of exploratory talks with Turkey a step in right direction",
-      "description": "Greek Prime Minister Kyriakos Mitsotakis on Friday referred to irregular migration, climate change, the ongoing Covid-19 and the resurgence tension in Greece's relations with Turkey in a pre-recorded video address for the 75th UN General Assembly.",
-      "url": "https://www.naftemporiki.gr/story/1640130/greek-pm-in-un-address-restart-of-exploratory-talks-with-turkey-a-step-in-right-direction",
-      "urlToImage": "https://www.naftemporiki.gr/fu/t/1640130/1080/568/0x0000000001906d3d/2/1/greek-pm-un-address-restart-exploratory-talks-with-turkey-step-right-direction.jpg",
-      "publishedAt": "2020-09-25T19:50:31Z",
-      "content": "Greek Prime Minister Kyriakos Mitsotakis on Friday referred to irregular migration, climate change, the ongoing Covid-19 and the resurgence tension in Greece's relations with Turkey in a pre-recorded… [+806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Thema Newsroom",
-      "title": "Two men are accused of “Netflix-worthy terror plot” to bomb Trump Tower & other targets in support of ISIS",
-      "description": "The pair allegedly planned a series of ISIS-inspired attacks on US sites",
-      "url": "http://en.protothema.gr/two-men-are-accused-of-netflix-worthy-terror-plot-to-bomb-trump-tower-other-targets-in-support-of-isis/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/09/pyrgos_trump1-150x150.jpg",
-      "publishedAt": "2020-09-25T19:09:34Z",
-      "content": "Two men have been arrested on accusations of plotting a ‘Netflix-worthy’ series of ISIS-inspired terrorist attacks including bombings on Trump Tower and the New York Stock Exchange.\r\nJaylyn Christoph… [+880 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "‘Give diplomacy a chance’: Greece PM invites Turkey for talks",
-      "description": "Speaking at the UN, Greek PM calls for a solution with Ankara over oil and gas drilling in the eastern Mediterranean.",
-      "url": "https://www.aljazeera.com/news/2020/9/25/lets-give-diplomacy-a-chance-greece-softens-tones-with-turkey",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/2020-09-22T172744Z_2038668210_RC2T3J9STTHN_RTRMADP_3_TURKEY-GREECE-EU.jpg?resize=1200%2C630",
-      "publishedAt": "2020-09-25T19:09:07Z",
-      "content": "Greek Prime Minister Kyriakos Mitsotakis has appealed to Turkey to find a diplomatic solution to the tension in the eastern Mediterranean, saying he hopes to build a partnership between the historic … [+2908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Πρώτο Θέμα",
-      "title": "Mitsotakis at the UN: I extended a hand of friendship to Erdogan and he responded with provocations & aggression (video)",
-      "description": "“Turkey’s actions undermine international law & threaten the security & stability of the broader region of the Eastern Mediterranean” | English News",
-      "url": "https://www.protothema.gr/english-news/article/1048454/mitsotakis-at-the-un-i-extended-a-hand-of-friendship-to-erdogan-and-he-responded-with-provocations-aggression-video/",
-      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2020-09-25/km.png",
-      "publishedAt": "2020-09-25T18:57:30Z",
-      "content": "Turkeys actions undermine international law &amp; threaten the security &amp; stability of the broader region of the Eastern Mediterranean"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "twistedsifter",
-      "title": "The Shirk Report – Volume 597",
-      "description": "Welcome to the Shirk Report where you will find 20 funny images, 10 interesting articles and 5 entertaining videos from the last 7 days of sifting",
-      "url": "https://twistedsifter.com/2020/09/the-shirk-report-volume-597/",
-      "urlToImage": "https://twistedsifter.files.wordpress.com/2020/09/dog-shaming-owner-sign-funny.jpg",
-      "publishedAt": "2020-09-25T18:54:09Z",
-      "content": "Welcome to the Shirk Report where you will find 20 funny images, 10 interesting articles and 5 entertaining videos from the last 7 days of sifting. Most images found on Reddit; articles from Digg, Ko… [+1315 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Thema Newsroom",
-      "title": "Mitsotakis at the UN: I extended a hand of friendship to Erdogan and he responded with provocations & aggression (video)",
-      "description": "\"Turkey's actions undermine international law & threaten the security & stability of the broader region of the Eastern Mediterranean\"",
-      "url": "http://en.protothema.gr/mitsotakis-at-the-un-i-extended-a-hand-of-friendship-to-erdogan-and-he-responded-with-provocations-aggression-video/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/09/km-150x150.png",
-      "publishedAt": "2020-09-25T18:53:37Z",
-      "content": "Be no doubt, Turkey’s actions undermine international law and threaten the security and stability of the broader region of the Eastern Mediterranean, and of all EU Member States. The European Union m… [+1116 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Karin Strohecker",
-      "title": "Turkish rate hike needs follow through for real game change - Reuters Africa",
-      "description": "Turkish policymakers are no strangers to unexpected action when in a tight corner, but analysts said Thursday's surprise interest rate hike could herald a change of tack on monetary policy.",
-      "url": "https://www.reuters.com/article/turkey-cenbank-rates-analysis-int-idUSKCN26G2RR",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20200925&t=2&i=1534947238&r=LYNXNPEG8O1R6&w=800",
-      "publishedAt": "2020-09-25T17:40:00Z",
-      "content": "LONDON (Reuters) - Turkish policymakers are no strangers to unexpected action when in a tight corner, but analysts said Thursdays surprise interest rate hike could herald a change of tack on monetary… [+3529 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Karin Strohecker",
-      "title": "Turkish rate hike needs follow through for real game change - Reuters UK",
-      "description": "Turkish policymakers are no strangers to unexpected action when in a tight corner, but analysts said Thursday's surprise interest rate hike could herald a change of tack on monetary policy.",
-      "url": "https://www.reuters.com/article/us-turkey-cenbank-rates-analysis-idINKCN26G2RL",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20200925&t=2&i=1534946970&r=LYNXNPEG8O1R1&w=800",
-      "publishedAt": "2020-09-25T17:38:00Z",
-      "content": "LONDON (Reuters) - Turkish policymakers are no strangers to unexpected action when in a tight corner, but analysts said Thursdays surprise interest rate hike could herald a change of tack on monetary… [+3530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Westernjournal.com"
-      },
-      "author": "C. Douglas Golden, The Western Journal",
-      "title": "Pelosi makes no sense: Trump 'is trying to have the Constitution of the United States swallow Clorox'",
-      "description": "I get it. The April media briefing where President Donald Trump mused about using disinfectant to fight the coronavirus -- often inaccurately portrayed by the left as his urging Americans to \"inject themselves with disinfectant\" or \"drink bleach\"-- is a momen…",
-      "url": "https://www.westernjournal.com/pelosi-makes-no-sense-trump-trying-constitution-united-states-swallow-clorox/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2020/09/pelosi_screen_capture.jpg",
-      "publishedAt": "2020-09-25T17:33:10Z",
-      "content": "I get it. The April media briefing where President Donald Trump mused about using disinfectant to fight the coronavirus -- often inaccurately portrayed by the left as his urging Americans to \"inject … [+6433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": "CNA",
-      "title": "Greek PM to Erdogan: 'Let's give diplomacy a chance'",
-      "description": "Greek Prime Minister Kyriakos Mitsotakis appealed Friday to Turkey to find a diplomatic solution to tensions, saying he hopes to build a partnership between the historic rival neighbors.",
-      "url": "https://www.channelnewsasia.com/news/world/greek-pm-to-erdogan---let-s-give-diplomacy-a-chance--13149982",
-      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13149980/16x9/991/557/bc20cf2c2f1abddbcb50d6ba2d9f5684/Xh/greek-prime-minister-kyriakos-mitsotakis-speaking-here-on-september-13-2020-has-appealed-for-dialogue-with-turkey-1601051690733-2.jpg",
-      "publishedAt": "2020-09-25T16:40:51Z",
-      "content": "UNITED NATIONS, United States: Greek Prime Minister Kyriakos Mitsotakis appealed Friday (Sep 25) to Turkey to find a diplomatic solution to tensions, saying he hopes to build a partnership between th… [+1485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "author": "FRANCE24",
-      "title": "Greek PM to Erdogan: 'Let's give diplomacy a chance'",
-      "description": "Greek Prime Minister Kyriakos Mitsotakis appealed Friday to Turkey to find a diplomatic solution to tensions, saying he hopes to build a partnership between the historic rival neighbors.\n\nMitsotakis accused Turkey of \"aggression\" with its recent search for en…",
-      "url": "https://www.france24.com/en/20200925-greek-pm-to-erdogan-let-s-give-diplomacy-a-chance",
-      "urlToImage": "https://s.france24.com/media/display/65cd92ac-ff4c-11ea-b35d-005056bff430/w:1280/p:16x9/0aad1ff2bd9ad2d89d93ed659ee4001cebc0af52.jpg",
-      "publishedAt": "2020-09-25T16:30:21Z",
-      "content": "United Nations (United States) (AFP)\r\nGreek Prime Minister Kyriakos Mitsotakis appealed Friday to Turkey to find a diplomatic solution to tensions, saying he hopes to build a partnership between the … [+1435 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EURACTIV"
-      },
-      "author": "Denis MacShane",
-      "title": "Greece short of friends in Europe as Erdogan steps up pressure",
-      "description": "The decision to postpone the EU council meeting solved – for the time being – one thorny EU question, writes Denis MacShane. What to do about Turkey’s new Sultan Erdogan and his non-stop aggression against EU member states, and core EU values?",
-      "url": "http://www.euractiv.com/section/global-europe/opinion/greece-short-of-friends-in-europe-as-erdogan-steps-up-pressure/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/08/w_56303743-800x450.jpg",
-      "publishedAt": "2020-09-25T14:40:07Z",
-      "content": "The decision to postpone the EU council meeting solved for the time being one thorny EU question, writes Denis MacShane. What to do about Turkeys new Sultan Erdogan and his non-stop aggression agains… [+5052 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "House Speaker Nancy Pelosi on what's next in Supreme Court fight, fate of the Affordable Care Act - CBS This Morning",
-      "description": "<ol><li>House Speaker Nancy Pelosi on what's next in Supreme Court fight, fate of the Affordable Care Act  CBS This Morning\r\n</li><li>Pelosi doubles down that Biden shouldn't debate Trump: 'Why bother?'  Fox News\r\n</li><li>Turkey slams US speaker over remarks…",
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dk5ERE90QWVuRXPSAQA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2020-09-25T13:35:56Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Kareem Fahim",
-      "title": "Turkey arrests dozens, including members of pro-Kurdish party, in connection with deadly 2014 protests",
-      "description": "The arrests came amid a government crackdown that has removed dozens of elected Kurdish mayors.",
-      "url": "https://www.washingtonpost.com/world/middle_east/turkey-arrests-dozens-including-members-of-pro-kurdish-party-in-connection-with-deadly-2014-protests/2020/09/25/fce83e9c-ff1c-11ea-830c-a160b331ca62_story.html",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6DN2LWX7EYI6VNKVJVY2SJKPJM.jpg&w=1440",
-      "publishedAt": "2020-09-25T12:02:35Z",
-      "content": "The prosecutors statement Friday said the arrests were being ordered regarding the calls for protests at the time by the Kurdistan Workers Party, or PKK, a banned militant group in Turkey, as well as… [+2813 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "National Observer"
-      },
-      "author": "James McCarten",
-      "title": "Bernie Sanders puts Trump on notice: 'You are not going to destroy' U.S. democracy",
-      "description": "Progressive firebrand Sen. Bernie Sanders urged Americans to come to their country's rescue on Thursday, September 23, 2020, a call aimed at saving democracy from a U.S. president he's convinced is bent on destroying it.",
-      "url": "https://www.nationalobserver.com/2020/09/25/news/bernie-sanders-puts-trump-notice-you-are-not-going-destroy-us-democracy",
-      "urlToImage": "https://www.nationalobserver.com/sites/nationalobserver.com/files/img/2020/09/25/20200924130932-5f6cd82c2a60846f979d94e6jpeg.jpg",
-      "publishedAt": "2020-09-25T11:52:48Z",
-      "content": "Progressive firebrand Sen. Bernie Sanders urged Americans to come to their country's rescue Thursday, a call aimed at saving democracy from a U.S. president he's convinced is bent on destroying it. \r… [+4273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "The Associated Press",
-      "title": "Turkey slams US speaker over remarks on Trump, Erdogan",
-      "description": "ANKARA, Turkey - Turkey’s foreign minister on Friday accused US House Speaker Nancy Pelosi of “blatant ignorance” over her comments that questioned U....",
-      "url": "https://www.thestar.com/news/world/middleeast/2020/09/25/turkey-slams-us-speaker-over-remarks-on-trump-erdogan.html",
-      "urlToImage": "https://images.thestar.com/9RqckSrNvARRHEA2ugS284d0NIs=/1280x1024/smart/filters:cb(1601034991863)/https://www.thestar.com/content/dam/thestar/news/world/middleeast/2020/09/25/turkey-slams-us-speaker-over-remarks-on-trump-erdogan/DCJL107-924_2020_151442.jpg",
-      "publishedAt": "2020-09-25T11:48:21Z",
-      "content": "ANKARA, Turkey - Turkeys foreign minister on Friday accused US House Speaker Nancy Pelosi of blatant ignorance over her comments that questioned U.S. President Donald Trumps commitment to democracy a… [+1299 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Via AP news wire",
-      "title": "Turkey slams US speaker over remarks on Trump, Erdogan",
-      "description": "Turkey’s foreign minister is accusing US House Speaker Nancy Pelosi of “blatant ignorance” over her comments that questioned U.S. President Donald Trump’s commitment to democracy and his alleged “admiration” of Turkey’s President Recep Tayyip Erdogan and othe…",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/turkey-slams-us-speaker-over-remarks-trump-erdogan-nancy-pelosi-recep-tayyip-erdogan-turkey-us-speaker-b597110.html",
-      "urlToImage": "https://static.independent.co.uk/2020/09/25/11/Pelosi_47833.jpg",
-      "publishedAt": "2020-09-25T11:47:49Z",
-      "content": "Turkeys foreign minister on Friday accused US House SpeakerNancy Pelosi of blatant ignorance over her comments that questioned U.S. President Donald Trump's commitment to democracy and his alleged ad… [+1283 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "",
-      "title": "Turkey slams US speaker over remarks on Trump, Erdogan",
-      "description": "ANKARA, Turkey (AP) — Turkey’s foreign minister on Friday accused US House Speaker Nancy Pelosi of “blatant ignorance” over her comments that questioned U.S. President Donald Trump's commitment to democracy and his alleged “admiration” of Turkey’s President R…",
-      "url": "https://apnews.com/9e3ab5e814d9f94b3af2d4a06a0b9d02",
-      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/1/07/1070fa67-8caf-5d09-809e-326ba40795cb/5f6ddfbc6d670.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-      "publishedAt": "2020-09-25T11:47:49Z",
-      "content": "Speaker of the House Nancy Pelosi, D-Calif. speaks during a news conference Thursday, Sept. 24, 2020 on Capitol Hill in Washington.\r\nJose Luis Magana\r\nANKARA, Turkey (AP) Turkeys foreign minister on … [+1255 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Turkey slams US speaker over remarks on Trump, Erdogan",
-      "description": "Turkey’s foreign minister on Friday accused US House Speaker Nancy Pelosi of “blatant ignorance” over her comments that questioned U.S. President Donald Trump's commitment to democracy and his alleged “admiration” of Turkey’s President Recep Tayyip Erdogan an…",
-      "url": "https://news.yahoo.com/turkey-slams-us-speaker-over-114747688.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dQptKEWuP57aDsj48mD0kA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/BKqLeaoht6FTq6LBYic8mw--~B/aD0zNDAwO3c9NTEwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap.org/0ebde3659f7ab6001564990239864a76",
-      "publishedAt": "2020-09-25T11:47:47Z",
-      "content": "ANKARA, Turkey (AP) Turkeys foreign minister on Friday accused US House Speaker Nancy Pelosi of blatant ignorance over her comments that questioned U.S. President Donald Trump's commitment to democra… [+1302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnik International"
-      },
-      "author": null,
-      "title": "US Policy Towards Kurds in Syria, Iraq Aimed at Undermining the Region, Turkish Security Expert Says",
-      "description": "A US envoy's rare visit to Syria's mostly Kurdish-held al-Hasakah region and his promise that Turkey won't interfere in NE Syria indicates that Washington is pushing ahead with the plan of unifying various Kurdish regional groups with the aim of dividing Syri…",
-      "url": "https://sputniknews.com/middleeast/202009251080570400-us-policy-towards-kurds-in-syria-iraq-aimed-at-undermining-the-region-turkish-security-expert-says/",
-      "urlToImage": "https://cdn2.img.sputniknews.com/images/105415/77/1054157799.jpg",
-      "publishedAt": "2020-09-25T11:43:00Z",
-      "content": "A US envoy's rare visit to Syria's mostly Kurdish-held al-Hasakah region and his promise that Turkey won't interfere in NE Syria indicates that Washington is pushing ahead with the plan of unifying v… [+5155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "AP",
-      "title": "Trump will accept results of free-and-fair presidential polls: White House",
-      "description": "White House Press Secretary Kayleigh McEnany said that Trump will accept the results of a free and fair election following a question from a reporter on Trump's refusal to commit to a peaceful transfer of power.",
-      "url": "https://indianexpress.com/article/world/trump-will-accept-results-free-fair-polls-white-house-6610674/",
-      "urlToImage": "https://images.indianexpress.com/2020/09/364680333.jpg",
-      "publishedAt": "2020-09-25T11:38:18Z",
-      "content": "By: AP | Washington | \r\nSeptember 25, 2020 5:08:18 pm\r\nTrump has questioned the legitimacy of voting by mail-in ballot in the past, claimed that it is susceptible to massive fraud. (File)President Do… [+5696 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "EU chairman ends quarantine after negative COVID-19 test - Reuters UK",
-      "description": "European Council President Charles Michel has had a second negative COVID-19 test after going into self-isolation and is now no longer in quarantine, his spokesman said via Twitter.",
-      "url": "https://www.reuters.com/article/uk-eu-summit-michel-idUKKCN26G1PB",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20200925&t=2&i=1534899247&r=LYNXNPEG8O0ZV&w=800",
-      "publishedAt": "2020-09-25T11:21:00Z",
-      "content": "By Reuters Staff\r\nFILE PHOTO: European Council President Charles Michel attends a video conference with German Chancellor Angela Merkel and Turkish President Tayyip Erdogan, at the European Council H… [+464 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "PTI",
-      "title": "Trump will accept results of free-and-fair presidential polls: White House",
-      "description": "\"We are going to have to see what happens, you know that. I have been complaining very strongly about the ballots, and the ballots are a disaster...,\" Trump told reporters at a White House news conference on Wednesday.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-will-accept-results-of-free-and-fair-presidential-polls-white-house/articleshow/78315816.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-78315899,width-1070,height-580,imgsize-567391,overlay-economictimes/photo.jpg",
-      "publishedAt": "2020-09-25T11:09:40Z",
-      "content": "WASHINGTON: President Donald \r\nTrump will accept the results of a \"free and fair\" election, his press secretary has said, allaying fears triggered after he yet again sowed doubts about the legitimacy… [+5359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Πρώτο Θέμα",
-      "title": "Turkish FM Cavusoglu to Nancy Pelosi: “You will learn to respect the Turkish people’s will”",
-      "description": "Pelosi was comparing Trump with Erdogan and Putin\r | English News",
-      "url": "https://www.protothema.gr/english-news/article/1048246/turkish-fm-cavusoglu-to-nancy-pelosi-you-will-learn-to-respect-the-turkish-peoples-will/",
-      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2020-09-25/pel88.jpg",
-      "publishedAt": "2020-09-25T10:32:02Z",
-      "content": "Pelosi was comparing Trump with Erdogan and Putin"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Thema Newsroom",
-      "title": "Turkish FM Cavusoglu to Nancy Pelosi: “You will learn to respect the Turkish people’s will”",
-      "description": "Pelosi was comparing Trump with Erdogan and Putin",
-      "url": "http://en.protothema.gr/turkish-fm-cavusoglu-to-nancy-pelosi-you-will-learn-to-respect-the-turkish-peoples-will/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/09/pel88-150x150.jpg",
-      "publishedAt": "2020-09-25T10:30:35Z",
-      "content": "A statement by US House Speaker Nancy Pelosi on President Trump and the transfer of power prompted a strong reaction on Twitter by Turkish Foreign Minister Mevlüt Cavusoglu, who wrote “you will learn… [+1300 chars]"
+      "title": "Actress Kirstie Alley spars with fellow celeb Rosanna Arquette after tweeting ‘radical left’ will be in charge if Biden wins",
+      "description": "Conservative actress Kirstie Alley became embroiled in a war of words with fellow celebrities online after blasting House Speaker Nancy Pelosi as “evil” over her attempt to create a new procedure to remove a sitting US president. Read Full Article at RT.com",
+      "url": "https://www.rt.com/usa/503115-kirstie-alley-spars-celebrities-biden/",
+      "urlToImage": "https://cdni.rt.com/files/2020.10/article/5f81477320302707ff77d6ac.jpg",
+      "publishedAt": "2020-10-10T05:59:53Z",
+      "content": "“The ‘process’ EVIL NANCY PELOSI speaks of is an attempt at a presidential takeover of a President by glorified BAKER ACT,” Alley tweeted on Friday, adding “don’t believe a word that comes out of thi… [+3363 chars]"
     },
     {
       "source": {
         "id": "breitbart-news",
         "name": "Breitbart News"
       },
-      "author": "Chris Tomlinson",
-      "title": "Greece to Recruit 800 New Border Guards After Turks Push Migrants to Frontier",
-      "description": "Greece will send another 400 border guards to the Turkish border in addition to the 400 previously announced by the government.",
-      "url": "https://www.breitbart.com/europe/2020/09/25/greece-recruit-least-800-new-border-guards-along-turkish-border/",
-      "urlToImage": "https://media.breitbart.com/media/2020/09/Greece-Turkey-border-640x335.jpg",
-      "publishedAt": "2020-09-25T08:09:31Z",
-      "content": "Greek Minister of Civil Protection Michalis Chrysochoidis has revealed that another 400 border guards will be recruited to man the border in addition to the 400 previously announced by the government… [+2064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "War on the Rocks"
-      },
-      "author": "Sara Bjerg Moller",
-      "title": "It Will Take More Than a Biden Victory to Solve NATO’s Strategic Malaise",
-      "description": "With election day now fewer than 50 days away, optimism is growing in U.S. foreign policy circles that President Donald Trump’s brand of transactional diplomacy and his penchant for dismantling the U.S.-led security order may soon be nearing an end. While a T…",
-      "url": "https://warontherocks.com/2020/09/it-will-take-more-than-a-biden-victory-to-solve-natos-strategic-malaise/",
-      "urlToImage": "https://warontherocks.com/wp-content/uploads/2020/09/Joe_Biden_48554137807-1024x683.jpg",
-      "publishedAt": "2020-09-25T07:55:29Z",
-      "content": "With election day now fewer than 50 days away, optimism is growing in U.S. foreign policy circles that President Donald Trumps brand of transactional diplomacy and his penchant for dismantling the U.… [+20000 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hindu",
-        "name": "The Hindu"
-      },
-      "author": "A. Faizur Rahman",
-      "title": "‘The Many Faces of Political Islam: Religion and Politics in Muslim Societies’ review: Tying Islam to global politics",
-      "description": "Surveying the Muslim world, two authors explode popular myths around a religion and its identity, rejecting the notion that it is opposed to democratic ideals",
-      "url": "https://www.thehindu.com/books/books-reviews/the-many-faces-of-political-islam-religion-and-politics-in-muslim-societies-review-tying-islam-to-global-politics/article32693426.ece",
-      "urlToImage": "https://www.thehindu.com/books/books-reviews/cqgrph/article32693425.ece/ALTERNATES/LANDSCAPE_615/27-SM-islam",
-      "publishedAt": "2020-09-25T07:08:00Z",
-      "content": "On July 10, soon after Turkeys highest administrative court, the Council of State, annulled a 1934 cabinet decree that had converted Hagia Sophia into a museum, President Erdogan delivered a celebrat… [+4733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Juancole.com"
-      },
-      "author": "Global Voices",
-      "title": "Can Turkey’s Feminists prevent withdrawal in name of “Family Values” from Treaty banning Violence against Women?",
-      "description": "By Arzu Geybullayeva | - (GlobalVoices.org ) - A website called Anit Sayac (Turkish for “monument tracker”) indicates the number “276” on its home page at the time of writing this story. It represents the number of women who were murdered in domestic violence…",
-      "url": "https://www.juancole.com/2020/09/feminists-withdrawal-forbidding.html",
-      "urlToImage": "https://www.juancole.com/images/2020/09/Screen-Shot-2020-09-22-at-19.48.48-800x450.png",
-      "publishedAt": "2020-09-25T04:01:12Z",
-      "content": "By Arzu Geybullayeva | –\r\nThe Istanbul Convention is a Council of Europe treaty designed to prevent violence against women\r\n(GlobalVoices.org ) – A website called Anit Sayac (Turkish for monument tra… [+4798 chars]"
-    },
-    {
-      "source": {
-        "id": "the-american-conservative",
-        "name": "The American Conservative"
-      },
-      "author": "Uzay Bulut",
-      "title": "Erdogan Channels Ottomans to Announce Imperial Dreams",
-      "description": "The Turkish autocrat proudly uses his nation's violent history to hint at dangerous ambitions for the future.\nThe post Erdogan Channels Ottomans to Announce Imperial Dreams appeared first on The American Conservative.",
-      "url": "https://www.theamericanconservative.com/articles/erdogan-channels-ottomans-to-announce-imperial-dreams/",
-      "urlToImage": "https://www.theamericanconservative.com/wp-content/uploads/2020/09/shutterstock_104113580-1024x683.jpg",
-      "publishedAt": "2020-09-25T04:01:09Z",
-      "content": "The Turkish autocrat proudly uses his nation's violent history to hint at dangerous ambitions for the future.The Turkish government’s new ideology of conquest is now on full display. \r\nTheir Ministry… [+9554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vanguard"
-      },
-      "author": "Emmanuel Okogba",
-      "title": "UN at 75 holds lots of hope and hopelessness",
-      "description": "By Owei Lakemfa The United Nations, UN,  commenced activities marking its 75th Anniversary on  Monday, September 21, buoyed with floods of mainly congratulatory speeches in a world drenched in increasing despair and cynicism. Its predecessor, the League of Na…",
-      "url": "https://www.vanguardngr.com/2020/09/un-at-75-holds-lots-of-hope-and-hopelessness/",
-      "urlToImage": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2020/07/OWEI1-2.gif?fit=1000%2C411&ssl=1",
-      "publishedAt": "2020-09-25T02:07:07Z",
-      "content": "By Owei Lakemfa\r\nThe United Nations, UN,  commenced activities marking its 75th Anniversary on  Monday, September 21, buoyed with floods of mainly congratulatory speeches in a world drenched in incre… [+6871 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "salarshani@businessinsider.com (Sarah Al-Arshani)",
-      "title": "Press freedom advocates are slamming Trump for glorifying violence against reporters",
-      "description": "\"'I'm a reporter!'... They threw him aside like a bag of popcorn. But honestly ...it's actually a beautiful sight,\" Trump said at a rally on Tuesday.",
-      "url": "https://www.businessinsider.com/trump-glorifying-violence-against-news-reporters-is-dangerous-advocates-say-2020-9",
-      "urlToImage": "https://i.insider.com/5f6c1638c4049200115cb4de?width=1200&format=jpeg",
-      "publishedAt": "2020-09-25T00:30:30Z",
-      "content": "Press organizations have urged reporters to keep holding President Donald Trump accountable after he applauded physical aggression toward journalists covering his campaign.\r\n\"They grabbed a guy — 'I'… [+3366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RealClearPolitics"
-      },
-      "author": null,
-      "title": "Pelosi to Trump: You Are Not In North Korea, This Is The United States And It Is A Democracy",
-      "description": "House Speaker Nancy Pelosi addressed President Trump and the peaceful transfer of power at her weekly press briefing on Thursday: \"He admires people who are perpetuating their role in government. But, I remind him; you are not in North Korea, you are not in T…",
-      "url": "https://www.realclearpolitics.com/video/2020/09/24/pelosi_to_trump_you_are_not_in_north_korea_this_is_the_united_states_and_it_is_a_democracy.html",
-      "urlToImage": "https://assets.realclear.com/images/52/522256.jpg",
-      "publishedAt": "2020-09-24T22:31:49Z",
-      "content": "PELOSI: We want the peaceful transfer of power and again, this is about something you've heard me say again and again. We don't agonize. We organize and we want to make sure that the American people … [+1592 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "author": "FRANCE24",
-      "title": "Pompeo to show support for Greece amid Turkey tensions",
-      "description": "US Secretary of State Mike Pompeo will visit Greece next week in a show of support following high tensions in the Mediterranean with Turkey, the State Department announced Thursday.\n\nPompeo will also travel to Italy, with a stop in Vatican City, to discuss re…",
-      "url": "https://www.france24.com/en/20200924-pompeo-to-show-support-for-greece-amid-turkey-tensions",
-      "urlToImage": "https://s.france24.com/media/display/bf26f254-feb0-11ea-a267-005056a98db9/w:1280/p:16x9/673cb6c264a849c7cfc2ce57166aa6058f013343.jpg",
-      "publishedAt": "2020-09-24T21:56:08Z",
-      "content": "Washington (AFP)\r\nUS Secretary of State Mike Pompeo will visit Greece next week in a show of support following high tensions in the Mediterranean with Turkey, the State Department announced Thursday.… [+1664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "OilPrice.com"
-      },
-      "author": "OilPrice.com",
-      "title": "Could An Energy Rivalry Drive Greece And Turkey Into War?",
-      "description": "Drilling rights and escalating tensions Tensions between Greece and Turkey over Eastern Mediterranean natural gas and oil fields, intertwined with maritime claims, have rapidly escalated in August 2020. On August 10, 2020, Turkey sent the Oruc Reis research s…",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Could-An-Energy-Rivalry-Drive-Greece-And-Turkey-Into-War.html",
-      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2020-09-24_ja6ksdn0go.jpg",
-      "publishedAt": "2020-09-24T21:30:00Z",
-      "content": "The worlds most expensive crude…\r\nSoaring middle distillate inventories such…\r\nBy Global Risk Insights - Sep 24, 2020, 4:30 PM CDTDrilling rights and escalating tensions\r\nTensions between Greece and … [+6605 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Morgan Phillips",
-      "title": "McEnany says Trump will accept results of a 'free and fair election,’ as Democrats slam president’s comments",
-      "description": "White House press secretary Kayleigh McEnany said President Trump will accept the results of a “free and fair election,” when pressed on his comments about a peaceful transfer of power.",
-      "url": "https://www.foxnews.com/politics/mcenany-trump-results-free-fair-election",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20181647289252.jpg",
-      "publishedAt": "2020-09-24T20:33:45Z",
-      "content": "White House press secretary Kayleigh McEnany said President Trump will accept the results of a “free and fair election” after being pressed on his comments about a peaceful transfer of power from ear… [+4065 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Thema Newsroom",
-      "title": "Independent: Turkey is the biggest threat to Europe today, and the Greeks need our help",
-      "description": "As one former foreign minister put it, \"if the EU’s foreign policy is now vegetarian, German foreign policy is vegan\"",
-      "url": "http://en.protothema.gr/independent-turkey-is-the-biggest-threat-to-europe-today-and-the-greeks-need-our-help/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/09/tourkia01-mesa-150x150.jpg",
-      "publishedAt": "2020-09-24T19:41:39Z",
-      "content": "Later this week, EU leaders will meet to discuss their recovery plan. They will spend a few minutes on Brexit. EU heads of government look with disbelief at Boris Johnsons announcement that he will b… [+2261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Paul Iddon, Contributor, Paul Iddon, Contributorhttps://www.forbes.com/sites/pauliddon/",
-      "title": "Tensions With Turkey Help Boost French Arms Sales To East Mediterranean States",
-      "description": "French support of its allies in the East Mediterranean in their disputes with Turkey is winning Paris some new arms deals.",
-      "url": "https://www.forbes.com/sites/pauliddon/2020/09/24/tensions-with-turkey-boost-french-arms-sales-to-east-mediterranean-states/",
-      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6ce7b24e28c84afd23e979%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4330%26cropY1%3D214%26cropY2%3D2650",
-      "publishedAt": "2020-09-24T18:50:43Z",
-      "content": "The French military has participated in a series of military exercises this year with Turkeys rivals in the Eastern Mediterranean to signal Paris support of these countries in their ongoing territori… [+4981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Catholicnewsagency.com"
-      },
-      "author": "Matt Hadro",
-      "title": "Conference highlights 'forgotten' persecuted Christians",
-      "description": "Washington, D.C. Newsroom, Sep 24, 2020 / 12:10 pm (CNA).- Religious and political leaders warned that Christians in the West need to speak up for persecuted Christians, during a summit Wednesday which highlighted the situations in Nigeria and Turkey.  \n\n“We …",
-      "url": "https://www.catholicnewsagency.com/news/conference-highlights-forgotten-persecuted-christians-43167",
-      "urlToImage": "http://www.catholicnewsagency.com/images/shutterstock_717520678_2.jpg",
-      "publishedAt": "2020-09-24T18:10:00Z",
-      "content": "Washington, D.C. Newsroom, Sep 24, 2020 / 12:10 pm MT (CNA).- Religious and political leaders warned that Christians in the West need to speak up for persecuted Christians, during a summit Wednesday … [+3968 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Fox News",
-      "title": "Pelosi slams Trump over transfer of power comments, says hes trying to have Constitution 'swallow Clorox'",
-      "description": "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to have the Constitution swallow Clorox. When asked if Trump would accept a peaceful transfer of power, Pelosi, D-…",
-      "url": "https://www.freerepublic.com/focus/f-news/3887286/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-09-24T18:09:49Z",
-      "content": "Skip to comments.\r\nPelosi slams Trump over transfer of power comments, says hes trying to have Constitution 'swallow Clorox'Fox News ^\r\n | September 24 2020\r\n | Morgan Phillips\r\nPosted on 09/24/2020 … [+3494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "US election: McConnell promises an 'orderly' transition of power - BBC News",
-      "description": "<ol><li>US election: McConnell promises an 'orderly' transition of power  BBC News\r\n</li><li>Trump won't commit to a peaceful transfer of power if he loses  CNN\r\n</li><li>McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump lo…",
-      "url": "https://www.bbc.com/news/election-us-2020-54285869",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A293/production/_114591614_gettyimages-1228657380.jpg",
-      "publishedAt": "2020-09-24T17:14:47Z",
-      "content": "Image copyrightGetty ImagesImage caption\r\n Republican Senate leader Mitch McConnell has insisted there will be an orderly power transition\r\nRepublican leader Mitch McConnell has said there will be an… [+5452 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Morgan Phillips",
-      "title": "Pelosi slams Trump over transfer of power comments, says he’s trying to have Constitution 'swallow Clorox'",
-      "description": "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.”",
-      "url": "https://www.foxnews.com/politics/pelosi-trump-election-constitution-clorox",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg",
-      "publishedAt": "2020-09-24T17:14:15Z",
-      "content": "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.”\r\nWhen asked i… [+3440 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Deutsche Welle (www.dw.com)",
-      "title": "FinCEN Files: Deutsche Bank tops list of suspicious transactions",
-      "description": "Leaked documents shed a light on Deutsche Bank's central role in facilitating financial transactions deemed suspicious. Many of these could have enabled the circumvention of sanctions on Iran and Russia.",
-      "url": "https://www.dw.com/en/deutsche-bank-suspicious-transactions-fincen-files/a-54997201",
-      "urlToImage": "https://www.dw.com/image/54979728_304.jpg",
-      "publishedAt": "2020-09-24T17:09:00Z",
-      "content": "Germany's largest bank Deutsche Bank is no stranger to scandals. But the leaked FinCEN files suggest the bank was aware it was facilitating suspicious transactions amounting to over $1 trillion dolla… [+10089 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "US election: McConnell promises an 'orderly' transition of power",
-      "description": "The Senate Republican leader weighed in a day after President Trump cast doubt on the matter.",
-      "url": "https://www.bbc.co.uk/news/election-us-2020-54285869",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A293/production/_114591614_gettyimages-1228657380.jpg",
-      "publishedAt": "2020-09-24T16:01:36Z",
-      "content": "Image copyrightGetty ImagesImage caption\r\n Republican Senate leader Mitch McConnell has insisted there will be an orderly power transition\r\nRepublican leader Mitch McConnell has insisted there will b… [+4025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Economist"
-      },
-      "author": "The Economist",
-      "title": "Victory for Bashar al-Assad has meant more suffering for his people",
-      "description": "People are growing ever more desperate in the areas under his control",
-      "url": "https://www.economist.com/middle-east-and-africa/2020/09/26/victory-for-bashar-al-assad-has-meant-more-suffering-for-his-people",
-      "urlToImage": "https://www.economist.com/sites/default/files/images/print-edition/20200926_MAP001_0.jpg",
-      "publishedAt": "2020-09-24T15:09:24Z",
-      "content": "THE PRICE of food in Syria has risen so high that women boil weeds to eat. At bakeries in Damascus, the capital, men clamber over each other to get their hands on what little subsidised bread is avai… [+5991 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The National Interest "
-      },
-      "author": "Robert D. Kaplan",
-      "title": "The Middle East's New Map",
-      "description": "Robert D. Kaplan\nDiplomacy, Middle East\n \nFrom the author: The imminent establishment of diplomatic relations between Israel and two Gulf states, the United Arab Emirates and Bahrain, is part of an on-going process of security cooperation going back many year…",
-      "url": "https://nationalinterest.org/feature/middle-easts-new-map-169503",
-      "urlToImage": "https://nationalinterest.org/sites/default/files/main_images/2020-09-15T185245Z_1013216477_RC25ZI9K4TJQ_RTRMADP_3_ISRAEL-GULF-USA.JPG",
-      "publishedAt": "2020-09-24T15:04:00Z",
-      "content": "The imminent establishment of diplomatic relations between Israel and two Gulf states, the United Arab Emirates and Bahrain, is part of an on-going process of security cooperation going back many yea… [+6392 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The National Interest "
-      },
-      "author": "Robert D. Kaplan",
-      "title": "The Middle East’s New Map",
-      "description": "Robert D. Kaplan\nDiplomacy, Middle East\n \nFrom the author: The imminent establishment of diplomatic relations between Israel and two Gulf states, the United Arab Emirates and Bahrain, is part of an on-going process of security cooperation going back many year…",
-      "url": "https://nationalinterest.org/feature/middle-east%E2%80%99s-new-map-169503",
-      "urlToImage": "https://nationalinterest.org/sites/default/files/main_images/2020-09-15T185245Z_1013216477_RC25ZI9K4TJQ_RTRMADP_3_ISRAEL-GULF-USA.JPG",
-      "publishedAt": "2020-09-24T15:04:00Z",
-      "content": "The imminent establishment of diplomatic relations between Israel and two Gulf states, the United Arab Emirates and Bahrain, is part of an on-going process of security cooperation going back many yea… [+6392 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Ben Whedon",
-      "title": "Outraged India Calls Erdogan Kashmir Remarks at U.N. ‘Completely Unacceptable’",
-      "description": "India's permanent representative to the United Nations (U.N.), T. S. Tirumurti, on Wednesday condemned Turkish President Recep Tayyip Erdogan's speech to the U.N. General Assembly (UNGA) in which he called for a multilateral resolution to India's border dispu…",
-      "url": "https://www.breitbart.com/national-security/2020/09/24/outraged-india-calls-erdogan-kashmir-remarks-un-totally-unacceptable/",
-      "urlToImage": "https://media.breitbart.com/media/2020/09/Recep-Tayyip-Erdogan-640x335.jpg",
-      "publishedAt": "2020-09-24T14:59:10Z",
-      "content": "India’s permanent representative to the United Nations (U.N.), T. S. Tirumurti, on Wednesday condemned Turkish President Recep Tayyip Erdogan’s speech to the U.N. General Assembly (UNGA) in which he … [+3393 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Fatah, Hamas say deal reached on Palestinian elections",
-      "description": "Deal reached to hold legislative, presidential elections of Palestinian Authority, and PLO central council.",
-      "url": "https://www.aljazeera.com/news/2020/9/24/fatah-hamas-say-deal-reached-on-palestinian-elections",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2017/10/4baf5cafb4834bfc9cf0409c79a27110_18.jpeg?fit=998%2C562",
-      "publishedAt": "2020-09-24T14:48:10Z",
-      "content": "The two biggest Palestinian factions, Fatah and Hamas, have agreed to hold the first elections in Palestine in nearly 15 years.\r\nPolls will be scheduled within six months under a deal agreed by Fatah… [+3611 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Turkey surprises with first interest rate hike in two years",
-      "description": "Turkey's central bank increases interest rates by 2 percentage points, lifting embattled lira off record lows.",
-      "url": "https://www.aljazeera.com/economy/2020/9/24/turkey-suprises-with-first-interest-rate-hike-in-two-years",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/363927697.jpg?resize=1200%2C630",
-      "publishedAt": "2020-09-24T14:13:20Z",
-      "content": "Not a lot of people saw this one coming.\r\nIn a surprise move, Turkeys central bank raised interest rates by 2 percentage points on Thursday to 10.25 percent the first time in two years policymakers h… [+1566 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "seattlepi.com"
-      },
-      "author": "",
-      "title": "Turkey hikes rates to support currency, fight inflation",
-      "description": "ANKARA, Turkey (AP) - Turkey's Central Bank raised its benchmark interest rate by 2 percentage points on Thursday, its first hike in two years to fight inflation and support its falling currency. \n In a surprise move that helped boost the Turkish currency, th…",
-      "url": "https://www.seattlepi.com/news/article/Turkey-hikes-rates-to-support-currency-fight-15593505.php",
-      "urlToImage": "https://www.seattlepi.com/img/pages/article/opengraph_default.png",
-      "publishedAt": "2020-09-24T13:07:10Z",
-      "content": "ANKARA, Turkey (AP) — Turkey’s Central Bank raised its benchmark interest rate by 2 percentage points on Thursday, its first hike in two years to fight inflation and support its falling currency.\r\nIn… [+880 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "The Associated Press",
-      "title": "Turkey hikes rates to support currency, fight inflation",
-      "description": "ANKARA, Turkey - Turkey’s Central Bank raised its benchmark interest rate by 2 percentage points on Thursday, its first hike in two years to fight inf...",
-      "url": "https://www.thestar.com/news/world/middleeast/2020/09/24/turkey-hikes-rates-to-support-currency-fight-inflation.html",
-      "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
-      "publishedAt": "2020-09-24T12:49:32Z",
-      "content": "ANKARA, Turkey - Turkeys Central Bank raised its benchmark interest rate by 2 percentage points on Thursday, its first hike in two years to fight inflation and support its falling currency.\r\nIn a sur… [+872 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "The Associated Press",
-      "title": "Turkey hikes rates to support currency, fight inflation",
-      "description": "Turkey’s Central Bank raised its benchmark interest rate by 2 percentage points, its first hike in two years to fight inflation and support its currency",
-      "url": "https://abcnews.go.com/International/wireStory/turkey-hikes-rates-support-currency-fight-inflation-73215664",
-      "urlToImage": "null",
-      "publishedAt": "2020-09-24T12:49:17Z",
-      "content": "ANKARA, Turkey -- Turkeys Central Bank raised its benchmark interest rate by 2 percentage points on Thursday, its first hike in two years to fight inflation and support its falling currency.\r\nIn a su… [+873 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "",
-      "title": "Turkey hikes rates to support currency, fight inflation",
-      "description": "ANKARA, Turkey (AP) — Turkey’s Central Bank raised its benchmark interest rate by 2 percentage points on Thursday, its first hike in two years to fight inflation and support its falling currency.",
-      "url": "https://apnews.com/0d252aad06bee9d1fe1a193a53137407",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/4ce82390-59b2-11e6-a3c5-b77ec6e8d16d.png?resize=600%2C517",
-      "publishedAt": "2020-09-24T12:48:48Z",
-      "content": "ANKARA, Turkey (AP) Turkeys Central Bank raised its benchmark interest rate by 2 percentage points on Thursday, its first hike in two years to fight inflation and support its falling currency.\r\nIn a … [+1162 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tandfonline.com"
-      },
-      "author": null,
-      "title": "Democratic regression in comparative perspective: scope, methods, and causes",
-      "description": "(2020). Democratic regression in comparative perspective: scope, methods, and causes. Democratization. Ahead of Print.",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/13510347.2020.1807517",
-      "urlToImage": "https://www.tandfonline.com/doi/cover-img/10.1080/fdem20.ahead-of-print",
-      "publishedAt": "2020-09-24T12:37:17Z",
-      "content": "The last quarter of the twentieth century witnessed the most dramatic expansion of democracy in the history of the world. What Samuel P. Huntington would call the third wave of global democratization… [+49651 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Cagan Koc",
-      "title": "Turkey Stuns With First Rate Hike Since 2018 Currency Crisis",
-      "description": "(Bloomberg) -- Turkey’s central bank raised interest rates for the first time since a currency crisis in late 2018, surprising most economists after a series of backdoor measures fell short of stabilizing the lira.The Monetary Policy Committee led by Governor…",
-      "url": "https://finance.yahoo.com/news/turkey-stuns-first-rate-hike-113745818.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/n6FszHp9p0KsoWe6fEz0Kg--~B/aD02NzU7dz0xMjAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/bloomberg_markets_842/69059a6fa3c55014a9d9d3d61ee8f2a6",
-      "publishedAt": "2020-09-24T11:37:45Z",
-      "content": "In the investing game, its not only about what you buy; its about when you buy it. One of the most common pieces of advice thrown around the Street, buy low is touted as a tried-and-true tactic.Sure,… [+10639 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zerohedge.com"
-      },
-      "author": "Tyler Durden",
-      "title": "USDTRY Drops Like A Stone After Turkish Central Bank Unexpectedly Hikes By 200 bps",
-      "description": "USDTRY Drops Like A Stone After Turkish Central Bank Unexpectedly Hikes By 200 bps\n\n Tyler Durden\n \nThu, 09/24/2020 - 07:30\n\n With the Turkish economy hammered as a result of a collapse in global tourism, the country's FX reserves dwindling by the day prevent…",
-      "url": "https://www.zerohedge.com/markets/lira-drops-stone-after-turkish-central-bank-unexpectedly-hikes-200-bps",
-      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-09/turkey%201%20week%20repo.jpg?itok=OIrruryA",
-      "publishedAt": "2020-09-24T11:30:59Z",
-      "content": "With the Turkish economy hammered as a result of a collapse in global tourism, the country's FX reserves dwindling by the day preventing the infamous Turkish interventions to stabilize the currency, … [+5742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "New indictment seeks up to 3 years in prison for HDP’s Demirtaş",
-      "description": "Main opposition Republican People’s Party (CHP) Leader Kemal Kılıçdaroğlu has defended former Peoples’ Democratic Party (HDP) Co-Chair Selahattin Demirtaş against a new indictment prepared by prosecutors over the jailed politician’s criticisms regarding Ankar…",
-      "url": "https://www.hurriyetdailynews.com/new-indictment-seeks-up-to-3-years-in-prison-for-hdps-demirtas-158551",
-      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5f6c6f1767b0a924d4e6475e.jpg",
-      "publishedAt": "2020-09-24T10:04:09Z",
-      "content": "ANKARA\r\nMain opposition Republican Peoples Party (CHP) Leader Kemal Klçdarolu has defended former Peoples Democratic Party (HDP) Co-Chair Selahattin Demirta against a new indictment prepared by prose… [+1599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zerohedge.com"
-      },
-      "author": "Tyler Durden",
-      "title": "\"Let Me Explain What Happens Next...\" - A Reader Sums It All Up Very Ominously",
-      "description": "\"Let Me Explain What Happens Next...\" - A Reader Sums It All Up Very Ominously\n\n Tyler Durden\n \nThu, 09/24/2020 - 05:00\n\n Authored by 'Austrian Peter' via The Burning Platform,\r\n\n\nA reader recently wrote me a long letter on how he feels about all this ‘Plande…",
-      "url": "https://www.zerohedge.com/markets/let-me-explain-what-happens-next-reader-sums-it-all-very-ominously",
-      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-09/d5bb29111591476f44eb7292a74efe71.jpg?itok=ujr4jLZF",
-      "publishedAt": "2020-09-24T09:00:00Z",
-      "content": "Authored by 'Austrian Peter' via The Burning Platform,\r\nA reader recently wrote me a long letter on how he feels about all this Plandemic stuff.  I thought it would be good to share it as there is so… [+12352 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Spacewar.com"
-      },
-      "author": null,
-      "title": "Europe 'will not compromise' with US over Iran sanctions: Macron",
-      "description": "United Nations, United States (AFP) Sept 22, 2020\n\n French President Emmanuel Macron said Tuesday that Europe would not compromise with the United States over Washington's move to reactivate sanctions on Iran, warning the so-called snapback could undermine th…",
-      "url": "https://www.spacewar.com/reports/Europe_will_not_compromise_with_US_over_Iran_sanctions_Macron_999.html",
-      "urlToImage": "https://www.spxdaily.com/images-hg/pg-plus-1-iran-nuclear-un-hg.jpg",
-      "publishedAt": "2020-09-24T06:48:36Z",
-      "content": "French President Emmanuel Macron said Tuesday that Europe would not compromise with the United States over Washington's move to reactivate sanctions on Iran, warning the so-called snapback could unde… [+4374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Turkish president, NATO chief discuss Eastern Mediterranean",
-      "description": "Turkish President Recep Tayyip Erdoğan have discussed the situation in the eastern Mediterranean with NATO Secretary-General Jens Stoltenberg and the head of the EU Commission it was announced on Sept. 23.",
-      "url": "https://www.hurriyetdailynews.com/turkish-president-nato-chief-discuss-eastern-mediterranean-158538",
-      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5f6c37ab67b0a924d4e645db.jpg",
-      "publishedAt": "2020-09-24T05:59:00Z",
-      "content": "ANKARA- Anadolu Agency\r\nTurkish President Recep Tayyip Erdoan have discussed the situation in the eastern Mediterranean with NATO Secretary-General Jens Stoltenberg and the head of the EU Commission … [+2712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EURACTIV"
-      },
-      "author": "Robert Ellis",
-      "title": "The EU’s watershed moment",
-      "description": "As the aggression and empire building of Erdogan's Turkey becomes clearer, the EU faces a watershed moment, argues Robert Ellis.",
-      "url": "http://www.euractiv.com/section/global-europe/opinion/the-eus-watershed-moment/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2019/10/w_55536695-800x450.jpg",
-      "publishedAt": "2020-09-24T05:26:48Z",
-      "content": "As the aggression and empire-building of Erdogan’s Turkey becomes clearer, the EU faces a watershed moment, argues Robert Ellis.\r\nRobert Ellis is a member of the Advisory Board at Vocal Europe, a Bru… [+5616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Πρώτο Θέμα",
-      "title": "Israeli UN representative walks out on Erdogan’s speech (video)",
-      "description": "The Israeli diplomat did so as Erdogan was addressing the ‘opression of the Israeli state against the Palestinians’\r | English News",
-      "url": "https://www.protothema.gr/english-news/article/1047612/israeli-un-representative-walks-out-on-erdogans-speech-video/",
-      "urlToImage": "https://i1.prth.gr/images/640x360share/files/2020-09-23/isr33.png",
-      "publishedAt": "2020-09-24T05:00:00Z",
-      "content": "The Israeli diplomat did so as Erdogan was addressing the opression of the Israeli state against the Palestinians"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DAWN.com"
-      },
-      "author": "none@none.com (The Newspaper's Staff Reporter)",
-      "title": "PM wants action plan for agriculture sector",
-      "description": "ISLAMABAD: Prime Minister Imran Khan on Wednesday directed the federal food security ministry and the provinces to gather accurate data regarding agriculture production, its consumption, wastage and exports so that the government could exactly know about the …",
-      "url": "https://www.dawn.com/news/1581328",
-      "urlToImage": "https://i.dawn.com/large/2020/09/5f6bfd621e900.jpg",
-      "publishedAt": "2020-09-24T02:16:13Z",
-      "content": "ISLAMABAD: Prime Minister Imran Khan on Wednesday directed the federal food security ministry and the provinces to gather accurate data regarding agriculture production, its consumption, wastage and … [+6320 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TNN",
-      "title": "Keep off internal issues, Turkey told",
-      "description": "India News: NEW DELHI: After Turkish President Recep Erdogan raised the Kashmir issue at the UNGA, the government asked Turkey not to meddle in India’s internal a.",
-      "url": "https://timesofindia.indiatimes.com/india/keep-off-internal-issues-turkey-told/articleshow/78287032.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-78287046,width-1070,height-580,imgsize-55115,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2020-09-24T01:08:56Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "Peter Prengaman",
-      "title": "World leaders urge co-operation on COVID-19 while chastising each other at UN General Assembly",
-      "description": "At the 75th annual United Nations General Assembly, world leaders are stressing the importance of collaboration and floating solutions to combating the coronavirus, sometimes criticizing other nations and arguing the UN itself needs reform.",
-      "url": "https://www.cbc.ca/news/world/un-assembly-leaders-covid-1.5735385",
-      "urlToImage": "https://i.cbc.ca/1.5735624.1600880084!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/un-general-assembly-saudi-arabia.jpg",
-      "publishedAt": "2020-09-23T20:26:56Z",
-      "content": "The subject: coronavirus.\r\nThe status: urgent.\r\nThe solutions: as diverse as the nations gathered virtually for the 75th UN General Assembly.\r\nWith the event reduced to recorded speeches this year be… [+6672 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "David Ignatius",
-      "title": "A breakthrough could be near in the Greece-Turkey dispute, thanks to some strategic diplomatic pressure",
-      "description": "The rising tensions mobilized the U.S. and Germany, which have watched Turkey’s drive for regional hegemony with growing anxiety.",
-      "url": "https://www.washingtonpost.com/opinions/2020/09/23/breakthrough-could-be-near-greece-turkey-dispute-thanks-some-strategic-diplomatic-pressure/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D3K4OKX47EI6VMHEGUHE4YGMSE.jpg&w=1440",
-      "publishedAt": "2020-09-23T18:25:25Z",
-      "content": "Greek Prime Minister Kyriakos Mitsotakis said in an interview that the potential breakthrough came after a month of high tension with Turkish President Recep Tayyip Erdogan. We now see Turkey taking … [+4396 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": "CNA",
-      "title": "US ambassador says Turkey ignores pharma debt at its peril",
-      "description": "The US ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he criticised a new Turkish law clamping down on big social media sites.",
-      "url": "https://www.channelnewsasia.com/news/business/us-ambassador-says-turkey-ignores-pharma-debt-at-its-peril-13139958",
-      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13139956/16x9/991/557/357b23488f945d847ae039b292b4b8fd/Nq/acting-u-s--assistant-secretary-of-state-for-near-eastern-affairs--david-satterfield--prepares-ahead-of-his-address-to-the-11th-annual-international-institute-for-national-security-studies--inss--conf-7.jpg",
-      "publishedAt": "2020-09-23T17:45:41Z",
-      "content": "ISTANBUL: The US ambassador to Turkey said on Wednesday (Sep 23) companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he critici… [+2061 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "U.S. ambassador says Turkey ignores pharma debt at its peril - Reuters India",
-      "description": "The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he criticised a new Turkish law clamping down on big social media sites.",
-      "url": "https://in.reuters.com/article/us-usa-turkey-trade-idINKCN26E338",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20200923&t=2&i=1534645304&r=LYNXNPEG8M1XW&w=800",
-      "publishedAt": "2020-09-23T17:40:00Z",
-      "content": "By Reuters Staff\r\nISTANBUL (Reuters) - The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical… [+2297 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "U.S. ambassador says Turkey ignores pharma debt at its peril - Reuters",
-      "description": "The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he criticised a new Turkish law clamping down on big social media sites.",
-      "url": "https://www.reuters.com/article/us-usa-turkey-trade-idUSKCN26E338",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20200923&t=2&i=1534645304&r=LYNXNPEG8M1XW&w=800",
-      "publishedAt": "2020-09-23T17:39:00Z",
-      "content": "By Reuters Staff\r\nISTANBUL (Reuters) - The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical… [+2297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "U.S. ambassador says Turkey ignores pharma debt at its peril",
-      "description": "The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he criticised a new Turkish law clamping down on big social media sites. Addressing a t…",
-      "url": "https://finance.yahoo.com/news/u-ambassador-says-turkey-ignores-173850541.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xFuqqOGIA4xjf50Iidf9KQ--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/cb4451344e88aecc7d2626f1909b6d9d",
-      "publishedAt": "2020-09-23T17:38:50Z",
-      "content": "ISTANBUL (Reuters) - The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he cri… [+2090 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Reuters",
-      "title": "U.S. ambassador says Turkey ignores pharma debt at its peril",
-      "description": "The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he criticised a new Turkish law clamping down on big social media sites. Addressing a t…",
-      "url": "https://news.yahoo.com/u-ambassador-says-turkey-ignores-173850772.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/uG2NjlGLIJJQC3GRz9E7RA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/cb4451344e88aecc7d2626f1909b6d9d",
-      "publishedAt": "2020-09-23T17:38:50Z",
-      "content": "ISTANBUL (Reuters) - The U.S. ambassador to Turkey said on Wednesday companies will consider abandoning its market if it fails to fully meet debt payments to American pharmaceutical firms, and he cri… [+2090 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Deutsche Welle (www.dw.com)",
-      "title": "After Moria, EU to try closed asylum camps on Greek islands",
-      "description": "A \"closed camp\" for displaced people is being set up on Samos as part of the EU's strategy for fortifying its external borders. Neither residents of the island nor the people who will be held there want the camp.",
-      "url": "https://www.dw.com/en/after-moria-eu-to-try-closed-asylum-camps-on-greek-islands/a-55032182",
-      "urlToImage": "https://www.dw.com/image/55026281_304.jpg",
-      "publishedAt": "2020-09-23T17:09:00Z",
-      "content": "The site of what is to be one of the first new EU camps for displaced people is surrounded by a 6-meter (20-foot) barbed-wire fence. The heat of the day gathers in the valley, which is served so far … [+9829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Deutsche Welle (www.dw.com)",
-      "title": "German court quashes ban on mosque's call to prayer",
-      "description": "The call to prayer had been banned after a Christian couple complained that it intruded on their religious freedoms. The court ruled that the call to prayer did not violate the rights of those who heard it. A court in the western German city of Münster on Wed…",
-      "url": "https://www.dw.com/en/german-court-quashes-ban-on-mosques-call-to-prayer/a-55022809",
-      "urlToImage": "https://www.dw.com/image/38979180_304.jpg",
-      "publishedAt": "2020-09-23T16:16:00Z",
-      "content": "A court in the western German city of Münster on Wednesday ruled that a local mosque is permitted to perform its Friday call to prayer. It follows an appeal by the town of Oer-Erkenschwick against th… [+5562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Global Voices"
-      },
-      "author": "Arzu Geybullayeva",
-      "title": "In Turkey, women rise up to stop withdrawal from the Istanbul Convention",
-      "description": "The public outcry seems to have made an impression on the AKP—a decision on the Convention that was meant to be announced in August has now been postponed.",
-      "url": "https://globalvoices.org/2020/09/23/in-turkey-women-rise-up-to-stop-withdrawal-from-the-istanbul-convention/",
-      "urlToImage": "https://globalvoices.org/wp-content/uploads/2020/09/Screen-Shot-2020-09-22-at-19.48.48-800x450.png",
-      "publishedAt": "2020-09-23T16:14:07Z",
-      "content": "Screenshot from Anit Sayac home page.\r\nA website called Anit Sayac (Turkish for “monument tracker”) indicates the number “276” on its home page at the time of writing this story. It represents the nu… [+5355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStranger.com"
-      },
-      "author": "Nathalie Graham",
-      "title": "Slog AM: RBG Lies in Repose, Bezos Starts a Preschool, Facebook Sued Over Wisconsin Protests",
-      "description": "by Nathalie Graham\n \n \n \n Get his ass. SAMUEL CORUM / GETTY IMAGES\r\nWashington Employment Security Department duped by fraudulent claims: The fact that our employment department's fraud detection software was weak as hell at the beginning of the pandemic isn'…",
-      "url": "https://www.thestranger.com/slog/2020/09/23/45039569/slog-am-rgb-lies-in-repose-bezos-starts-a-preschool-facebook-sued-over-wisconsin-protests",
-      "urlToImage": "https://media2.fdncms.com/stranger/imager/u/original/45047510/1600873882-1570458816-gettyimages-1169608962.jpg",
-      "publishedAt": "2020-09-23T15:30:00Z",
-      "content": "Washington Employment Security Department duped by fraudulent claims: The fact that our employment department's fraud detection software was weak as hell at the beginning of the pandemic isn't news n… [+7171 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ansamed.info"
-      },
-      "author": null,
-      "title": "Turkish president to speak to EU president and NATO chief",
-      "description": "Diplomacy on eastern Mediterranean continues",
-      "url": "http://www.ansamed.info/ansamed/en/news/sections/politics/2020/09/23/turkish-president-to-speak-to-eu-president-and-nato-chief_34bb23b3-b9f5-4b59-ab49-dacce3e1fdfa.html",
-      "urlToImage": "http://www.ansamed.info/webimages/foto_large/2020/8/21/23c6db11f097581122c198bc224bdad7.jpg",
-      "publishedAt": "2020-09-23T15:02:52Z",
-      "content": "(ANSAmed) - ISTANBUL, SEPTEMBER 23 - After a thawing of\r\nrelations with Greece on Tuesday, with the announcement of\r\n''explorative talks'' to be held soon in Istanbul, Turkish\r\npresident Recep Tayyip… [+486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "The Associated Press",
-      "title": "Greece: EU to ready Turkey sanctions despite crisis thaw",
-      "description": "ATHENS, Greece - Greece said Wednesday that it still expects the European Union to approve sanctions against Turkey despite the two NATO members agree...",
-      "url": "https://www.thestar.com/news/world/europe/2020/09/23/greece-eu-to-ready-turkey-sanctions-despite-crisis-thaw.html",
-      "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
-      "publishedAt": "2020-09-23T14:22:02Z",
-      "content": "ATHENS, Greece - Greece said Wednesday that it still expects the European Union to approve sanctions against Turkey despite the two NATO members agreeing to restart talks on maritime boundaries, ener… [+2170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Belarus abruptly swears in Lukashenko - Reuters",
-      "description": "<ol><li>Belarus abruptly swears in Lukashenko  Reuters\r\n</li><li>Belarus: Lukashenko inaugurated in unannounced ceremony  BBC News\r\n</li><li>Lukashenko inaugurated secretly amid protests, sanctions threat  Aljazeera.com\r\n</li><li>Opinion | Belarus Needs New E…",
-      "url": "https://www.youtube.com/watch?v=yPWkN0JLKVA",
-      "urlToImage": "https://i.ytimg.com/vi/yPWkN0JLKVA/maxresdefault.jpg",
-      "publishedAt": "2020-09-23T14:05:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Thema Newsroom",
-      "title": "How Turkey’s Aktif Bank helped Wirecard & the porn industry",
-      "description": "The FinCEN Files",
-      "url": "http://en.protothema.gr/how-turkeys-aktif-bank-helped-wirecard-the-porn-industry/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/09/stockart1-150x150.jpg",
-      "publishedAt": "2020-09-23T13:47:16Z",
-      "content": "Turkish companies and banks pop up frequently and prominently in the FinCEN Files, a collection of secret documents from the US Department of the Treasury that was leaked to BuzzFeed News and shared … [+1600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Israelnationalnews.com"
-      },
-      "author": null,
-      "title": "Erdogan, Abdullah II, Rouhani, Macron: Highlights from UN 2020",
-      "description": "Jordan pushes for Palestinian statehood, Turkey slams move to open embassies in Jerusalem, while France explains support for Iran nuke deal.",
-      "url": "https://www.israelnationalnews.com/News/News.aspx/287795",
-      "urlToImage": "http://u.a7.org/pictures/799/799624.jpg",
-      "publishedAt": "2020-09-23T12:37:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Belarus: Lukashenko inaugurated in unannounced ceremony - BBC News",
-      "description": "<ol><li>Belarus: Lukashenko inaugurated in unannounced ceremony  BBC News\r\n</li><li>Belarus abruptly swears in Lukashenko  Reuters\r\n</li><li>Lukashenko is inaugurated as Belarus President in surprise ceremony as protests continue unabated  CNN\r\n</li><li>Opini…",
-      "url": "https://www.bbc.com/news/world-europe-54262953",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44D1/production/_114571671_063469039.jpg",
-      "publishedAt": "2020-09-23T12:05:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Joanna Kakissis",
-      "title": "'Not Our World': This Greek Island Wants An End To Greece And Turkey's Feud",
-      "description": "Kastellorizo has become a pawn in a dispute between Greece and Turkey over maritime borders and offshore resources. But as the governments' standoff continues, islanders speak of peace and harmony.",
-      "url": "https://www.npr.org/2020/09/23/914305696/not-our-world-this-greek-island-wants-an-end-to-greece-and-turkey-s-feud",
-      "urlToImage": "https://media.npr.org/assets/img/2020/09/18/kastellorizo2020_14_wide-84b70c377ad6a90a77cb3ce99fc43378de3d39d9.jpg?s=1400",
-      "publishedAt": "2020-09-23T11:53:28Z",
-      "content": "The Greek island of Kastellorizo, shown here at sunset from the top of an ancient castle, is a little over a mile away from the Turkish shore. Known for its architecture, turquoise sea and friendship… [+14563 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "author": "FRANCE24",
-      "title": "Turkish President Erdogan discusses east Mediterranean with France's Macron",
-      "description": "#Turkey expects a prudent and constructive approach from France as de-escalation of #tensions in the eastern Mediterranean continues, President Tayyip #Erdogan said on Tuesday in a phone call with his French counterpart Emmanuel #Macron. FRANCE 24's Jasper Mo…",
-      "url": "https://www.france24.com/en/video/20200923-turkish-president-erdogan-discusses-east-mediterranean-with-france-s-macron",
-      "urlToImage": "https://s.france24.com/media/display/4d8204ba-fd87-11ea-aaf6-005056bff430/w:1280/p:16x9/EN_20200923_090957_091323_CS.jpg",
-      "publishedAt": "2020-09-23T10:27:00Z",
-      "content": "Issued on: 23/09/2020 - 12:27\r\n#Turkey expects a prudent and constructive approach from France as de-escalation of #tensions in the eastern Mediterranean continues, President Tayyip #Erdogan said on … [+111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Thema Newsroom",
-      "title": "Storyline of Erdogan’s rumoured extra-marital affair with a Turkish actress (photos-video)",
-      "description": "The actress had denied any affair with the Turkish President",
-      "url": "http://en.protothema.gr/storyline-of-erdogans-rumoured-extra-marital-affair-with-a-turkish-actress-photos-video/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/09/def33-150x150.jpg",
-      "publishedAt": "2020-09-23T10:06:50Z",
-      "content": "The president of Turkey, who has been in the international spotlight lately, with his provocative moves against Greece, was rumoured to have had an extra-marital affair with an actress.\r\nIt was short… [+2362 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Harmeet Kaur, CNN",
-      "title": "5 things to know for September 23: Covid-19, Breonna Taylor, UN, domestic violence",
-      "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
-      "url": "https://www.cnn.com/2020/09/23/us/five-things-september-23-trnd/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200914205019-05-200k-us-coronavirus-deaths-super-tease.jpg",
-      "publishedAt": "2020-09-23T09:59:52Z",
-      "content": "(CNN)As the US passes a sobering milestone, Covid-19 survivors have a message for those who view the pandemic as politics: The virus is not a hoax. \r\nHere's what you need to know to Get Up to Speed a… [+6761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WTHITV.com"
-      },
-      "author": null,
-      "title": "Leaders spar at UN General Assembly amid global crisis",
-      "description": "World leaders gathered virtually for the United Nations General Assembly (UNGA) during the UN's historic 75th anniversary. Besides the fierce exchanges between the US President Donald Trump and Chinese Ambassador to the UN, Chinese President Xi Jinping made p…",
-      "url": "https://www.wthitv.com/content/national/572500991.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200923092257-xi-jinping-united-nations-2020-composite-live-video.jpg",
-      "publishedAt": "2020-09-23T09:30:00Z",
-      "content": "World leaders gathered virtually Tuesday for this week's United Nations General Assembly (UNGA), with the UN's historic 75th anniversary overshadowed by strongmen leaders, fraying relations and a sen… [+5814 chars]"
+      "author": "Jeff Poor",
+      "title": "Ted Cruz: Religious Liberty, Free Speech, Second Amendment Threatened if Biden Wins",
+      "description": "During a Friday appearance on the Fox News Channel to promote his book \"One Vote Away: How a Single Supreme Court Seat Can Change History,\" Sen. Ted Cruz (R-TX) warned of consequences if former Vice President Joe Biden wins the presidency on November 3. | Cli…",
+      "url": "https://www.breitbart.com/clips/2020/10/09/ted-cruz-religious-liberty-free-speech-second-amendment-threatened-if-biden-wins/",
+      "urlToImage": "https://media.breitbart.com/media/2019/05/dsc_1621-640x335.jpg",
+      "publishedAt": "2020-10-10T05:54:18Z",
+      "content": "During a Friday appearance on the Fox News Channel to promote his book “One Vote Away: How a Single Supreme Court Seat Can Change History,” Sen. Ted Cruz (R-TX) warned of consequences if former Vice … [+1628 chars]"
     }
   ]
 }

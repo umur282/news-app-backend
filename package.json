@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "./node_modules/.bin/env-cmd -f ./config/dev.env nodemon ./app.js",
-    "fetch-fs": "./node_modules/.bin/env-cmd -f ./config/dev.env node ./json-data/fetch-fs.js"
+    "dev": "./node_modules/.bin/env-cmd -f ./config/dev.env nodemon ./app.js --ignore ./json-data/",
+    "fetch-fs": "./node_modules/.bin/env-cmd -f ./config/dev.env node ./functions/fetch-fs.js"
   },
   "author": "",
   "license": "ISC",
