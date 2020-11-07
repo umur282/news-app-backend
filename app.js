@@ -42,12 +42,16 @@ app.get('/every-news', async (req, res) => {
       validQueryObject[key] = value;
     }
   }
-  
-  await saveEveryNews(...Object.values(validQueryObject));
-  const bufferData = await fs.readFile('./json-data/everything.json');
-  const jsonData = parseBufferToJson(bufferData);
-  res.json(jsonData);
-})
+
+  if (validQueryObject.q === null && validQueryObject.qInTitle === null) {
+    res.send('Search in content or title');
+  } else {
+    await saveEveryNews(...Object.values(validQueryObject));
+    const bufferData = await fs.readFile('./json-data/everything.json');
+    const jsonData = parseBufferToJson(bufferData);
+    res.json(jsonData);
+  }
+});
 
 app.listen(port, () => {
   console.log(`listening at port: ${port}`);

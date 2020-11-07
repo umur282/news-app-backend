@@ -1,1085 +1,136 @@
 {
   "status": "ok",
-  "totalResults": 16755,
+  "totalResults": 2286,
   "articles": [
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Celine Castronuovo",
-      "title": "Local GOP, Democratic groups condemn letter threatening Biden supporters",
-      "description": "Local Maryland GOP and Democratic groups have condemned a letter left at a home with Biden-Harris signs that threatened to attack the Democratic candidates and their supporters.The Frederick Poli...",
-      "url": "https://thehill.com/homenews/state-watch/520474-local-gop-democratic-groups-condemn-letter-threatening-biden-supporters",
-      "urlToImage": "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg",
-      "publishedAt": "2020-10-10T15:32:20Z",
-      "content": "Local Maryland GOP and Democratic groups have condemned a letter left at a home with Biden-Harris signs that threatened to attack the Democratic candidates and their supporters.\r\nThe Frederick Police… [+2580 chars]"
+      "author": "Patrick Keddie",
+      "title": "What’s Turkey’s role in the Nagorno-Karabakh conflict?",
+      "description": "Turkey supports Azerbaijan and wants a seat at the negotiating table, but Ankara's interest goes beyond brotherly love.",
+      "url": "https://www.aljazeera.com/features/2020/10/30/whats-turkeys-role-in-the-nagorno-karabakh-conflict",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/10/2012-06-26T120000Z_1695407985_GM1E86R02Q801_RTRMADP_3_TURKEY-AZERBAIJAN-PIPE.jpg?resize=1200%2C630",
+      "publishedAt": "2020-10-30T09:44:17Z",
+      "content": "Istanbul, Turkey  NATO, the United States, Russia, and Iran have repeatedly called for an halt to the intense fighting that broke out between Azerbaijan and Armenia over the disputed region of Nagorn… [+10733 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Freerepublic.com"
+        "name": "Daily Mail"
       },
-      "author": "TTG",
-      "title": "BIDEN: Voters Dont Deserve To Know My Position on Court Packing",
-      "description": "Joe Biden on voters asking to know his position on court packing ABC News: Well sir, dont the voters deserve to know Biden: No, they dont deserve to know. WATCH BIDEN TELL REPORTER VOTERS DON'T DESERVE TO KNOW HIS POSITION...../a>",
-      "url": "https://www.freerepublic.com/focus/f-bloggers/3892421/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T15:31:37Z",
-      "content": "Skip to comments.\r\nBIDEN: Voters Dont Deserve To Know My Position on Court Packing\r\nTTG ^\r\n | 10/10/2020\r\n | Evan\r\nPosted on 10/10/2020 8:31:37 AM PDT by wrrock\r\nJoe Biden on voters’ asking to know h… [+2231 chars]"
+      "author": "By Chris Pleasance Jack Wright Nick Fagge Peter Allen In Paris for MailOnline",
+      "title": "Nice terror attack: Jihadist seen smiling in photo taken as he entered Europe",
+      "description": "Taken on October 8 as he entered mainland Europe through the Italian port city of Bari, this is the smiling face of Nice terrorist Brahim Aoussaoui who went on to massacre three people at a church.",
+      "url": "https://www.dailymail.co.uk/news/article-8896593/Nice-terror-attack-Jihadist-seen-smiling-photo-taken-entered-Europe.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/30/07/35030810-0-image-a-9_1604043339019.jpg",
+      "publishedAt": "2020-10-30T09:44:12Z",
+      "content": "Pictured smiling just weeks before massacring three people at a Catholic church in Nice, this is the face of terrorist killer Brahim Aoussaoui as he entered mainland Europe.\r\nThe picture was taken by… [+36821 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Free Malaysia Today"
+        "name": "The Japan Times"
       },
-      "author": "AFP",
-      "title": "Greta Thunberg urges US voters to pick Biden",
-      "description": "Current president Donald Trump once tweeted saying Greta has to work on her anger management.",
-      "url": "https://www.freemalaysiatoday.com/category/world/2020/10/10/greta-thunberg-urges-us-voters-to-pick-biden/",
-      "urlToImage": "https://s3media.freemalaysiatoday.com/wp-content/uploads/2020/10/AP20283276434362.jpg",
-      "publishedAt": "2020-10-10T15:29:54Z",
-      "content": "Climate activist Greta Thunberg attends a Fridays For Future protest outside the Swedish Parliament on Friday. (AP pic)\r\nSTOCKHOLM: Swedish environmental campaigner Greta Thunberg on Saturday asked U… [+1450 chars]"
+      "author": "Bobby Ghosh",
+      "title": "Terror attacks in France demand statesmanship, not demagoguery",
+      "description": "What leaders say at moments like these matters. And all the more so now because too many leaders have recently been unable or unwilling to say the right things.",
+      "url": "https://www.japantimes.co.jp/opinion/2020/10/30/commentary/world-commentary/terror-attacks-france-demand-statesmanship-not-demagoguery/",
+      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/10/np_file_47725-870x579.jpeg",
+      "publishedAt": "2020-10-30T09:20:17Z",
+      "content": "World leaders behave in a settled pattern after a terrorist attack, so we know what to expect after the gruesome events in Nice on Thursday.\r\nFrench President Emmanuel Macron will proclaim outrage at… [+4914 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Scottadamssays.com"
+        "name": "New York Times"
       },
-      "author": "Scott Adams, Scott Adams",
-      "title": "Episode 1150 Scott Adams: Biden and Kim Jong-Un and Hillary Email",
-      "description": "My new book LOSERTHINK, available now on Amazon https://tinyurl.com/rqmjc2a Find my “extra” content on Locals: https://ScottAdams.Locals.com Content: President Trump’s appropriate usage of the “F bomb” A coup without penalty…everyone walks? The big unexplaine…",
-      "url": "http://www.scottadamssays.com/2020/10/10/episode-1150-scott-adams-biden-and-kim-jong-un-and-hillary-email/",
-      "urlToImage": "http://www.scottadamssays.com/wp-content/uploads/2020/10/Episode-1150.png",
-      "publishedAt": "2020-10-10T15:28:10Z",
-      "content": "My new book LOSERTHINK, available now on Amazon https://tinyurl.com/rqmjc2a\r\nFind my “extra” content on Locals: https://ScottAdams.Locals.com\r\nContent:\r\n<ul><li>President Trump’s appropriate usage of… [+561 chars]"
+      "author": "Mustafa Akyol and Swaminathan S. Anklesaria Aiyar",
+      "title": "Why India’s Muslims Reach for Liberalism",
+      "description": "When Prime Minister Narendra Modi makes Hindus more equal than religious minorities, Muslims seek equality from the secular Constitution, not Shariah.",
+      "url": "https://www.nytimes.com/2020/10/30/opinion/india-muslims-liberalism.html",
+      "urlToImage": "https://static01.nyt.com/images/2020/10/30/opinion/30Akyol-01/30Akyol-01-facebookJumbo.jpg",
+      "publishedAt": "2020-10-30T09:00:17Z",
+      "content": "All such liberal moves, according to Sharik Laliwala, a Muslim Indian commentator, signify a fundamental transformation in the political strategy of the Muslim community. Indian Muslims, he added, ar… [+2136 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "The Associated Press",
+      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
+      "description": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, has died at age 72",
+      "url": "https://abcnews.go.com/International/wireStory/turkish-pm-veteran-politician-mesut-yilmaz-dies-73919777",
+      "urlToImage": "https://s.abcnews.com/images/International/WireAP_70c0dec6677f47e7808eabb520ffc1d2_16x9_992.jpg",
+      "publishedAt": "2020-10-30T08:55:16Z",
+      "content": "ISTANBUL -- Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the officia… [+1424 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Mediaite"
+        "name": "Toronto Star"
       },
-      "author": "Tommy Christopher",
-      "title": "Cindy McCain Cuts New Arizona-Targeted Ad for Biden: ‘Joe Will Always Fight for the American People — Just Like John Did’",
-      "description": "Cindy McCain, wife of late Arizona Senator John McCain, has cut a new ad for Joe Biden in which she extolls Biden's friendship with her husband, and says the former VP \"will always fight for the American people. Just like John did.\"",
-      "url": "https://www.mediaite.com/news/cindy-mccain-cuts-new-arizona-targeted-ad-for-biden-joe-will-always-fight-for-the-american-people-just-like-john-did/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2020/10/Cindy-McCain-Biden-ad-1200x675.jpg",
-      "publishedAt": "2020-10-10T15:22:31Z",
-      "content": "Cindy McCain, wife of late Arizona Senator John McCain, has cut a new ad for Joe Biden in which she extolls Biden’s friendship with her husband, and says the former VP “will always fight for the Amer… [+1995 chars]"
+      "author": "The Associated Press",
+      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
+      "description": "ISTANBUL - Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in...",
+      "url": "https://www.thestar.com/news/world/middleeast/2020/10/30/former-turkish-pm-and-veteran-politician-mesut-yilmaz-dies.html",
+      "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
+      "publishedAt": "2020-10-30T08:54:24Z",
+      "content": "ISTANBUL - Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the official… [+1423 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Tathasta.com"
+        "id": "independent",
+        "name": "Independent"
       },
-      "author": "suman",
-      "title": "Democrat Joe Biden: Voters ‘Don’t’ Deserve To Know If I’m Going To Pack Supreme Court",
-      "description": "Democratic presidential nominee Joe Biden told a local news reporter on Friday afternoon that voters do not deserve to know whether he will pack the Supreme Court if he wins the upcoming the election.",
-      "url": "http://www.tathasta.com/2020/10/democrat-joe-biden-voters-dont-deserve.html",
-      "urlToImage": "https://lh3.googleusercontent.com/-dVt0TgoZhCs/X4HKsLRFjUI/AAAAAAAAB0Y/XR-_seFfFvk9SK2b0WOL23mM_twWMNsqgCLcBGAsYHQ/w1200-h630-p-k-no-nu/image.png",
-      "publishedAt": "2020-10-10T15:11:38Z",
-      "content": "“Sir, I’ve got to ask you about packing the courts and I know you said yesterday you aren’t going to answer the question until after the election, but this is the number one thing that I’ve been aski… [+2517 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Jordan Williams",
-      "title": "Teen climate change activist Greta Thunberg endorses Biden",
-      "description": "Teen climate change activist Greta Thunberg has endorsed Democratic presidential nominee Joe Biden.",
-      "url": "https://thehill.com/homenews/campaign/520473-teen-climate-change-activist-greta-thunberg-endorses-biden",
-      "urlToImage": "https://thehill.com/sites/default/files/ca_thunbergbbc_021120getty.jpg",
-      "publishedAt": "2020-10-10T15:10:42Z",
-      "content": "Teen climate change activist Greta Thunberg has endorsed Democratic presidential nominee Joe BidenJoe BidenFederal judge shoots down Texas proclamation allowing one ballot drop-off location per count… [+2179 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "author": null,
-      "title": "Greta Thunberg urges US voters to support Joe Biden in election",
-      "description": "Teen climate-change activist Greta Thunberg showed support for Democrat Joe Biden on Saturday, urging voters concerned about the environment to make their voices heard in the US presidential election.",
-      "url": "https://www.smh.com.au/world/europe/greta-thunberg-urges-us-voters-to-support-joe-biden-in-election-20201011-p563xc.html",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.4723%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_295%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/84d2d5eda84a414dced36ef0be494b2264d10f0e",
-      "publishedAt": "2020-10-10T15:05:31Z",
-      "content": "Stockholm: Teen climate-change activist Greta Thunberg showed support for Democrat Joe Biden on Saturday, urging voters concerned about the environment to make their voices heard in the US presidenti… [+582 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Analysis by Harry Enten, CNN",
-      "title": "Why Donald Trump still has a shot against Joe Biden",
-      "description": "The polls look awful for President Donald Trump. He will probably lose. Yet, with more than three weeks to go until Election Day, it's important to note that Trump still has a non-trivial chance of winning",
-      "url": "https://www.cnn.com/2020/10/10/politics/polling-trump-can-win/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg",
-      "publishedAt": "2020-10-10T15:00:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Colby Itkowitz",
-      "title": "Election live updates: Trump to address supporters at White House event; Biden campaigns in Erie, Pa.",
-      "description": "President Trump, who has yet to reveal results of his most recent coronavirus test, will address supporters at the White House from a balcony as they gather on the lawn.",
-      "url": "https://www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6MWK4QK4II6XBYZBXYVTUKHSQ.jpg&w=1440",
-      "publishedAt": "2020-10-10T14:56:39Z",
-      "content": "Biden leads Trump by 11 percentage points nationally, 53 percent to 42 percent, according to an average of national polls since Sept. 16. Bidens margin is smaller in key states: eight points in Penns… [+1218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "www.brayincandy.com",
-      "title": "The Harris/Biden Campaign (Saturbray)",
-      "description": "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end. There are many devices in a man's heart; nevertheless the counsel of the LORD, that shall stand. Proverbs 19:20-21 (King James Version) To imagine Senile Joe picked Willie Brow…",
-      "url": "https://www.freerepublic.com/focus/f-news/3892411/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T14:56:11Z",
-      "content": "Skip to comments.\r\nThe Harris/Biden Campaign (Saturbray)www.brayincandy.com ^\r\n | 10/10/20\r\n | bray\r\nPosted on 10/10/2020 7:56:11 AM PDT by bray\r\nHear counsel, and receive instruction, that thou maye… [+13581 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Asma Khalid",
-      "title": "Michigan's Minority Voters: Lukewarm On Biden, But 'Damn Sure Don't Want Trump'",
-      "description": "Donald Trump won Michigan four years ago in part because turnout dipped among Black and brown voters in key Democratic strongholds. Joe Biden is trying to energize these voters, but some remain wary.",
-      "url": "https://www.npr.org/2020/10/10/922243751/michigans-minority-voters-lukewarm-on-biden-but-damn-sure-don-t-want-trump",
-      "urlToImage": "https://media.npr.org/assets/img/2020/10/10/gettyimages-1271608815_wide-2472d8d1225bb8834d7332e4fcfbcde6cffc8072.jpg?s=1400",
-      "publishedAt": "2020-10-10T14:56:03Z",
-      "content": "Joe Biden shops at Three Thirteen, a Detroit apparel store on Sept. 9. Biden is hoping Black and brown voters can help propel him to victory in Michigan, a state narrowly won by Trump in 2016.\r\nChip … [+7300 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WGN TV Chicago"
-      },
-      "author": "Sydney Kalich",
-      "title": "Trump lays out campaign return, Biden holds event in Pennsylvania",
-      "description": "President Donald Trump and his team laid out a return to political activities, including a big White House event on Saturday. Biden is holding an event in PA.",
-      "url": "https://wgntv.com/news/trump-lays-out-campaign-return-biden-holds-event-in-pennsylvania/",
-      "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2020/10/2020-10-07T224552Z_504895489_RC2YDJ9WGZ9E_RTRMADP_3_HEALTH-CORONAVIRUS-TRUMP.jpg?w=1280",
-      "publishedAt": "2020-10-10T14:55:57Z",
-      "content": "WASHINGTON (NewsNation Now) President Donald Trump and his team laid out a return to political activities, including a big White House event on Saturday and a rally in Florida on Monday, a week after… [+1474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaite"
-      },
-      "author": "Tommy Christopher",
-      "title": "Joe Biden QUINTUPLES Trump’s Support Among Non-White Voters in New Fox News Poll",
-      "description": "Former Vice President Joe Biden has a mammoth lead with non-white voters over President Donald Trump in the latest Fox News poll, quintupling Trump's support from that subgroup.",
-      "url": "https://www.mediaite.com/news/joe-biden-quintuples-trumps-support-among-non-white-voters-in-new-fox-news-poll/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-Donald-Trump-Getty-Split-1200x675.png",
-      "publishedAt": "2020-10-10T14:50:59Z",
-      "content": "Photo credit: Joyce N. Boghosian, The White House via Getty Images, Chip Somodevilla/Getty Images.\r\nFormer Vice President Joe Biden has a mammoth lead with non-white voters over President Donald Trum… [+1112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Wire"
-      },
-      "author": "Daily Wire News",
-      "title": "Democrat Joe Biden: Voters ‘Don’t’ Deserve To Know If I’m Going To Pack Supreme Court | The Daily Wire",
-      "description": "Democratic presidential nominee Joe Biden told a local news reporter on Friday afternoon that voters do not deserve to know whether he will pack the Supreme Court if he wins the upcoming the election. WATCH: “Well sir, don’t the voters deserve to know—“ “No, …",
-      "url": "https://www.dailywire.com/news/democrat-joe-biden-voters-dont-deserve-to-know-if-im-going-to-pack-supreme-court",
-      "urlToImage": "https://dw-wp-production.imgix.net/2020/10/Biden-4-1200x800.jpg",
-      "publishedAt": "2020-10-10T14:45:49Z",
-      "content": "Democratic presidential nominee Joe Biden told a local news reporter on Friday afternoon that voters do not deserve to know whether he will pack the Supreme Court if he wins the upcoming the election… [+508 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Julia Musto",
-      "title": "Bernie Sanders to stump for Biden in Arizona with virtual town hall",
-      "description": "Independent Vermont Sen. Bernie Sanders will headline a virtual town hall Saturday in support of Arizona Democrats to help drum up support for Democratic presidential nominee Joe Biden and running-mate California Sen. Kamala Harris.",
-      "url": "https://www.foxnews.com/politics/bernie-sanders-to-stump-for-arizona-democrats-in-virtual-town-hall",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279856040245.jpg",
-      "publishedAt": "2020-10-10T14:41:49Z",
-      "content": "Bernie Sanders will headline a virtual town hall Saturday to help ArizonaDemocrats drum up support for presidential nominee Joe Biden.\r\nThe hope for the Biden campaign is that Sanders' legions of sup… [+2530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": null,
-      "title": "Climate Activist Greta Thunberg Urges US Voters To Pick Joe Biden",
-      "description": "Swedish environmental campaigner Greta Thunberg on Saturday asked US voters to choose Joe Biden, saying the outcome of the US presidential election was crucial for fighting climate change.",
-      "url": "https://www.ndtv.com/world-news/us-presidential-elections-2020-climate-activist-greta-thunberg-urges-us-voters-to-pick-joe-biden-2308214",
-      "urlToImage": "https://c.ndtvimg.com/2020-03/7s7rstpg_greta-thunberg-in-brussels-afp_625x300_04_March_20.jpg",
-      "publishedAt": "2020-10-10T14:40:42Z",
-      "content": "Joe Biden had hailed Greta Thunberg commitment to the fight against climate change. (File)\r\nStockholm: Swedish environmental campaigner Greta Thunberg on Saturday asked US voters to choose Joe Biden,… [+1557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Reason"
-      },
-      "author": "Jonathan H. Adler",
-      "title": "Of Biden, Bush, and the History of Judicial Confirmation Fights",
-      "description": "Imagine how things would be different had a 2002 Bush proposal to deescalate judicial nominations been adopted.",
-      "url": "https://reason.com/2020/10/10/of-biden-bush-and-the-history-of-judicial-confirmation-fights/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T14:35:33Z",
-      "content": "There is no question that judicial confirmations have become more contentious over the past thirty years. Things were relatively peaceful from the mid-1970s until the mid-1980s. President Carter had … [+7085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNA"
-      },
-      "author": "CNA",
-      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet",
-      "description": "Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election.",
-      "url": "https://www.channelnewsasia.com/news/world/greta-thunberg-support-joe-biden-climate-change-13249192",
-      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13249190/16x9/991/557/b5d417a74b741253ccc6368356ffc1da/eX/file-photo--swedish-climate-activist-greta-thunberg-leaves-fridays-for-future-protest-in-stockholm-2.jpg",
-      "publishedAt": "2020-10-10T14:35:09Z",
-      "content": "STOCKHOLM: Teen climate-change fighter Greta Thunberg on Saturday (Oct 10) showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the US pr… [+1547 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "The Star Online",
-      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet",
-      "description": "STOCKHOLM (Reuters) - Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2020/10/10/climate-activist-greta-thunberg-shows-support-for-biden-in-rare-political-tweet",
-      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2020/10/10/894001.JPG",
-      "publishedAt": "2020-10-10T14:34:00Z",
-      "content": "STOCKHOLM (Reuters) - Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S… [+1560 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Hannah Bleau, \nHannah Bleau",
-      "title": "Watch: Joe Biden Lowers Mask to Cough in Hand During Speech",
-      "description": "Former Vice President Joe Biden briefly lowered his mask to uncover his mouth and coughed in his hand while delivering a speech.",
-      "url": "https://www.breitbart.com/politics/2020/10/10/watch-joe-biden-lowers-mask-to-cough-in-hand-during-speech/",
-      "urlToImage": "https://media.breitbart.com/media/2020/10/Biden-mask-640x335.jpg",
-      "publishedAt": "2020-10-10T14:23:34Z",
-      "content": "Former Vice President Joe Biden (D) briefly lowered his mask to uncover his mouth and coughed in his hand while delivering a speech in Las Vegas, Nevada on Friday.\r\nBiden stumped in Las Vegas on Frid… [+2743 chars]"
-    },
-    {
-      "source": {
-        "id": "the-jerusalem-post",
-        "name": "The Jerusalem Post"
-      },
-      "author": "By REUTERS",
-      "title": "Greta Thunberg shows support for Biden in rare political tweet",
-      "description": "She said that she never engages in party politics, but that \"the upcoming US elections is above and beyond all that.\"",
-      "url": "https://www.jpost.com/international/greta-thunberg-shows-support-for-biden-in-rare-political-tweet-645248",
-      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/452760",
-      "publishedAt": "2020-10-10T14:20:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "STLtoday.com"
-      },
-      "author": "By Tamara Lush Associated Press",
-      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages",
-      "description": "Mostly, it seems, older voters have been put off by Trump's handling of the coronavirus, which affects these voters more acutely than others. They were particularly alarmed by Trump's performances at daily task force briefings in the spring because his…",
-      "url": "https://www.stltoday.com/news/national/govt-and-politics/a-senior-warning-sign-for-trump-go-biden-cry-at-villages/article_12fa3072-191a-5d9d-9162-654f41e655ce.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/ec/aecef315-073e-58af-b712-bedff7a516e6/5f81c407b1e3c.image.jpg?crop=341%2C192%2C0%2C160&resize=356%2C200&order=crop%2Cresize",
-      "publishedAt": "2020-10-10T14:19:00Z",
-      "content": "\"That's the group that's leaving Trump,\" she said. \"And it's because of his demeanor, more than his policies. For older women, especially. They went through the battles. They frankly do not appreciat… [+1438 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet - Reuters",
-      "description": "Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election.",
-      "url": "https://www.reuters.com/article/us-usa-election-thunberg-idUSKBN26V0NO",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536961395&r=LYNXMPEG990C9&w=800",
-      "publishedAt": "2020-10-10T14:18:00Z",
-      "content": "By Reuters Staff\r\nSTOCKHOLM (Reuters) - Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voice… [+1494 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "Climate activist Greta Thunberg shows support for Biden in rare political tweet - Reuters UK",
-      "description": "Teen climate-change fighter Greta Thunberg on Saturday showed support for Democrat Joe Biden, urging voters concerned about the environment to make their voices heard in the U.S. presidential election.",
-      "url": "https://www.reuters.com/article/uk-usa-election-thunberg-idUKKBN26V0NI",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201010&t=2&i=1536961227&r=LYNXMPEG990C7&w=800",
-      "publishedAt": "2020-10-10T14:16:00Z",
-      "content": "By Reuters Staff\r\nFILE PHOTO: Swedish climate activist Greta Thunberg attends a Fridays For Future protest at the Swedish Parliament (Riksdagen) in Stockholm, Sweden October 9, 2020. Jessica Gow /TT … [+1701 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lizzy Gurdus",
-      "title": "What a Joe Biden win could mean for the ETF industry",
-      "description": "As the 2020 presidential race intensifies, three market analysts assess what the possible outcomes could mean for exchange-traded funds.",
-      "url": "https://www.cnbc.com/2020/10/10/etf-edge-gurdus-w.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106732745-1602017926075-joey.jpg?v=1602017961",
-      "publishedAt": "2020-10-10T14:15:01Z",
-      "content": "Exchange-traded funds are in for an eventful election season.\r\nAs former Vice President Joe Biden leads President Donald Trump in the polls less than a month ahead of the presidential election, some … [+2704 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia? - Fox News",
-      "description": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?Fox News Commission cancels second debate between Trump and BidenCNN Biden moves to stave off surprise loss in NevadaPOLITICO Larry Elder: Attacks on Trump’s COVID-19 response per…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137078268",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T14:13:44Z",
-      "content": "\"Luke, I'm yer father, eh. Come over to the dark side, you hoser.\"\r\n-- Dave Thomas, \"Strange Brew\""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Sarah Mucha, CNN",
-      "title": "Biden campaign launches first ad featuring Cindy McCain",
-      "description": "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battlegroun…",
-      "url": "https://www.cnn.com/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200923170004-cindy-mccain-intv-super-tease.jpg",
-      "publishedAt": "2020-10-10T14:07:49Z",
-      "content": "(CNN)Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground… [+2423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mediaite"
-      },
-      "author": "Tommy Christopher",
-      "title": "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer",
-      "description": "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer.",
-      "url": "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/",
-      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg",
-      "publishedAt": "2020-10-10T14:01:49Z",
-      "content": "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it’s “a legitimate question” then ga… [+3929 chars]"
+      "author": "Via AP news wire",
+      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
+      "description": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, has died at age 72",
+      "url": "https://www.independent.co.uk/news/former-turkish-pm-and-veteran-politician-mesut-yilmaz-dies-politician-government-pm-country-two-b1443483.html",
+      "urlToImage": "https://static.independent.co.uk/2020/10/30/08/Turkey_Obit_Yilmaz_13690.jpg",
+      "publishedAt": "2020-10-30T08:53:57Z",
+      "content": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country died Friday at age 72, the official Anadolu new… [+1412 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Brittany Shepherd",
-      "title": "Biden campaign enlists Black mayors in get-out-the-vote ad push",
-      "description": "Joe Biden’s presidential campaign announced Saturday a seven-figure multi-media advertising buy for a spot featuring over a dozen Black mayors of major...",
-      "url": "https://news.yahoo.com/biden-campaign-enlists-black-mayors-in-getoutthevote-ad-push-140013779.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/xjN6HCATwMy8WsVa2lkQpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NzI-/https://s.yimg.com/uu/api/res/1.2/cVkd7ao.wTqfTLUG2MQtiQ--~B/aD0xNDg0O3c9MjgyNjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-10/e3045ae0-0af9-11eb-8ff7-94ec72e85651",
-      "publishedAt": "2020-10-10T14:00:13Z",
-      "content": "Black mayors of major U.S. cities urge Black voters to turn out in a new Joe Biden ad.\r\nhttps://ad.doubleclick.net/ddm/trackclk/N360801.1913355YAHOOADMANAGER/B23877668.283695875;dc_trk_aid=463692681;… [+3433 chars]"
+      "author": "Associated Press",
+      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
+      "description": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the official Anadolu news agency reported. Yilmaz led the now-defunct center-right …",
+      "url": "https://news.yahoo.com/former-turkish-pm-veteran-politician-085355596.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/mtqHmmx8_hrVekbq3wMjMQ--~B/aD0yMDAwO3c9MTg2NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap.org/845b7954e0b80007e3a52ad4455aacb6",
+      "publishedAt": "2020-10-30T08:53:55Z",
+      "content": "ISTANBUL (AP) Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the offic… [+1426 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Memeorandum.com"
+        "name": "Sputnik International"
+      },
+      "author": "Dhairya Maheshwari . Sputnik International",
+      "title": "Macron Photos Plastered on Roads Amid Protests in Indian Cities as Outrage Grows Among Muslims",
+      "description": "The Indian government has condemned the recent terrorist attacks in France, including the heinous assault in Nice inside a church. India stands with France in the fight against terrorism, Prime Minister Narendra Modi tweeted on Thursday.",
+      "url": "https://sputniknews.com/india/202010301080923013-macron-photos-plastered-on-roads-amid-protests-in-indian-cities-as-outrage-grows-among-muslims/",
+      "urlToImage": "https://cdn2.img.sputniknews.com/images/07e4/0a/1e/1080924279.jpg",
+      "publishedAt": "2020-10-30T08:16:26Z",
+      "content": "The Indian government has condemned the recent terrorist attacks in France, including the heinous assault in Nice inside a church. India stands with France in the fight against terrorism, Prime Minis… [+3757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "bdnews24.com"
       },
       "author": null,
-      "title": "Biden enters final weeks in commanding position as Trump wastes precious days (Eric Bradner/CNN)",
-      "description": "Eric Bradner / CNN:\nBiden enters final weeks in commanding position as Trump wastes precious days  —  Who is winning the 2020 election money race?  —  (CNN)Joe Biden is in a commanding position as the presidential race enters its final stretch, leading Presid…",
-      "url": "https://www.memeorandum.com/201010/p21",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg",
-      "publishedAt": "2020-10-10T14:00:06Z",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "AP Domestic, AP",
-      "title": "A warning sign for Trump: 'Go Biden' at Villages",
-      "description": "Nowhere is the battle for the 2020 election more evident than in The Villages, the nation's largest retirement community, located in the all-important swing state of Florida. (Oct. 10)",
-      "url": "https://www.usatoday.com/videos/news/nation/2020/10/10/warning-sign-trump-go-biden-villages/5952556002/",
-      "urlToImage": "https://www.gannett-cdn.com/authoring/video-thumbnails/fe3eb578-3f71-4492-b421-ff9de01388d4_poster.jpg?quality=10",
-      "publishedAt": "2020-10-10T13:57:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Teen Vogue"
-      },
-      "author": "De Elizabeth",
-      "title": "Commission on Presidential Debates Cancels Second Debate Between Trump and Biden",
-      "description": "The second presidential debate between Donald Trump and Joe Biden has been canceled.",
-      "url": "https://www.teenvogue.com/story/second-debate-canceled-trump-biden",
-      "urlToImage": "https://assets.teenvogue.com/photos/5f81ba6121f250e0096e7f9a/16:9/w_1280,c_limit/debate-FB.jpg",
-      "publishedAt": "2020-10-10T13:47:17Z",
-      "content": "The second presidential debate between Donald Trump and Joe Biden has officially been canceled by the Commission on Presidential Debates (CPD), CNN reports. The decision comes after two days of discu… [+3786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Domigood.com"
-      },
-      "author": "mayaleo",
-      "title": "BUSTED! Joe Biden Removes His Face Mask to Cough – Then He’s Seen Inside a Gym and Around Other People without a Mask! (VIDEO)",
-      "description": "Daily Dose Of Entertaiment",
-      "url": "http://www.domigood.com/2020/10/busted-joe-biden-removes-his-face-mask.html",
-      "urlToImage": "https://lh3.googleusercontent.com/proxy/Ka-SFW4f2CX4Q5bJYI8xHtE6fCEvQR7OGlet1LgQUadX-rNb0PM6hhQRjsmxgot8Yascwe36zTCbnlNUMomvM1_Lrb0W_7InHWJbyMYauIOPsYDNM3Bqa8uq2WEP_6k=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T13:46:38Z",
-      "content": "Mask Nazi Joe Biden got caught without his face mask on while he was indoors and near other people on Friday during his campaign stop in Nevada.\r\nBiden has repeatedly called for a nationwide mask man… [+576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Https"
-      },
-      "author": null,
-      "title": "Biden dodges court-packing questions as Supreme Court nomination moves forward",
-      "description": "\"They'll know my position on court-packing when the election is over,\" Biden said.",
-      "url": "https://https://6abc.com/politics/biden-harris-dodge-questions-about-supreme-court-expansion/6915427/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T13:40:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Https"
-      },
-      "author": null,
-      "title": "Biden dodges court-packing questions as Supreme Court nomination moves forward",
-      "description": "\"They'll know my position on court-packing when the election is over,\" Biden said.",
-      "url": "https://https://abc7.com/politics/biden-harris-dodge-questions-about-supreme-court-expansion/6915427/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T13:40:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AlterNet"
-      },
-      "author": "Tom Boggioni",
-      "title": "'The entire map has moved': Trump's faltering campaign has handed Biden 'multiple pathways' to victory",
-      "description": "According to a report from CNN, Donald Trump's chances of being re-elected are diminishing daily which is handing his Democratic opponent, former Vice President Joe Biden, multiple pathways to the presidency.Noting the president is falling behind in both poll…",
-      "url": "https://www.alternet.org/2020/10/the-entire-map-has-moved-trumps-faltering-campaign-has-handed-biden-multiple-pathways-to-victory/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T13:39:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Stationgossip.com"
-      },
-      "author": "orraz",
-      "title": "The REAL winner of the debates: Fly that landed on Mike Pence's head got more mentions on Twitter than any of the 2020 candidates, including Trump and Biden",
-      "description": "Vice President Mike Pence and Senator Kamala Harris went head-to-head during a debate Wednesday, but a third-participant showed up and stole the show – a little housefly.",
-      "url": "http://www.stationgossip.com/2020/10/the-real-winner-of-debates-fly-that.html",
-      "urlToImage": "https://lh4.googleusercontent.com/proxy/25e2NEWUdemohAUOKqrP2EYjrZMh4W8KI93Urlu2pLBEPdGNMJssUaon6l1S5Qogg5PQefOAPr52Z35JUiZbOkDJLTTEVStY47x6-jL6m2gfZYAnsu6Zmxp04IKjZ5aU4JuB84343lqpVuM=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T13:38:28Z",
-      "content": "Vice President Mike Pence and Senator Kamala Harris went head-to-head during a debate Wednesday, but a third-participant showed up and stole the show – a little housefly.\r\nThe insect landed on Pence'… [+3881 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hideoutnow.com"
-      },
-      "author": "pooja",
-      "title": "Joe Biden Continues to Smear Trump after Trump-Hating Anarchist Arrested for Alleged Kidnapping Plot Against Gretchen Whitmer",
-      "description": "The FBI announced on Thursday during a press conference that it thwarted a plot by a so-called “right-wing militia” to kidnap and kill Michigan Governor Gretchen Whitmer and overthrow the state government.",
-      "url": "http://www.hideoutnow.com/2020/10/joe-biden-continues-to-smear-trump.html",
-      "urlToImage": "https://lh6.googleusercontent.com/proxy/DSKFwO_InnmTM4e5hYAeInIhjS1xN7esp_VuEfU8kJPkwgR16v4dsmSCtkieaPHiZGqxKXRiuoEH6Olb8MSYBSrC63ztLtGN8paNKnSZsMZRhXRoIPV6mgrAnTLtVPc=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T13:32:58Z",
-      "content": "Brandon Caserta\r\nThe FBI announced on Thursday during a press conference that it thwarted a plot by a so-called “right-wing militia” to kidnap and kill Michigan Governor Gretchen Whitmer and overthro… [+1078 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Tom Boggioni",
-      "title": "‘The entire map has moved’: Trump’s faltering campaign has handed Biden ‘multiple pathways’ to victory",
-      "description": "According to a report from CNN, Donald Trump’s chances of being re-elected are diminishing daily which is handing his Democratic opponent, former Vice President Joe Biden, multiple pathways to the presidency. Noting the president is falling behind in both pol…",
-      "url": "https://www.rawstory.com/2020/10/the-entire-map-has-moved-trumps-faltering-campaign-has-handed-biden-multiple-pathways-to-victory/",
-      "urlToImage": "https://www.rawstory.com/wp-content/uploads/2020/09/Trump_biden.jpg",
-      "publishedAt": "2020-10-10T13:31:43Z",
-      "content": "According to a report from CNN, Donald Trump’s chances of being re-elected are diminishing daily which is handing his Democratic opponent, former Vice President Joe Biden, multiple pathways to the pr… [+4647 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "AP",
-      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages",
-      "description": "Branscome's cart was festooned with two American flags that flapped in the warm afternoon breeze. A line of oncoming carts bedecked with balloons and patriotic streamers chugged past while honking. Branscome jabbed her left foot on the horn pedal, then gave a…",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-senior-warning-sign-for-trump-go-biden-cry-at-villages/articleshow/78592261.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-78592273,width-1070,height-580,imgsize-212513,overlay-economictimes/photo.jpg",
-      "publishedAt": "2020-10-10T13:23:53Z",
-      "content": "Sara Branscome's golf cart whizzed down the smooth asphalt path that winds through The Villages, the nation's largest retirement community, an expanse of beautiful homes, shops and entertainment venu… [+5011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Memeorandum.com"
-      },
-      "author": null,
-      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages (Tamara Lush/Associated Press)",
-      "description": "Tamara Lush / Associated Press:\nA senior warning sign for Trump: ‘Go Biden’ cry at Villages  —  THE VILLAGES, Fla. (AP) — Sara Branscom's golf cart whizzed down the smooth asphalt path that winds through The Villages, the nation's largest retirement community…",
-      "url": "https://www.memeorandum.com/201010/p14",
-      "urlToImage": "https://storage.googleapis.com/afs-prod/media/2a712bf9146e4ee0be7a25c8e8d9a8df/3000.jpeg",
-      "publishedAt": "2020-10-10T13:20:05Z",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": "Mike Rivero",
-      "title": "Chris Wallace ‘jumped on every grenade’ Trump threw at Biden",
-      "description": "Sky News host James Morrow says the problem President Donald Trump didn’t count on in the first presidential debate was the degree to which moderator Chris W...",
-      "url": "https://www.youtube.com/watch?v=aSXrO5QTTuc",
-      "urlToImage": "https://i.ytimg.com/vi/aSXrO5QTTuc/maxresdefault.jpg",
-      "publishedAt": "2020-10-10T13:15:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RealClearPolitics"
-      },
-      "author": "Rachel Bucchino, National Interest",
-      "title": "Biden, Democrats & the Court-Packing Nightmare",
-      "description": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.",
-      "url": "https://www.realclearpolitics.com/2020/10/10/biden_democrats_amp_the_court-packing_nightmare_525935.html",
-      "urlToImage": "https://assets.realclear.com/images/51/515124_5_.jpg",
-      "publishedAt": "2020-10-10T13:07:37Z",
-      "content": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.\r\nRead Full Article »"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Euronews"
-      },
-      "author": null,
-      "title": "US election: Trump plans more rallies as Biden slams president's 'reckless' conduct",
-      "description": "The US president's plans include another White House event but next week's scheduled TV debate is now officially off.",
-      "url": "https://www.euronews.com/2020/10/10/us-election-trump-plans-more-rallies-as-biden-slams-president-s-reckless-conduct",
-      "urlToImage": "https://static.euronews.com/articles/stories/05/04/64/86/1000x563_cmsv2_c9c71f13-a024-59a1-9753-5f4c194f014b-5046486.jpg",
-      "publishedAt": "2020-10-10T13:03:42Z",
-      "content": "Donald Trump will on Saturday hold his first in-person event since testing positive for the coronavirus.\r\nTwo weeks after the Rose Garden event that is now considered a “superspreader,” the US presid… [+5847 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "Townhall.com",
-      "title": "Study Reveals What the Biden-Harris Agenda Will Really Cost",
-      "description": "When Democratic Vice Presidential nominee Sen. Kamala Harris recently said, âthe economy is a disaster,â I thought of both the millions of Americans who get up and go to work every day grateful for the job they have and the many others who are not as fort…",
-      "url": "https://www.freerepublic.com/focus/f-news/3892384/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T13:03:26Z",
-      "content": "Skip to comments.\r\nStudy Reveals What the Biden-Harris Agenda Will Really CostTownhall.com ^\r\n | October 10, 2020\r\n | Bob McClure\r\nPosted on 10/10/2020 6:03:26 AM PDT by Kaslin\r\nWhen Democratic Vice … [+2350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GQ Magazine"
-      },
-      "author": "Cam Wolf",
-      "title": "Let Joe Biden Lead You...as a Watch Collector",
-      "description": "Biden is proof that collecting interesting and unique watches doesn’t need to cost a fortune.",
-      "url": "https://www.gq.com/story/watches-of-the-week-10-10-20",
-      "urlToImage": "https://media.gq.com/photos/5f8096e0ece9eb827214a633/16:9/w_1280,c_limit/wotw-biden.jpg",
-      "publishedAt": "2020-10-10T13:00:00Z",
-      "content": "Welcome toWatches of the Week, where we'll track the rarest, wildest, and most covetable watches spotted on celebrities.\r\nIf this whole president thing doesnt work out for Joe Biden, he should really… [+4814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "DB Daily Update",
-      "title": "Saturday News Roundup: Trump has Voter Enthusiasm, Biden Doesnt",
-      "description": "That time NPR lied to you, part 6,292,593.  The taxpayer-funded hacks at NPR spent all morning Friday claiming that President Trump was hoarse, congested and having difficulty breathing due to his bout with the China virus, all based, of course, on unnamed …",
-      "url": "https://www.freerepublic.com/focus/f-bloggers/3892381/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T12:58:45Z",
-      "content": "Skip to comments.\r\nSaturday News Roundup: Trump has Voter Enthusiasm, Biden DoesntDB Daily Update ^\r\n | David Blackmon\r\nPosted on 10/10/2020 5:58:45 AM PDT by EyesOfTX\r\nThat time NPR lied to you, par… [+5355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thegatewaypundit.com"
-      },
-      "author": "Cristina Laila",
-      "title": "Attendees Standing in Social Distancing Circles Laugh at Joe Biden When He Tells Them to Sit Down – But They Have No Chairs (VIDEO)",
-      "description": "Joe Biden spoke to a small group of people standing in social distancing circles during a campaign stop in Las Vegas, Nevada on Friday. At one point, Biden told people standing in social distancing circles to sit down, but they had no chairs. The attendees st…",
-      "url": "https://www.thegatewaypundit.com/2020/10/attendees-standing-social-distancing-circles-laugh-joe-biden-tells-sit-no-chairs-video/",
-      "urlToImage": "https://www.thegatewaypundit.com/wp-content/uploads/IMG_5176.jpg",
-      "publishedAt": "2020-10-10T12:52:14Z",
-      "content": "Joe Biden spoke to a small group of people standing in social distancing circles during a campaign stop in Las Vegas, Nevada on Friday.\r\nAt one point, Biden told people standing in social distancing … [+457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Domigood.com"
-      },
-      "author": "mayaleo",
-      "title": "Debate Moderator and Biden Pal Steve Scully Panics and Deletes His Twitter Account After Claiming He Got “Hacked”",
-      "description": "Steve Scully was supposed to moderate the second scheduled presidential debate that was set for October 15 in Miami.",
-      "url": "http://www.domigood.com/2020/10/debate-moderator-and-biden-pal-steve.html",
-      "urlToImage": "https://lh5.googleusercontent.com/proxy/n_qNMzXi0l-mlsz61H8QvrqJI-RBpCahj6mnRT6t0B8dC1yuKoBmS6ZbBIy5unoqWYX07XPxTPS6dM91_uOwLWKRC7a4myZcPKx9WPLrbOsVRWdJpjnioNMP3ihBkpwL=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T12:47:21Z",
-      "content": "Steve Scully was supposed to moderate the second scheduled presidential debate that was set for October 15 in Miami.\r\nThat was until the debate commission changed it from an in person to virtual town… [+917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PJ Media"
-      },
-      "author": "Glenn Reynolds",
-      "title": "PAUL BEDARD: Charge: It’s a 2-point race, not 16, pro-Biden media polls trying to suppress Trump …",
-      "description": "PAUL BEDARD: Charge: It’s a 2-point race, not 16, pro-Biden media polls trying to suppress Trump vote. To be fair, they’re also trying to make cover for Democrats’ election-stealing efforts.",
-      "url": "https://pjmedia.com/instapundit/405770/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T12:30:19Z",
-      "content": "PAUL BEDARD: Charge: Its a 2-point race, not 16, pro-Biden media polls trying to suppress Trump vote.\r\nTo be fair, they’re also trying to make cover for Democrats’ election-stealing efforts."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Salon"
-      },
-      "author": "Jay Hancock",
-      "title": "As Trump touts his \"great\" COVID drugs, the Big Pharma cash flows to Biden",
-      "description": "In the final stretch of the campaign, former Vice President Joe Biden is feeling the love in pharma contributions",
-      "url": "https://www.salon.com/2020/10/10/as-trump-touts-his-great-covid-drugs-the-big-pharma-cash-flows-to-biden_partner/",
-      "urlToImage": "https://media.salon.com/2020/07/donald-trump-joe-biden-0726201.jpg",
-      "publishedAt": "2020-10-10T12:29:01Z",
-      "content": "Pharmaceutical giants Regeneron and Gilead Sciences got the kind of publicity money can't buy this week after President Donald Trump took their experimental drugs for his coronavirus infection, left … [+7108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RealClearPolitics"
-      },
-      "author": "Rachel Bucchino, National Interest",
-      "title": "Biden, Democrats & the Court-Packing Nightmare",
-      "description": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.",
-      "url": "https://www.realclearpolitics.com/2020/10/09/biden_democrats_amp_the_court-packing_nightmare_525935.html",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T12:28:48Z",
-      "content": "Republicans will turn up the heat on Democrats over court-packing as the Amy Coney Barrett hearings begin next week.\r\nRead Full Article »"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": "MOTUS A.D.",
-      "title": "The 2020 Joe Biden Ass Hattery Award",
-      "description": "Heres a classic display of Democrats emphasis on adhering to the letter of the law rather than the intent: Now who looks too stupid to follow the science with regards to the spread of the cooties? And this, even after Jake Tapper took the effort of school…",
-      "url": "https://www.freerepublic.com/focus/f-bloggers/3892370/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T12:23:17Z",
-      "content": "Skip to comments.\r\nThe 2020 Joe Biden Ass Hattery AwardMOTUS A.D. ^\r\n | 10-10-20\r\n | MOTUS\r\nPosted on 10/10/2020 5:23:17 AM PDT by NOBO2012\r\nHere’s a classic display of Democrat’s emphasis on adherin… [+1141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hideoutnow.com"
-      },
-      "author": "pooja",
-      "title": "Not Making Headlines: President Trump is Doing Better in Battleground Polls Against Biden than He Did Against Hillary",
-      "description": "President Trump is doing better in battleground states in 2020 against China Joe than he did in 2016 against crooked Hillary Clinton.",
-      "url": "http://www.hideoutnow.com/2020/10/not-making-headlines-president-trump-is.html",
-      "urlToImage": "https://lh4.googleusercontent.com/proxy/qXk8Ui6Y34I_IYKOF3ebWjzx-MbMchjzY_KJ6QYmaZsUDNLC8JcMlRXqmgCGcQfxWuKMYnC-czCBaF1VzcTjnuTjY-77XCesc4hJb3GYaTu6rtoKw17HNKrlAHbeyCWz2T7fMX0pnMrd9mQ294_COHd2SYBGi-4D4kcM_nig7JqMRYmeYIRTAqgEvEip=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T12:22:38Z",
-      "content": "Well this is not making headlines.\r\nPresident Trump is doing better in battleground states in 2020 against China Joe than he did in 2016 against crooked Hillary Clinton.\r\nAnd that is despite of the m… [+174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hideoutnow.com"
-      },
-      "author": "pooja",
-      "title": "A Record 56% of Americans Say They Are Better Off Today Than They Were Four Years Ago Under Obama-Biden",
-      "description": "This really comes as no surprise to anyone with a fair mind. A recent Gallup poll found that a record number of Americans – 56% – believe they are better off today than they were four years ago.",
-      "url": "http://www.hideoutnow.com/2020/10/a-record-56-of-americans-say-they-are.html",
-      "urlToImage": "https://lh3.googleusercontent.com/proxy/iqHIdPEupKCAHqNPty2Mh4zwTHLtThSWe98u-o51mEMm4EZaz83X-9mDh8Da09667cDtwao4H95uRCyUhvelu8IX8_ysnf_bGi72h_flPXIuapVcaM7CZj3RkTXO7IBMwdII4Zkd1gxoaEo=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T12:22:08Z",
-      "content": "This really comes as no surprise to anyone with a fair mind.  A recent Gallup poll found that a record number of Americans –  56% – believe they are better off today than they were four years ago. \r\n… [+2490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "A senior warning sign for Trump: 'Go Biden' cry at Villages - Yahoo News",
-      "description": "A senior warning sign for Trump: 'Go Biden' cry at VillagesYahoo News View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137074528",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T12:12:37Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hideoutnow.com"
-      },
-      "author": "pooja",
-      "title": "EXCLUSIVE UPDATE: Video of Joe Biden Calling for a Muslim Jihad Was Created, Translated, Promoted and Endorsed By the US Government",
-      "description": "Most Americans didn’t realize it or see it but Democrat Joe Biden in a recent ad called for Muslim Voters to wage jihad.",
-      "url": "http://www.hideoutnow.com/2020/10/exclusive-update-video-of-joe-biden.html",
-      "urlToImage": "https://lh6.googleusercontent.com/proxy/UrvQKbrryGqaEx-BZ2qdiUhD4lcBu5p6yLk_10LEIyv5wn5PBidVVnrP82tO7ASCAHbPDRUZjZA9zJ0p0VPaB4WFsEtpztVwhjNKG0J7fSJuacHoRSOmCTKQfW0oTRwcHA=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T12:05:32Z",
-      "content": "Most Americans didn’t realize it or see it but Democrat Joe Biden in a recent ad called for Muslim Voters to wage jihad.\r\nThe former Obama Vice President called for Muslim voters to wage Jihad while … [+2479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Los Angeles Times"
-      },
-      "author": "Melissa Gomez",
-      "title": "Biden supporters flock from other states to door-knock in Arizona, where it matters",
-      "description": "The Biden campaign has mostly done virtual outreach because of the pandemic, but union members and others have moved to Arizona to knock on doors.",
-      "url": "https://www.latimes.com/politics/story/2020-10-10/arizona-democrats-election",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/faf5758/2147483647/strip/true/crop/1536x806+0+59/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbc%2Fb4%2Ffadf46e64e4fba157ce302e408f0%2Fla-pol-na-pol-2020-arizona-democratic-volunteers01.JPG",
-      "publishedAt": "2020-10-10T12:00:28Z",
-      "content": "Alex Rosado hasnt hugged his father in months, and he blames President Trump. Rosado said the presidents failure to contain the coronavirus pandemic has kept him away from his dad and made him want t… [+6978 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "Mike Rivero",
-      "title": "Thanks, Europeans. Your overwhelming support for Biden means Trump’s now more likely to win. You just don’t understand us at all",
-      "description": "Polls taken in seven European countries reveal they massively favor Biden there, by 67 percent to 14 percent for the incumbent. It just shows that continent’s ignorance of the US, and will make Americans more likely to vote Trump.\nAs an American who’s lived i…",
-      "url": "https://www.rt.com/op-ed/503068-europeans-joe-biden-trump/",
-      "urlToImage": "https://cdni.rt.com/files/2020.10/article/5f8080e385f5400dd67a96e9.jpg",
-      "publishedAt": "2020-10-10T12:00:27Z",
-      "content": "As an American who’s lived in Europe for the majority of my adult life (if Brexit Britain can still be described as being part of that continent), I am constantly amazed at how little people over her… [+7257 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cuzzblue.com"
-      },
-      "author": "mayaleo",
-      "title": "Joe Biden’s Handlers Shoo Away Reporters After Biden Finishes Las Vegas Speech, Panders to Latinos, Takes a Knee (VIDEO)",
-      "description": "Joe Biden on Friday traveled to Nevada for a campaign stop.\nBiden took in Mariachi music before he delivered remarks in East Las Vegas.",
-      "url": "http://www.cuzzblue.com/2020/10/joe-bidens-handlers-shoo-away-reporters.html",
-      "urlToImage": "https://lh4.googleusercontent.com/proxy/hlgZwpHmf5JP5zPO3XgdImXbkBMyz5nyM1MadMdzEb_B1xO815XoHSrJzovBWBlSc15B6Xh8ApKDqwAdYJenoeIwbhTuuVA9OHW7D27se7tt3Azr9fiNIlLi4okLo8Y=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T12:00:16Z",
-      "content": "Joe Biden on Friday traveled to Nevada for a campaign stop.\r\nBiden took in Mariachi music before he delivered remarks in East Las Vegas.\r\n77-year-old Joe Biden pandered to the Latino community and cr… [+829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Stationgossip.com"
-      },
-      "author": "orraz",
-      "title": "“Go Home Joe!” – Trump Supporters Tell Biden How They Really Feel About His Trip to Las Vegas as His Motorcade Drives By (VIDEO)",
-      "description": "Creepy Joe Biden traveled to Nevada on Friday and delivered remarks at two separate campaign events.",
-      "url": "http://www.stationgossip.com/2020/10/go-home-joe-trump-supporters-tell-biden.html",
-      "urlToImage": "https://lh5.googleusercontent.com/proxy/yovbOd1X52m-kcPwDAVWPlwDXi3qEGAhMGGgS0iK8aqpdnWjZpogu3ZU5nwHsQ4t07rbI7qJz_MbnjomLnULhj67F31guY21jt6vagXW5cPkM3PlbUBpj9iezxQ5dZE=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T11:58:09Z",
-      "content": "Creepy Joe Biden traveled to Nevada on Friday and delivered remarks at two separate campaign events.\r\nOnly a handful of people showed up to Biden’s speech in East Las Vegas.\r\nThe entire event was cri… [+259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": "Mike Rivero",
-      "title": "Pollsters claim 'Joe Biden is surging'...do you believe these polls?",
-      "description": "Pollsters claim 'Joe Biden is surging'...do you believe these polls? The Duran: Episode 694. Via Bloomberg (https://www.bloomberg.com/news/articles/2020-10-0...",
-      "url": "https://www.youtube.com/watch?v=tJaCmYaS2xM",
-      "urlToImage": "https://i.ytimg.com/vi/tJaCmYaS2xM/maxresdefault.jpg",
-      "publishedAt": "2020-10-10T11:55:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investmentwatchblog.com"
-      },
-      "author": "alexmark",
-      "title": "Is Joe Biden Secretly Suffering From Parkinson's Disease? New Video Suggests YES",
-      "description": null,
-      "url": "https://www.investmentwatchblog.com/is-joe-biden-secretly-suffering-from-parkinsons-disease-new-video-suggests-yes/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T11:53:23Z",
-      "content": "Copyright Disclaimer: Works and images presented here fall under Fair Use Section 107 and are used for commentary on globally significant newsworthy events. Under Section 107 of the Copyright Act 197… [+456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Freerepublic.com"
-      },
-      "author": null,
-      "title": "YOUTUBE edited out the \"You ain't Black\" comment from Biden on Rush Limbaugh Trump Interview.",
-      "description": "In the live interview Rush played actual clips of Biden. One of them was the \"You ain't Black\" comment if you don't vote for me. Watching it this morning on YOUTUBE I noticed that clip was edited out. Unbelievable. They just went on with the commentary withou…",
-      "url": "https://www.freerepublic.com/focus/f-chat/3892364/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T11:41:14Z",
-      "content": "Skip to comments.\r\nYOUTUBE edited out the \"You ain't Black\" comment from Biden on Rush Limbaugh Trump Interview.Posted on 10/10/2020 4:41:14 AM PDT by Saveourcountry\r\nIn the live interview Rush playe… [+1328 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Analysis by Harry Enten, CNN",
-      "title": "How Joe Biden is actually a good politician",
-      "description": "Democrats spent the primary season trying to find the perfect candidate to take on President Donald Trump. In the minds of some, they ended up \"settling\" on former Vice President Joe Biden.",
-      "url": "https://www.cnn.com/2020/10/10/politics/joe-biden-politician-analysis/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201006175423-03-biden-gettysburg-1006-super-tease.jpg",
-      "publishedAt": "2020-10-10T11:41:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PJ Media"
-      },
-      "author": "Glenn Reynolds",
-      "title": "COLLUSION: Putin Says He Wants to Work With Biden, Claims ‘Shared Values’ Between Democrats and Com…",
-      "description": "COLLUSION: Putin Says He Wants to Work With Biden, Claims ‘Shared Values’ Between Democrats and Communism.",
-      "url": "https://pjmedia.com/instapundit/405778/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T11:30:54Z",
-      "content": "As an Amazon Associate,I earn from qualifying purchases."
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "Your Weekend Reading: Trump Is Running Out of Time to Catch Biden",
-      "description": null,
-      "url": "https://www.bloomberg.com/news/newsletters/2020-10-10/your-weekend-reading-trump-is-running-out-of-time-to-catch-biden",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T11:30:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Paul Steinhauser",
-      "title": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?",
-      "description": "It’s been nearly three decades since a Democrat carried Georgia in a presidential election.",
-      "url": "https://www.foxnews.com/politics/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
-      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg",
-      "publishedAt": "2020-10-10T11:28:20Z",
-      "content": "It’s been nearly three decades since a Democrat carried Georgia in a presidential election.\r\nYou’ve got to go back to 1992, when then-Arkansas Gov. Bill Clinton won the state.\r\nBut Democratic preside… [+3138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PJ Media"
-      },
-      "author": "Ed Driscoll",
-      "title": "BIDEN-TRUMP PRESIDENTIAL DEBATE IN MIAMI OFFICIALLY CANCELED:\nAt this stage, the third Trump-Biden …",
-      "description": "BIDEN-TRUMP PRESIDENTIAL DEBATE IN MIAMI OFFICIALLY CANCELED: At this stage, the third Trump-Biden contest in Nashville on Oct. 22 is still going ahead. The Trump campaign later issued a statement on the cancelation. “There is no medical reason to stop the Oc…",
-      "url": "https://pjmedia.com/instapundit/405744/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T11:14:16Z",
-      "content": "BIDEN-TRUMP PRESIDENTIAL DEBATE IN MIAMI OFFICIALLY CANCELED:\r\nAt this stage, the third Trump-Biden contest in Nashville on Oct. 22 is still going ahead.\r\nThe Trump campaign later issued a statement … [+2862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yourdestinationnow.com"
-      },
-      "author": "neha1985",
-      "title": "Creepy Joe Biden Tells Young Boy During Campaign Stop in Nevada, “I’ve Got a Couple of People I’d Like You to Lasso” (VIDEO)",
-      "description": "Creepy Joe is at it again.\nJoe Biden on Friday traveled to Nevada for a campaign stop.",
-      "url": "http://www.yourdestinationnow.com/2020/10/creepy-joe-biden-tells-young-boy-during.html",
-      "urlToImage": "https://lh5.googleusercontent.com/proxy/BDeuTgnS5Qa8gAXun8FIU4wBT7sOoE4ubDPvRPLBFt3_QaAkTEHNwMG1JnbKqtzQ2iVUJBQp4tjF1MmpNjGJITVzHttKSTB9dqSSauoRaxRl0XKuzgav_diXzHBv1VU=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T11:12:56Z",
-      "content": "Creepy Joe is at it again.\r\nJoe Biden on Friday traveled to Nevada for a campaign stop.\r\nBiden took in Mariachi music before he delivered remarks in East Las Vegas.\r\nA young boy with a lasso showed o… [+647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Stationgossip.com"
-      },
-      "author": "orraz",
-      "title": "OMG! NO ONE Is Showing Up to Biden-Harris Events and NO ONE Is Watching Online – Biden-Harris Have Only 3% of President Trump’s Online Viewership",
-      "description": "The 2020 campaign is shaping up to become one of the most lopsided elections in history.",
-      "url": "http://www.stationgossip.com/2020/10/omg-no-one-is-showing-up-to-biden.html",
-      "urlToImage": "https://lh6.googleusercontent.com/proxy/wMk-7fRpg9TOwQWuzo64KCzm8ThWReh3P2PTXAmfFixV80caESKqHCwaBCr2VXvvsoBnS75QssT_XsVAou3SKgn0F356-PC_GZ2NLPXfeeAy_EwcxmGy67sfVc1infDD6MvIhQmi6mYwXM0pXVBOkwbIstWFgLI-ZdACwQ=w1200-h630-p-k-no-nu",
-      "publishedAt": "2020-10-10T11:10:52Z",
-      "content": "The media wants us to believe Biden is ahead in the polls but the President Trump is crushing Biden in events and viewership, in person and online.\r\nThe Democrats and their media continue to force th… [+1752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Liveleak.com"
-      },
-      "author": "Smitty Werbenjagermanjens",
-      "title": "Biden: World's 1st Segregationist / Integrationist",
-      "description": "GAME OVER! Worked with racists, sought their help, accepted their praise, attended their birthday parties, put his name on every crime bill, increased penalties & prisons, condescending attitudes towards blacks. \n\nOCTOBER SURPRISE! Send this link to everyone …",
-      "url": "https://www.liveleak.com/view?t=Cci4U_1602327893",
-      "urlToImage": "https://cdn3.liveleak.com/2020/Oct/10/LiveLeak-dot-com-5f81933d510ea_88_thumb.jpg",
-      "publishedAt": "2020-10-10T11:04:53Z",
-      "content": "GAME OVER! Worked with racists, sought their help, accepted their praise, attended their birthday parties, put his name on every crime bill, increased penalties &amp; prisons, condescending attitudes… [+638 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Erin Einhorn",
-      "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
-      "description": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Some of these voters say they plan to support Joe Biden in 2020.",
-      "url": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
-      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_41/3418868/201009-michigan-democrats-mn-1220_53056cbdd628d3ff081d82fed4e96fa0.nbcnews-fp-1200-630.jpg",
-      "publishedAt": "2020-10-10T11:01:25Z",
-      "content": "Proffer is one of those Richfield Township voters who comes from generations of Democrats. Her father was named after Woodrow Wilson, she said. \"We were a Democratic family.\"\r\nBut as she and her adul… [+7259 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Erin Einhorn",
-      "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
-      "description": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Some of these voters say they plan to support Joe Biden in 2020.",
-      "url": "https://www.nbcnews.com/news/us-news/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
-      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_41/3418868/201009-michigan-democrats-mn-1220_53056cbdd628d3ff081d82fed4e96fa0.nbcnews-fp-1200-630.jpg",
-      "publishedAt": "2020-10-10T11:01:00Z",
-      "content": "Proffer is one of those Richfield Township voters who comes from generations of Democrats. Her father was named after Woodrow Wilson, she said. \"We were a Democratic family.\"\r\nBut as she and her adul… [+7259 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "USA TODAY, Kate Sosin, The 19th",
-      "title": "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?",
-      "description": "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades.",
-      "url": "https://www.usatoday.com/story/news/politics/2020/10/10/trump-has-gutted-lgbtq-rights-biden-presidency-might-undo-damage/3608929001/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?crop=2399,1349,x0,y0&width=1600&height=800&fit=bounds",
-      "publishedAt": "2020-10-10T11:00:18Z",
-      "content": "This story was published in partnership with The 19th, a nonprofit, nonpartisan newsroom reporting on gender, politics and policy. \r\nFor a lot of LGBTQ+ Americans, Joe Biden is the man who fueled the… [+7273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Kate Sosin, The 19th",
-      "title": "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?",
-      "description": "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades.",
-      "url": "https://news.yahoo.com/trump-gutted-lgbtq-rights-could-110018333.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BMXiII1PK7_gQFnsshdTvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NzIuNTMzMzMzMzMzMzMzMw--/https://s.yimg.com/uu/api/res/1.2/FjLPxXkWIrSQFeu.y6YPig--~B/aD0xNjM2O3c9MjQwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-us/usa_today_news_641/1a9c093e731dff349748f405b8e81e89",
-      "publishedAt": "2020-10-10T11:00:18Z",
-      "content": "This story was published in partnership with The 19th, a nonprofit, nonpartisan newsroom reporting on gender, politics and policy. \r\nFor a lot of LGBTQ+ Americans, Joe Biden is the man who fueled the… [+6999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Biden enters final weeks in commanding position as Trump wastes precious days - CNN",
-      "description": "Biden enters final weeks in commanding position as Trump wastes precious daysCNN Biden moves to stave off surprise loss in NevadaPOLITICO Commission cancels second debate between Trump and BidenCNN Abolish the Debate Commission | OpinionNewsweek Opinion: A vi…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137071698",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T10:52:56Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Thomas Colson",
-      "title": "A Joe Biden presidency would repair most of the damage Trump has done to America's historic alliance with Europe",
-      "description": "Summary List Placement\n\nUnder Trump, relations between the United States and its longstanding European allies have hit a historic low.\nTrump's attacks on European leaders, his withdrawal from multilateral treaties and his wider 'America First' policy have res…",
-      "url": "https://www.businessinsider.com/joe-biden-donald-trump-us-europe-alliances-merkel-china-2020-10",
-      "urlToImage": "https://i.insider.com/5f808bdd4c3b2e0019bba2cd?width=1200&format=jpeg",
-      "publishedAt": "2020-10-10T10:45:00Z",
-      "content": "Business Insider\r\nUnder Trump, relations between the United States and its longstanding European allies have hit a historic low.\r\nTrump's attacks on European leaders, his withdrawal from multilateral… [+4664 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Raw Story"
-      },
-      "author": "Agence France-Presse",
-      "title": "Trump restarts public speeches, Biden calls it ‘reckless’",
-      "description": "Washington (AFP) – US President Donald Trump will give a public speech at the White House Saturday for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three weeks before the election.The 74-year-old…",
-      "url": "https://www.rawstory.com/2020/10/trump-restarts-public-speeches-biden-calls-it-reckless/",
-      "urlToImage": "https://www.rawstory.com/wp-content/uploads/2020/10/1674700-origin_1.jpg",
-      "publishedAt": "2020-10-10T10:33:42Z",
-      "content": "Enjoy good journalism?\r\n then let us make a small request. The COVID crisis has cut advertising rates in half, and we need your help. Like you, we here at Raw Story believe in the power of progressiv… [+1719 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "LocalNews8.com"
-      },
-      "author": "CNN",
-      "title": "Biden enters final weeks in commanding position as Trump wastes precious days",
-      "description": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory while Trump struggles to defend must-win states. With 24 days u…",
-      "url": "https://localnews8.com/politics/2020/10/10/biden-enters-final-weeks-in-commanding-position-as-trump-wastes-precious-days/",
-      "urlToImage": "https://localnews8.b-cdn.net/2019/11/Politics-logo-new.jpg",
-      "publishedAt": "2020-10-10T10:31:55Z",
-      "content": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory whi… [+7721 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tathasta.com"
-      },
-      "author": "suman",
-      "title": "Biden mocked for lowering his mask to cough in his hand",
-      "description": "Democratic vice presidential nominee Joe Biden was mocked on social media Friday for flouting basic hygiene rules, after a video went viral showing him pulling down his protective mask mid-speech in order to cough into his hand.",
-      "url": "http://www.tathasta.com/2020/10/biden-mocked-for-lowering-his-mask-to.html",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T10:19:08Z",
-      "content": "Democratic vice presidential nominee Joe Biden was mocked on social media Friday for flouting basic hygiene rules, after a video went viral showing him pulling down his protective mask mid-speech in … [+1587 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "Second presidential debate between President Trump, Joe Biden cancelled - WDIV ClickOnDetroit",
-      "description": "Second presidential debate between President Trump, Joe Biden cancelledWDIV ClickOnDetroit Commission cancels second debate between Trump and BidenCNN Bob Dole claims no Republicans on debate commission support Trump | TheHillThe Hill Abolish the Debate Commi…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137070192",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T10:12:49Z",
-      "content": "For every complex problem, there is a solution that is simple, neat, and wrong.\r\n-- H. L. Mencken"
+      "title": "New terror attacks leave France embattled at home and abroad",
+      "description": "A terror attack that killed three people in Nice on Thursday left France increasingly embattled at home and abroad, as the government called for toughening measures against Islamist extremism, amid rising tensions with Muslim nations.",
+      "url": "https://bdnews24.com/world/europe/2020/10/30/new-terror-attacks-leave-france-embattled-at-home-and-abroad",
+      "urlToImage": "https://d30fl32nd2baj9.cloudfront.net/media/2020/10/30/nice-attack-301020-01.jpg/ALTERNATES/w640/nice-attack-301020-01.jpg",
+      "publishedAt": "2020-10-30T07:59:52Z",
+      "content": "A knife-wielding assailant left two people dead in Nices towering neo-Gothic basilica, including a 60-year-old woman who was nearly decapitated, and a third victim died after taking refuge in a nearb… [+8650 chars]"
     },
     {
       "source": {
@@ -1087,103 +138,168 @@
         "name": "The Times of Israel"
       },
       "author": null,
-      "title": "Billy Crystal and Bill Kristol compete to endorse Biden",
-      "description": "Jewish Democratic Council of America ad including liberal star and conservative pundit to be featured online in swing states",
-      "url": "https://www.timesofisrael.com/billy-crystal-and-bill-kristol-compete-to-endorse-biden/",
-      "urlToImage": "https://static.timesofisrael.com/www/uploads/2020/10/10-09-2020-Crystal-Kristol-1024x640.png",
-      "publishedAt": "2020-10-10T10:07:44Z",
-      "content": "JTA — Take your pick: Crystal method, or Kristol, Bills persuasion.\r\nBilly Crystal, the actor and comedian, and Bill Kristol, the onetime top adviser to Republican officials who has become a prominen… [+1127 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "Averi Harper, John Verhovek",
-      "title": "Biden dodges court-packing questions as SCOTUS nomination moves forward",
-      "description": "The Biden campaign is dodging court-packing questions as the Supreme Court nomination moves forward.",
-      "url": "https://abcnews.go.com/Politics/biden-dodges-court-packing-questions-scotus-nomination-moves/story?id=73523933",
-      "urlToImage": "https://s.abcnews.com/images/Politics/biden-harris-ap-ml-201009_1602265874990_hpMain_16x9_992.jpg",
-      "publishedAt": "2020-10-10T10:03:49Z",
-      "content": "As the Senate moves forward on the president's Supreme Court pick, both former Vice President Joe Biden and his running mate, Sen. Kamala Harris, continue to deflect when asked if they would try to a… [+5146 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Eric Bradner, CNN",
-      "title": "Biden enters final weeks in commanding position as Trump wastes precious days",
-      "description": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory while Trump struggles to defend must-win states.",
-      "url": "https://www.cnn.com/2020/10/10/politics/2020-election-biden-trump/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg",
-      "publishedAt": "2020-10-10T09:35:55Z",
-      "content": "(CNN)Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victor… [+7620 chars]"
+      "title": "Israel-Arab accords an earthquake for Palestinians, who pin their hopes on Biden",
+      "description": "Sudan deal has deepened the shock in Ramallah, which is digging in despite impatience among erstwhile Sunni supporters. The Palestinians aren't going anywhere, but the PA might be",
+      "url": "https://www.timesofisrael.com/israel-arab-accords-an-earthquake-for-palestinians-who-pin-their-hopes-on-biden/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2020/10/AP_10031003714-1024x640.jpg",
+      "publishedAt": "2020-10-30T07:54:43Z",
+      "content": "The Organization of Islamic Cooperation has long been considered an anti-Israel institute, to put it mildly.\r\nIt was established following an Australian tourists attempt to burn down Jerusalem’s Al A… [+11657 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Upstract.com"
-      },
-      "author": "editors",
-      "title": "Biden enters final weeks in commanding position as Trump wastes precious days",
-      "description": "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory...",
-      "url": "https://upstract.com/p/p9ddfeu9?ref=rss&rd=1",
-      "urlToImage": "https://cdn.upstract.com/p/p9qet8SsMZUTKEKeW55o/p9ddfeu9/6byfydzqn2_t.jpg",
-      "publishedAt": "2020-10-10T09:35:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Washington Free Beacon"
-      },
-      "author": "Paul Crookston, Paul Crookston",
-      "title": "With No Tough Questions, Biden Still Bumbles Through Another Week",
-      "description": "As mainstream media networks kept Joe Biden safe from difficult questions this week, the Democratic nominee still stumbled over his words, even telling voters they won't know his position on court packing until after they elect him.\nThe post With No Tough Que…",
-      "url": "https://freebeacon.com/2020-election/with-no-tough-questions-biden-still-bumbles-through-another-week/",
-      "urlToImage": "https://freebeacon.com/wp-content/uploads/2020/08/GettyImages-1227818493-1024x682.jpg",
-      "publishedAt": "2020-10-10T08:59:58Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Japan Times"
+        "name": "Moneycontrol"
       },
       "author": null,
-      "title": "A stark warning sign for Trump: ‘Go Biden’ cries in Florida retirement community",
-      "description": "THE VILLAGES, Florida – Sara Branscom’s golf cart whizzed down the smooth asphalt path that winds through The Villages, the largest retirement community in the ...",
-      "url": "https://www.japantimes.co.jp/news/2020/10/10/world/politics-diplomacy-world/biden-florida-retirement-community/",
-      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/10/np_file_43681-870x579.jpeg",
-      "publishedAt": "2020-10-10T08:37:47Z",
-      "content": "THE VILLAGES, Florida – Sara Branscoms golf cart whizzed down the smooth asphalt path that winds through The Villages, the largest retirement community in the U.S., an expanse of beautiful homes, sho… [+12393 chars]"
+      "title": "Explainer: Whatâs happening in France, Emmanuel Macronâs gambit and why Turkey is being vocal",
+      "description": "French President Emmanuel Macronâs remarks about Islam amid recent attacks in France have led to the Muslim world squaring up against France. But, origins of this new conflict may be more complicated.",
+      "url": "https://www.moneycontrol.com/news/world/explainer-whats-happening-in-france-emmanuel-macrons-gambit-and-why-turkey-is-being-vocal-6039551.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/10/AP20303494538024-770x433.jpg",
+      "publishedAt": "2020-10-30T07:52:15Z",
+      "content": "French President Emmanuel Macrons recent remarks about Islam have led to an uproar in the Muslim world, directly placing France against many countries.\r\nThis started on October 16, when an 18-year-ol… [+6161 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Telegraph.co.uk"
+        "name": "The Sydney Morning Herald"
       },
-      "author": "Ashley Kirk, Dominic Gilbert, Bruno Riddy",
-      "title": "US election poll tracker: Will Donald Trump or Joe Biden win 2020 presidency?",
-      "description": "Joe Biden and Donald Trump will go head to head for the White House on 3 November, with polls showing Biden currently has a slight advantage",
-      "url": "https://www.telegraph.co.uk/news/2020/10/10/us-election-poll-tracker-who-win-donald-trump-joe-biden-2020/",
-      "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2020/05/04/010520_ADB_INSTAGRAM-TRUMPBIDEN_trans_NvBQzQNjv4BqSZCfQn3UNBPwFTCNOaG4IelS64mSNPESJC2oDVKqy_s.jpg?impolicy=logo-overlay",
-      "publishedAt": "2020-10-10T08:33:49Z",
-      "content": "Trump and Biden to clash in debates\r\nDonald Trump and Joe Biden faced each other in the first presidential debate in September.\r\nIn a bad-tempered and at times chaotic debate, the candidates ripped c… [+1961 chars]"
+      "author": "Henry Samuel and Abdelatif Azdine",
+      "title": "France defiant as recently arrived knifeman brings terror back to Nice",
+      "description": "A copy of the Koran belonging to the suspect, two telephones and a bag containing two other knives were found in the church where three people were killed.",
+      "url": "https://www.smh.com.au/world/europe/france-defiant-as-recently-arrived-knifeman-brings-terror-back-to-nice-20201030-p56a97.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2208%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_187/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/6d15fee0815e8accba9b2b07b4e27f27da0bd24a",
+      "publishedAt": "2020-10-30T07:49:35Z",
+      "content": "He then launched a frenzied assault on a woman aged 44, who managed to run across the road to a hamburger outlet where she died of her wounds shortly afterwards.\r\n\"I heard people screaming,\" said Jac… [+7486 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PJ Media"
+        "name": "Zerohedge.com"
       },
-      "author": "Sarah Hoyt",
-      "title": "THIS IS MY SHOCKED FACE:  Trump’s first-term gains for oil industry could be undone by Biden.\n\nNo…",
-      "description": "THIS IS MY SHOCKED FACE:  Trump’s first-term gains for oil industry could be undone by Biden. No, not could, WILL.",
-      "url": "https://pjmedia.com/instapundit/405840/",
+      "author": "Tyler Durden",
+      "title": "Russian Blitz In Syria Warns Turkey To Back Off In Caucasus",
+      "description": "Russian Blitz In Syria Warns Turkey To Back Off In Caucasus\n\n Tyler Durden\n \nFri, 10/30/2020 - 03:30\n\n Authored by Finian Cunningham via The Strategic Culture Foundation,\r\n\n\nIn an unprecedented show of strength, Russian warplanes this week reportedly launched…",
+      "url": "https://www.zerohedge.com/geopolitical/russian-blitz-syria-warns-turkey-back-caucasus",
+      "urlToImage": "https://www.zerohedge.com/s3/files/styles/max_650x650/public/2020-10/finian-930x520.jpg?itok=cmlOHAav",
+      "publishedAt": "2020-10-30T07:30:00Z",
+      "content": "Authored by Finian Cunningham via The Strategic Culture Foundation,\r\nIn an unprecedented show of strength, Russian warplanes this week reportedly launched devastating attacks on a Turkish-backed mili… [+4462 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "author": "Krassen Nikolov",
+      "title": "Bulgaria’s Grand Mufti attacks Macron, defends Erdogan",
+      "description": "The Grand Mufti’s Office in Bulgaria accused French President Emmanuel Macron of “following in the footsteps of the neo-fascist way of conducting politics and rhetoric.” According to the Grand Mufti’s statement, the Charlie Hebdo satirical magazine, which was…",
+      "url": "https://www.euractiv.com/section/politics/short_news/bulgarias-grand-mufti-attacks-macron-defends-erdoga/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/10/w_56458011-800x450.jpg",
+      "publishedAt": "2020-10-30T07:09:51Z",
+      "content": "The Grand Muftis Office in Bulgaria accused French President Emmanuel Macron of “following in the footsteps of the neo-fascist way of conducting politics and rhetoric.”\r\nAccording to the Grand Mufti’… [+915 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnik International"
+      },
+      "author": null,
+      "title": "Moscow Warned Paris Many Times of Dangers Posed by Terrorists From North Caucasus, Deputy FM Says",
+      "description": "MOSCOW (Sputnik) - Moscow has repeatedly warned Paris of the threat coming from terrorists from the North Caucasus, but France kept accepting them as \"fighters for freedom\" and even granting citizenship to some of them, Russian Deputy Foreign Minister Oleg Sy…",
+      "url": "https://sputniknews.com/europe/202010301080923802-moscow-warned-paris-many-times-of-dangers-posed-by-terrorists-from-north-caucasus-deputy-fm-says/",
+      "urlToImage": "https://cdn1.img.sputniknews.com/images/107230/85/1072308586.png",
+      "publishedAt": "2020-10-30T07:07:58Z",
+      "content": "MOSCOW (Sputnik) - Moscow has repeatedly warned Paris of the threat coming from terrorists from the North Caucasus, but France kept accepting them as \"fighters for freedom\" and even granting citizens… [+2341 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "author": "Jennifer Baker, Marlene Stocker",
+      "title": "Tweets of the Week: Macron-Erdogan row, Poland Non-mention, Lockdown 2",
+      "description": "Erdogan and Macron row like only Presidents can, VDL's wishy-washy on Polish abortion ban, and lockdown two is the only Covid plan!",
+      "url": "http://www.euractiv.com/section/politics/video/tweets-of-the-week-macron-erdogan-row-poland-non-mention-lockdown-2/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/10/thmb-4x09-1-800x450.png",
+      "publishedAt": "2020-10-30T06:35:22Z",
+      "content": "Erdogan and Macron row like only Presidents can, VDL’s wishy-washy on Polish abortion ban, and lockdown two is the only Covid plan!\r\nAs TurkishPresident Tayyip Erdogan entered into a war of words wit… [+3000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zerohedge.com"
+      },
+      "author": "Tyler Durden",
+      "title": "Neo-Ottoman Nights Of Armenian-Azerbaijani War",
+      "description": "Neo-Ottoman Nights Of Armenian-Azerbaijani War\n\n Tyler Durden\n \nFri, 10/30/2020 - 02:00\n\n Submitted by SouthFront.org,\r\n\n\nTurkish Sultan-in-Chief Recep Tayyip Erdogan has come up with a justification for the deployment of Syrian militants to the Nagorno-Karab…",
+      "url": "https://www.zerohedge.com/geopolitical/neo-ottoman-nights-armenian-azerbaijani-war",
+      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-10/erdogan%20sultan%20in%20chief.jpg?itok=j9eCcfFy",
+      "publishedAt": "2020-10-30T06:00:00Z",
+      "content": "Submitted by SouthFront.org,\r\nTurkish Sultan-in-Chief Recep Tayyip Erdogan has come up with a justification for the deployment of Syrian militants to the Nagorno-Karabakh conflict zone to support the… [+4081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Greg Barton, Chair in Global Islamic Politics, Alfred Deakin Institute for Citizenship and Globalisation, Deakin University, Fethi Mansouri, Research professor, Deakin University",
+      "title": "For French Muslims, every terror attack brings questions about their loyalty to the republic",
+      "description": "France and its leaders are endlessly repeating the mistakes of the past, burdened by a flawed framing of identity and a needlessly narrow path to belonging.",
+      "url": "https://theconversation.com/for-french-muslims-every-terror-attack-brings-questions-about-their-loyalty-to-the-republic-149151",
+      "urlToImage": "https://images.theconversation.com/files/366616/original/file-20201030-24-15aqemt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2020-10-30T05:48:15Z",
+      "content": "IAN LANGSDON/EPA\r\nAfter three people died in a knife attack in Nice this week that French President Emmanuel Macron called an “Islamist terrorist attack”, there was a sense of déjà vu — we have seen … [+6923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Historynewsnetwork.org"
+      },
+      "author": null,
+      "title": "A Teacher, His Killer and the Failure of French Integration",
+      "description": "<p>The murder of a French social studies teacher who showed his multiethnic class images offensive to Islam illustrates the dilemma of the French policy of secularism, which is beset on one side by complaints that immigrants do not assimilate and on the other…",
+      "url": "https://historynewsnetwork.org/article/178012?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+hnn%2Fzxkz+%28HNN+Breaking+News%29",
+      "urlToImage": "https://s3.amazonaws.com/hnn-bucket/sites/default/files/178012-SamuelPatyDemonstration.jpg",
+      "publishedAt": "2020-10-30T04:23:01Z",
+      "content": "They could have easily shared the same classroom — the immigrant teenager and the veteran teacher known for his commitment to instilling the nation’s ideals, in a relationship that had turned waves o… [+1558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India.com"
+      },
+      "author": "Manish Shukla",
+      "title": "Turkey and Pakistan`s campaign to boycott French products backfire as Saudi Arabia steps in - Zee News",
+      "description": "<ol><li>Turkey and Pakistan`s campaign to boycott French products backfire as Saudi Arabia steps in  Zee News\r\n</li><li>India ‘strongly deplores’ attacks on Macron for tough stance on radical Islam  Hindustan Times\r\n</li><li>Turkey rakes up a new front with F…",
+      "url": "https://zeenews.india.com/world/turkey-and-pakistans-campaign-to-boycott-french-products-backfires-as-saudi-arabia-steps-in-2321103.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2020/10/30/896166-turkey-saudi.jpg",
+      "publishedAt": "2020-10-30T04:23:01Z",
+      "content": "New Delhi: The temperament displayed by French President Emmanuel Macron to fight the radical Islamist terrorism after the brutal murder of teacher Samuel Paty and the outrage by the French citizens … [+5032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "France-Turkey Dispute Grows Over Cartoons and Influence in Africa",
+      "description": "The war of words between France and Turkey over cartoons portraying Islam's Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the diplomatic storm over freedom of expression versus religious sensitivity…",
+      "url": "https://www.globalsecurity.org/wmd/library/news/france/france-201029-voa01.htm",
       "urlToImage": null,
-      "publishedAt": "2020-10-10T08:21:12Z",
-      "content": "As an Amazon Associate,I earn from qualifying purchases."
+      "publishedAt": "2020-10-30T04:10:28Z",
+      "content": "By Dorian Jones October 29, 2020\r\nThe war of words between France and Turkey over cartoons portraying Islam's Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to esc… [+2434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "FRANCE24",
+      "title": "Red lines, high stakes for Brand France in conservative Gulf",
+      "description": "French brands have long enjoyed prestige in the Gulf, but the country's clout in the conservative region is in jeopardy amid fury over the French president's defence of cartoons insulting Islam.\n\nMuslims worldwide have protested President Emmanuel Macron's st…",
+      "url": "https://www.france24.com/en/live-news/20201030-red-lines-high-stakes-for-brand-france-in-conservative-gulf",
+      "urlToImage": "https://s.france24.com/media/display/d476f00e-1a5e-11eb-b23c-005056a964fe/w:1280/p:16x9/8d01451c84c8f72b40f462f44a6ff8df6e07bfe9.jpg",
+      "publishedAt": "2020-10-30T03:20:17Z",
+      "content": "Doha (AFP)\r\nFrench brands have long enjoyed prestige in the Gulf, but the country's clout in the conservative region is in jeopardy amid fury over the French president's defence of cartoons insulting… [+4690 chars]"
     },
     {
       "source": {
@@ -1191,90 +307,584 @@
         "name": "Slashdot.org"
       },
       "author": "feedfeeder",
-      "title": "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer' - Newsweek",
-      "description": "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer'Newsweek View Full Coverage on Google News ...",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=137066004",
+      "title": "France terror attack: 3 dead in Nice could roil debate over free speech and Islam - Vox.com",
+      "description": "France terror attack: 3 dead in Nice could roil debate over free speech and IslamVox.com Knife attack in French city of Nice: Live updatesCNN Offensive Charlie Hebdo cartoon pushes Turkey-France tensions into overdrive.NBC News Europe outbreak worsens, France…",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=138007902",
       "urlToImage": null,
-      "publishedAt": "2020-10-10T08:12:48Z",
+      "publishedAt": "2020-10-30T01:33:46Z",
       "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "The Sydney Morning Herald"
       },
-      "author": "Joseph Wulfsohn",
-      "title": "C-SPAN's Steve Scully breaks silence, thanks debate commission as Trump-Biden event is canceled",
-      "description": "C-SPAN host Steve Scully resurfaced online Friday evening for the first time since his account was allegedly hacked.",
-      "url": "https://www.foxnews.com/media/steve-scully-breaks-silence-twitter-debate-trump-biden",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/10991453-Steve-Scully-GETTY.jpg",
-      "publishedAt": "2020-10-10T07:32:49Z",
-      "content": "C-SPAN host Steve Scully resurfaced online Friday evening for the first time since his account was allegedly hacked.\r\nIn a Twitter post, Scully thanked the Commission on Presidential Debates (CPD) an… [+3911 chars]"
+      "author": "Henry Samuel",
+      "title": "'Words have consequences': Turkey's Erdogan cited in wave of deaths in France",
+      "description": "Erdogan said this week that Muslims were subject to a 'lynch campaign' comparable to the persecution of the Jews in the Second World War.\"",
+      "url": "https://www.smh.com.au/world/europe/words-have-consequences-turkey-s-erdogan-cited-in-wave-of-deaths-in-france-20201030-p569yz.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2249%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/b2ec395e84b8567a67260a71438ec1c0a65cfb82",
+      "publishedAt": "2020-10-30T00:30:00Z",
+      "content": "Paris: Turkey's president has been accused of fanning the flames of Islamist violence against France, which mourned its second beheading in two weeks in an attack on a church in Nice that left three … [+686 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TheJournal.ie"
+        "name": "Mother Jones"
       },
-      "author": "AFP",
-      "title": "The second Trump-Biden debate has been cancelled",
-      "description": "A bullish Donald Trump is returning to campaigning but his rival Joe Biden has labelled his behaviour “reckless”.",
-      "url": "https://www.thejournal.ie/trump-biden-debate-5229494-Oct2020/",
-      "urlToImage": "https://img2.thejournal.ie/article/5229494/river/?height=400&version=5229496",
-      "publishedAt": "2020-10-10T07:19:56Z",
-      "content": "US PRESIDENT DONALD Trump will give a public speech at the White House today for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three wee… [+4765 chars]"
+      "author": "Daniel Friedman",
+      "title": "Trump Admitted Years Ago to a “Little Conflict of Interest” in Turkey. It’s Not So Little.",
+      "description": "In December 2015, Donald Trump, then a presidential candidate, made a casual admission. “I have a little conflict of interest ’cause I have a major, major building in Istanbul,” Trump told his interviewer, Steve Bannon, who would later take over Trump’s presi…",
+      "url": "https://www.motherjones.com/politics/2020/10/trump-erdogan-turkey-conflict-of-interest-halkbank/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2020/10/Erdogan-Trump-AP19317782960592-1.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2020-10-29T23:53:44Z",
+      "content": "President Donald Trump and Turkish President Recep Tayyip Erdogan after a Nov. 13, 2019, news conference at the White House.Evan Vucci/AP\r\nFor indispensable reporting on the coronavirus crisis, the e… [+7361 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Hurriyet Daily News"
-      },
-      "author": "hurriyetdailynews.com",
-      "title": "Trump restarts public speeches, Biden calls it ’reckless’",
-      "description": "U.S. President Donald Trump was scheduled to give a public speech at the White House on Oct. 10 for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three weeks before the election.",
-      "url": "https://www.hurriyetdailynews.com/trump-restarts-public-speeches-biden-calls-it-reckless-159013",
-      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5f815e7b0f254429d08741ec.jpeg",
-      "publishedAt": "2020-10-10T07:10:00Z",
-      "content": "WASHINGTON- Agence France-Presse\r\nU.S. President Donald Trump was scheduled to give a public speech at the White House on Oct. 10 for the first time since testing positive for Covid-19, as he prepare… [+4635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Debka.com"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
       "author": null,
-      "title": "Second Trump-Biden debate canceled",
-      "description": "US President Donald Trump rejected the virtual format for the Oct. 15 debate against Democrats' Joe Biden in Miami Florida The post Second Trump-Biden debate canceled appeared first on DEBKAfile .",
-      "url": "https://www.debka.com/mivzak/second-trump-biden-debate-canceled/",
-      "urlToImage": "https://www.debka.com/wp-content/uploads/2016/09/logo-debka-sq-512.png",
-      "publishedAt": "2020-10-10T06:57:13Z",
-      "content": "US President Donald Trump rejected the virtual format for the Oct. 15 debate against Democrats Joe Biden in Miami Florida that was ordered by the Commission on Presidential Debates after Trump tested… [+159 chars]"
+      "title": "Merkel Delivers Somber Warning...",
+      "description": "Merkel Delivers Somber Warning...\r\n\n \n \n \n (Second column, 16th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Fury Over New Covid Lockdowns in Europe Threatens Compliance...\r\n2nd surge worse than 1st?\r\nSan Fran's once-vibrant downtown empty...\r\nNJ city: $1,000 fi…",
+      "url": "https://www.bloomberg.com/news/articles/2020-10-29/merkel-delivers-somber-warning-to-eu-leaders-on-virus-reaction",
+      "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1atxmJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
+      "publishedAt": "2020-10-29T23:49:37Z",
+      "content": "(Bloomberg) -- German Chancellor Angela Merkel delivered a wake-up call to fellow leaders in the 27-nation European Union, saying they all failed to step in quickly enough to control the pandemic as … [+5046 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "People.cn"
+        "name": "Slickdeals.net"
       },
-      "author": "F_300923",
-      "title": "Commission cancels second Trump-Biden debate",
-      "description": "WASHINGTON, Oct. 9 (Xinhua) -- The second debate between U.S. President Donald Trump and 2020 Demo",
-      "url": "http://en.people.cn/n3/2020/1010/c90000-9767831.html",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T06:30:37Z",
-      "content": "WASHINGTON, Oct. 9 (Xinhua) -- The second debate between U.S. President Donald Trump and 2020 Democratic presidential nominee Joe Biden won't take place, the Commission on Presidential Debates (CPD) … [+2491 chars]"
+      "author": "rrc06",
+      "title": "Trump Corruptly Meddled With Probe Into Crimes by Bank in Turkey",
+      "description": "drain the swamp.... \n \nhttps://nymag.com/intelligencer/2020/10/trump-turkey-bank-scandal-corruption-erdogan-halkbank-conflict-interest.html \n \nBiden’s casual assumption in 2016 that granting Erdogan ...",
+      "url": "https://slickdeals.net/f/14483129-trump-corruptly-meddled-with-probe-into-crimes-by-bank-in-turkey",
+      "urlToImage": "https://slickdeals.net/images/avatar/sd/new/sd-facebook-5-2.png",
+      "publishedAt": "2020-10-29T23:28:10Z",
+      "content": "Scandals tend to be complicated, especially scandals involving banks. But this one is extremely simple. The basic elements:1) The Justice Department was prosecuting financial crimes by a Turkish bank… [+948 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Freerepublic.com"
+        "name": "Wnd.com"
       },
-      "author": "Semi-News/Semi-Satire",
-      "title": "Biden Mocks Trump's \"Don't Be Afraid of COVID\" Advice [semi-satire]",
-      "description": "President Trump's brief bout with COVID-19 was followed by him urging the American people to \"not let it control your life. Don't be afraid of COVID. Go on and live your lives like Americans always have with courage, enterprise, and optimism.\" Democratic pres…",
-      "url": "https://www.freerepublic.com/focus/f-bloggers/3892337/posts",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T06:28:34Z",
-      "content": "Skip to comments.\r\nBiden Mocks Trump's \"Don't Be Afraid of COVID\" Advice [semi-satire]Semi-News/Semi-Satire ^\r\n | 11 Oct 2020\r\n | John Semmens\r\nPosted on 10/09/2020 11:28:34 PM PDT by John Semmens\r\nP… [+2320 chars]"
+      "author": "Patrick J. Buchanan",
+      "title": "Challenges the next president faces",
+      "description": "Of the presidents in the modern era, many have been dealt a difficult hand by history, but perhaps none more so than Donald Trump. In 1952, Harry Truman was in his third year of a stalemated war in Korea that was costing 200 American lives every week. He lost…",
+      "url": "https://www.wnd.com/2020/10/next-president-faces/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2012/09/nuclear-missiles-weapons.jpg",
+      "publishedAt": "2020-10-29T23:06:25Z",
+      "content": "Of the presidents in the modern era, many have been dealt a difficult hand by history, but perhaps none more so than Donald Trump. \r\nIn 1952, Harry Truman was in his third year of a stalemated war in… [+4802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Shubhajit Roy",
+      "title": "France church attack: PM underlines India’s support; between lines a key message",
+      "description": "“I strongly condemn the recent terrorist attacks in France, including today’s heinous attack in Nice inside a church. Our deepest and heartfelt condolences to the families of the victims and the people of France,” the PM tweeted.",
+      "url": "https://indianexpress.com/article/india/france-church-attack-narendra-modi-india-message-6909319/",
+      "urlToImage": "https://images.indianexpress.com/2020/06/modi-macron-1200.jpg",
+      "publishedAt": "2020-10-29T23:00:19Z",
+      "content": "Written by Shubhajit Roy\r\n | New Delhi | \r\nOctober 30, 2020 4:30:19 am\r\nFrench President Emmanuel Macron with Prime Minister Narendra Modi. (Reuters/File)A day after becoming the first non-Western co… [+5735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cascade Behavioral Health",
+      "title": "Cascade Behavioral Hospital COVID-19 Positive Cases",
+      "description": "TUKWILA, Wash. (Oct. 29, 2020), Oct. 29, 2020 (GLOBE NEWSWIRE) -- While we continue to take all precautions in accordance with the latest Centers for Disease Control (CDC) guidance, our hospital, like all other health systems, has recently been impacted with …",
+      "url": "https://finance.yahoo.com/news/cascade-behavioral-hospital-covid-19-223200520.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/_ewK1CWLIZwl631PTWcpUQ--~B/aD05NTE7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/a64feb718e2ff805d825ecadb0302e55",
+      "publishedAt": "2020-10-29T22:32:00Z",
+      "content": "Three people have been killedincluding one elderly woman and another person by decapitationand several others injured in a suspected terror attack inside the Notre-Dame basilica in the French city of… [+4411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Star Online"
+      },
+      "author": "Zhi Linfei",
+      "title": "Xinhua Middle East news summary at 2200 GMT, Oct. 29",
+      "description": "BEIRUT -- Lebanon and Israel held on Thursday the third round of indirect talks on maritime border demarcation, local media reported. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2020/10/30/xinhua-middle-east-news-summary-at-2200-gmt-oct-29",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2020-10-29T22:05:00Z",
+      "content": "BEIRUT -- Lebanon and Israel held on Thursday the third round of indirect talks on maritime border demarcation, local media reported.\r\n The next round of talks will take place on Nov. 11, which refle… [+1269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Zerohedge.com"
+      },
+      "author": "Tyler Durden",
+      "title": "Report Alleges Trump Quashed Criminal Probe Into Turkish Bank That Funneled Billions To Iran",
+      "description": "Report Alleges Trump Quashed Criminal Probe Into Turkish Bank That Funneled Billions To Iran\n\n Tyler Durden\n \nThu, 10/29/2020 - 18:05\n\n Prior bombshell claims in former national security advisor John Bolton's book released last summer alleging that President …",
+      "url": "https://www.zerohedge.com/political/real-foreign-influence-targeted-white-house-centers-erdogan-linked-turkish-bank",
+      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-10/halkbank.jpg?itok=V8odB5ON",
+      "publishedAt": "2020-10-29T22:05:00Z",
+      "content": "Prior bombshell claims in former national security advisor John Bolton's book released last summer alleging that President Trump had agreed to quash a federal probe into a Turkish state-owned bank as… [+5327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Aluf Benn",
+      "title": "Rabin’s legacy lives on through Netanyahu",
+      "description": "The agreements Netanyahu has signed with the United Arab Emirates and Bahrain recall the Rabin legacy far more than Ariel Sharon’s unilateral pullout from Gaza",
+      "url": "https://www.haaretz.com/israel-news/.premium-rabin-s-legacy-lives-on-through-netanyahu-1.9274060",
+      "urlToImage": "https://www.haaretz.com/polopoly_fs/1.9274229.1604004580!/image/3001239885.jpg_gen/derivatives/headline_1200x630/3001239885.jpg",
+      "publishedAt": "2020-10-29T22:04:13Z",
+      "content": "It happened in the fall of 1993, a few weeks after the White House signing ceremony for the Oslo Accords and the historic handshake between Prime Minister Yitzhak Rabin and Palestine Liberation Organ… [+5160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "By Jack Wright Chris Pleasance Nick Fagge Peter Allen In Paris for MailOnline",
+      "title": "Pictured: Terrorist, 21, who killed three with foot-long knife in Nice church terror rampage",
+      "description": "Brahim Aoussaoui, a 21-year-old Tunisian who arrived in Europe on a migrant boat last month, attacked worshippers with a knife in Nice's Notre Dame basilica.",
+      "url": "https://www.dailymail.co.uk/news/article-8894929/Pictured-Terrorist-21-killed-three-foot-long-knife-Nice-church-terror-rampage.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/29/21/35018222-0-image-a-28_1604006783365.jpg",
+      "publishedAt": "2020-10-29T22:00:19Z",
+      "content": "Brahim Aoussaoui, a 21-year-old Tunisian migrant, killed three worshippers in the Notre Dame basilica in Nice\r\nThe Islamist terrorist who shouted 'Allahu Akbar' as he butchered a man and two women du… [+32887 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VOA News"
+      },
+      "author": null,
+      "title": "NATO Allies Growing Weary of Turkish Aggression",
+      "description": "The United States is pushing NATO countries to work with Turkey in hopes of healing divisions that have seen Ankara move closer to Russia, but at least one of those allies is bracing for more turmoil.\n\nGreece, embroiled in a dispute with Turkey over rights an…",
+      "url": "https://www.voanews.com/usa/nato-allies-growing-weary-turkish-aggression",
+      "urlToImage": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-10/000_1X20VN.jpg",
+      "publishedAt": "2020-10-29T21:30:20Z",
+      "content": "WASHINGTON - The United States is pushing NATO countries to work with Turkey in hopes of healing divisions that have seen Ankara move closer to Russia, but at least one of those allies is bracing for… [+3667 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "David Ignatius",
+      "title": "The world is watching this election. Here’s what other countries have to gain and lose.",
+      "description": "To say the world is watching does not begin to describe the global focus on the United States.",
+      "url": "https://www.washingtonpost.com/opinions/the-world-is-watching-this-election-heres-what-other-countries-have-to-gain-and-lose/2020/10/29/91f2db98-1a1e-11eb-befb-8864259bd2d8_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NIUDBMAZLEI6XPX3RBSCLG6S3A.jpg&w=1440",
+      "publishedAt": "2020-10-29T21:28:04Z",
+      "content": "Talking with foreign officials in recent weeks, Ive been struck by the intensity of their interest in what happens on Nov. 3. They have studied up on the electoral college, the quirks of mail-in voti… [+4948 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ed Ram",
+      "title": "Armenia's prime minister calls for Russian peacekeepers to halt war in Nagorno Karabakh",
+      "description": "Armenia's prime minister has said that he will accept Russian peacekeepers in the disputed region of Nagorno Karabakh if it ends his country's increasingly costly war with Azerbaijan. In an interview with the Telegraph, Nikol Pashinyan said that a neutral for…",
+      "url": "https://news.yahoo.com/armenias-prime-minister-calls-russian-212222431.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hPzg27rj6nIRE.k0tJpnsA--~B/aD0xMTIyO3c9MTc5NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-GB/the_telegraph_258/c37d4cf8188d94643459204e51c4e96c",
+      "publishedAt": "2020-10-29T21:22:22Z",
+      "content": "Armenia's prime minister, Nikol Pashinyan - UNTV\r\nArmenia's prime minister has said that he will accept Russian peacekeepers in the disputed region of Nagorno Karabakh if it ends his country's increa… [+5633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Power Line"
+      },
+      "author": "Paul Mirengoff",
+      "title": "Behind the bloody attacks in France",
+      "description": "(Paul Mirengoff) The Islamist violence in France that John describes in his post below is the bloody tip of the spear of the Islamic world’s reaction to President Macron’s attempt to defeat terrorism. Turkey’s president, the deplorable thug Erdogan, attacked …",
+      "url": "http://www.powerlineblog.com/archives/2020/10/behind-the-bloody-attacks-in-france.php",
+      "urlToImage": "https://www.powerlineblog.com/ed-assets/2020/10/macron-and-erdogan.jpg",
+      "publishedAt": "2020-10-29T21:03:53Z",
+      "content": "The Islamist violence in France that John describes in his post below is the bloody tip of the spear of the Islamic world’s reaction to President Macron’s attempt to defeat terrorism. Turkey’s presid… [+2590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Stephen Nellis",
+      "title": "Apple's subscription bundle of news, music and services to launch Friday",
+      "description": "The bundle varies by geography but generally combines Apple's news, music, video and cloud storage offerings, putting it in fiercer competition with music rivals such as Spotify Technology SA and television content rivals Netflix Inc , Walt Disney Co and AT&T…",
+      "url": "https://finance.yahoo.com/news/apples-subscription-bundle-news-music-204358754.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8d8APdmlMsnApLrF3gOqnw--~B/aD01MzA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/reuters.com/100d7e49fd89416f6026026b5913fb00",
+      "publishedAt": "2020-10-29T20:43:58Z",
+      "content": "Three people have been killedincluding one elderly woman and another person by decapitationand several others injured in a suspected terror attack inside the Notre-Dame basilica in the French city of… [+4411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "esquire.com"
+      },
+      "author": "Charles P. Pierce",
+      "title": "Trump's Devotion to Foreign Strongmen and Shady Money Knows No Bounds",
+      "description": "The president and Turkey's Recep Tayyip Erdogan have been doing the junior prom slow-dance thing ever since 2016",
+      "url": "https://www.esquire.com/news-politics/politics/a34523893/trump-erdogan-turkish-bank-investigation/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/erdo-1604002233.jpg?crop=1.00xw:0.723xh;0,0.0600xh&resize=1200:*",
+      "publishedAt": "2020-10-29T20:14:00Z",
+      "content": "In keeping with our Thursday theme of international financial bunco, the New York Times brings us yet another story about the administration*'s devotion to foreign strongmen and the president*s devot… [+3004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "Explained Desk",
+      "title": "Explained: Why another Charlie Hebdo cartoon is fanning Turkey-France tensions",
+      "description": "Turkey’s Erdogan has called for a boycott of French goods and questioned Macron’s sanity, after the latter declared that ‘Islam is a religion that is in crisis today all over the world’.",
+      "url": "https://indianexpress.com/article/explained/explained-why-another-charlie-hebdo-cartoon-is-fanning-turkey-france-tensions-6909228/",
+      "urlToImage": "https://images.indianexpress.com/2020/10/macron-erdogan-1200.jpg",
+      "publishedAt": "2020-10-29T20:01:20Z",
+      "content": "Erdogans spokesperson said the recent cartoons were the latest example of French President Macrons anti-Muslim agenda. (Photos: AP)The recent edition of French satirical magazine Charlie Hebdo, which… [+4907 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Frances Martel",
+      "title": "Erdogan on Eve of Jihad Wave in France: 'No Muslim Can Be a Terrorist'",
+      "description": "Turkish Islamist President Recep Tayyip Erdogan declared on Wednesday that \"no Muslim can be a terrorist.\"",
+      "url": "https://www.breitbart.com/middle-east/2020/10/29/erdogan-eve-jihad-wave-france-no-muslim-can-be-terrorist/",
+      "urlToImage": "https://media.breitbart.com/media/2020/07/Erdogan-640x335.jpg",
+      "publishedAt": "2020-10-29T19:47:37Z",
+      "content": "Turkish Islamist President Recep Tayyip Erdogan declared in an aggressive speech against Western values of free expression Wednesday that “no Muslim can be a terrorist” because only “black-hearted” p… [+5016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Dylan Housman",
+      "title": "French Authorities Reportedly Stop Attempted Copycat After Nice Attack",
+      "description": "French police stopped another potential terrorist attack at a church in a Paris suburb Thursday after the fatal stabbing of three people earlier in Nice.",
+      "url": "https://dailycaller.com/2020/10/29/french-police-stop-attempted-copycat-killer-nice-attack-radical-islamic-terrorism/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2020/10/Nice-attack-scaled-e1603999497425.jpg",
+      "publishedAt": "2020-10-29T19:41:13Z",
+      "content": "French police stopped another potential terrorist attack at a church in a Paris suburb Thursday after the fatal stabbing of three people earlier in the day in Nice, according to reports. \r\nA lone sus… [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "Levon Sevunts",
+      "title": "Senate motion calls on Canada to recognize independence of Nagorno-Karabakh",
+      "description": "Conservative Sen. Leo Housakos is calling on Canada to recognize the independence of Nagorno-Karabakh and \"immediately condemn the joint Azerbaijani-Turkish aggression\" against the breakaway Armenian-populated region in the South Caucasus.",
+      "url": "https://www.cbc.ca/news/politics/nagorno-karabakh-armenia-azerbaijan-turkey-housakos-1.5782179",
+      "urlToImage": "https://i.cbc.ca/1.5782257.1603998985!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/azerbaijan-armenia.jpg",
+      "publishedAt": "2020-10-29T19:25:58Z",
+      "content": "Conservative Sen. Leo Housakos is calling on Canada to recognize the independence of Nagorno-Karabakh and \"immediately condemn the joint Azerbaijani-Turkish aggression\" against the breakaway Armenian… [+4653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Republic World"
+      },
+      "author": "Shubham Bose",
+      "title": "France Church Attack: UN Chief Antonio Guterres condemns heinous knife attack in Nice",
+      "description": "UN chief has extended his deepest condolences to the families of the victims and said that the United Nations stands in solidarity with the French authorities",
+      "url": "https://www.republicworld.com/world-news/europe/france-church-attack-un-chief-antonio-guterres-condemns-heinous-knife-attack-in-nice.html",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/ryvkukbvqurrtugp_1603997584.jpeg?tr=f-jpeg",
+      "publishedAt": "2020-10-29T19:20:39Z",
+      "content": "UN Secretary-General Antonio Guterres has strongly condemned the recent knife attack at a Church in the French city of Nice. As per reports, the heinous attack left three people dead at the Notre Dam… [+1952 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presstv.com"
+      },
+      "author": null,
+      "title": "Somalis protest against offensive cartoons on birthday of Prophet Mohammad",
+      "description": "Protesters in Mogadishu gathered on Thursday to protest against French president and the printing of cartoons of Prophet Mohammad in France.",
+      "url": "https://www.presstv.com/Detail/2020/10/29/637506/Somalis-protest-against-offensive-cartoons-on-birthday-of-Prophet-Mohammad",
+      "urlToImage": "https://cdn.presstv.com/photo/20201029/a442b3c3-45b9-4cd2-8adb-075eeb7b0e7e.jpg",
+      "publishedAt": "2020-10-29T19:19:35Z",
+      "content": "Protesters in Somalia's capital Mogadishu gathered on Thursday for a second day to protest against French President Emmanuel Macron and the printing of cartoons of Prophet Mohammad (PBUH) in France.\r… [+1113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Eric Lipton and Benjamin Weiser",
+      "title": "Turkish Bank Case Showed Erdogan's Influence With Trump",
+      "description": "WASHINGTON -- ​Geoffrey Berman was outraged.The top federal prosecutor in Manhattan, Berman had traveled to Washington in June 2019 to discuss a particularly delicate case with Attorney General William Barr and some of his top aides: a criminal investigation …",
+      "url": "https://news.yahoo.com/turkish-bank-case-showed-erdogans-190801983.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_vaNwUjAAI5m7Vw6dE7s7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/guT.X4j4IAJI.A3ui89tEQ--~B/aD0zNTIwO3c9NTI4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_new_york_times_articles_158/19610dc4c0f03c277bc707f5499ea076",
+      "publishedAt": "2020-10-29T19:08:01Z",
+      "content": "Attorney General William Barr at the White House on Aug. 3, 2020. (Doug Mills/The New York Times)\r\nWASHINGTON — Geoffrey Berman was outraged.\r\nThe top federal prosecutor in Manhattan, Berman had trav… [+22863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Reuters",
+      "title": "Three dead as woman beheaded in attack in French church; security hiked",
+      "description": "A defiant President Emmanuel Macron, declaring that France had been subject to an Islamist terrorist attack, said he would deploy thousands more soldiers to protect important French sites",
+      "url": "https://www.business-standard.com/article/international/three-dead-as-woman-beheaded-in-attack-in-french-church-security-hiked-120103000022_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/30/full/1603997837-0421.jpg",
+      "publishedAt": "2020-10-29T18:55:00Z",
+      "content": "A knife-wielding attacker shouting \"Allahu Akbar\" (God is Greatest) beheaded a woman and killed two other people in a church in the French city of Nice on Thursday.\r\nA defiant President Emmanuel Macr… [+5276 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "By Theodoric Meyer",
+      "title": "Monument adds a Democrat",
+      "description": "New details on the lobbying on the tax overhaul — Internet Association adds a senior vice president",
+      "url": "https://www.politico.com/newsletters/politico-influence/2020/10/29/monument-adds-a-democrat-490748",
+      "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+      "publishedAt": "2020-10-29T18:53:48Z",
+      "content": "Presented by Facebook\r\nWith Daniel Lippman\r\nMONUMENT ADDS A DEMOCRAT: Monument Advocacy is bringing on a Democratic lobbyist ahead of Election Day. Larry Duncan, who previously ran his own firm, Poto… [+10616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vanity Fair"
+      },
+      "author": "Joe Hagan",
+      "title": "Writing the Finale: 21 Fever-Dream Endings for the Trump Show",
+      "description": "For four years, together and alone, we’ve quietly authored our own endings to the Trumpian roller coaster, whether in a week or another 100 years. Here, in part one of two, writers, poets, and politicos—from Adam McKay to Alexander Chee to Eileen Myles—weigh …",
+      "url": "https://www.vanityfair.com/news/2020/10/21-fever-dream-endings-for-the-trump-show",
+      "urlToImage": "https://media.vanityfair.com/photos/5f9ae129d070eec8d50f0fb0/16:9/w_1280,c_limit/trump-tv-how-will-it-end-VF120118.jpg",
+      "publishedAt": "2020-10-29T18:29:07Z",
+      "content": "Nobody knows anything, screenwriter William Goldman once said about Hollywood, but its hard to think of a truer accounting of this political moment. With days until the election, the fate of the nati… [+6347 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Azerbaijan hits maternity hospital in conflict with Armenia over Nagorno-Karabakh",
+      "description": "Armenian and Azerbaijani forces fought over the separatist region Nagorno-Karabakh despite a U.S.-brokered cease-fire.",
+      "url": "https://www.usatoday.com/story/news/world/2020/10/29/azerbaijan-hits-hospital-dispute-armenia-over-nagorno-karabakh/6073536002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/10/29/USAT/07d45230-8cfb-4f3d-b6bf-cb9e415f6203-AP_APTOPIX_Armenia_Azerbaijan.JPG?crop=4978,2800,x0,y92&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2020-10-29T18:22:07Z",
+      "content": "A hospital in Nagorno-Karabakh's regional capital of Stepanakert was hit by shelling on Wednesday amid the ongoing conflict between Azerbaijan and Armenia. (Oct. 29)\r\nAP Domestic\r\nYEREVAN, Armenia Ro… [+6985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hot Air"
+      },
+      "author": "<![CDATA[Allahpundit]]>, tips@hotair.com (Hot Air Network, LLC), Hot Air Network, LLC",
+      "title": "So that's why Trump and Barr dumped the U.S. Attorney in charge of the SDNY",
+      "description": "<![CDATA[\"[T]his story is a good example of why pious Republican outrage over possible Biden overseas entanglements falls with such a thud,\" said Ross Douthat about this Times scoop, correctly. It's everything that the Hunter Biden laptop narrative claims to …",
+      "url": "https://hotair.com/archives/allahpundit/2020/10/29/thats-trump-barr-dumped-u-s-attorney-charge-sdny/",
+      "urlToImage": "https://hotair.com/wp/wp-content/uploads/2020/10/tb-3.jpg",
+      "publishedAt": "2020-10-29T18:01:36Z",
+      "content": "[T]his story is a good example of why pious Republican outrage over possible Biden overseas entanglements falls with such a thud, said Ross Douthat about this Times scoop, correctly. Its everything t… [+8148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Beer Institute",
+      "title": "Beer Institute Releases September 2020 Domestic Tax Paid Estimate",
+      "description": "WASHINGTON, Oct. 29, 2020 (GLOBE NEWSWIRE) -- Today, the Beer Institute published an unofficial estimate of domestic tax paid shipments by beer brewers for September 2020:The September 2020 estimate is 14,800,000 barrels, which is virtually the same as the Se…",
+      "url": "https://finance.yahoo.com/news/beer-institute-releases-september-2020-180000613.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/1Gdyz1LlPZRVWU3VKrZ.Ug--~B/aD01NzY7dz01NzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/ddd9c16e615c71dacb997842a311b6cc",
+      "publishedAt": "2020-10-29T18:00:00Z",
+      "content": "Three people have been killedincluding one elderly woman and another person by decapitationand several others injured in a suspected terror attack inside the Notre-Dame basilica in the French city of… [+4411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AlterNet"
+      },
+      "author": "Mark Sumner",
+      "title": "Some of the mystery around why Barr was so anxious to fire US Attorney Berman has been solved",
+      "description": "In June, Attorney General William Barr suddenly announced the resignation of U.S. attorney Geoffrey Berman. There was only one problem—Berman had not resigned, and he wasn't going to resign. So Barr fired him. Berman disputed Barr's ability to remove him from…",
+      "url": "https://www.alternet.org/2020/10/some-of-the-mystery-around-why-barr-was-so-anxious-to-fire-us-attorney-berman-has-been-solved/",
+      "urlToImage": "https://www.alternet.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDQ0MjI1MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYyNTg0MTA2NX0.SVSSGQf7NGYqtagh5JeewPKUtKEdpOoZl5syhGhPa3U/image.jpg?width=1200&coordinates=0%2C60%2C0%2C60&height=600",
+      "publishedAt": "2020-10-29T17:43:05Z",
+      "content": "In June, Attorney General William Barr suddenly announced the resignation of U.S. attorney Geoffrey Berman. There was only one problemBerman had not resigned, and he wasn't going to resign. So Barr f… [+4434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presstv.com"
+      },
+      "author": null,
+      "title": "French president in Nice after deadly knife attack",
+      "description": "French president arrived in the southern port city of Nice after three people killed in knife attack.",
+      "url": "https://www.presstv.com/Detail/2020/10/29/637499/French-president-macron-Nice-attack",
+      "urlToImage": "https://cdn.presstv.com/Photo/2020/10/29/266a14ef-057f-4ab1-9349-e05550652ce8.jpg",
+      "publishedAt": "2020-10-29T17:42:03Z",
+      "content": "French President Emmanuel Macron has arrived in the southern port city of Nice, which was the scene of a deadly knife attack earlier on Thursday, leaving several people dead and attacker wounded.\r\nTh… [+4854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lawfare"
+      },
+      "author": "Anna Salvatore, Tia Sewell",
+      "title": "Today’s Headlines and Commentary",
+      "description": "Attorney General Bill Barr tried to squash the Justice Department’s investigation into a state-owned Turkish bank accused of funneling money to Iran. According to a New York Times report, the president’s political appointees at the department slowed down the …",
+      "url": "https://www.lawfareblog.com/todays-headlines-and-commentary-2191",
+      "urlToImage": "https://www.lawfareblog.com/lawfare-default.png",
+      "publishedAt": "2020-10-29T17:41:50Z",
+      "content": "Attorney General Bill Barr tried to squash the Justice Departments investigation into a state-owned Turkish bank accused of funneling money to Iran. According to a New York Times report, the presiden… [+6075 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Paul Waldman",
+      "title": "How Trump’s epic corruption reveals hidden weaknesses in the system",
+      "description": "He has offered us a corruption master class, showing how deep and wide it can go.",
+      "url": "https://www.washingtonpost.com/opinions/2020/10/29/how-trumps-epic-corruption-reveals-hidden-weaknesses-system/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LC7TTEQYPMI6XC62QFGKK3QTRM.jpg&w=1440",
+      "publishedAt": "2020-10-29T17:39:36Z",
+      "content": "In doing so he has revealed that opportunities for corruption are far more numerous than we knew, which means that well need a sweeping reexamination of the systems we put in place to prevent it.\r\nLe… [+5319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "",
+      "title": "The Latest: Trump tweets support for France after attack",
+      "description": "U.S. President Donald Trump has taken to Twitter to express his support for France after a knife-wielding man killed three people in an attack at a church in the southern French city of Nice",
+      "url": "https://www.wsoctv.com/news/world/latest-trump-tweets/K45HQH4VYI6LDP7QUBHKTXHKR4/",
+      "urlToImage": "https://www.wsoctv.com/resizer/-mz1fpXbQ3McitF9bzQdyiY_hU0=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/26QEMVCFPKRRVPQAZESK7LCS2Q.jpg",
+      "publishedAt": "2020-10-29T17:20:28Z",
+      "content": "U.S. President Donald Trump has taken to Twitter to express his support for France after a knife-wielding man killed three people in an attack at a church in the southern French city of Nice.\r\nTrump … [+13824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Cut"
+      },
+      "author": "Madeleine Aggeler",
+      "title": "Three Dead in Knife Attack in France",
+      "description": "The attack comes amid a period of growing tension in France over secularism and religious equality.",
+      "url": "http://www.thecut.com/2020/10/france-terror-attack-three-dead-in-knife-attack-in-nice.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/859/b4f/fc9f6cabe72c6fc680ca866974c83ece5c-nice-france-2.1x.rsocial.w1200.jpg",
+      "publishedAt": "2020-10-29T17:08:02Z",
+      "content": "Three people are dead after a man wielding a knife attacked a church in the southern French city of Nice on Thursday. According to Reuters, of the three, two people died in the citys Notre-Dame Basil… [+1942 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TPM"
+      },
+      "author": "Matt Shuham",
+      "title": "5 Points On The Huge Story About Trump And A Turkish Bank That’s Flying Under The Radar",
+      "description": "The President and senior administration officials — including multiple attorneys general — repeatedly meddled in a federal investigation into the state-owned…",
+      "url": "https://talkingpointsmemo.com/fivepoints/5-points-on-the-huge-story-about-trump-and-a-turkish-bank-thats-flying-under-the-radar",
+      "urlToImage": "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/10/GettyImages-1186510980-804x558.jpg",
+      "publishedAt": "2020-10-29T17:03:27Z",
+      "content": "The President and senior administration officials — including multiple attorneys general — repeatedly meddled in a federal investigation into the state-owned Turkish bank Halkbank, the New York Times… [+5363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "mirrornews@mirror.co.uk (Eric Gaillard, Milo Boyd)",
+      "title": "Dad-of-two who was church sacristan named as first victim of Nice terror attack",
+      "description": "Vincent Loques, who was a warden of the Notre Dame basilica, died when a knife-wielding man stormed into the Nice church and slit his throat, fatally stabbed one woman and beheaded another",
+      "url": "https://www.mirror.co.uk/news/world-news/breaking-nice-attack-dad-two-22927142",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22927175.ece/ALTERNATES/s1200/0_THP_CHP_291020SLUG_8838JPG.jpg",
+      "publishedAt": "2020-10-29T17:03:09Z",
+      "content": "The first of three victims of a brutal knife attack in Nice has been named.\r\nVincent Loques, 45, was a warden of the Notre Dame basilica, which was attacked this morning by a man thought to be Tunisi… [+4833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UN News"
+      },
+      "author": null,
+      "title": "UN strongly condemns knife attack inside Nice church which left three dead",
+      "description": "The UN Secretary-General on Thursday strongly condemned a knife attack inside a French church in the southern French city of Nice, which reportedly left three worshippers dead.",
+      "url": "https://news.un.org/en/story/2020/10/1076452",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/29-10-2020-Nice-France.jpg/image770x420cropped.jpg",
+      "publishedAt": "2020-10-29T16:54:57Z",
+      "content": "In a statement released by his Spokesperson, António Guterres extended his condolences to the families of the victims, and reaffirmed the solidarity of the United Nations with the people and the Gove… [+4144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Deutsche Welle (www.dw.com)",
+      "title": "The French-Turkish spat that could 'widen the civilizational divide'",
+      "description": "France's Emmanual Macron and Turkey's Recep Tayyip Erdogan have been trading barbs over free speech and a French plan to fight radical Islam. The motivations for the fight are many, and the consequences could be great.",
+      "url": "https://www.dw.com/en/the-french-turkish-spat-that-could-widen-the-civilizational-divide/a-55436645",
+      "urlToImage": "https://static.dw.com/image/55438930_304.jpg",
+      "publishedAt": "2020-10-29T16:25:00Z",
+      "content": "The current rivalry between France and Turkey may not be new, but it appears to have reached new heights or rather lows.\r\n\"All you can say about a head of state who treats millions of members of vari… [+6153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Memeorandum.com"
+      },
+      "author": null,
+      "title": "Trump Quashed Probe Into Crimes by Bank in Turkey, Which Is Paying Trump (Jonathan Chait/New York Magazine)",
+      "description": "Jonathan Chait / New York Magazine:\nTrump Quashed Probe Into Crimes by Bank in Turkey, Which Is Paying Trump  —  In 2016, Turkish strongman Recep Tayyip Erdogan asked then-Vice-President Joe Biden to lean on federal prosecutors who were investigating a Turkis…",
+      "url": "https://www.memeorandum.com/201029/p72",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/0e6/0d6/6ba24a66addd8d445afd35e0aa44545e30-Trump-and-Erdogan.2x.rsocial.w600.jpg",
+      "publishedAt": "2020-10-29T16:20:05Z",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Protothema.gr"
+      },
+      "author": "Thema Newsroom",
+      "title": "France: Turks attack Armenians in Lyon’s neighborhoods! (videos)",
+      "description": "As soon as it got dark, amid a curfew, Turks took to the streets shouting \"Allah Akbar\" and \"Where are the Armenians?\"",
+      "url": "http://en.protothema.gr/france-turks-attack-armenians-in-lyons-neighborhoods-videos/",
+      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/10/gallia_tourkoi1-150x150.jpg",
+      "publishedAt": "2020-10-29T16:16:21Z",
+      "content": "“Allahu Akbar (God is great) is not a nationalist slogan, but an Islamic slogan”, wrote one user, commenting on the controversial video posted on Twitter by the Arabic-language website DuvaR.\r\n“Erdog… [+74 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "By Tim Stickings For Mailonline",
+      "title": "Jihadists celebrate Nice terror attack as ISIS and al-Qaeda call for more violence",
+      "description": "The latest in a long line of violent attacks in France was 'already being celebrated massively across jihadi communities' by late Thursday, according to a monitoring group.",
+      "url": "https://www.dailymail.co.uk/news/article-8893873/Jihadists-celebrate-Nice-terror-attack-ISIS-al-Qaeda-call-violence.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/29/16/35006152-0-image-a-29_1603987728620.jpg",
+      "publishedAt": "2020-10-29T16:10:39Z",
+      "content": "Online jihadists celebrated the latest terror attack on France today after three people were murdered by a knifeman in Nice on a day which also saw a gunman killed in Avignon and a guard attacked at … [+4088 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Leda Reynolds",
+      "title": "France Raises Terror Threat to Highest Level After Spate of Attacks That Left 3 Dead and Others Injured",
+      "description": "Move comes after three killed in the French city of Nice by a knifeman who struck on Thursday morning.",
+      "url": "https://www.newsweek.com/france-raises-terror-threat-level-highest-after-spate-attacks-which-have-left-3-dead-others-injured-1543252",
+      "urlToImage": "https://d.newsweek.com/en/full/1661411/notre-dame-nice.jpg",
+      "publishedAt": "2020-10-29T16:05:50Z",
+      "content": "France has raised its terror threat alert to the highest possible level after a spate of attacks in a single day left three people dead and others injured.\r\nA woman was beheaded at a church in the ci… [+1988 chars]"
     },
     {
       "source": {
@@ -1282,25 +892,415 @@
         "name": "RT"
       },
       "author": "RT",
-      "title": "Actress Kirstie Alley spars with fellow celeb Rosanna Arquette after tweeting ‘radical left’ will be in charge if Biden wins",
-      "description": "Conservative actress Kirstie Alley became embroiled in a war of words with fellow celebrities online after blasting House Speaker Nancy Pelosi as “evil” over her attempt to create a new procedure to remove a sitting US president. Read Full Article at RT.com",
-      "url": "https://www.rt.com/usa/503115-kirstie-alley-spars-celebrities-biden/",
-      "urlToImage": "https://cdni.rt.com/files/2020.10/article/5f81477320302707ff77d6ac.jpg",
-      "publishedAt": "2020-10-10T05:59:53Z",
-      "content": "“The ‘process’ EVIL NANCY PELOSI speaks of is an attempt at a presidential takeover of a President by glorified BAKER ACT,” Alley tweeted on Friday, adding “don’t believe a word that comes out of thi… [+3363 chars]"
+      "title": "Ankara condemns ‘heinous terrorist attack’ in Nice, offers ‘condolences’ to France in break from Erdogan-Macron spat",
+      "description": "A terrorist attack at a church in Nice which killed three people has been condemned by Ankara. Turkey also expressed solidarity with the French people in a lull to the ongoing war of words between the two nations’ leaders. Read Full Article at RT.com",
+      "url": "https://www.rt.com/news/504942-turkey-condemns-terrorist-attack-france/",
+      "urlToImage": "https://cdni.rt.com/files/2020.10/article/5f9ae6e720302762bf13af29.JPG",
+      "publishedAt": "2020-10-29T16:05:43Z",
+      "content": "The French government has now placed the country on high alert after a slew of incidents on Thursday.\r\nA man and two women were killed in a terror attack in Nice, while police shot an attacker in Avi… [+2124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "Rezaul H Laskar | Edited by Sohini Sarkar",
+      "title": "India backs Macron after attacks by Pakistan, Turkey; says no justification for terror - Hindustan Times",
+      "description": "<ol><li>India backs Macron after attacks by Pakistan, Turkey; says no justification for terror  Hindustan Times\r\n</li><li>India strongly deplores personal attacks on French President Emmanuel Macron  Times of India\r\n</li><li>Protests grow across Musilm world …",
+      "url": "https://www.hindustantimes.com/india-news/india-backs-macron-after-attacks-by-pakistan-turkey-says-no-justification-for-terror/story-96JQ8PiCMemPAuc8eIZnIL.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/10/29/Pictures/topshot-france-police-investigation-attack_0128036e-19ff-11eb-aaf6-cc648d414a4d.jpg",
+      "publishedAt": "2020-10-29T16:01:14Z",
+      "content": "India on Thursday came out strongly in support of French President Emmanuel Macron’s stance on radical Islam in the wake of the beheading of a teacher in Paris and deplored personal attacks on him by… [+3910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": null,
+      "title": "This huge crowd in Turkey has nothing to do with France's Muhammad cartoons",
+      "description": "A video published on Facebook on October 24 has gone viral on Arabic-speaking social media platforms. The post claims to show huge crowds gathering in Istanbul to defend the Prophet Muhammad, after French President Emmanuel Macron's declaration that he would …",
+      "url": "https://observers.france24.com/en/content/20201029-debunked-turkey-crowd-france-cartoons",
+      "urlToImage": "https://s.observers.france24.com/media/display/043a61fa-19ff-11eb-9664-005056a964fe/w:1024/p:16x9/image_1.png",
+      "publishedAt": "2020-10-29T15:57:07Z",
+      "content": "A video published on Facebook on October 24 has gone viral on Arabic-speaking social media platforms. The post says that it shows huge crowds gathering in Istanbul to defend the Prophet Muhammad, aft… [+2233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Economist"
+      },
+      "author": "The Economist",
+      "title": "Business this week",
+      "description": "",
+      "url": "https://www.economist.com/the-world-this-week/2020/10/29/business-this-week",
+      "urlToImage": "https://www.economist.com/img/b/1280/720/90/sites/default/files/20201031_WWP501.jpg",
+      "publishedAt": "2020-10-29T15:53:27Z",
+      "content": "The prospect of a resurgence in covid-19 and new lockdowns made it a rocky week for stockmarkets. On Wall Street the S&amp;P 500 and Dow Jones Industrial Average each fell by 3.5% in a day, the Nasda… [+4612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Kunwar Khuldune Shahid",
+      "title": "In Erdogan and Imran Khan’s hypocritical war on ‘anti-Muslim’ blasphemy, the body count rises",
+      "description": "Pakistan and Turkey’s campaign against free speech in France, aided by a cynical abuse of the Holocaust, is duplicitous in the extreme. With extremist Muslim attacks multiplying, it now constitutes dangerous incitement",
+      "url": "https://www.haaretz.com/world-news/.premium-body-count-rises-in-turkey-and-pakistan-s-hypocritical-war-on-anti-muslim-offense-1.9268714",
+      "urlToImage": "https://www.haaretz.com/polopoly_fs/1.9268954.1603987113!/image/263112003.jpg_gen/derivatives/headline_1200x630/263112003.jpg",
+      "publishedAt": "2020-10-29T15:53:25Z",
+      "content": "In the wake of an extremist Muslim’s beheading of a French teacher who showed his pupils cartoons of the Prophet Muhammed, part of his class on free speech, French President Emmanuel Macron offered a… [+12573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Joshua Bote, USA TODAY",
+      "title": "3 dead in 'terrorist' knife attack in French church, second beheading in two weeks",
+      "description": "French anti-terrorism prosecutors are investigating a knife attack at a church in Nice that killed two people and wounded several others.",
+      "url": "https://news.yahoo.com/3-dead-terrorist-knife-attack-132221987.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MSXTCD7BKvFeuNPbM5Tr2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM1/https://s.yimg.com/uu/api/res/1.2/yXeYGYcxFzpVKqkOukFtGw--~B/aD0yMjc2O3c9MzQxMTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-us/usa_today_news_641/58c8b112ea7aabb91cb8558b553d5687",
+      "publishedAt": "2020-10-29T15:46:10Z",
+      "content": "Three people were killed at a church in the city of Nice, an attack that the citys mayor says is an act of terrorism.\r\nIt is the third attack in the nation in two months, taking place weeks after a F… [+2674 chars]"
     },
     {
       "source": {
         "id": "breitbart-news",
         "name": "Breitbart News"
       },
-      "author": "Jeff Poor",
-      "title": "Ted Cruz: Religious Liberty, Free Speech, Second Amendment Threatened if Biden Wins",
-      "description": "During a Friday appearance on the Fox News Channel to promote his book \"One Vote Away: How a Single Supreme Court Seat Can Change History,\" Sen. Ted Cruz (R-TX) warned of consequences if former Vice President Joe Biden wins the presidency on November 3. | Cli…",
-      "url": "https://www.breitbart.com/clips/2020/10/09/ted-cruz-religious-liberty-free-speech-second-amendment-threatened-if-biden-wins/",
-      "urlToImage": "https://media.breitbart.com/media/2019/05/dsc_1621-640x335.jpg",
-      "publishedAt": "2020-10-10T05:54:18Z",
-      "content": "During a Friday appearance on the Fox News Channel to promote his book “One Vote Away: How a Single Supreme Court Seat Can Change History,” Sen. Ted Cruz (R-TX) warned of consequences if former Vice … [+1628 chars]"
+      "author": "Chris Tomlinson",
+      "title": "Migrants in Cyprus Tear Down French Embassy Flag",
+      "description": "A group of around 80 Muslims, mostly comprised of migrants from Egypt and Syria, tore down the French flag at the country's embassy in Cyprus this week.",
+      "url": "https://www.breitbart.com/europe/2020/10/29/migrants-in-cyprus-tear-down-french-embassy-flag/",
+      "urlToImage": "https://media.breitbart.com/media/2020/10/GettyImages-1280919903-640x335.png",
+      "publishedAt": "2020-10-29T15:45:16Z",
+      "content": "A group of around 80 Muslims, mostly comprised of migrants from Egypt and Syria, tore down the French flag at the country’s embassy in Cyprus this week.\r\nThe Muslim group held a demonstration in fron… [+2124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Sydney Morning Herald"
+      },
+      "author": "Bevan Shields",
+      "title": "France on high alert, deploys military after beheading at church in Nice",
+      "description": "A woman has been beheaded and two others stabbed to death inside a church during a fresh series of \"barbaric\" terrorist attacks that have shocked France.",
+      "url": "https://www.smh.com.au/world/europe/france-on-high-alert-deploys-military-after-beheading-at-church-in-nice-20201029-p569xf.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.1706138231029483%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/3874be67be7c4c8c51bb520d4e5c45ed8eccddc9",
+      "publishedAt": "2020-10-29T15:37:05Z",
+      "content": "The attack took place just a fortnight after an 18-year-old Chechen-Russian beheaded a Paris school teacher who had shown his students cartoons of the Prophet Mohammad during a lesson about free spee… [+5610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Campbell MacDiarmid",
+      "title": "Turkish president fueled anger leading to French terror attacks, experts believe",
+      "description": "The Turkish president’s bellicose rhetoric towards France over the publication of caricatures of the Prophet Mohammed may have contributed to a climate of anger that led to the deadly terror attack in the city of Nice on Thursday, terrorism experts and EU pol…",
+      "url": "https://news.yahoo.com/turkish-president-fueled-anger-leading-153523902.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7RU_cKi4RUMh_aKM97xMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjUw/https://s.yimg.com/uu/api/res/1.2/WM9rqzfVtM6nCYjJWEgqlA--~B/aD0xNTYzO3c9MjUwMTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-GB/the_telegraph_258/5b7ea5a34a92a88986769ab68df5f1a5",
+      "publishedAt": "2020-10-29T15:35:23Z",
+      "content": "A knife-wielding man killed three people at the Notre-Dame Basilica in the French city of Nice on Thursday - AFP\r\nThe Turkish presidents bellicose rhetoric towards France over the publication of cari… [+4126 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Times of Israel"
+      },
+      "author": null,
+      "title": "Islamists have declared war on France, Jewish community leader says",
+      "description": "Following fatal church knife attack, vice president of CRIF umbrella group Gil Taieb tweets, 'We stand united against Islamist barbarism'",
+      "url": "https://www.timesofisrael.com/islamists-have-declared-war-on-france-jewish-community-leader-says/",
+      "urlToImage": "https://static.timesofisrael.com/www/uploads/2020/10/Screenshot-2020-10-29-at-17.11.52-e1603984422528-1024x640.png",
+      "publishedAt": "2020-10-29T15:25:02Z",
+      "content": "JTA — Islamists have declared war on France, a senior leader of French Jews said following multiple assaults, including the murder of three people at a church in Nice.\r\nGil Taieb, the vice president … [+1837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Haaretz"
+      },
+      "author": "Jack Khoury",
+      "title": "Israel's Islamic Movement protests prophet's caricatures outside French Embassy",
+      "description": "'Hate may cause extremists from both sides to do violent things,' movement chairman says, at latest protest by Islamic Movement, which comes on the day of another suspected attack in a French church",
+      "url": "https://www.haaretz.com/israel-news/.premium-israel-s-islamic-movement-protests-prophet-s-caricatures-outside-french-embassy-1.9272650",
+      "urlToImage": "https://www.haaretz.com/polopoly_fs/1.9272999.1603985294!/image/118954956.jpg_gen/derivatives/headline_1200x630/118954956.jpg",
+      "publishedAt": "2020-10-29T15:23:25Z",
+      "content": "Hundreds of members of the Islamic Movement protested outside the French Embassy in Tel Aviv Thursday against French Prime Minister Emmanuel Macron's support for displaying the caricatures of the Pro… [+5292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "India Today"
+      },
+      "author": null,
+      "title": "India stands with France in fight against terrorism, PM Modi condemns attack",
+      "description": "\"Our deepest and heartfelt condolences to the families of the victims and the people of France,\" Prime Minister Narendra Modi said in a tweet in response to a terror attack in the French city of Nice.",
+      "url": "https://www.indiatoday.in/world/story/india-stands-with-france-in-fight-against-terrorism-pm-narendra-modi-condemns-terror-attack-in-nice-1736343-2020-10-29",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Modi_Macron__Reuters__0-647x363.jpeg?AnP7aHk3UgNQe_h_rEaOyzxwi1X_ekrq",
+      "publishedAt": "2020-10-29T15:20:37Z",
+      "content": "Prime Minister Narendra Modi took to Twitter on Thursday to condemn the recent terrorist attacks in France. The tweet was in response to a knife attack reported from the French city of Nice where a w… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sputnik International"
+      },
+      "author": "Mike Rivero",
+      "title": "Live Updates: Azerbaijan Takes Control Of Settlements in Four Karabakh Districts, Aliev Says",
+      "description": "Russian President Vladimir Putin earlier discussed the development of the Nagorno-Karabakh conflict by phone with Turkish President Recep Tayyip Erdogan; the Russian president expressed deep concern over the ongoing hostilities, as well as the increasing invo…",
+      "url": "https://sputniknews.com/world/202010281080897521-Live-Updates-Azerbaijan-Takes-Control-Of-Settlements-in-Four-Karabakh-Districts-Aliev-Says/",
+      "urlToImage": "https://cdn1.img.sputniknews.com/images/07e4/0a/17/1080855794.jpg",
+      "publishedAt": "2020-10-29T14:38:18Z",
+      "content": "Russian President Vladimir Putin earlier discussed the development of the Nagorno-Karabakh conflict by phone with Turkish President Recep Tayyip Erdogan; the Russian president expressed deep concern … [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Defense One"
+      },
+      "author": "Ben Watson and Bradley Peniston",
+      "title": "Today's D Brief: Another vice chief has COVID; New warnings for hospitals; Anti-ISIS air strikes; Mass shootings, up; And a bit more.",
+      "description": "",
+      "url": "https://www.defenseone.com/threats/2020/10/the-d-brief-october-29-2020/169651/",
+      "urlToImage": "https://cdn.defenseone.com/media/img/upload/2020/10/29/DB_lander/open-graph.png",
+      "publishedAt": "2020-10-29T14:26:30Z",
+      "content": "Space Forces vice chief has COVID. Gen. David Thompson, vice chief of space operations, took a test after learning that a family member tested positive. Hes now working from home in accordance with e… [+9424 chars]"
+    },
+    {
+      "source": {
+        "id": "new-york-magazine",
+        "name": "New York Magazine"
+      },
+      "author": "Jonathan Chait",
+      "title": "Trump Quashed Probe Into Crimes by Bank in Turkey, Which Is Paying Trump",
+      "description": "If Trump wins, the House should impeach him.",
+      "url": "http://nymag.com/intelligencer/2020/10/trump-turkey-bank-scandal-corruption-erdogan-halkbank-conflict-interest.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/0e6/0d6/6ba24a66addd8d445afd35e0aa44545e30-Trump-and-Erdogan.1x.rsocial.w1200.jpg",
+      "publishedAt": "2020-10-29T14:20:08Z",
+      "content": "In 2016, Turkish strongman Recep Tayyip Erdogan asked then-Vice-President Joe Biden to lean on federal prosecutors who were investigating a Turkish bank for financial crimes and to hand over a dissid… [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Timeline: A series of attacks in France amid a debate over Islam",
+      "description": "The atmosphere in France is tense, with three killed in an attack on a church in Nice.",
+      "url": "https://www.aljazeera.com/news/2020/10/29/timeline-how-muslim-anger-towards-france-flared",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-28T180911Z_907185297_RC2TRJ90K0H5_RTRMADP_3_FRANCE-SECURITY-PAKISTAN.jpg?resize=1200%2C630",
+      "publishedAt": "2020-10-29T14:15:53Z",
+      "content": "A rift between the Muslim world and France is widening, as leaders and the public in several Muslim countries respond to a speech on October 2 in which President Emmanuel Macron said Islam was in cri… [+6180 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheBlaze"
+      },
+      "author": "Leon Wolf",
+      "title": "Brutal 'terrorist attack' beheading reported in Nice, France, amid escalating tensions in Mohammad cartoon row",
+      "description": "Reports from Nice, France, indicate that at least three people have been brutally attacked, including one who was beheaded and another two who have been confirmed dead, inside a church in Nice, France. The mayor of Nice, Christian Estrosi, has already stated …",
+      "url": "https://www.theblaze.com/news/terrorist-knife-attack-beheading-nice-france",
+      "urlToImage": null,
+      "publishedAt": "2020-10-29T14:15:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Legalinsurrection.com"
+      },
+      "author": "Vijeta Uniyal",
+      "title": "France: Attacker Shouting “Allahu Akbar” Beheads 70-Year-Old Woman in Church",
+      "description": "Three killed, several injured in \"Islamo-fascist attack,\" French official says.\nThe post France: Attacker Shouting “Allahu Akbar” Beheads 70-Year-Old Woman in Church first appeared on Le·gal In·sur·rec·tion.",
+      "url": "https://legalinsurrection.com/2020/10/france-attacker-shouting-allahu-akbar-beheads-70-year-old-woman-in-church/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2020/10/France-Nice-Jihad-terror-attack.png",
+      "publishedAt": "2020-10-29T14:00:55Z",
+      "content": "Three killed, several injured in “Islamo-fascist attack,” French official says. A knife-wielding jihadi beheaded a woman and murdered two others at a church this morning in southern France.\r\n“A man w… [+3368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalresearch.ca"
+      },
+      "author": "Steven Sahiounie",
+      "title": "Macron’s Attack on Islam Reveals “Intolerance and Hatred,” Says Nobel Peace Laureate",
+      "description": "The beheading of a teacher in France elicited inflammatory remarks from President Emmanuel Macron, which in turn has been met with an Arab boycott of French goods and outrage by the Muslim world.\nMacron is accusing Muslims of separatism…\nThe post Macron’s Att…",
+      "url": "https://www.globalresearch.ca/macron-attack-islam-reveals-intolerance-hatred-says-nobel-peace-laureate/5727990",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2020/10/thumbs_b_c_82a2664e4ce96743ac395f493090ab4d.jpg",
+      "publishedAt": "2020-10-29T13:54:34Z",
+      "content": "The beheading of a teacher in France elicited inflammatory remarks from President Emmanuel Macron, which in turn has been met with an Arab boycott of French goods and outrage by the Muslim world.\r\nMa… [+8963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": "CNA",
+      "title": "France raises its alert level to maximum after Nice knife attack",
+      "description": "France raises its alert level to maximum after a Nice knife attack",
+      "url": "https://www.channelnewsasia.com/news/world/nice-knife-attack-france-raises-alert-level-13405666",
+      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13404990/16x9/991/557/b01772f53aec738a190665209c28c052/Tz/france-attack-85672-jpg-1603966867.jpg",
+      "publishedAt": "2020-10-29T13:41:09Z",
+      "content": "PARIS: French Prime Minister Jean Castex said the countrys threat level will be raised to its maximum after an attack near a church in Nice killed three people on Thursday (Oct 29).\r\nThe move comes j… [+3660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "FRANCE24",
+      "title": "Knifeman kills three at French church, ratcheting up terror fears",
+      "description": "A knife-wielding man killed three people at a church in the French city of Nice on Thursday, slitting the throat of at least one of them, in what officials are treating as the latest jihadist attack to rock the country.\n\nThe assailant was shot and wounded by …",
+      "url": "https://www.france24.com/en/live-news/20201029-knifeman-kills-three-at-french-church-ratcheting-up-terror-fears",
+      "urlToImage": "https://s.france24.com/media/display/6bd8310c-19eb-11eb-b0ca-005056bff430/w:1280/p:16x9/a643d0c156d7602e1b4db6b2addfacdaffee97b4.jpg",
+      "publishedAt": "2020-10-29T13:34:10Z",
+      "content": "Nice (France) (AFP)\r\nA knife-wielding man killed three people at a church in the French city of Nice on Thursday, slitting the throat of at least one of them, in what officials are treating as the la… [+4597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fark.com"
+      },
+      "author": null,
+      "title": "The Turkish bank case going on in SDNY shows the amount of influence Erdogan has over Trump [News]",
+      "description": "The Turkish bank case going on in SDNY shows the amount of influence Erdogan has over Trump",
+      "url": "https://www.fark.com/comments/11001793/The-Turkish-bank-case-going-on-in-SDNY-shows-amount-of-influence-Erdogan-has-over-Trump",
+      "urlToImage": "https://fark-usrimg-full.nyc3.digitaloceanspaces.com/Y/Yd/fark_YdeKNqbdTD5u6cowDs76sm2bqCQ.jpg?AWSAccessKeyId=HBAYEKZHGUB4NAYQBVSQ&Expires=1604289600&Signature=NhoY6oXt4rJqq9N5bf%2Fg83Vjw6A%3D",
+      "publishedAt": "2020-10-29T13:32:44Z",
+      "content": "&lt;thread&gt;Blockbuster report (a case I've followed closely)\r\nHighlights\r\n1. Trump tried to obstruct righteous prosecution of #Iran sanction-busters!\r\n2. Fired US Attorney to help Erdogan\r\n3. @Joe… [+84 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VOA News"
+      },
+      "author": null,
+      "title": "France-Turkey Dispute Grows Over Cartoons and Influence in Africa",
+      "description": "The war of words between France and Turkey over cartoons portraying Islam’s Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the diplomatic storm over freedom of expression versus religious sensitivity…",
+      "url": "https://www.voanews.com/europe/france-turkey-dispute-grows-over-cartoons-and-influence-africa",
+      "urlToImage": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-10/2020-10-27T111140Z_1195505003_RC2ZQJ9H4TWS_RTRMADP_3_FRANCE-SECURITY-BOYCOTT-TURKEY.JPG",
+      "publishedAt": "2020-10-29T13:28:21Z",
+      "content": "ISTANBUL - The war of words between France and Turkey over cartoons portraying Islams Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the di… [+2425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "VOA News"
+      },
+      "author": null,
+      "title": "France-Turkey Dispute Grows Over Cartoons and Influence",
+      "description": "The war of words between France and Turkey over cartoons portraying Islam’s Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the diplomatic storm over freedom of expression versus religious sensitivity…",
+      "url": "https://www.voanews.com/europe/france-turkey-dispute-grows-over-cartoons-and-influence",
+      "urlToImage": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-10/2020-10-27T111140Z_1195505003_RC2ZQJ9H4TWS_RTRMADP_3_FRANCE-SECURITY-BOYCOTT-TURKEY.JPG",
+      "publishedAt": "2020-10-29T13:28:21Z",
+      "content": "ISTANBUL - The war of words between France and Turkey over cartoons portraying Islams Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the di… [+2425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insideover.com"
+      },
+      "author": "Alex Kassidiaris",
+      "title": "Ankara's geopolitical gambits send turkish lira to historic lows",
+      "description": "With the Turkish economy struggling, President Recep Erdogan keeps pushing through an expansionist foreign policy and using harsh rhetoric in the international scene. The current indicators highlight that unless some of Erdogan’s fundamental policies are prom…",
+      "url": "https://www.insideover.com/economy/ankaras-geopolitical-gambits-send-turkish-lira-to-historic-lows.html",
+      "urlToImage": "https://www.insideover.com/wp-content/uploads/2020/09/Recep-Tayyip-Erdogan-2-scaled-e1601191878975.jpg",
+      "publishedAt": "2020-10-29T13:24:13Z",
+      "content": "With the Turkish economy struggling, President Recep Erdogan keeps pushing through an expansionist foreign policy and using harsh rhetoric in the international scene.\r\nThe current indicators highligh… [+7632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Saudi wounds French consulate guard in Jeddah knife attack",
+      "description": "A Saudi citizen wounded a guard in a knife attack Thursday at the French consulate in the Red Sea city of Jeddah, officials said, as France faces growing anger over satirical cartoons of the Prophet Mohammed.",
+      "url": "https://news.yahoo.com/saudi-wounds-french-consulate-guard-120354245.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/gAunMU8xNDRNX67eXpWHUw--~B/aD01MTE7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/0c2fe82dcaa306c7c19de2d76287513b",
+      "publishedAt": "2020-10-29T13:20:31Z",
+      "content": "A Saudi citizen wounded a guard in a knife attack Thursday at the French consulate in the Red Sea city of Jeddah, officials said, as France faces growing anger over satirical cartoons of the Prophet … [+3854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "By Tim Stickings For Mailonline",
+      "title": "Nice attack: French politicians demand action to 'wipe out Islamo-fascism'",
+      "description": "The triple murder in Nice is the latest in a long line of terror attacks in France in recent years, including the Charlie Hebdo massacre in 2015 and the beheading of a school teacher near Paris.",
+      "url": "https://www.dailymail.co.uk/news/article-8893203/Nice-attack-French-politicians-demand-action-wipe-Islamo-fascism.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/29/13/34998054-0-A_person_who_was_wounded_during_the_attack_on_a_cathedral_in_Nic-a-30_1603976440454.jpg",
+      "publishedAt": "2020-10-29T13:01:44Z",
+      "content": "French politicians lined up to demand tougher action against Islamist terrorism today after three people were murdered by a knifeman in Nice. \r\nThe triple murder is the latest in a long line of terro… [+4848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Caller"
+      },
+      "author": "Marlo Safi",
+      "title": "Attacker screaming 'Allahu akbar' decapitates one, kills two others at French church",
+      "description": "An attacker screaming “Allahu Akbar’ beheaded a woman and killed two other people at a church in France on Thursday.",
+      "url": "https://dailycaller.com/2020/10/29/attacker-allahu-akbar-france-nice-church-terrorism-decapitate/",
+      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2020/10/GettyImages-1229339976-scaled-e1603974556118.jpg",
+      "publishedAt": "2020-10-29T12:49:41Z",
+      "content": "An attacker screaming “Allahu akbar’ beheaded a woman and killed two other people Thursday at a church in France, numerous sources reported.\r\nThe elderly victim that was “virtually beheaded” had come… [+4481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Antiwar.com"
+      },
+      "author": "Mike Rivero",
+      "title": "Erdogan Threatens New Invasion of Northern Syria Over Kurdish Presence",
+      "description": "Tensions are once again soaring on the Syria-Turkey border, with Turkish President Recep Tayyip Erdogan now declaring he has “legitimate reason” to re-invade northern Syria, and that such an option could happen “at any moment.”\nThis would be the latest of sev…",
+      "url": "https://news.antiwar.com/2020/10/28/erdogan-threatens-new-invasion-of-northern-syria-over-kurdish-presence/",
+      "urlToImage": "https://news.antiwar.com/wp-content/uploads/2019/10/awc_logo_for-circle-profile_600sq-01.png",
+      "publishedAt": "2020-10-29T12:31:50Z",
+      "content": "Tensions are once again soaring on the Syria-Turkey border, with Turkish President Recep Tayyip Erdogan now declaring he has “legitimate reason” to re-invade northern Syria, and that such an option c… [+1554 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AlterNet"
+      },
+      "author": "Raw Story",
+      "title": "Revealed: DOJ moved to quash probe into Turkish bank after lobbying from Erdogan",
+      "description": "A major new investigation from the New York Times reveals that President Donald Trump's Department of Justice has moved to aggressively squash an investigation into a Turkish bank after the president was repeatedly lobbied on the issue by Turkish President Re…",
+      "url": "https://www.alternet.org/2020/10/revealed-trumps-doj-moved-to-squash-probe-into-turkish-bank-after-lobbying-from-erdogan/",
+      "urlToImage": null,
+      "publishedAt": "2020-10-29T12:29:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "msnNOW"
+      },
+      "author": "Mike Rivero",
+      "title": "US says 'very real' risk of Turkey sanctions over Russian arms",
+      "description": "A US official warned Wednesday that NATO ally Turkey faced a risk of sanctions after it defiantly tested Russia's S-400 air defense system.\n\"That risk is very real because they... continue to pursue the S-400,\" said R. Clarke Cooper, the top State Department …",
+      "url": "https://www.msn.com/en-us/news/world/us-says-very-real-risk-of-turkey-sanctions-over-russian-arms/ar-BB1aumv2",
+      "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1auifM.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=219&y=240",
+      "publishedAt": "2020-10-29T12:29:25Z",
+      "content": "© Adem ALTAN\r\n Turkish President Recep Tayyip Erdogan, seen here in August 2020, has drawn threats of US sanctions after tests of the Russian S-400 air system\r\nA US official warned Wednesday that NAT… [+2068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWD"
+      },
+      "author": "jweil2",
+      "title": "France on Edge After New Terror Attack, Hours Before Lockdown",
+      "description": "Two people were killed in the southern city of Nice inside the Notre Dame basilica on Thursday morning.",
+      "url": "https://wwd.com/business-news/government-trade/france-nice-terror-attack-lockdown-1234649131/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2020/09/eiffel-tower-1.jpeg?crop=0px%2C0px%2C5760px%2C3842px&resize=640%2C415",
+      "publishedAt": "2020-10-29T12:28:34Z",
+      "content": "PARIS – Tensions in France, already high hours before a new national lockdown, escalated after a terrorist attack in the southern city of Nice on Thursday morning.\r\nThree people were killed in an inc… [+4990 chars]"
     }
   ]
 }
