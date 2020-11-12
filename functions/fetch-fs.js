@@ -25,7 +25,7 @@ const topHeadlinesApi = {
 const everyNews = {
   name: 'everything',
   q: null,
-  qInTitle: 'Karabakh',
+  qInTitle: null,
   sources: null,
   domains: null,
   excludeDomains: null,

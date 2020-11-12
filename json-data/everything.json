@@ -1,45 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 19238,
+  "totalResults": 19640,
   "articles": [
     {
       "source": {
         "id": null,
-        "name": "HYPEBEAST"
+        "name": "Sap.com"
       },
-      "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
-      "title": "Totem Automobili Electrifies '60s Alfa Romeo Giulia GT 1600/1750 To Deliver 518 BHP",
-      "description": "Italian restomod start-up Totem Automobili has announced its first project, which combines the beauty and elegance of the Alfa Romeo Giulia GT 1600/1750 with the performance and accessibility of 21st-century electric power. Indeed, this restomod Totem GT Elec…",
-      "url": "https://hypebeast.com/2020/11/totem-automobili-gt-1960-alfa-romeo-giulia-gta-electric-car-restomod-1970s-italian-518-bhp",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftotem-automobili-gt-1960-alfa-romeo-giulia-gta-electric-car-restomod-1970s-italian-518-bhp-tw.jpg?w=960&cbr=1&q=90&fit=max",
-      "publishedAt": "2020-11-11T10:07:01Z",
-      "content": "Italian restomod start-up Totem Automobili has announced its first project, which combines the beauty and elegance of the Alfa Romeo Giulia GT 1600/1750 with the performance and accessibility of 21st… [+1623 chars]"
+      "author": "Sorina Ciobanu",
+      "title": "Tax in SAP S/4HANA",
+      "description": "As SAP S/4HANA enables more and more the ‘’intelligent enterprise’’, the topic of tax becomes also a key part of this journey. Tax, both direct and indirect, is also an area where legal regulations and",
+      "url": "https://blogs.sap.com/2020/11/12/tax-in-sap-s-4hana/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-12T09:01:21Z",
+      "content": "As SAP S/4HANA enables more and more the intelligent enterprise, the topic of tax becomes also a key part of this journey. Tax, both direct and indirect, is also an area where legal regulations and t… [+7522 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Mark Critchley",
+      "title": "Scotland ready for biggest game in a generation against Serbia and chance to end long tournament wait",
+      "description": "22 years on from their last major tournament appearance, Scotland can make history in Belgrade",
+      "url": "https://www.independent.co.uk/sport/football/international/scotland-vs-serbia-euro-2020-playoffs-b1721468.html",
+      "urlToImage": "https://static.independent.co.uk/2020/11/11/21/GettyImages-1279402832.jpg",
+      "publishedAt": "2020-11-12T08:54:21Z",
+      "content": "No regrets. That is what both Steve Clarke and Andy Robertson want once the final whistle has sounded on the biggest game in Scottish football for a decade or more. A 22-year wait to qualify for a ma… [+4413 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "Yahoo Entertainment"
       },
-      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
-      "title": "Adaptive Biotechnologies Corporation (ADPT) Q3 2020 Earnings Call Transcript",
-      "description": "ADPT earnings call for the period ending September 30, 2020.",
-      "url": "https://www.fool.com/earnings/call-transcripts/2020/11/11/adaptive-biotechnologies-corporation-adpt-q3-2020/",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
-      "publishedAt": "2020-11-11T10:00:57Z",
-      "content": "Image source: The Motley Fool.\r\nAdaptive Biotechnologies Corporation (NASDAQ:ADPT)Q3 2020 Earnings CallNov 10, 2020, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</l… [+58377 chars]"
+      "author": "The Independent",
+      "title": "Scotland ready for biggest game in a generation against Serbia and chance to end long tournament wait",
+      "description": "22 years on from their last major tournament appearance, Scotland can make history in Belgrade",
+      "url": "https://sports.yahoo.com/scotland-ready-biggest-game-generation-085421510.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Y5GyP9pGvnS77EeUq.sixA--~B/aD0xMzYwO3c9MTkyODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_independent_577/9374b9b993cfb5f3f5c844492331b21e",
+      "publishedAt": "2020-11-12T08:54:21Z",
+      "content": "Scotland are ready for the biggest game in a generation\r\n (Getty Images)\r\nNo regrets. That is what both Steve Clarke and Andy Robertson want once the final whistle has sounded on the biggest game in … [+4548 chars]"
     },
     {
       "source": {
-        "id": "reuters",
-        "name": "Reuters"
+        "id": "independent",
+        "name": "Independent"
       },
-      "author": "Shashank Nayar",
-      "title": "UPDATE 1-European shares extend rally on vaccine cheer - Reuters",
-      "description": "* Nordea Bank falls on stake sale by Finnish insurer Sampo (Adds comments; updates prices)",
-      "url": "https://www.reuters.com/article/europe-stocks-idUSL4N2HX25Z",
-      "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-      "publishedAt": "2020-11-11T10:00:00Z",
-      "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Spain, Italy to get COVID-19 vaccines by early 2021\r\n* 68% of STOXX 600 cos have beaten… [+2654 chars]"
+      "author": "Via AP news wire",
+      "title": "AP News Digest 3:50 a.m.",
+      "description": "Here are the AP’s latest coverage plans, top stories and promotable content. All Times EST. For up-to-the minute information on AP’s coverage, visit Coverage Plan at https://newsroom ap.org.",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/ap-news-digest-350-am-donald-trump-joe-biden-ap-mark-milley-news-b1721648.html",
+      "urlToImage": "https://static.independent.co.uk/2020/11/12/05/APTOPIX_Trump_87776.jpg",
+      "publishedAt": "2020-11-12T08:52:17Z",
+      "content": "Here are the APs latest coverage plans, top stories and promotable content. All Times EST. For up-to-the minute information on APs coverage, visit Coverage Plan at https://newsroom ap.org.\r\n---------… [+7933 chars]"
+    },
+    {
+      "source": {
+        "id": "ansa",
+        "name": "ANSA.it"
+      },
+      "author": "",
+      "title": "Sky: terzo live per X Factor, Fedez torna sul palco",
+      "description": "Ospiti i Purple Disco Machine e Sophie and the Giants (ANSA)",
+      "url": "https://www.ansa.it/sito/notizie/cultura/2020/11/11/sky-terzo-live-per-x-factor-fedez-torna-sul-palco_a0e52ff6-e976-4f30-a78a-45e0a63e344c.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2020/9/17/87ca5962139b04d36d0e9e688b4fb17f.jpg",
+      "publishedAt": "2020-11-12T08:44:17Z",
+      "content": "Dopo la doppia eliminazione della scorsa settimana, continua domani, su Sky e Now Tv, la gara Live di X Factor 2020, lo show di Sky prodotto da Fremantle. La partnership Sky Wifi, Connecting Partner … [+3252 chars]"
     },
     {
       "source": {
@@ -47,64 +73,25 @@
         "name": "CNA"
       },
       "author": "CNA",
-      "title": "Recordings reveal WHO's analysis of COVID-19 pandemic in private",
-      "description": "GENEVA: As the coronavirus exploded around the globe, scientists at the World Health Organization (WHO) were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant to say so publicly, leaked recordings of intern…",
-      "url": "https://www.channelnewsasia.com/news/world/covid-19-coronavirus-pandemic-who-member-states-criticism-13516098",
-      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13515986/16x9/991/557/b86f3d9464211e8486592f43eb4f2471/ZG/who-pandemic-recordings-80046-jpg-1605081967.jpg",
-      "publishedAt": "2020-11-11T09:58:42Z",
-      "content": "GENEVA: As the coronavirus exploded around the globe, scientists at the World Health Organization (WHO) were sometimes privately frustrated by the mistakes made by some of their top donor countries b… [+6082 chars]"
+      "title": "Fiat Chrysler and Engie agree to set up e-mobility joint venture",
+      "description": "Fiat Chrysler and Engie EPS, a part of French utility Engie that focuses on energy storage systems and microgrids, plan to set up a joint venture to boost electric mobility, the two companies said on Thursday.",
+      "url": "https://www.channelnewsasia.com/news/business/fiat-chrysler-and-engie-agree-to-set-up-e-mobility-joint-venture-13524686",
+      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13524684/16x9/991/557/16d5841b8e6b11c7ee31593a09b83b1d/wi/file-photo--fiat-chrysler-presents-mild-hybrid-versions-of-its-500-and-panda-models-3.jpg",
+      "publishedAt": "2020-11-12T08:40:29Z",
+      "content": "MILAN: Fiat Chrysler and Engie EPS, a part of French utility Engie that focuses on energy storage systems and microgrids, plan to set up a joint venture to boost electric mobility, the two companies … [+1577 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Japan Times"
+        "name": "CNA"
       },
-      "author": "Pankaj Mishra",
-      "title": "America’s age of anger is just getting started",
-      "description": "There is little respite from clownish demagoguery once a long-standing political order loses credibility and legitimacy among a significantly large proportion of the population.",
-      "url": "https://www.japantimes.co.jp/opinion/2020/11/11/commentary/japan-commentary/us-age-of-anger-donald-trump/",
-      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/11/np_file_49558-870x580.jpeg",
-      "publishedAt": "2020-11-11T09:52:34Z",
-      "content": "A nightmare began with Donald Trumps victory in November 2016. It has just been extended indefinitely with his narrow loss and wild allegations of electoral fraud.\r\nIn his 2016 campaign, Trump prospe… [+5053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lithub.com"
-      },
-      "author": "Lit Hub Excerpts",
-      "title": "You Have the Prettiest Mask",
-      "description": "The summer before plague masks took over the Chaunce School for Girls, my whole world kind of gasped. Everything suddenly got really slow and nervous. It was that moment that happens right before the scream. The world in general, and not just my world, was a …",
-      "url": "https://lithub.com/you-have-the-prettiest-mask/",
-      "urlToImage": "https://lithub.com/wp-content/uploads/2020/11/unnamed.jpg",
-      "publishedAt": "2020-11-11T09:48:52Z",
-      "content": "The summer before plague masks took over the Chaunce School for Girls, my whole world kind of gasped. Everything suddenly got really slow and nervous. It was that moment that happens right before the… [+22144 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Amanda Cooper",
-      "title": "Global stocks edge up, as COVID-19 vaccine optimism boosts 'real economy' shares but dents tech",
-      "description": "Summary List Placement\n\nGlobal equities edged higher on Wednesday, as investor cash continued to flow into previously unloved \"real economy\" stocks, but political uncertainty in Washington and record COVID-19 infection rates across the US and Europe eroded so…",
-      "url": "https://www.businessinsider.com/global-equities-rise-covid19-vaccine-real-economy-tech-stocks-2020-11",
-      "urlToImage": "https://i.insider.com/5fabaaabf7d1cb0019e3b090?width=1200&format=jpeg",
-      "publishedAt": "2020-11-11T09:48:36Z",
-      "content": "Global equities edged higher on Wednesday, as investor cash continued to flow into previously unloved \"real economy\" stocks, but political uncertainty in Washington and record COVID-19 infection rate… [+4043 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Associated Press",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency.",
-      "url": "https://www.foxnews.com/health/recordings-reveal-whos-analysis-of-pandemic-in-private",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20314583780046.jpg",
-      "publishedAt": "2020-11-11T09:46:45Z",
-      "content": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by… [+10029 chars]"
+      "author": "CNA",
+      "title": "Fiat Chrysler and Engie agree to set up e-mobility joint venture",
+      "description": "MILAN: Fiat Chrysler and Engie EPS, a part of French utility Engie that focuses on energy storage systems and microgrids, plan to set up a joint venture to boost electric mobility, the two companies said on Thursday (Nov 12).",
+      "url": "https://www.channelnewsasia.com/news/business/fiat-chrysler-engie-agree-set-up-e-mobility-joint-venture-13524686",
+      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13524684/16x9/991/557/16d5841b8e6b11c7ee31593a09b83b1d/wi/file-photo--fiat-chrysler-presents-mild-hybrid-versions-of-its-500-and-panda-models-3.jpg",
+      "publishedAt": "2020-11-12T08:40:29Z",
+      "content": "MILAN: Fiat Chrysler and Engie EPS, a part of French utility Engie that focuses on energy storage systems and microgrids, plan to set up a joint venture to boost electric mobility, the two companies … [+1492 chars]"
     },
     {
       "source": {
@@ -112,64 +99,12 @@
         "name": "Reuters"
       },
       "author": "Reuters Staff",
-      "title": "Italy police carrying out enforcement orders against former, current Autostrade managers - Reuters UK",
-      "description": "Italy's finance police said it was carrying out enforcement orders against a series of former and current top managers of Atlantia <ATL.MI> unit Autostrade per l'Italia, in an ongoing probe related to the 2018 Genoa bridge collapse.",
-      "url": "https://www.reuters.com/article/uk-italy-motorway-arrests-idUKKBN27R13F",
-      "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
-      "publishedAt": "2020-11-11T09:45:00Z",
-      "content": "By Reuters Staff\r\nROME (Reuters) - Italy's finance police said it was carrying out enforcement orders against a series of former and current top managers of Atlantia ATL.MI unit Autostrade per l'Ital… [+685 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "Former Atlantia CEO put under house arrest in bridge probe - sources - Reuters UK",
-      "description": "Former Atlantia <ATL.MI> chief executive Giovanni Castellucci has been put under house arrest in a probe related to a deadly 2018 Genoa bridge collapse, three sources with knowledge of the matter told Reuters.",
-      "url": "https://uk.reuters.com/article/uk-italy-motorway-arrests-idUKKBN27R13F",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540821891&r=LYNXMPEGAA0KG&w=800",
-      "publishedAt": "2020-11-11T09:45:00Z",
-      "content": "By Reuters Staff\r\nFILE PHOTO: A logo of the Atlantia Group is seen outside their headquarters in Rome, Italy August 31, 2018. REUTERS/Alessandro Bianchi\r\nMILAN (Reuters) - Former Atlantia ATL.MI chie… [+1201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ESPN"
-      },
-      "author": "James Olley",
-      "title": "How are teams adjusting to more penalties and who are the best takers?",
-      "description": "The change in handball laws and increased VAR intervention has seen a major rise in penalties being awarded. How are teams handling the pressure?",
-      "url": "https://www.espn.com/soccer/english-premier-league/story/4231710/premier-leaguechampions-league-seeing-more-penalties-in-2020-21-how-are-teams-sharpening-their-skills",
-      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1110%2Fr774014_1296x729_16%2D9.jpg",
-      "publishedAt": "2020-11-11T09:43:34Z",
-      "content": "Penalty taking has never been more important than it is in 2020. The introduction of VAR across Europe's top leagues, combined with revisions to the handball law, have contributed to a dramatic incre… [+11996 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FXStreet"
-      },
-      "author": "FXStreet Team",
-      "title": "EUR/USD: Covid reality bites, critical support at 1.1780 in danger",
-      "description": "EUR/USD has struggled to hold onto gains related to vaccine hopes as Covid's hold in Europe and the US is weighing on markets. Critical support at 1.1",
-      "url": "https://www.fxstreet.com/news/eur-usd-covid-reality-bites-critical-support-at-11780-in-danger-202011110938",
-      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/MoneyEURUSD_2_Large.jpg",
-      "publishedAt": "2020-11-11T09:38:42Z",
-      "content": "EUR/USD has struggled to hold onto gains related to vaccine hopes as Covid's hold in Europe and the US is weighing on markets. Critical support at 1.1780 is in danger, as FXStreet’s Analyst Yohay Ela… [+1447 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "C21media.net"
-      },
-      "author": "Nico Franks",
-      "title": "Asacha hires former Disney exec",
-      "description": "The fledgling pan-European drama group set up by alumni from Endemol Shine, Banijay and Zodiak Media has hired former Disney executive Maria Grazia Ursino to handle development and distribution. Asach...",
-      "url": "https://www.c21media.net/asacha-hires-former-disney-exec/",
-      "urlToImage": "https://www.c21media.net/wp-content/uploads/2020/11/maria-grazia-ursino-620.jpg",
-      "publishedAt": "2020-11-11T09:36:01Z",
-      "content": "The fledgling pan-European drama group set up by alumni from Endemol Shine, Banijay and Zodiak Media has hired former Disney executive Maria Grazia Ursino to handle development and distribution.\r\nMar… [+1965 chars]"
+      "title": "Fiat Chrysler and Engie agree to set up e-mobility joint venture - Reuters Canada",
+      "description": "Fiat Chrysler and Engie EPS, a part of French utility Engie that focuses on energy storage systems and microgrids, plan to set up a joint venture to boost electric mobility, the two companies said on Thursday.",
+      "url": "https://ca.reuters.com/article/us-fiat-chrysler-engie-jv-idCAKBN27S125",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540946268&r=LYNXMPEGAB0KI&w=800",
+      "publishedAt": "2020-11-12T08:36:00Z",
+      "content": "By Reuters Staff\r\nFILE PHOTO: New Fiat Panda and Fiat 500 mild-hybrid cars are seen in piazza Maggiore, in Bologna, Italy, February 4, 2020. REUTERS/Flavio Lo Scalzo\r\nMILAN (Reuters) - Fiat Chrysler … [+1629 chars]"
     },
     {
       "source": {
@@ -177,38 +112,64 @@
         "name": "PRNewswire"
       },
       "author": null,
-      "title": "Ureteral Stents Market Size Worth $723.6 Million By 2027 | CAGR: 7.0%: Grand View Research, Inc.",
-      "description": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global ureteral stents market size is anticipated to reach USD 723.6 million by 2027, expanding at a CAGR of 7.0%, according to a new report by Grand View Research, Inc. Rising incidence of urological diseases …",
-      "url": "https://www.prnewswire.com/news-releases/ureteral-stents-market-size-worth-723-6-million-by-2027--cagr-7-0-grand-view-research-inc-301170624.html",
+      "title": "Electric Truck Market Size Worth $14.19 Billion By 2027 | CAGR: 43.3%: Grand View Research, Inc.",
+      "description": "SAN FRANCISCO, Nov. 12, 2020 /PRNewswire/ -- The global electric truck market size is expected to reach USD 14.19 billion by 2027, according to a new report by Grand View Research, Inc. The market is projected to register a CAGR of 43.3% from 2020 to 2027. St…",
+      "url": "https://www.prnewswire.com/news-releases/electric-truck-market-size-worth-14-19-billion-by-2027--cagr-43-3-grand-view-research-inc-301171607.html",
       "urlToImage": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
-      "publishedAt": "2020-11-11T09:35:00Z",
-      "content": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global ureteral stents market size is anticipated to reach USD 723.6 million by 2027, expanding at a CAGR of 7.0%, according to a new report by Grand … [+5810 chars]"
+      "publishedAt": "2020-11-12T08:35:00Z",
+      "content": "SAN FRANCISCO, Nov. 12, 2020 /PRNewswire/ -- The global electric truck market size is expected to reach USD 14.19 billion by 2027, according to a new report by Grand View Research, Inc. The market is… [+5126 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Streetartnews.net"
+        "name": "Yahoo Entertainment"
       },
-      "author": "StreetArtNews",
-      "title": "“Cerimonia” by Tresoldi Academy in Bologna, Italy",
-      "description": "Cerimonia is the first site-specific installation realized by TRAC – Tresoldi Academy, the school created in collaboration between STUDIO STUDIO STUDIO, the interdisciplinary lab founded by Edoardo Tresoldi to create and support contemporary art projects and …",
-      "url": "https://streetartnews.net/2020/11/cerimonia-by-tresoldi-academy-in-bologna-italy.html",
-      "urlToImage": "https://streetartnews.net/wp-content/uploads/2020/11/TRAC_Tresoldi_Academy_Cerimonia-©-Roberto-Conte_1.jpg",
-      "publishedAt": "2020-11-11T09:32:17Z",
-      "content": "Cerimonia is the first site-specific installation realized by TRAC – Tresoldi Academy, the school created in collaboration between STUDIO STUDIO STUDIO, the interdisciplinary lab founded by Edoardo T… [+2761 chars]"
+      "author": "PR Newswire",
+      "title": "Electric Truck Market Size Worth $14.19 Billion By 2027 | CAGR: 43.3%: Grand View Research, Inc.",
+      "description": "The global electric truck market size is expected to reach USD 14.19 billion by 2027, according to a new report by Grand View Research, Inc. The market is projected to register a CAGR of 43.3% from 2020 to 2027. Stringent emission regulations, coupled with de…",
+      "url": "https://news.yahoo.com/electric-truck-market-size-worth-083500388.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/UJBjM1KUmNNa89DwEAQavA--~B/aD0xMjE7dz00MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/84a909d2dfa86689f31c95be1bfc0ba8",
+      "publishedAt": "2020-11-12T08:35:00Z",
+      "content": "SAN FRANCISCO, Nov. 12, 2020 /PRNewswire/ -- The global electric truck market size is expected to reach USD 14.19 billion by 2027, according to a new report by Grand View Research, Inc. The market is… [+5170 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Colleen Barry",
+      "title": "Italian hospitals face breaking point in fall virus surge",
+      "description": "MILAN (AP) — Dr. Luca Cabrini was certain his hospital in the heart of Lombardy's lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500...",
+      "url": "https://apnews.com/51f93fa0a281f3c7db7d8cf8760cfb38",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/263edd17c222453399c32af0300fcdbd/3000.jpeg",
+      "publishedAt": "2020-11-12T08:34:56Z",
+      "content": "MILAN (AP) Dr. Luca Cabrini was certain his hospital in the heart of Lombardys lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds and … [+5980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Fiat Chrysler and Engie agree to set up e-mobility joint venture",
+      "description": "Fiat Chrysler and Engie EPS, a part of French utility Engie that focuses on energy storage systems and microgrids, plan to set up a joint venture to boost electric mobility, the two companies said on Thursday. Fiat Chrysler's Italian division and Engie EPS, w…",
+      "url": "https://finance.yahoo.com/news/fiat-chrysler-engie-agree-set-083452427.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/vWIG5bnBQTsaJbRau4mujA--~B/aD01MzI7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/3253deb4122dc4e13ccd27091bdc7be8",
+      "publishedAt": "2020-11-12T08:34:52Z",
+      "content": "MILAN (Reuters) - Fiat Chrysler and Engie EPS, a part of French utility Engie that focuses on energy storage systems and microgrids, plan to set up a joint venture to boost electric mobility, the two… [+1524 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Daily Mail"
       },
-      "author": "By Charlotte Dean For Mailonline",
-      "title": "Mission Impossible 7: Hayley Atwell grapples with Esai Morales on a canal bridge",
-      "description": "The actress, 38, was seen holding up some form of weapon to villain Esai  as he blocked the attack from her as-yet-unnamed character.",
-      "url": "https://www.dailymail.co.uk/tvshowbiz/article-8936991/Mission-Impossible-7-Hayley-Atwell-grapples-Esai-Morales-canal-bridge.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/11/09/35544872-0-image-a-28_1605087315266.jpg",
-      "publishedAt": "2020-11-11T09:28:19Z",
-      "content": "They were spotted filming a brutal fight scene on the deserted streets of Venice earlier this week, with Esai Morales even strangling his co-star Hayley Atwell. \r\nAnd it appeared Hayley was seeking h… [+4728 chars]"
+      "author": "By Jason Chester for MailOnline",
+      "title": "Tom Cruise films Mission: Impossible 7 with Simon Pegg and Rebecca Ferguson in Venice",
+      "description": "Dressed in the casual black bomber jacket and matching jeans favoured by central character Ethan Hunt, Cruise, 58, appeared to be filming another scene with his co-stars on a deserted city square.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-8941057/Tom-Cruise-films-Mission-Impossible-7-Simon-Pegg-Rebecca-Ferguson-Venice.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/12/07/35586694-0-image-a-4_1605167221945.jpg",
+      "publishedAt": "2020-11-12T08:22:41Z",
+      "content": "Tom Cruise was joined by his two principal co-stars on Wednesday as location filming commenced on the set of forthcoming film Mission: Impossible 7. \r\nThe Hollywood star had good company in the form … [+3892 chars]"
     },
     {
       "source": {
@@ -216,519 +177,25 @@
         "name": "FXStreet"
       },
       "author": "Yohay Elam",
-      "title": "EUR/USD Forecast: Euro suffers virus reality check, critical support at 1.1780 in danger",
-      "description": "Reality bites – while a vaccine serves as a light at the end of the tunnel, that glimmer remains far and insufficient to guide those walking in the da",
-      "url": "https://www.fxstreet.com/analysis/eur-usd-forecast-euro-suffers-virus-reality-check-critical-support-at-11780-in-danger-202011110911",
-      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/photo-of-the-american-and-euro-banknotes-57153806_Large.jpg",
-      "publishedAt": "2020-11-11T09:11:12Z",
-      "content": "<ul><li>EUR/USD has struggled to hold onto gains related to vaccine hopes. </li><li>Covid's hold in Europe and the US is weighing on markets. </li><li>Wednesday's four-hour chart is showing the curre… [+2564 chars]"
-    },
-    {
-      "source": {
-        "id": "football-italia",
-        "name": "Football Italia"
-      },
-      "author": "Football Italia staff",
-      "title": "Probable line-ups: Italy-Estonia",
-      "description": "Assistant coach Alberico Evani will oversee the match in the absence of Roberto Mancini, as Kevin Lasagna could start for Italy against Estonia.  \tThe match at the Artemio Franchi starts at 19.45 UK time.  \tThe local health authority and the respective bubble…",
-      "url": "https://www.football-italia.net/161874/probable-line-ups-italy-estonia",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T09:09:38Z",
-      "content": "Assistant coach Alberico Evani will oversee the match in the absence of Roberto Mancini, as Kevin Lasagna could start for Italy against Estonia.\r\nThe match at the Artemio Franchi starts at 19.45 UK t… [+1476 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foreign Policy"
-      },
-      "author": "Elisabeth Braw",
-      "title": "Forget U.N. Peacekeepers: Send in the Gendarmes",
-      "description": "In gray-zone conflicts, police don’t have the skills to bring peace and full-scale military interventions can lead to escalation. A force that can bring stability is needed.",
-      "url": "https://foreignpolicy.com/2020/11/11/forget-u-n-peacekeepers-send-in-the-gendarmes/",
-      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2020/11/france-gendarmes-attack-nice.jpg?w=1000",
-      "publishedAt": "2020-11-11T09:06:17Z",
-      "content": "We believe that both parties should accept Scandinavian peacekeepers and we’re working with Scandinavian governments to put together a peacekeeping force that could deployed into the region to keep a… [+9389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PRNewswire"
-      },
-      "author": null,
-      "title": "Bacterial & Viral Specimen Collection Market Size Worth $38.8 Billion By 2027: Grand View Research, Inc.",
-      "description": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global bacterial and viral specimen collection market size is expected to reach USD 38.8 billion by 2027, expanding at a CAGR of 14.0%, according to a new report by Grand View Research, Inc. The advent of high-…",
-      "url": "https://www.prnewswire.com/news-releases/bacterial--viral-specimen-collection-market-size-worth-38-8-billion-by-2027-grand-view-research-inc-301170641.html",
-      "urlToImage": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
-      "publishedAt": "2020-11-11T09:05:00Z",
-      "content": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global bacterial and viral specimen collection market size is expected to reach USD 38.8 billion by 2027, expanding at a CAGR of 14.0%, according to a… [+7145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Rigzone"
-      },
-      "author": "Bloomberg",
-      "title": "Oil Up After Report Points to Easing US Stockpiles",
-      "description": "Oil extended gains in New York after an industry report pointed to a bigger-than-expected decline in U.S. crude stockpiles.",
-      "url": "https://www.rigzone.com/news/wire/oil_up_after_report_points_to_easing_us_stockpiles-11-nov-2020-163818-article/",
-      "urlToImage": "https://images.rigzone.com/images/news/articles/163818_582x327.png",
-      "publishedAt": "2020-11-11T09:00:14Z",
-      "content": "(Bloomberg) -- Oil extended gains above $42 a barrel in New York after an industry report pointed to a bigger-than-expected decline in U.S. crude stockpiles, adding to bullish momentum after a vaccin… [+3368 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": "Chan Kin-wa, Chan Kin-wa",
-      "title": "Windsurfer Hayley Chan determined to make it to Tokyo after being forced to go through the selection process again",
-      "description": "Experienced board sailor Hayley Chan Hei-man is determined to regain her spot on the Hong Kong squad for the Tokyo Olympics after being forced to qualify again because of the global pandemic.Chan and teammate Michael Cheng Chun-leung won the men’s and women’s…",
-      "url": "https://www.scmp.com/sport/hong-kong/article/3109394/windsurfer-hayley-chan-determined-make-it-tokyo-after-being-forced",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/11/9be715e0-23e4-11eb-8a46-f186a810a22a_image_hires_165805.jpg?itok=CoTbWBQn&v=1605085103",
-      "publishedAt": "2020-11-11T08:58:25Z",
-      "content": "Published: 4:58pm, 11 Nov, 2020\r\nUpdated: 4:58pm, 11 Nov, 2020"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "C21media.net"
-      },
-      "author": "KarolinaKaminska",
-      "title": "Amazon takes Alex Rider to S2",
-      "description": "Amazon Prime Video and the tech giant’s free streaming service IMDb TV have greenlit a second season of spy thriller series Alex Rider. Produced by Eleventh Hour Films and Sony Pictures Television f...",
-      "url": "https://www.c21media.net/amazon-takes-alex-rider-to-s2/",
-      "urlToImage": "https://www.c21media.net/wp-content/uploads/2020/07/alex-rider-office.jpg",
-      "publishedAt": "2020-11-11T08:57:04Z",
-      "content": "Alex Rider S1 debuted on Amazon in the UK, Australia and Germany this summer\r\nAmazon Prime Video and the tech giants free streaming service IMDb TV have greenlit a second season of spy thriller serie… [+697 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "By MARIA CHENG AP Medical Writer",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "GENEVA (AP) — As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant to say so publicly, leaked recordings of…",
-      "url": "https://apnews.com/a66b6ec65368e004d20bad9af159b9ca",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/b4/db48ac99-6960-5a56-946b-7babcc9f55a9/5faba2b51086c.image.jpg?crop=1650%2C928%2C0%2C163&resize=1120%2C630&order=crop%2Cresize",
-      "publishedAt": "2020-11-11T08:54:28Z",
-      "content": "WHO scientists soon grew concerned about Japan. On Feb. 1, a passenger who disembarked the Diamond Princess cruise ship in Hong Kong tested positive for the coronavirus. At the ships next stop in Yok… [+1173 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Via AP news wire",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donors but reluctant to say so publicly, leaked recordings of internal meetings show",
-      "url": "https://www.independent.co.uk/news/recordings-reveal-whos-analysis-of-pandemic-in-private-who-scientists-epidemics-who-scientists-b1720927.html",
-      "urlToImage": "https://static.independent.co.uk/2020/11/11/08/WHO_Pandemic_Recordings_15800.jpg",
-      "publishedAt": "2020-11-11T08:54:28Z",
-      "content": "As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant t… [+5790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "MARIA CHENG",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant to say so publicly, leaked recordings of internal meetings sh…",
-      "url": "https://finance.yahoo.com/news/recordings-reveal-whos-analysis-pandemic-085427850.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Yi6IZs0tDEKif3BAkTc2FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzU4/https://s.yimg.com/uu/api/res/1.2/LKZKGtNZtFeqn6stjnGOfg--~B/aD0xOTM0O3c9Mjg0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap.org/3b053f147445534dad236c48f6cc4280",
-      "publishedAt": "2020-11-11T08:54:27Z",
-      "content": "GENEVA (AP) As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but… [+5787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": null,
-      "title": "BearingPoint survey: Europe’s public servants at the time of pandemic: Mobilized, resilient and ready to embrace new ways of working and to develop new skills",
-      "description": "AMSTERDAM--(BUSINESS WIRE)-- #bearingpoint--In a major pan-European survey, BearingPoint assesses the experiences of public servants working in front-line and citizen-facing roles.",
-      "url": "https://www.businesswire.com/news/home/20201111005064/en/BearingPoint-survey-Europe%E2%80%99s-public-servants-at-the-time-of-pandemic-Mobilized-resilient-and-ready-to-embrace-new-ways-of-working-and-to-develop-new-skills",
-      "urlToImage": "https://mms.businesswire.com/media/20201111005064/en/820913/23/Andrew_Montgomery.jpg",
-      "publishedAt": "2020-11-11T08:54:07Z",
-      "content": "AMSTERDAM--(BUSINESS WIRE)--In a major new pan-European survey, management and technology consultancy BearingPoint assesses the experiences of public servants working in front-line and citizen-facing… [+6994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": "TMZ Staff",
-      "title": "Joe Giudice's Happy Ex-Wife Teresa Found a New Boyfriend",
-      "description": "Joe Giudice is glad his ex-wife is moving on with her life ... and tells us he's happy Teresa's got a hot new boyfriend. Okay, \"hot\" is our word, not his. The ex 'Real Housewives of New Jersey' star tells TMZ ... he's known for some time Teresa's…",
-      "url": "https://www.tmz.com/2020/11/11/joe-giudice-happy-teresa-new-boyfriend-ex-wife-divorce/",
-      "urlToImage": "https://imagez.tmz.com/image/f1/16by9/2020/11/10/f1a786394bfa4ca68b18d5553a88f2c3_xl.jpg",
-      "publishedAt": "2020-11-11T08:50:20Z",
-      "content": "Joe Giudice is glad his ex-wife is moving on with her life ... and tells us he's happy Teresa's got a hot new boyfriend. Okay, \"hot\" is our word, not his.\r\nThe ex 'Real Housewives of New Jersey' star… [+695 chars]"
-    },
-    {
-      "source": {
-        "id": "football-italia",
-        "name": "Football Italia"
-      },
-      "author": "Football Italia staff",
-      "title": "Brahim: 'Zlatan shows there's no age in football'",
-      "description": "Milan attacker Brahim Diaz said Zlatan Ibrahimovic âis the same age as my father but continues to make a differenceâ.",
-      "url": "https://www.football-italia.net/161873/brahim-zlatan-shows-theres-no-age-football",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:40:08Z",
-      "content": "Milan attacker Brahim Diaz said Zlatan Ibrahimovic ‘is the same age as my father but continues to make a difference’.\r\nThe Real Madrid loanee has impressed in his first months with the Rossoneri and … [+1647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Republic World"
-      },
-      "author": "Wasiq Agha",
-      "title": "Netherlands vs Spain live stream, prediction, team news, international friendlies live",
-      "description": "The Netherlands take on Spain on Wednesday night, Nov 11 (Nov 12 in India) at 1:15 am IST. Here are the Netherlands vs Spain live stream details & match preview",
-      "url": "https://www.republicworld.com/sports-news/football-news/netherlands-vs-spain-live-stream-prediction-team-news-international-friendlies-live.html",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8903g6siqzkfatyf_1605083694.jpeg?tr=f-jpeg",
-      "publishedAt": "2020-11-11T08:39:54Z",
-      "content": "The Netherlands take on Spain in a mouth-watering clash in the upcoming round of international friendlies. The friendly will take place at the Johan Cruijff ArenA in Amsterdam. The Netherlands vs Spa… [+3104 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "seattlepi.com"
-      },
-      "author": "By MARIA CHENG, AP Medical Writer",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "GENEVA (AP) — As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency.\nWith i…",
-      "url": "https://www.seattlepi.com/news/article/Recordings-reveal-WHO-s-analysis-of-pandemic-in-15718247.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/15/16/21/20243525/3/rawImage.jpg",
-      "publishedAt": "2020-11-11T08:38:04Z",
-      "content": "GENEVA (AP) — As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse… [+9528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thinkcuriouser.com"
-      },
-      "author": null,
-      "title": "Global Internet of Things (IoT) in Energy Market 2025 Current as Well as the Future Challenges: AGT INTERNATIONAL, CISCO SYSTEMS, INTERNATIONAL BUSINESS MACHINE (IBM) CORPORATION, SAP, CARRIOTS SL, DAVRA NETWORKS, etc. - The Think Curiouser",
-      "description": "Global Internet of Things (IoT) in Energy Market 2025 Current as Well as the Future Challenges: AGT INTERNATIONAL, CISCO SYSTEMS, INTERNATIONAL BUSINESS MACHINE (IBM) CORPORATION, SAP, CARRIOTS SL, DAVRA NETWORKS, etc.  The Think Curiouser",
-      "url": "https://thinkcuriouser.com/energy/653194/global-internet-of-things-iot-in-energy-market-2025-current-as-well-as-the-future-challenges-agt-international-cisco-systems-international-business-machine-ibm-corporation-sap-carriots-s-l-2/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:36:40Z",
-      "content": "Regional Development: Detailed Analysis\r\nThe latest report presentation on Global Internet of Things (IoT) in Energy market portrays a detailed analytical review of the market spectrum across both hi… [+5723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": "MARIA CHENG",
-      "title": "Recordings reveal WHO’s analysis of pandemic in private",
-      "description": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that US President-elect Joe Biden will reverse a decision by Washington to leave the health agency.",
-      "url": "https://www.bostonglobe.com/2020/11/11/business/recordings-reveal-whos-analysis-pandemic-private/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/KW3_Ao6wJHlZhk336LeSnpIFlG0=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/P2VXE6EHPBGLGRWEMEA22AHXKE.jpg",
-      "publishedAt": "2020-11-11T08:30:01Z",
-      "content": "Biden has promised to overturn President Donald Trumps decision in June to cut off funds to WHO and withdraw the US WHO has also bowed to demands from member countries for an independent panel to rev… [+8676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FOX13 Memphis"
-      },
-      "author": "By MARIA CHENG",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
-      "url": "https://www.fox13memphis.com/news/recordings-reveal/KH662E7GDSTWEIXVZ3K3R6TOXQ/",
-      "urlToImage": "https://www.fox13memphis.com/resizer/a1cVZxzhjg4aGa_Dtu8Yq_ThWeA=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/E4HJOML43TCGOECWQGTZBIR7LY.jpg",
-      "publishedAt": "2020-11-11T08:25:22Z",
-      "content": "GENEVA — (AP) As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse… [+9515 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "MARIA CHENG AP Medical Writer",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
-      "url": "https://abcnews.go.com/Business/wireStory/recordings-reveal-analysis-pandemic-private-74142174",
-      "urlToImage": "https://s.abcnews.com/images/Health/WireAP_636bda33af184069b939603f16895025_16x9_992.jpg",
-      "publishedAt": "2020-11-11T08:25:18Z",
-      "content": "GENEVA -- As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a d… [+9426 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "MARIA CHENG AP Medical Writer",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
-      "url": "https://abcnews.go.com/Health/wireStory/recordings-reveal-analysis-pandemic-private-74142173",
-      "urlToImage": "https://s.abcnews.com/images/Health/WireAP_636bda33af184069b939603f16895025_16x9_992.jpg",
-      "publishedAt": "2020-11-11T08:25:14Z",
-      "content": "GENEVA -- As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a d… [+9426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "Maria Cheng - The Associated Press",
-      "title": "Recordings reveal WHO’s analysis of pandemic in private",
-      "description": "GENEVA - As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that...",
-      "url": "https://www.thestar.com/life/2020/11/11/recordings-reveal-whos-analysis-of-pandemic-in-private.html",
-      "urlToImage": "https://images.thestar.com/yzWuo0i4dVGrbnpqVC2bPhq_RRw=/1280x1024/smart/filters:cb(1605086623075)/https://www.thestar.com/content/dam/thestar/life/2020/11/11/recordings-reveal-whos-analysis-of-pandemic-in-private/WRC128-810_2018_054956.jpg",
-      "publishedAt": "2020-11-11T08:23:53Z",
-      "content": "GENEVA - As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a de… [+9484 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Via AP news wire",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
-      "url": "https://www.independent.co.uk/news/recordings-reveal-whos-analysis-of-pandemic-in-private-who-who-analysis-tedros-adhanom-ghebreyesus-agency-b1720909.html",
-      "urlToImage": "https://static.independent.co.uk/2020/11/11/08/WHO_Pandemic_Recordings_80046.jpg",
-      "publishedAt": "2020-11-11T08:22:34Z",
-      "content": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by… [+9443 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "By MARIA CHENG AP Medical Writer",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "GENEVA (AP) — As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency.",
-      "url": "https://apnews.com/f1faf92adb0f02d7b028bd25199dd242",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/5/34/534eeeb7-2d2d-56cd-84b8-763784cab8ec/5faba28f6a376.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-      "publishedAt": "2020-11-11T08:22:34Z",
-      "content": "Throughout February and March, COVID-19 triggered outbreaks in South Korea, Singapore, Iran and elsewhere. The virus also gained a foothold in Italy, turning Europe into the epicenter of the pandemic… [+1222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "MARIA CHENG",
-      "title": "Recordings reveal WHO's analysis of pandemic in private",
-      "description": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency. For example, in priv…",
-      "url": "https://news.yahoo.com/recordings-reveal-whos-analysis-pandemic-082233669.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/inckZphKFBNJrE.VGIXxKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/.ggHbh.FJ2hha1RrT19tPQ--~B/aD0yOTA5O3c9NDM2NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap.org/78659050040c4656696c5e3f0148c550",
-      "publishedAt": "2020-11-11T08:22:33Z",
-      "content": "GENEVA (AP) As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a… [+9433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "Xebec Adsorption Inc. (XEBEF) CEO Kurt Sorschak on Q3 2020 Results - Earnings Call Transcript",
-      "description": "Xebec Adsorption Inc. (OTCQX:XEBEF) Q3 2020 Earnings Conference Call November 10, 2020 11:00 ET Company Participants Brandon Chow - Investor Relations Kurt Sorschak - Chief Executive Officer Stéphane Archambault - Chief Financial Officer Louis Dufour - Chief …",
-      "url": "https://seekingalpha.com/article/4387941-xebec-adsorption-inc-xebef-ceo-kurt-sorschak-on-q3-2020-results-earnings-call-transcript",
-      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-      "publishedAt": "2020-11-11T08:20:04Z",
-      "content": "Xebec Adsorption Inc. (OTCQX:XEBEF) Q3 2020 Earnings Conference Call November 10, 2020 11:00 AM ET\r\nCompany Participants\r\nBrandon Chow - Investor Relations\r\nKurt Sorschak - Chief Executive Officer\r\nS… [+59336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hospitality Net"
-      },
-      "author": "InterContinental Hotels Group PLC (IHG)",
-      "title": "Looking forward to travel: explore emerging locations and revisit timeless destinations in 2021",
-      "description": "Miss travelling back to your favourite cities or itching to go off the beaten track? IHG Hotels & Resorts curates the top ten destinations to visit when we're ready to travel again, along with new luxury and lifestyle hotel openings in 2021 in these new and i…",
-      "url": "https://www.hospitalitynet.org/news/4101569.html",
-      "urlToImage": "https://www.hospitalitynet.org/picture/xl_153120756.jpg",
-      "publishedAt": "2020-11-11T08:20:00Z",
-      "content": "Miss travelling back to your favourite cities or itching to go off the beaten track? IHG Hotels &amp; Resorts curates the top ten destinations to visit when we're ready to travel again, along with ne… [+14658 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thedailyphiladelphian.com"
-      },
-      "author": null,
-      "title": "Global Technology Platforms for Internet of Things (IoT) Market Segmentation and Opportunities Forecast To 2025 | PTC, SAP, Software AG, Telit, Microsoft, Amazon - The Daily Philadelphian",
-      "description": "Global Technology Platforms for Internet of Things (IoT) Market Segmentation and Opportunities Forecast To 2025 | PTC, SAP, Software AG, Telit, Microsoft, Amazon  The Daily Philadelphian",
-      "url": "https://thedailyphiladelphian.com/uncategorized/126711/global-technology-platforms-for-internet-of-things-iot-market-segmentation-and-opportunities-forecast-to-2025-ptc-sap-software-ag-telit-microsoft-amazon/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:16:14Z",
-      "content": "“Final Report will add the analysis of the impact of COVID-19 on this industry.”\r\nGlobal “Technology Platforms for Internet of Things (IoT) Market” Research Report 2020-2025 is a historical overview … [+13996 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fresnobserver.com"
-      },
-      "author": "Ruby Arterburn",
-      "title": "IIoT (Industrial Internet of Things) Technology Market Size, Share, Global Trend, New Technological Advancements And Geographical Forecast Till 2026 - Fresno Observer",
-      "description": "Investments in Information technologies by companies and increasing cloud adoption are expected to drive the global IIoT (industrial internet of things) technology market says Fortune Business in",
-      "url": "https://fresnobserver.com/iiot-industrial-internet-of-things-technology-market-size-share-global-trend-new-technological-advancements-and-geographical-forecast-till-2026/17763/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:12:56Z",
-      "content": "Investments in Information technologies by companies and increasing cloud adoption are expected to drive the global IIoT (industrial internet of things) technology market says Fortune Business insigh… [+7019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Technoweekly.com"
-      },
-      "author": null,
-      "title": "Global Internet of Things Technology Market Top Players By 2026: INTEL, QUALCOMM, TEXAS INSTRUMENTS, INTERNATIONAL BUSINESS MACHINES (IBM), STMICROELECTRONICS etc. - TechnoWeekly",
-      "description": "Global Internet of Things Technology Market Top Players By 2026: INTEL, QUALCOMM, TEXAS INSTRUMENTS, INTERNATIONAL BUSINESS MACHINES (IBM), STMICROELECTRONICS etc.  TechnoWeekly",
-      "url": "https://technoweekly.com/energy/1044700/global-internet-of-things-technology-market-top-players-by-2026-intel-qualcomm-texas-instruments-international-business-machines-ibm-stmicroelectronics-etc-2/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:10:00Z",
-      "content": "Global Internet of Things Technology Market: Introduction\r\nThe recently added research report has been meticulously conceived and presented to render a pin-point analytical review of the current mark… [+5876 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Technoweekly.com"
-      },
-      "author": null,
-      "title": "Global Internet of Things (IoT) Testing Market Top Players By 2026: COGNIZANT TECHNOLOGY SOLUTIONS, INFOSYS, CAPGEMINI, RAPID7, SMARTBEAR SOFTWARE etc. - TechnoWeekly",
-      "description": "Global Internet of Things (IoT) Testing Market Top Players By 2026: COGNIZANT TECHNOLOGY SOLUTIONS, INFOSYS, CAPGEMINI, RAPID7, SMARTBEAR SOFTWARE etc.  TechnoWeekly",
-      "url": "https://technoweekly.com/coronavirus/1044694/global-internet-of-things-iot-testing-market-top-players-by-2026-cognizant-technology-solutions-infosys-capgemini-rapid7-smartbear-software-etc-2/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:09:00Z",
-      "content": "Predicting Growth Scope: Global Internet of Things (IoT) Testing Market\r\nUnbiased research initiatives offer relevant cues on the impressive market recovery from a sudden pandemic crisis that substan… [+6237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PRNewswire"
-      },
-      "author": null,
-      "title": "Clarivate Annual G20 Scorecard Report Highlights Research Performance of the World's Leading Economies",
-      "description": "Web of Science data analyzes G20 nations as a driver for innovation plus a special analysis of members' contribution to recent COVID-19 research LONDON, Nov. 11, 2020 /PRNewswire/ -- Clarivate Plc (NYSE:CCC), a global leader in providing trusted information a…",
-      "url": "https://www.prnewswire.com/news-releases/clarivate-annual-g20-scorecard-report-highlights-research-performance-of-the-worlds-leading-economies-301170488.html",
-      "urlToImage": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-      "publishedAt": "2020-11-11T08:09:00Z",
-      "content": "Web of Science data analyzes G20 nations as a driver for innovation plus a special analysis of members' contribution to recent COVID-19 research \r\nLONDON, Nov. 11, 2020 /PRNewswire/ -- Clarivate Plc … [+7213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": null,
-      "title": "RAM Active Investments Launches the RAM Diversified Alpha Fund (UCITS)",
-      "description": "GENEVA--(BUSINESS WIRE)--RAM Active Investments launches a new Systematic Macro Fund - RAM Diversified Alpha Strategy (UCITS)",
-      "url": "https://www.businesswire.com/news/home/20201111005303/en/RAM-Active-Investments-Launches-the-RAM-Diversified-Alpha-Fund-UCITS",
-      "urlToImage": "https://mms.businesswire.com/media/20201111005303/en/767347/23/RAM_ActiveInvestments_Logo_RGB_300dpi.jpg",
-      "publishedAt": "2020-11-11T08:08:51Z",
-      "content": "GENEVA--(BUSINESS WIRE)--RAM Active Investments SA (\"RAM AI\"), a systematic asset manager based in Geneva, is launching the RAM (LUX) SYSTEMATIC FUNDS DIVERSIFIED ALPHA (the Fund), a fund which will … [+4570 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Technoweekly.com"
-      },
-      "author": null,
-      "title": "Global Internet of Things (IoT) in Smart Cities Market Top Players By 2026: BOSCH SOFTWARE INNOVATION, CISCO SYSTEMS, HUAWEI TECHNOLOGIES, IBM, INTEL etc. - TechnoWeekly",
-      "description": "Global Internet of Things (IoT) in Smart Cities Market Top Players By 2026: BOSCH SOFTWARE INNOVATION, CISCO SYSTEMS, HUAWEI TECHNOLOGIES, IBM, INTEL etc.  TechnoWeekly",
-      "url": "https://technoweekly.com/energy/1044613/global-internet-of-things-iot-in-smart-cities-market-top-players-by-2026-bosch-software-innovation-cisco-systems-huawei-technologies-ibm-intel-etc-2/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:08:00Z",
-      "content": "This versatile composition of research derivatives pertaining to diverse concurrent developments in the global Internet of Things (IoT) in Smart Cities market is poised to induce forward-looking pers… [+7468 chars]"
+      "title": "EUR/USD Forecast: Winter wave weighs on the euro, but Moderna Powell may power it up",
+      "description": "The days are getting darker – even if there is a light at the end of the tunnel. After several days of coronavirus hopes, the virus's rage is now weig",
+      "url": "https://www.fxstreet.com/analysis/eur-usd-forecast-winter-wave-weighs-on-the-euro-but-moderna-powell-may-power-it-up-202011120821",
+      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/macro-de-dinero-de-moneda-1_Large.jpg",
+      "publishedAt": "2020-11-12T08:21:43Z",
+      "content": "<ul><li>EUR/USD has been under pressure as coronavirus is raging on both sides of the Atlantic. </li><li>Speeches by central bankers and new vaccines can change the picture.</li><li>Thursday's techni… [+3448 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "AllAfrica - Top Africa News"
       },
-      "author": "CAF",
-      "title": "Africa: Tunisia Unveils 26-Man Squad for Tanzania Double Header",
-      "description": "[CAF] Tunisia coach Mondher Kebaier has announced his 26-man squad list for the upcoming Cameroon 2021 Africa Cup of Nations Qualifiers' double header against Tanzania.",
-      "url": "https://allafrica.com/stories/202011110285.html",
+      "author": "Nation",
+      "title": "Kenya: Hotels Peg Hopes on Holiday Season, Recall 3,000 Workers",
+      "description": "[Nation] Hotels have recalled more than 3,000 workers following their reopening, with investors targeting tourists trooping to the Coast for the Christmas holidays.",
+      "url": "https://allafrica.com/stories/202011120240.html",
       "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-      "publishedAt": "2020-11-11T08:05:57Z",
-      "content": "Tunisia coach Mondher Kebaier has announced his 26-man squad list for the upcoming Cameroon 2021 Africa Cup of Nations Qualifiers' double header against Tanzania.\r\nZamalek midfielder Ferjani Sassi an… [+1758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Markit",
-      "title": "Eurozone Recovery And COVID-19 Heading For A Double Dip",
-      "description": "The initial estimate of eurozone GDP growth in Q3 far surpassed expectations. But renewed COVID-19 restrictions point to a sizeable GDP decline in Q4.",
-      "url": "https://seekingalpha.com/article/4387938-eurozone-recovery-and-covidminus-19-heading-for-double-dip",
-      "urlToImage": "https://static3.seekingalpha.com/uploads/2020/11/11/saupload_eurozonevolutility-11092020.png",
-      "publishedAt": "2020-11-11T08:03:47Z",
-      "content": "Huge positive surprise in Q3\r\nEurostat's preliminary flash estimate for Q3 GDP in the eurozone delivered a huge upward surprise. The record q/q increase of far surpassed the market consensus expectat… [+4264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": null,
-      "title": "Coffee production in India could be hit by migrant labour shortage this season",
-      "description": "According to UPASI, about 5.88 lakh migratory labourers are engaged in the coffee plantations season activity between October and March every year. Coffee estates require labourers for plucking",
-      "url": "https://www.moneycontrol.com/news/business/markets/coffee-production-in-india-could-be-hit-by-migrant-labour-shortage-this-season-6102981.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/09/Coffee-770x433.jpg",
-      "publishedAt": "2020-11-11T08:02:56Z",
-      "content": "Already hit by fall in exports, coffee plantations in India could be affected this season (October 2020-September 2021) due to lack of migrant labour in the estates to pluck coffee.\r\nAccording to ind… [+5423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Prnewsleader.com"
-      },
-      "author": null,
-      "title": "Global Internet of Things (IoT) Cloud Platform Market Top Manufacturers: Amazon Web Services, Google, IBM, Microsoft, Salesforce.com etc. - PRnews Leader",
-      "description": "Global Internet of Things (IoT) Cloud Platform Market Top Manufacturers: Amazon Web Services, Google, IBM, Microsoft, Salesforce.com etc.  PRnews Leader",
-      "url": "https://prnewsleader.com/coronavirus/1855242/global-internet-of-things-iot-cloud-platform-market-top-manufacturers-amazon-web-services-google-ibm-microsoft-salesforce-com-etc-3/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T08:02:42Z",
-      "content": "This versatile composition of research derivatives pertaining to diverse concurrent developments in the global Internet of Things (IoT) Cloud Platform market is poised to induce forward-looking persp… [+7469 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "Eni and HitecVision form Nordic renewable energy venture - Reuters UK",
-      "description": "Norwegian private equity group HitecVision and Italy's Eni have formed a joint venture to develop green energy projects in the Nordic region, the companies said on Wednesday.",
-      "url": "https://uk.reuters.com/article/us-eni-hitecvision-renewables-idUKKBN27R0T7",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540811673&r=LYNXMPEGAA0DL&w=800",
-      "publishedAt": "2020-11-11T08:01:00Z",
-      "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Italian energy company Eni is seen at a gas station in Rome, Italy September 30, 2018. REUTERS/Alessandro Bianchi\r\nOSLO (Reuters) - Norwegian private equity … [+725 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Reuters Staff",
-      "title": "Eni and HitecVision form Nordic renewable energy venture - Reuters UK",
-      "description": "Norwegian private equity group HitecVision <HITV.NFF> and Italy's Eni <ENI.MI> have formed a joint venture to develop green energy projects in the Nordic region, the companies said on Wednesday.",
-      "url": "https://uk.reuters.com/article/us-eni-hitecvision-renewables-idUSKBN27R0T7",
-      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540810172&r=LYNXMPEGAA0DL&w=800",
-      "publishedAt": "2020-11-11T08:01:00Z",
-      "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Italian energy company Eni is seen at a gas station in Rome, Italy September 30, 2018. REUTERS/Alessandro Bianchi\r\nOSLO (Reuters) - Norwegian private equity … [+742 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DailyFX"
-      },
-      "author": "Daniel Moss",
-      "title": "EU Stoxx 50 Outlook: Rebound on Vaccine News Running Out of Steam",
-      "description": "The EU Stoxx 50 index could slip lower in the coming days as vaccine optimism begins to fade amid a backdrop of rising Covid-19 infections and tightening restrictions.",
-      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/euro_open/2020/11/11/EU-Stoxx-50-Outlook-Rebound-on-Vaccine-News-Running-Out-of-Steam-.html",
-      "urlToImage": "https://a.c-dn.net/b/0DVI1o/headline_GERMAN_STOCK_EXCHANGE_21.JPG",
-      "publishedAt": "2020-11-11T08:00:00Z",
-      "content": "EU Stoxx 50 Index, European Central Bank, Vaccine, Lockdowns, Coronavirus Talking Points:\r\n<ul><li>The New Zealand Dollar significantly outperformed its major counterparts after the RBNZ held interes… [+6076 chars]"
+      "publishedAt": "2020-11-12T08:14:55Z",
+      "content": "Hotels have recalled more than 3,000 workers following their reopening, with investors targeting tourists trooping to the Coast for the Christmas holidays.\r\nKenya Union of Domestic, Hotels, Education… [+4480 chars]"
     },
     {
       "source": {
@@ -736,38 +203,220 @@
         "name": "Yahoo Entertainment"
       },
       "author": "Research and Markets",
-      "title": "Global Pathogen Reduction Systems Market Report 2020-2025: Recent Outbreak of COVID-19 is Expected to Drive the Demand for These Systems",
-      "description": "Dublin, Nov. 11, 2020 (GLOBE NEWSWIRE) -- The \"Global Pathogen Reduction Systems Market, By Type, By Application, By Product, By End User, By Region, Competition, Forecast & Opportunities, 2025\" report has been added to ResearchAndMarkets.com's offering.The G…",
-      "url": "https://news.yahoo.com/global-pathogen-reduction-systems-market-075300748.html",
+      "title": "Global Enteral Feeding Devices Market Report 2020-2025 with Profiles of Abbott, Fresenius Kabi AG, Boston Scientific, Medtronic, Nestle and Groupe Danone",
+      "description": "Dublin, Nov. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Enteral Feeding Devices Market\" report has been added to ResearchAndMarkets.com's offering. The scope of the report includes an overview of the global market for enteral feeding devices and analyses of glo…",
+      "url": "https://news.yahoo.com/global-enteral-feeding-devices-market-080300605.html",
       "urlToImage": "https://s.yimg.com/uu/api/res/1.2/75gvpwvOKpyn2yn1GnxC4g--~B/aD01ODt3PTQ4MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/93d5b27580f67db722dd7c112e43e8bc",
-      "publishedAt": "2020-11-11T07:53:00Z",
-      "content": "Dublin, Nov. 11, 2020 (GLOBE NEWSWIRE) -- The \"Global Pathogen Reduction Systems Market, By Type, By Application, By Product, By End User, By Region, Competition, Forecast &amp; Opportunities, 2025\" … [+6194 chars]"
+      "publishedAt": "2020-11-12T08:03:00Z",
+      "content": "Dublin, Nov. 12, 2020 (GLOBE NEWSWIRE) -- The \"Global Enteral Feeding Devices Market\" report has been added to ResearchAndMarkets.com's offering. \r\nThe scope of the report includes an overview of the… [+7896 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Thinkcuriouser.com"
+        "name": "PezCycling News"
+      },
+      "author": "Alastair Hamilton",
+      "title": "EUROTRASH News Round Up Thursday!",
+      "description": "Nov 12, 2020: All the stats: Most wins, top team, rankings for riders, teams and countries-TOP STORY. Evenepoel’s girlfriend needed oxygen after crash, cyclocross for Pidcock, Riis out of NTT, Dowsett hour record and Bahrain's Vuelta. Contract news. Team news…",
+      "url": "https://pezcyclingnews.com/eurotrash/eurotrash-cycling-news-round-up-thursday-12-roglic-deceuninck-evenepoel-demare-riis-pidcock-dowsett-vangarderen-movistar-uae-vuelta-tourdeyorkshire-jumbovisma/",
+      "urlToImage": "https://pezcyclingnews.com/wp-content/uploads/2020/11/vuelta20-old-fan-1200.jpg",
+      "publishedAt": "2020-11-12T08:01:45Z",
+      "content": "The road season is over, so we have all the stats: Most wins, top winning team and UCI rankings for riders, teams and countries – TOP STORY. Loads of other cycling news: Evenepoels girlfriend needed … [+50191 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "UK economy grows by slower than expected 1.1% - ONS",
+      "description": "Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in September from August, even before the latest restrictions on businesses, official data showed today.",
+      "url": "https://www.rte.ie/news/business/2020/1112/1177636-uk-gdp-figures/",
+      "urlToImage": "https://img.rasset.ie/0015558a-1600.jpg",
+      "publishedAt": "2020-11-12T08:00:31Z",
+      "content": "Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in September from August, even before the latest restrictions … [+1958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DailyFX"
+      },
+      "author": "Justin McQueen",
+      "title": "EUR/GBP and GBP/USD Unfazed by Outdated Record Q3 GDP Growth",
+      "description": "Q3 UK Growth Sees Unsurprising Record Rise, However, Q4 Looks Set to Contract After Renewed National Lockdown",
+      "url": "https://www.dailyfx.com/forex/market_alert/2020/11/12/EURGBP-and-GBPUSD-Unfazed-by-Outdated-Record-Q3-GDP-Growth.html",
+      "urlToImage": "https://a.c-dn.net/b/3p8rmO/headline_BRITISH_STERLING_11.JPG",
+      "publishedAt": "2020-11-12T08:00:00Z",
+      "content": "GBP/USD, EUR/GBP Price Analysis &amp; News\r\n<ul><li>Momentum of Growth is More Important Than Record Q3 Growth</li><li>UK Took a Bigger Hit From Coronavirus Than Other Developed Markets</li><li>GBPRe… [+3161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Allied Market Research",
+      "title": "Europe Travel Retail Market to Reach $39.60 Billion by 2025: Says Allied Market Research",
+      "description": "Growth in travel and tourism industry, increase in disposable income, and rapid growth in urbanization drive the growth of the Europe travel retail market. Based on type, the perfumes & cosmetics segment held the largest market share in 2017. The Europe trave…",
+      "url": "https://news.yahoo.com/europe-travel-retail-market-reach-080000626.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/u3DejzSChDxh3EI9BucC1g--~B/aD0xMDg7dz0yMDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/d45f75e8030fba203a2a85f2d2cb7bfd",
+      "publishedAt": "2020-11-12T08:00:00Z",
+      "content": "Growth in travel and tourism industry, increase in disposable income, and rapid growth in urbanization drive the growth of the Europe travel retail market. Based on type, the perfumes &amp; cosmetics… [+5019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Liveleak.com"
+      },
+      "author": "SpeakItaly",
+      "title": "Italy: troubles at first aid because of Covid-19",
+      "description": "Please note: \n\n- the situation is NOT the same all over Italy\n- No audio to NOT recognize the place\n- the man in the bathroom probably is dead\n- the video is public, no copyright infringment",
+      "url": "https://www.liveleak.com/view?t=lQXU_1605167616",
+      "urlToImage": "https://cdn3.liveleak.com/2020/Nov/12/LiveLeak-dot-com-5face9da73d94_6_thumb.jpg",
+      "publishedAt": "2020-11-12T07:53:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "seattlepi.com"
+      },
+      "author": "By COLLEEN BARRY, Associated Press",
+      "title": "Italian hospitals face breaking point in fall virus surge",
+      "description": "MILAN (AP) — Dr. Luca Cabrini was certain his hospital in the heart of Lombardy‘s lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds and counting.\nItaly, which shocked the world and itself when …",
+      "url": "https://www.seattlepi.com/news/article/Italian-hospitals-face-breaking-point-in-fall-15721205.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/15/17/62/20249744/3/rawImage.jpg",
+      "publishedAt": "2020-11-12T07:52:56Z",
+      "content": "MILAN (AP) — Dr. Luca Cabrini was certain his hospital in the heart of Lombardy‘s lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds a… [+6021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Fortune Business Insights",
+      "title": "Neurodegenerative Diseases Drugs Market Expands at 7.2% CAGR and Hit USD 62,786.2 Million by 2026; Biogen and F. Hoffmann-La Roche Ltd Cover More than Half of the Share: Fortune Business Insights",
+      "description": "Key Companies Covered in the Neurodegenerative Diseases Drugs Market Research Report Are Novartis AG, Pfizer, Inc., H. Lundbeck A/S, Sanofi, Teva Pharmaceutical Industries Ltd., Orion Pharma, Merck & Co., Inc., UCB S.A, Mitsubishi Tanabe Pharma Corporation, A…",
+      "url": "https://news.yahoo.com/neurodegenerative-diseases-drugs-market-expands-075200416.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1BCXtYZDxxTLexG6iuw.8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD01Mzk-/https://s.yimg.com/uu/api/res/1.2/DT6OZjnvd8TxwtpVpc82dg--~B/aD0xODcxO3c9Njk0NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/ac20c8cfaf7139a95119e96f01afcfac",
+      "publishedAt": "2020-11-12T07:52:00Z",
+      "content": "Key Companies Covered in the Neurodegenerative Diseases Drugs Market Research Report Are Novartis AG, Pfizer, Inc., H. Lundbeck A/S, Sanofi, Teva Pharmaceutical Industries Ltd., Orion Pharma, Merck &… [+10178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNA"
+      },
+      "author": "CNA",
+      "title": "UK economy loses more speed in September, before new lockdown",
+      "description": "LONDON: Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1 per cent in September from August, even before the latest restrictions on businesses, official data showed.\n\nEconom…",
+      "url": "https://www.channelnewsasia.com/news/business/uk-economy-september-covid-19-lockdown-13524452",
+      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13271844/16x9/991/557/d552d3f99b2a6fd792a8739789271cfd/jc/uk-economy-retail.jpg",
+      "publishedAt": "2020-11-12T07:50:38Z",
+      "content": "LONDON: Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1 per cent in September from August, even before the late… [+2028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prnewsleader.com"
       },
       "author": null,
-      "title": "Cyber security as a Service Market 2020 Growing with Major Key Player Symantec, MCAFEE, Trend Micro, Cisco, Fortinet, Panda Security, Ciphercloud, Zscaler, Alert Logic, Radware, Armor, AT&T, BAE Systems, Capgemini, Choice CyberSecurity, Transputec, BlackStratus, FireEye, LookingGlass, Optiv, TCS,....",
-      "description": "Cyber security as a Service Market 2020 Growing with Major Key Player Symantec, MCAFEE, Trend Micro, Cisco, Fortinet, Panda Security, Ciphercloud, Zscaler, Alert Logic, Radware, Armor, AT&T, BAE Systems, Capgemini, Choice CyberSecurity, Transputec, BlackStrat…",
-      "url": "https://thinkcuriouser.com/news/639515/cyber-security-as-a-service-market-2020-growing-with-major-key-player-symantec-mcafee-trend-micro-cisco-fortinet-panda-security-ciphercloud-zscaler-alert-logic-radware-armor-att-bae-s/",
+      "title": "Global Education Cyber Security Market Top Manufacturers: BAE Systems, Northrop Grumman, Raytheon, General Dynamics, Boeing etc. - PRnews Leader",
+      "description": "Global Education Cyber Security Market: Introduction. A concise and well researched report presentation on has been recently added to our vast online data repository to clearly highlight market relevant developments and events that collectively incur optimist…",
+      "url": "https://prnewsleader.com/uncategorized/1891996/global-education-cyber-security-market-top-manufacturers-bae-systems-northrop-grumman-raytheon-general-dynamics-boeing-etc-3/",
       "urlToImage": null,
-      "publishedAt": "2020-11-11T07:39:00Z",
-      "content": "“\r\nThe global Cyber security as a Service market is comprehensively and Insightful information in the report, taking into consideration various factors such as competition, regional growth, segmentat… [+4598 chars]"
+      "publishedAt": "2020-11-12T07:50:00Z",
+      "content": "Global Education Cyber Security Market: Introduction\r\nA concise and well researched report presentation on Global Education Cyber Security Market has been recently added to our vast online data repos… [+7315 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Streetartnews.net"
+        "name": "Yahoo Entertainment"
       },
-      "author": "StreetArtNews",
-      "title": "“Polvere di Stelle” by INTI in Naples, Italy",
-      "description": "Street artist INTI is back with a new mural entitled “Polvere di Stelle” in the Barra neighborhood in Naples. This project was done in collaboration with the Campania region and Jorit Foundation.b-sm = 300x250; sm > none; “Look with the naked eye, without pla…",
-      "url": "https://streetartnews.net/2020/11/polvere-di-stelle-by-inti-in-naples-italy.html",
-      "urlToImage": "https://streetartnews.net/wp-content/uploads/2020/11/123944376_3554809617920264_5877970860628769832_o.jpg",
-      "publishedAt": "2020-11-11T07:36:03Z",
-      "content": "Street artist INTI is back with a new mural entitled Polvere di Stelle” in the Barra neighborhood in Naples. This project was done in collaboration with the Campania region and Jorit Foundation.\r\n“Lo… [+970 chars]"
+      "author": "Fortune Business Insights",
+      "title": "Blood Glucose Meter Market to Rise at 9.6% CAGR and Hit USD 15,415.6 Million by 2026; Driven by Rising Uptake of Non-Invasive Meters, says Fortune Business Insights™",
+      "description": "Key Companies Covered in the Blood Glucose Meter Market Research Report Are F. Hoffmann-La Roche Ltd, Dexcom, Inc., B. Braun Melsungen AG, Medtronic, Lifespan Inc., Ascensia Diabetes Care Holdings AG., Terumo Medical Corporation, Abbott, Sanofi, DiaMonTech Gm…",
+      "url": "https://news.yahoo.com/blood-glucose-meter-market-rise-074400703.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1BCXtYZDxxTLexG6iuw.8w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD01Mzk-/https://s.yimg.com/uu/api/res/1.2/DT6OZjnvd8TxwtpVpc82dg--~B/aD0xODcxO3c9Njk0NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/ac20c8cfaf7139a95119e96f01afcfac",
+      "publishedAt": "2020-11-12T07:44:00Z",
+      "content": "Key Companies Covered in the Blood Glucose Meter Market Research Report Are F. Hoffmann-La Roche Ltd, Dexcom, Inc., B. Braun Melsungen AG, Medtronic, Lifespan Inc., Ascensia Diabetes Care Holdings AG… [+9463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Fortune Business Insights",
+      "title": "IVD Market is Forecast to Rise at 4.5% CAGR and Reach USD 87.11 Billion by 2026; Adoption of New Techniques for Rapid Disease Diagnosis Will Encourage Growth, says Fortune Business Insights™",
+      "description": "Key Companies Covered in the In vitro Diagnostics Market Research Report Are F. Hoffmann-La Roche Ltd, Abbott, Siemens, Thermo Fisher Scientific Inc., Danaher, Bio-Rad Laboratories, Inc., QIAGEN, Sysmex Corporation, Quest Diagnostics Incorporated and other ke…",
+      "url": "https://finance.yahoo.com/news/ivd-market-forecast-rise-4-074200861.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9tu06XgJ4OqWKE0I9ZokJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD01Mzk-/https://s.yimg.com/uu/api/res/1.2/T2u2hRFVsmOrua22m4H.Zg--~B/aD0xODcxO3c9Njk0NDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/globenewswire.com/ac20c8cfaf7139a95119e96f01afcfac",
+      "publishedAt": "2020-11-12T07:42:00Z",
+      "content": "Key Companies Covered in the In vitro Diagnostics Market Research Report Are F. Hoffmann-La Roche Ltd, Abbott, Siemens, Thermo Fisher Scientific Inc., Danaher, Bio-Rad Laboratories, Inc., QIAGEN, Sys… [+8891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hotukdeals.com"
+      },
+      "author": "MrSwitch",
+      "title": "111° - Samsung Galaxy Fit2 Black with Accelerometer Fitness Tracker Smartwatch - £34.28 Delivered @ Amazon Italy",
+      "description": "Comparative uk lowest was £44, now £49, saving £15 on this new Samsung tracker  :) <br /><br /><hr /><br /><img src=\"https://images.hotukdeals.com/threads/content/JgQDn/3586372.jpg\" data-width=\"274\" data-height=\"400\" data-image=\"3586372-JgQDn\" alt=\"3586372-Jg…",
+      "url": "https://www.hotukdeals.com/deals/samsung-galaxy-fit2-black-with-accelerometer-fitness-tracker-smartwatch-ps3428-delivered-at-amazon-italy-3586372",
+      "urlToImage": "https://images.hotukdeals.com/threads/thread_full_screen/default/3586372_1.jpg",
+      "publishedAt": "2020-11-12T07:40:44Z",
+      "content": "hotukdeals.com - The Largest Deal Community in the UK\r\nhotukdeals is a community for deal seekers. Find and share the best deals, promotional codes and vouchers from on and off the web.\r\n*So you can … [+407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSOC Charlotte"
+      },
+      "author": "By COLLEEN BARRY",
+      "title": "Italian hospitals face breaking point in fall virus surge",
+      "description": "Dr. Luca Cabrini was certain his hospital in Italy's Lombardy province would reach its breaking point with 300 COVID-19 patients",
+      "url": "https://www.wsoctv.com/news/world/italian-hospitals/IGFJZEITXLN6NLGMLE3NJIXJLE/",
+      "urlToImage": "https://www.wsoctv.com/resizer/SKdY9xKNpDwM03ANIcvfo3PRvPc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/F5DH2R5YDLZVOJQF6SQXDIS6H4.jpg",
+      "publishedAt": "2020-11-12T07:40:21Z",
+      "content": "MILAN — (AP) Dr. Luca Cabrini was certain his hospital in the heart of Lombardys lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds an… [+6011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boston 25 News"
+      },
+      "author": "By COLLEEN BARRY",
+      "title": "Italian hospitals face breaking point in fall virus surge",
+      "description": "Dr. Luca Cabrini was certain his hospital in Italy's Lombardy province would reach its breaking point with 300 COVID-19 patients",
+      "url": "https://www.boston25news.com/news/world/italian-hospitals/IGFJZEITXLN6NLGMLE3NJIXJLE/",
+      "urlToImage": "https://www.boston25news.com/resizer/SKdY9xKNpDwM03ANIcvfo3PRvPc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/F5DH2R5YDLZVOJQF6SQXDIS6H4.jpg",
+      "publishedAt": "2020-11-12T07:40:21Z",
+      "content": "MILAN — (AP) Dr. Luca Cabrini was certain his hospital in the heart of Lombardys lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds an… [+6011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPXI Pittsburgh"
+      },
+      "author": "By COLLEEN BARRY",
+      "title": "Italian hospitals face breaking point in fall virus surge",
+      "description": "Dr. Luca Cabrini was certain his hospital in Italy's Lombardy province would reach its breaking point with 300 COVID-19 patients",
+      "url": "https://www.wpxi.com/news/world/italian-hospitals/IGFJZEITXLN6NLGMLE3NJIXJLE/",
+      "urlToImage": "https://www.wpxi.com/resizer/SKdY9xKNpDwM03ANIcvfo3PRvPc=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/F5DH2R5YDLZVOJQF6SQXDIS6H4.jpg",
+      "publishedAt": "2020-11-12T07:40:21Z",
+      "content": "MILAN — (AP) Dr. Luca Cabrini was certain his hospital in the heart of Lombardys lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds an… [+6011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rejerusalem.com"
+      },
+      "author": "pratik",
+      "title": "Narrowband Internet-of-Things (IoT) Chipset Market Competitive Developments such as Expansions, Agreements, New Product Launches, Acquisitions and Forecast 2020 to 2026 - re:Jerusalem",
+      "description": "This report studies the Narrowband Internet-of-Things (IoT) Chipset Market to induce Covid-19 marketplace with several details of the business just like the market size, market standing, market trends",
+      "url": "https://rejerusalem.com/318675/narrowband-internet-of-things-iot-chipset-market-competitive-developments-such-as-expansions-agreements-new-product-launches-acquisitions-and-forecast-2020-to-2026/",
+      "urlToImage": "https://rejerusalem.com/wp-content/uploads/2020/11/Calibre-Research-Logo-6.jpg",
+      "publishedAt": "2020-11-12T07:39:41Z",
+      "content": "This report studies the Narrowband Internet-of-Things (IoT) Chipset Market to induce Covid-19 marketplace with several details of the business just like the market size, market standing, market trend… [+5765 chars]"
     },
     {
       "source": {
@@ -775,64 +424,77 @@
         "name": "FXStreet"
       },
       "author": "Yohay Elam",
-      "title": "Forex Today: Markets torn between covid resurgence and vaccine hopes, kiwi jumps, Lagarde eyed",
-      "description": "Here is what you need to know on Wednesday, November 11: Markets are edging higher and the dollar is on the back foot as the surge of COVID-19 cases c",
-      "url": "https://www.fxstreet.com/news/forex-today-markets-torn-between-covid-resurgence-and-vaccine-hopes-kiwi-jumps-lagarde-eyed-202011110735",
-      "urlToImage": "https://editorial.fxstreet.com/images/Macroeconomics/Events/Coronavirus/coronavirus3_Large.jpg",
-      "publishedAt": "2020-11-11T07:35:38Z",
-      "content": "Here is what you need to know on Wednesday, November 11:\r\nMarkets are edging higher and the dollar is on the back foot as the surge of COVID-19 cases counters the dramatic vaccine announcement on Mon… [+2307 chars]"
+      "title": "Forex Today: Dollar rises as current virus spread outweighs vaccine hopes, central bankers eyed",
+      "description": "Here is what you need to know on Thursday, November 12: The market mood has soured with stocks under pressure and the dollar rising. Concerns about th",
+      "url": "https://www.fxstreet.com/news/forex-today-dollar-rises-as-current-virus-spread-outweighs-vaccine-hopes-central-bankers-eyed-202011120739",
+      "urlToImage": "https://editorial.fxstreet.com/images/Macroeconomics/Events/Coronavirus/coronavirus1_Large.jpg",
+      "publishedAt": "2020-11-12T07:39:04Z",
+      "content": "Here is what you need to know on Thursday, November 12:\r\nThe market mood has soured with stocks under pressure and the dollar rising. Concerns about the spread of the virus outweigh vaccine hopes. US… [+2332 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "COLLEEN BARRY Associated Press",
+      "title": "Italian hospitals face breaking point in fall virus surge",
+      "description": "Dr. Luca Cabrini was certain his hospital in Italy's Lombardy province would reach its breaking point with 300 COVID-19 patients",
+      "url": "https://abcnews.go.com/Health/wireStory/italian-hospitals-face-breaking-point-fall-virus-surge-74164725",
+      "urlToImage": "https://s.abcnews.com/images/Health/WireAP_263edd17c222453399c32af0300fcdbd_16x9_992.jpg",
+      "publishedAt": "2020-11-12T07:38:48Z",
+      "content": "MILAN -- Dr. Luca Cabrini was certain his hospital in the heart of Lombardys lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds and co… [+5972 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Via AP news wire",
+      "title": "Italian hospitals face breaking point in fall virus surge",
+      "description": "Dr. Luca Cabrini was certain his hospital in Italy's Lombardy province would reach its breaking point with 300 COVID-19 patients",
+      "url": "https://www.independent.co.uk/news/italian-hospitals-face-breaking-point-in-fall-virus-surge-lombardy-hospital-hospitals-government-patients-b1721610.html",
+      "urlToImage": "https://static.independent.co.uk/2020/11/12/07/Italy_Virus_Outbreak_Hospitals_40655.jpg",
+      "publishedAt": "2020-11-12T07:34:58Z",
+      "content": "Dr. Luca Cabrini was certain his hospital in the heart of Lombardys lake district would reach its breaking point caring for 300 COVID-19 patients. So far, virus patients fill 500 beds and counting. \r… [+5982 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "EURACTIV"
+        "name": "Hotukdeals.com"
       },
-      "author": "EURACTIV Network",
-      "title": "Virologist: A compulsory vaccine is the worst thing",
-      "description": "In today's edition of the Capitals, find out more about how the Chinese and Russian intelligence services are among the most active in the Czech Republic, Spain and Italy announcing the purchase of the Pfizer vaccine, and so much more.",
-      "url": "http://www.euractiv.com/section/politics/news/virologist-a-compulsory-vaccine-is-the-worst-thing/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/11/vac-800x450.png",
-      "publishedAt": "2020-11-11T07:34:35Z",
-      "content": "The Capitals brings you the latest news from across Europe, through on-the-ground reporting by EURACTIVs media network. You can subscribe to the newsletter here.\r\nBefore you start reading today’s edi… [+9710 chars]"
+      "author": "Prosamuraiman",
+      "title": "103° - Sony XAV-AX3005 Premium Car Stereo Apple CarPlay/ Android Auto @ Amazon",
+      "description": "A really good car stereo that hasn't been on sale for a really long time, currently £120 off from Amazon with free delivery.<br /><br />I picked this up from Amazon Italy several months ago for 350 Euros and found it to be excellent and incredibly easy to ins…",
+      "url": "https://www.hotukdeals.com/deals/sony-xav-ax3005-premium-car-stereo-apple-carplay-android-auto-3586350",
+      "urlToImage": "https://images.hotukdeals.com/threads/thread_full_screen/default/3586350_1.jpg",
+      "publishedAt": "2020-11-12T07:34:18Z",
+      "content": "hotukdeals.com - The Largest Deal Community in the UK\r\nhotukdeals is a community for deal seekers. Find and share the best deals, promotional codes and vouchers from on and off the web.\r\n*So you can … [+407 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Digitimes"
+        "name": "Forbes"
       },
-      "author": "Adam Hwang",
-      "title": "Laster, Edison Opto swing to operating profits in 3Q20",
-      "description": "LED automotive lighting module maker Laster Tech and LED packaging service provider Edison Opto saw business turn from operating losses to operating profits of NT$42.4 million (US$1.46 million) and NT$7.4 million respectively for third-quarter 2020, according…",
-      "url": "https://www.digitimes.com/news/a20201111PD206.html",
-      "urlToImage": "https://www.digitimes.com/newsshow/20201111PD206_files/2_b.jpg",
-      "publishedAt": "2020-11-11T07:30:40Z",
-      "content": "LED automotive lighting module maker Laster Tech and LED packaging service provider Edison Opto saw business turn from operating losses to operating profits of NT$42.4 million (US$1.46 million) and N… [+2525 chars]"
+      "author": "Rebecca Ann Hughes, Contributor, \n Rebecca Ann Hughes, Contributor\n https://www.forbes.com/sites/rebeccahughes/",
+      "title": "Venice 1 Year On From Devastating Flooding: No More Acqua Alta?",
+      "description": "On November 12, 2019, Venice suffered its worst flooding since 1966. Just under a year on, on October 3, Venice’s flood gate system held back a high tide for the first time. But it's too early to declare Venice saved, as bigger powers are at play.",
+      "url": "https://www.forbes.com/sites/rebeccahughes/2020/11/12/venice-1-year-on-from-devastating-flooding-no-more-acqua-alta/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5face3aa1031d7ee931adc96%2F0x0.jpg",
+      "publishedAt": "2020-11-12T07:33:50Z",
+      "content": "People walk across the flooded St. Mark's Square, by St. Mark's Basilica on November 15, 2019 in ... [+] Venice, two days after the city suffered its highest tide in 50 years.(Photo by Filippo MONTEF… [+6116 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "EURACTIV"
+        "name": "Daily Mail"
       },
-      "author": "Alessandro Follis",
-      "title": "Italy to get 40 million Pfizer vaccines, Spain just 20 million",
-      "description": "Italy will receive 40 million doses of the COVID-19 vaccine developed by Pfizer-BioNTech, of which the EU has ordered 300 million doses.  Meanwhile, Spain hopes to receive 20 million doses from US pharmaceutical giant to immunise up to 10 million...",
-      "url": "https://www.euractiv.com/section/politics/short_news/italy-to-get-40-million-pfizer-vaccines-spain-just-20-million/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/11/spain-2-800x450.jpg",
-      "publishedAt": "2020-11-11T07:29:37Z",
-      "content": "Italy will receive 40 million doses of the COVID-19 vaccine developed by Pfizer-BioNTech, of which the EU has ordered 300 million doses. \r\nMeanwhile, Spain hopes to receive 20 million doses from US p… [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "author": "FRANCE 24",
-      "title": "Gladbach forward Marcus Thuram eyes first France cap in Finland friendly",
-      "description": "Borussia Moenchengladbach forward Marcus Thuram, son of France's 1998 World Cup winner Lilian, is hoping to win his maiden cap on Wednesday when the world champions take on Finland in a friendly at the Stade de France.",
-      "url": "https://www.france24.com/en/sport/20201111-gladbach-forward-marcus-thuram-eyes-first-france-cap-in-finland-friendly",
-      "urlToImage": "https://s.france24.com/media/display/d560b4f6-23ea-11eb-b92f-005056a964fe/w:1280/p:16x9/000_8UW7T8.jpg",
-      "publishedAt": "2020-11-11T07:20:53Z",
-      "content": "Borussia Moenchengladbach forward Marcus Thuram, son of France's 1998 World Cup winner Lilian, is hoping to win his maiden cap on Wednesday when the world champions take on Finland in a friendly at t… [+1908 chars]"
+      "author": "By Dailymail.com Reporter",
+      "title": "George Clooney's $1M renovation of former LA bachelor pad moves forward despite pandemic",
+      "description": "On Wednesday, aerial photos showed the scope of the ongoing building work. He purchased the property in 1995 but seeks to expand it now he's married with twins.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-8940949/George-Clooneys-1M-renovation-former-LA-bachelor-pad-moves-forward-despite-pandemic.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/12/07/35586268-0-image-a-64_1605166102935.jpg",
+      "publishedAt": "2020-11-12T07:32:39Z",
+      "content": "After spending decades as one of the world's most eligible bachelors, George Clooney has splashed out more than a millions dollars on transforming his Los Angeles pad into a family estate.\r\nThe forme… [+2461 chars]"
     },
     {
       "source": {
@@ -842,101 +504,127 @@
       "author": "Telegraph Sport",
       "title": "Autumn Nations Cup 2020 fixtures: Match dates, times and TV schedule",
       "description": "The Six Nations teams, Georgia and Fiji will compete for the Autumn Nations Cup",
-      "url": "https://www.telegraph.co.uk/rugby-union/2020/11/autumn-nations-cup-fixtures-2020-match-dates-times-tv-schedule/",
+      "url": "https://www.telegraph.co.uk/rugby-union/2020/11/12/autumn-nations-cup-fixtures-2020-match-dates-times-tv-schedule/",
       "urlToImage": "https://www.telegraph.co.uk/content/dam/rugby-union/2020/10/20/TELEMMGLPICT000241363168_trans_NvBQzQNjv4BqaRL1kC4G7DT9ZsZm6Pe3PUPXbRlaI4_qh_dM2Z5d688.jpeg?impolicy=logo-overlay",
-      "publishedAt": "2020-11-11T07:13:06Z",
+      "publishedAt": "2020-11-12T07:27:59Z",
       "content": "The Autumn Nations Cup begins on November 13, running over the course of four rounds with England, Ireland, Scotland, Wales, France, Italy, Georgia and Fiji competing.\r\nAmazon Prime have the main bro… [+1121 chars]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": null,
+        "name": "Business Standard"
       },
-      "author": "Rebecca Falconer",
-      "title": "Hong Kong disqualifies pro-democracy lawmakers after China passes patriotism law",
-      "description": "Hong Kong's government disqualified four opposition pro-democracy lawmakers on Wednesday, per Bloomberg.Why it matters: The ouster of Kenneth Leung, Dennis Kwok, Alvin Yeung and Kwok Ka-ki came moments after the Chinese parliament passed a resolution allowing…",
-      "url": "https://www.axios.com/hong-kong-disqualifies-lawmakers-china-patriotism-law-81506760-a959-46a5-a16a-daa7dd2e0d85.html",
-      "urlToImage": "https://images.axios.com/MXpn3J7vIStEuHfvHHaoP1j1ntA=/fit-in/1366x1366/2020/11/11/1605077821945.None",
-      "publishedAt": "2020-11-11T07:10:29Z",
-      "content": "Texas has surpassed 1 million confirmed COVID-19 cases, Johns Hopkins University data shows.\r\nWhy it matters: Texas is the first U.S. state to pass the milestone. It has the 10th most cases in the wo… [+194 chars]"
+      "author": "Press Trust of India",
+      "title": "Smell, taste changes early indication of Covid-19 community spread: Study",
+      "description": "Self-reports of smell and taste changes can be earlier markers of the spread of the novel coronavirus than indicators based on hospital emergency room (ER) consultations, according researchers",
+      "url": "https://www.business-standard.com/article/current-affairs/smell-taste-changes-early-indication-of-covid-19-community-spread-study-120111200661_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/25/full/1600980049-902.jpg",
+      "publishedAt": "2020-11-12T07:27:00Z",
+      "content": "Self-reports of smell and taste changes can be earlier markers of the spread of the novel coronavirus than indicators based on hospital emergency room (ER) consultations, according to an internationa… [+4833 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Just Jared"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Just Jared",
-      "title": "Angela Bassett Returning For 'Mission: Impossible 7' Movie as Erika Sloane",
-      "description": "Angela Bassett will be back on screen as Erika Sloane in Mission: Impossible 7. ComingSoon.net reports that the 62-year-old actress will pop up on the big screen next to Tom Cruise once again, after first appearing in 2018′s Mission: Impossible – Fallout. “Th…",
-      "url": "http://www.justjared.com/2020/11/11/angela-bassett-returning-for-mission-impossible-7-movie-as-erika-sloane/",
-      "urlToImage": "http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2020/11/angela-mi.jpg",
-      "publishedAt": "2020-11-11T07:05:14Z",
-      "content": "Angela Bassett will be back on screen as Erika Sloane in Mission: Impossible 7.\r\nComingSoon.net reports that the 62-year-old actress will pop up on the big screen next to Tom Cruise once again, after… [+794 chars]"
+      "author": "Andy Bruce and William Schomberg",
+      "title": "UK economy grows by monthly 1.1% in September, slower than expected",
+      "description": "Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in September from August, even before the latest restrictions on businesses, official data showed. Economists polled by Re…",
+      "url": "https://finance.yahoo.com/news/uk-economy-grows-monthly-1-071928835.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/xF6g7uxb3H5faUVC64hrgA--~B/aD01MTA7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/a7f88e977229de47b072e6b163e2b69b",
+      "publishedAt": "2020-11-12T07:19:28Z",
+      "content": "By Andy Bruce and William Schomberg\r\nLONDON (Reuters) - Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in Sep… [+1982 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Technoweekly.com"
+        "name": "Independent.ie"
       },
-      "author": null,
-      "title": "Global Internet of Things (IoT) Software Market Top Players By 2026: Cisco Systems, Inc., Bosch Software Innovations GmbH, General Electric, Google Inc. etc. - TechnoWeekly",
-      "description": "Global Internet of Things (IoT) Software Market Top Players By 2026: Cisco Systems, Inc., Bosch Software Innovations GmbH, General Electric, Google Inc. etc.  TechnoWeekly",
-      "url": "https://technoweekly.com/science/1040536/global-internet-of-things-iot-software-market-top-players-by-2026-cisco-systems-inc-bosch-software-innovations-gmbh-general-electric-google-inc-etc-3/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T07:04:00Z",
-      "content": "Regional Development: Detailed Analysis\r\nThe latest report presentation on Global Internet of Things (IoT) Software market portrays a detailed analytical review of the market spectrum across both his… [+6101 chars]"
+      "author": "David Medalf",
+      "title": "'Thatching is not just a traditional craft but way of roofing which can make a building into a landmark'",
+      "description": "His parents expected Kyran O'Grady would be an accountant. Their boy appeared set fair for life in an office when he enrolled on the business studies course in UCD. After all, his father was an accountant with a business which his son was being groomed to tak…",
+      "url": "https://www.independent.ie/business/farming/rural-life/thatching-is-not-just-a-traditional-craft-but-way-of-roofing-which-can-make-a-building-into-a-landmark-39737435.html",
+      "urlToImage": "https://www.independent.ie/regionals/wicklowpeople/news/d3806/39730977.ece/AUTOCROP/w1240h700/2020-11-11_wic_64112397_I1.JPG",
+      "publishedAt": "2020-11-12T07:18:44Z",
+      "content": "His parents expected Kyran O'Grady would be an accountant. Their boy appeared set fair for life in an office when he enrolled on the business studies course in UCD. After all, his father was an accou… [+8675 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Andy Bruce, William Schomberg",
+      "title": "UK economy grows by monthly 1.1% in September, slower than expected - Reuters India",
+      "description": "Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in September from August, even before the latest restrictions on businesses, official data showed.",
+      "url": "https://in.reuters.com/article/us-health-coronavirus-britain-economy-idINKBN27S0RV",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540936176&r=LYNXMPEGAB0FB&w=800",
+      "publishedAt": "2020-11-12T07:14:00Z",
+      "content": "LONDON (Reuters) - Britains economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in September from August, even before the la… [+1999 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Andy Bruce, William Schomberg",
+      "title": "UK economy grows by monthly 1.1% in September - Reuters Africa",
+      "description": "Britain's economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in September from August, even before the latest restrictions on businesses, official data showed.",
+      "url": "https://www.reuters.com/article/health-coronavirus-britain-economy-idUSKBN27S0SV",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540937719&r=LYNXMPEGAB0FW&w=800",
+      "publishedAt": "2020-11-12T07:12:00Z",
+      "content": "LONDON (Reuters) - Britains economy, which has struggled to maintain its recovery from its coronavirus lockdown crash, grew by a slower than expected 1.1% in September from August, even before the la… [+2066 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Vnexpress.net"
+        "name": "Forbes"
       },
-      "author": "Duong Tam",
-      "title": "Vietnamese teacher among 10 finalists for $1 mln UK education prize",
-      "description": "Ha Anh Phuong of Vietnam has been shortlisted among 10 finalists for the 2020 Global Teacher Prize for her contribution to education in remote areas.",
-      "url": "https://e.vnexpress.net/news/news/vietnamese-teacher-among-10-finalists-for-1-mln-uk-education-prize-4190146.html",
-      "urlToImage": "https://vcdn-english.vnecdn.net/2020/11/11/cohaanhphuong32451605009651-16-2647-6120-1605069544_1200x0.jpg",
-      "publishedAt": "2020-11-11T07:01:54Z",
-      "content": "The 29-year-old, a high school English teacher in the northern Phu Tho Province, is the first Vietnamese and youngest ever to make the short list.\r\nThe other nine are from Brazil, India, Italy, Malay… [+2600 chars]"
+      "author": "Shlomo Sprung, Senior Contributor, \n Shlomo Sprung, Senior Contributor\n https://www.forbes.com/sites/shlomosprung/",
+      "title": "GVC Holdings Renamed Entain; CEO Shay Segev Talks BetMGM Growth, U.S. Expansion, Long-Term Sustainability",
+      "description": "In his first interview with a U.S. publication since taking his new role at the company, Entain CEO Shay Segev spoke at length on how he sees the newly rebranded company growing over the coming months and years around the world in a lasting and sustainable wa…",
+      "url": "https://www.forbes.com/sites/shlomosprung/2020/11/12/gvc-holdings-renamed-entain-ceo-shay-segev-talks-betmgm-growth-us-expansion-long-term-sustainability/",
+      "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac8217dba7e8ae267f30fe%2F0x0.jpg%3FcropX1%3D135%26cropX2%3D1102%26cropY1%3D0%26cropY2%3D544",
+      "publishedAt": "2020-11-12T07:10:00Z",
+      "content": "BetMGM in the United States is half-owned by the newly named Entain, led by CEO Shay Segev. Photo ... [+] courtesy of BetMGM.com\r\nBetMGM\r\nGVC Holdings, the operator of BetMGM \r\n MGM\r\n in America and … [+6763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The National Interest "
+      },
+      "author": "Warfare History Network",
+      "title": "How Mussolini Brought Italy to Ruin",
+      "description": "Warfare History Network\nHistory, Europe\n \nMussolini had served in World War I as a combat-wounded Bersaglieri, a member of one of Italy’s most elite formations.\nHere's What You Need To Remember: Benito Mussolini, the blacksmith’s son from the village of Forli…",
+      "url": "https://nationalinterest.org/blog/reboot/how-mussolini-brought-italy-ruin-172347",
+      "urlToImage": "https://nationalinterest.org/sites/default/files/main_images/March_on_Rome_0.jpg",
+      "publishedAt": "2020-11-12T07:00:00Z",
+      "content": "Here's What You Need To Remember: Benito Mussolini, the blacksmiths son from the village of Forli, had been brought to office by the successive failure of several Liberal governments, a general apath… [+9096 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "EURACTIV"
       },
-      "author": "Frédéric Simon",
-      "title": "Gas denied ‘transition’ fuel status in draft EU green finance rules",
-      "description": "Power plants fuelled by natural gas will not be classed as “sustainable” or “transition” investments in Europe unless they meet emission limits which are so low that none are currently able to comply, according to draft EU rules seen by EURACTIV.",
-      "url": "http://www.euractiv.com/section/energy-environment/news/gas-denied-transition-fuel-status-in-eu-green-finance-rules/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/11/Gas-power-plant-800x450.jpg",
-      "publishedAt": "2020-11-11T06:55:56Z",
-      "content": "Power plants fuelled by natural gas will not be classed as sustainable or transition investments in Europe unless they meet emission limits which are so low that none are currently able to comply, ac… [+6990 chars]"
+      "author": "Benas Gerdžiūnas",
+      "title": "Lithuania weary of incident at Belarus nuclear plant",
+      "description": "Lithuania has asked Belarus for clarification after its new nuclear plant located some 50 kilometres from the country’s capital suffered an incident just five days after launch. Belarus President Alexander Lukashenko took part in the opening of the plant on...",
+      "url": "https://www.euractiv.com/section/politics/short_news/lithuania-weary-of-incident-at-belarus-nuclear-plant/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/11/w_54690828-800x450.jpg",
+      "publishedAt": "2020-11-12T06:59:33Z",
+      "content": "Lithuania has asked Belarus for clarification after its new nuclear plant located some 50 kilometres from the country’s capital suffered an incident just five days after launch.\r\nBelarus President Al… [+1972 chars]"
     },
     {
       "source": {
-        "id": "axios",
-        "name": "Axios"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      "author": "Rebecca Falconer",
-      "title": "Texas becomes first U.S. state to exceed 1 million coronavirus cases",
-      "description": "Texas has surpassed 1 million confirmed COVID-19 cases, Johns Hopkins University data shows.Why it matters: Texas is the first U.S. state to pass the milestone. It has the 10th most cases in the world, reporting 1,010,364 infections by early Wednesday — more …",
-      "url": "https://www.axios.com/texas-first-state-surpass-1-million-covid-cases-2f3d16ab-0ae9-4417-a93d-eff7cdde3f14.html",
-      "urlToImage": "https://images.axios.com/Vbp-mvNa59mlXc_wk0bBvjHVkAY=/fit-in/1366x1366/2020/11/11/1605076884493.jpg",
-      "publishedAt": "2020-11-11T06:51:30Z",
-      "content": "Texas has surpassed 1 million confirmed COVID-19 cases, Johns Hopkins University data shows.\r\nWhy it matters: Texas is the first U.S. state to pass the milestone. It has the 10th most cases in the wo… [+194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Deutsche Welle (www.dw.com)",
-      "title": "EU weighs tighter border controls after Paris terrorism summit",
-      "description": "EU leaders have called for security at the bloc's external borders to be ramped up following deadly Islamist terror attacks in France and Austria. France's Emmanuel Macron demanded a \"rapid and coordinated response.\"",
-      "url": "https://www.dw.com/en/eu-weighs-tighter-border-controls-after-paris-terrorism-summit/a-55553916",
-      "urlToImage": "https://static.dw.com/image/55488958_304.jpg",
-      "publishedAt": "2020-11-11T06:41:00Z",
-      "content": "European leaders on Tuesday proposed tightening the extrernal borders of the EU's visa-free Schengen zone in response to a series of deadly attacks blamed on Islamist extremists.\r\nThe announcement ca… [+3423 chars]"
+      "author": null,
+      "title": "England v Republic of Ireland: Stuttgart, stalemates and Sheedy - when these sides meet",
+      "description": "The last six meetings have all been draws but what happens when England play the Republic of Ireland?",
+      "url": "https://www.bbc.co.uk/sport/football/54831174",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/12E7D/production/_115373477_jack.jpg",
+      "publishedAt": "2020-11-12T06:44:22Z",
+      "content": "<table><tr><th>England v Republic of Ireland</th></tr>\r\n<tr><td>Venue: Wembley Stadium Date: Thursday 12 November Kick-off: 20:00 GMT</td></tr><tr><td>Coverage: Live commentary on BBC Radio 5 live, t… [+5533 chars]"
     },
     {
       "source": {
@@ -944,194 +632,38 @@
         "name": "Hurriyet Daily News"
       },
       "author": "hurriyetdailynews.com",
-      "title": "Coronavirus vaccine results fuel hopes for return to normal",
-      "description": "Hugely promising results from a coronavirus vaccine trial fuelled optimism around the world on Nov. 10 even as tighter restrictions were imposed in Europe and the Middle East to try and stem the worst pandemic in a century.",
-      "url": "https://www.hurriyetdailynews.com/coronavirus-vaccine-results-fuel-hopes-for-return-to-normal-159919",
-      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5fab8256d3806c0cdcfb7fda.jpg",
-      "publishedAt": "2020-11-11T06:17:00Z",
-      "content": "WASHINGTON-Agence France-Presse\r\nHugely promising results from a coronavirus vaccine trial fuelled optimism around the world on Nov. 10, even as tighter restrictions were imposed in Europe and the Mi… [+4973 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Robert O'Byrne",
-      "title": "Fr Browne’s brilliance captures Wicklow’s beauty on camera",
-      "description": "Robert O’Byrne introduces a collection of the Jesuit’s timeless images focused on Wicklow",
-      "url": "https://www.irishtimes.com/culture/books/fr-browne-s-brilliance-captures-wicklow-s-beauty-on-camera-1.4404412",
-      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4404411&origw=1440",
-      "publishedAt": "2020-11-11T06:08:00Z",
-      "content": "Now recognised as Irelands finest photographer during the first half of the last century, Frank Browne perceived the medium that brought him posthumous fame primarily as a hobby. He spent the greater… [+8863 chars]"
+      "title": "Italy records more than one million coronavirus cases",
+      "description": "The number of confirmed coronavirus cases in Italy on Nov. 11 passed the symbolic one million mark, while almost 43,000 people have died, according to official data.",
+      "url": "https://www.hurriyetdailynews.com/italy-records-more-than-one-million-coronavirus-cases-159973",
+      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5facd6d6c9de3d1548214144.jpg",
+      "publishedAt": "2020-11-12T06:31:58Z",
+      "content": "ROME-Agence France-Presse\r\nThe number of confirmed coronavirus cases in Italy on Nov. 11 passed the symbolic one million mark, while almost 43,000 people have died, according to official data.    \r\nT… [+1712 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurowire.co"
+        "name": "CNBC"
       },
-      "author": null,
-      "title": "Cyber Security in Financial Services Market 2020 Global Analysis, Trends, Forecast up to 2025 - Eurowire",
-      "description": "“The Cyber Security in Financial Services Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size, share, demand, development patter…",
-      "url": "https://eurowire.co/news/1053303/cyber-security-in-financial-services-market-2020-global-analysis-trends-forecast-up-to-2025/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T06:08:00Z",
-      "content": "“The Cyber Security in Financial Services Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current sit… [+5135 chars]"
+      "author": "Evelyn Cheng",
+      "title": "Alibaba unit ramps up subsidies to export the Chinese Singles Day shopping holiday",
+      "description": "The push for growth in Europe comes as Alibaba faces increased competition and regulatory scrutiny in its home market of China.",
+      "url": "https://www.cnbc.com/2020/11/12/alibaba-spends-five-times-as-much-on-subsidies-to-export-singles-day.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106793225-1605161955607-gettyimages-1228688394-AFP_8QM97T.jpeg?v=1605161706",
+      "publishedAt": "2020-11-12T06:29:45Z",
+      "content": "People wait in line in front of the AliExpress pop-up store in Paris on September 24, 2020.\r\nBEIJING Chinese e-commerce giant Alibaba is pressing into overseas markets as competition heats up around … [+6784 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "Market Study Report, LLC.",
-      "title": "Global smart healthcare market size to record 16.2% CAGR through 2027",
-      "description": "The research report on ‘global smart healthcare market’ evaluates the major development trends, restraining factors, and expansion opportunities defining the growth rate of this industry landscape over the period of 2020-2027.Selbyville, Delaware, Nov. 11, 20…",
-      "url": "https://news.yahoo.com/global-smart-healthcare-market-size-060600566.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/g_2DwlFophJj733RLaPQAQ--~B/aD01Mzt3PTQ4NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/9a49d23996bd852fd8f21c7c5b3f9bad",
-      "publishedAt": "2020-11-11T06:06:00Z",
-      "content": "The research report on global smart healthcare market evaluates the major development trends, restraining factors, and expansion opportunities defining the growth rate of this industry landscape over… [+8935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EUobserver"
-      },
-      "author": "Elena Sánchez Nicolás",
-      "title": "[Green Deal] Italy 'manifestly failed' on air pollution, EU top court rules",
-      "description": "The European Court of Justice concluded Italy has been \"systematically and persistently\" exceeding daily and annual limits of particulate matter pollution permitted by EU rules on clean air.",
-      "url": "https://euobserver.com/green-deal/150024",
-      "urlToImage": "https://s3.eu-central-1.amazonaws.com/euobs-media/56d6362b89d91d268b2a80bb513a68dc-480x.jpg",
-      "publishedAt": "2020-11-11T06:03:25Z",
-      "content": "Italy has been \"systematically and persistently\" exceeding daily and annual limits of particulate matter pollution permitted by EU rules, the European Court of Justice (ECJ) ruled on Tuesday (10 Nove… [+2512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wired.co.uk"
-      },
-      "author": "Richard Davies",
-      "title": "The next economic shock will be hyper-aged societies",
-      "description": "As we deal with the immediate crisis brought on by Covid-19, we are already hurtling towards economic systems defined by old age",
-      "url": "https://www.wired.co.uk/article/future-economy-richard-davies",
-      "urlToImage": "https://wi-images.condecdn.net/image/JaMlMwwd9ad/crop/1440/0.5235602094240838/f/wired-ft-economy-5.jpg",
-      "publishedAt": "2020-11-11T06:00:00Z",
-      "content": "Richard Davies\r\nCovid-19 is a shock that has swept the world, affecting countries rich and poor. It is not the only one. While governments focus on the pandemic, we are quietly hurtling towards a new… [+4455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "United Arab Emirates - MQ-9B Remotely Piloted Aircraft",
-      "description": "The State Department has made a determination approving a possible Foreign Military Sale to the Government of the United Arab Emirates of MQ-9B Remotely Piloted Aircraft and related equipment for an estimated cost of $2.97 billion. The Defense Security Cooper…",
-      "url": "https://www.globalsecurity.org/military/library/news/2020/11/mil-201110-dsca01.htm",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T05:59:30Z",
-      "content": "Media/Public Contact: pm-cpa@state.govTransmittal No: 21-05\r\nWASHINGTON, November 10, 2020 -- The State Department has made a determination approving a possible Foreign Military Sale to the Governmen… [+5399 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Life"
-      },
-      "author": "Jade Boren",
-      "title": "Joe Giudice’s Feelings On Teresa’s Hot New Romance Revealed: Why He’s Not Jealous",
-      "description": "Despite being married for 20 years, Joe Giudice knew it was 'only a matter of time' until his ex-wife, Teresa, 'found someone new.' A source reveals why Joe felt no 'jealousy' towards Teresa's new beau.",
-      "url": "https://hollywoodlife.com/2020/11/11/joe-giudice-reaction-teresa-new-boyfriend-luis-louie-ruelas-romance/",
-      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2020/11/Joe-Giudice-Teresa-Giudice-new-relationshop-ap-ftr.jpg",
-      "publishedAt": "2020-11-11T05:56:38Z",
-      "content": "Joe Giudice has a lot of history with Teresa Giudice — as in 20 years of marriage, and being childhood sweethearts on top of that — but he’s not feeling any “jealousy” now that she’s began a new love… [+2758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "SA Transcripts",
-      "title": "The Blackstone Group Inc. (BX) Management Presents at Bank of America Future of Financials Virtual Conference 2020 (Transcript)",
-      "description": "The Blackstone Group Inc. (NYSE:BX) Bank of America Future of Financials Virtual Conference 2020 November 10, 2020, 12:30 PM ET Company Participants Jon Gray - President and COO Conference Call Participants Michael Carrier - Bank of America Presentation Micha…",
-      "url": "https://seekingalpha.com/article/4387919-blackstone-group-inc-bx-management-presents-bank-of-america-future-of-financials-virtual",
-      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-      "publishedAt": "2020-11-11T05:47:05Z",
-      "content": "The Blackstone Group Inc. (NYSE:BX) Bank of America Future of Financials Virtual Conference 2020 November 10, 2020 12:30 PM ET\r\nCompany Participants\r\nJon Gray - President and COO\r\nConference Call Par… [+53287 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurowire.co"
-      },
-      "author": null,
-      "title": "Teleoperation and Telerobotics in Industrial Internet of Things (IIoT) Industry Market Size 2020 Industry Share, Strategies, Growth Analysis, Regional Demand, Revenue, Key Manufacturers and 2026 Forecast Research Report - Eurowire",
-      "description": "Teleoperation and Telerobotics in Industrial Internet of Things (IIoT) Industry Market Size 2020 Industry Share, Strategies, Growth Analysis, Regional Demand, Revenue, Key Manufacturers and 2026 Forecast Research Report  Eurowire",
-      "url": "https://eurowire.co/news/1052739/teleoperation-and-telerobotics-in-industrial-internet-of-things-iiot-industry-market-size-2020-industry-share-strategies-growth-analysis-regional-demand-revenue-key-manufacturers-and-2026-forec/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T05:13:00Z",
-      "content": "A recent market research report added to repository of Credible Markets is an in-depth analysis of “Global Teleoperation and Telerobotics in Industrial Internet of Things (IIoT) Industry Market\r\n”. O… [+7761 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "David Morgan",
-      "title": "DOC NYC documentary film festival goes online",
-      "description": "Highlights from America's largest non-fiction film festival, now streaming more than 200 features and shorts",
-      "url": "https://www.cbsnews.com/news/doc-nyc-2020-documentary-film-festival-goes-online/",
-      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/11/65cea7e4-1664-4017-9f15-434db9254ae2/thumbnail/1200x630/d05b1fd2c8099273095d5b1715e68003/jacinta-cinetic.jpg",
-      "publishedAt": "2020-11-11T05:07:21Z",
-      "content": "Non-fiction is once again the star attraction of DOC NYC, America's largest documentary film festival, now in its 11th year. But in this era of COVID-19 the festival's offerings are being shared onli… [+16157 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": "Apoorva Mandavilli",
-      "title": "New type of test may better discern immunity to the coronavirus",
-      "description": "A new type of test can detect a person’s immune response to the coronavirus better than a widely used antibody test, according to research released on Tuesday. The test detects the response to T cells — an arms of the immune system ‚ to the virus.",
-      "url": "https://www.bostonglobe.com/2020/11/11/nation/new-type-test-may-better-discern-immunity-coronavirus/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/zBHSEKkrIGckn8x0WuTRswOVtDM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6ENZIGBQFZYDVIGQVES5JNWPQE.jpg",
-      "publishedAt": "2020-11-11T05:04:20Z",
-      "content": "The companys data have not yet been reviewed for publication in a scientific journal, but experts say the work is promising for assessing T cells role in the illness caused by the coronavirus.\r\nExpos… [+6000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lse.ac.uk"
-      },
-      "author": "Valerio Ercolani and António Antunes",
-      "title": "Unintended consequence of fiscal stimuli: tightening households’ credit constraints",
-      "description": "Since Keynes, the benefits associated to countercyclical fiscal policies have been recognised by the greater part of the economics community. Indeed, the global financial crisis and, especially, the current COVID-19 crisis saw massive increases in public debt…",
-      "url": "https://blogs.lse.ac.uk/businessreview/2020/11/11/unintended-consequences-of-fiscal-stimuli-tightening-households-credit-constraints/",
-      "urlToImage": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2020/11/money.jpg",
-      "publishedAt": "2020-11-11T05:00:28Z",
-      "content": "Since Keynes, the benefits associated to countercyclical fiscal policies have been recognised by the greater part of the economics community. Indeed, the global financial crisis and, especially, the … [+6777 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Bryce Baschuk",
-      "title": "Biden Gets a $4 Billion Reminder to Patch Trade Ties With Europe",
-      "description": "(Bloomberg) -- Barely 48 hours after President-elect Joe Biden pledged to “make America respected around the world again,” the European Union was among the first in line to remind him that trans-Atlantic trade relations might be a good place to start.Brussels…",
-      "url": "https://finance.yahoo.com/news/biden-gets-4-billion-reminder-050000617.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4XDPLd4KNcsu2SgeTNUHNA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/359fae69e022bb48f85369868d722d0b",
-      "publishedAt": "2020-11-11T05:00:00Z",
-      "content": "(Bloomberg) -- Barely 48 hours after President-elect Joe Biden pledged to make America respected around the world again, the European Union was among the first in line to remind him that trans-Atlant… [+5729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thinkcuriouser.com"
-      },
-      "author": null,
-      "title": "Internet of Things Insurance Market Data Survey Report 2020-2025 | SAP SE, Oracle Corporation, Google, Microsoft Corporation, etc - The Think Curiouser",
-      "description": "Internet of Things Insurance Market Data Survey Report 2020-2025 | SAP SE, Oracle Corporation, Google, Microsoft Corporation, etc  The Think Curiouser",
-      "url": "https://thinkcuriouser.com/news/645871/internet-of-things-insurance-market-data-survey-report-2020-2025-sap-se-oracle-corporation-google-microsoft-corporation-etc/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T04:49:09Z",
-      "content": "This is an excellent research study specially compiled to provide the latest insights into critical aspects of the Internet of Things Insurance Market. The report includes different market forecasts … [+4165 chars]"
+      "author": "Reuters Staff",
+      "title": "Ukraine registers record for new COVID-19 cases: minister - Reuters India",
+      "description": "Ukraine registered a record 11,057 new COVID-19 cases in the past 24 hours, its health minister said on Thursday, up from a high of 10,746 reported on Nov. 7.",
+      "url": "https://in.reuters.com/article/us-health-coronavirus-ukraine-cases-idINKBN27S0O2",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540932883&r=LYNXMPEGAB0DC&w=800",
+      "publishedAt": "2020-11-12T06:29:00Z",
+      "content": "By Reuters Staff\r\nFILE PHOTO: Ukrainian Health Minister Maksym Stepanov wearing a protective mask stands near a plane, as medical personnel depart for Italy amid the coronavirus (COVID-19) pandemic, … [+420 chars]"
     },
     {
       "source": {
@@ -1139,155 +671,545 @@
         "name": "News24"
       },
       "author": null,
-      "title": "News24.com | Rugby shake-up goes on with new Autumn Nations Cup",
-      "description": "The inaugural Autumn Nations Cup starts with Ireland facing Wales in Dublin as rugby union continues to deal with the fall-out from the coronavirus pandemic.",
-      "url": "https://www.news24.com/sport/Rugby/rugby-shake-up-goes-on-with-new-autumn-nations-cup-20201111",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9455/2086c40e29134dc2b3463f2d2b78a00f.jpg",
-      "publishedAt": "2020-11-11T04:44:41Z",
-      "content": "The inaugural Autumn Nations Cup starts with Ireland facing Wales in Dublin on Friday as rugby union continues to deal with the fall-out from the coronavirus pandemic.\r\nAn eight-team event will featu… [+4611 chars]"
+      "title": "News24.com | Former SA Schools wing earns first Test start for Scotland",
+      "description": "Former SA Schools wing Duhan van der Merwe will make his first Test start for Scotland when they take on Italy this weekend.",
+      "url": "https://www.news24.com/sport/Rugby/former-sa-schools-wing-earns-first-test-start-for-scotland-20201112",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10483/47a47e71dde1489a9a30f497a55d7fc8.png",
+      "publishedAt": "2020-11-12T06:25:02Z",
+      "content": "Former SA Schools wing Duhan van der Merwe will make his first Test start for Scotland when they take on Italy on Saturday in their Autumn Nations Cup clash in Florence.\r\nThe 25-year-old, brother of … [+934 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Technoweekly.com"
+        "name": "Prnewsleader.com"
       },
       "author": null,
-      "title": "Semiconductor Wireless Sensor Internet of Things Market 2020 – 2027, Impact Analysis, Drivers, Opportunities, Pricing and Manufacturers - TechnoWeekly",
-      "description": "Semiconductor Wireless Sensor Internet of Things Market 2020 – 2027, Impact Analysis, Drivers, Opportunities, Pricing and Manufacturers  TechnoWeekly",
-      "url": "https://technoweekly.com/news/1034144/semiconductor-wireless-sensor-internet-of-things-market-2020-2027-impact-analysis-drivers-opportunities-pricing-and-manufacturers/",
+      "title": "Global Healthcare Cyber Security Market 2020 Analysis by Latest COVID19/CORONA Virus Impact with Market Positioning of Key Vendors: FireEye, Inc., Cisco Systems, Inc., MacAfee, etc. | InForGrowth - PRnews Leader",
+      "description": "Healthcare Cyber Security market report examines the short-and medium-term economic and profitability outlook for Healthcare Cyber Security industry. The Healthcare Cyber Security market accounted for $XX million in 2018, and is expected to reach $XX million …",
+      "url": "https://prnewsleader.com/uncategorized/1887792/global-healthcare-cyber-security-market-2020-analysis-by-latest-covid19-corona-virus-impact-with-market-positioning-of-key-vendors-fireeye-inc-cisco-systems-inc-macafee-etc-inforgrowth/",
       "urlToImage": null,
-      "publishedAt": "2020-11-11T04:43:00Z",
-      "content": "“ Semiconductor Wireless Sensor Internet of Things Market Global and Regional Markets Coverage, 2019 to 2027\r\nThe market is expected to experience robust growth during the forecast timeframe from 202… [+4255 chars]"
+      "publishedAt": "2020-11-12T06:19:00Z",
+      "content": "Healthcare Cyber Security market report examines the short-and medium-term economic and profitability outlook for Healthcare Cyber Security industry. The Healthcare Cyber Security market accounted fo… [+3551 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Technoweekly.com"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Cyber Security Of Security Hardware Market Statistical Forecasts 2025, Globalisation & Trade with Key Players – Huawei, Symantec Corporation, Topsec, Venustech, Nsfocus, Asiainfo, H3C, 360 Enterprise Security, Sangfor, Westone, DBAPPSecurity Ltd - TechnoWeekly",
-      "description": "The Global Cyber Security Of Security Hardware Market report is a significant framework of the key segments of the Cyber Security Of Security Hardware market. Each sector is rapidly and gradually developing and inspected through this examination. Industry est…",
-      "url": "https://technoweekly.com/technologies/1030919/cyber-security-of-security-hardware-market-statistical-forecasts-2025-globalisation-trade-with-key-players-huawei-symantec-corporation-topsec-venustech-nsfocus-asiainfo-h3c-360-enterpr/",
-      "urlToImage": null,
-      "publishedAt": "2020-11-11T04:38:00Z",
-      "content": "“\r\nThe Global Cyber Security Of Security Hardware Market report is a significant framework of the key segments of the Cyber Security Of Security Hardware market. Each sector is rapidly and gradually … [+6833 chars]"
+      "title": "He threw a family pack of sweets at me & said 'do you want it?' - Youngs hails 'incredible' Jones",
+      "description": "England scrum-half Ben Youngs says in his 100-cap international career no other coach \"has ever come near\" the rugby intelligence of Eddie Jones.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/54904110",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/FE21/production/_115375056_gettyimages-982184352.jpg",
+      "publishedAt": "2020-11-12T06:11:08Z",
+      "content": "Eddie Jones became England head coach in 2015\r\n<table><tr><th>Autumn Nations Cup: England v Georgia</th></tr>\r\n<tr><td>Venue: Twickenham Stadium Date: Saturday, 14 November Kick-off: 15:00 GMT</td></… [+3000 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
+        "name": "Anime News Network"
       },
-      "author": "Associated Press",
-      "title": "Amazon Faces EU Antitrust Charges Over Misuse of Data From Vendors",
-      "description": "European Union regulators filed antitrust charges against Amazon, accusing the e-commerce giant of using its access to data from companies that sell products on its platform to gain an unfair advantage over them.",
-      "url": "https://gadgets.ndtv.com/internet/news/amazon-antitrust-charge-case-eu-european-union-vendor-data-manipulation-product-launch-margrethe-vestager-2323628",
-      "urlToImage": "https://i.gadgets360cdn.com/large/amazon_india_50000_temp_jobs_reuters_1590142585417.jpg",
-      "publishedAt": "2020-11-11T04:34:31Z",
-      "content": "European Union regulators filed antitrust charges Tuesday against Amazon, accusing the e-commerce giant of using its access to data from companies that sell products on its platform to gain an unfair… [+3950 chars]"
+      "author": null,
+      "title": "SD Gundam World Sangoku Sōketsuden Anime Streams for 1st Time in Japan on February 25",
+      "description": "Anime debuted in July 2019, but only outside of Japan",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-12/sd-gundam-world-sangoku-soketsuden-anime-streams-for-1st-time-in-japan-on-february-25/.166249",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315g0E/cms/news.2/143818/mv-3.jpg",
+      "publishedAt": "2020-11-12T06:01:42Z",
+      "content": "The opening ceremony for the Gunpla Expo Tokyo 2020 event announced on Thursday that the SD Gundam World Sangoku Sketsudenanime will start running on the Gundam Channel on YouTube in Japan on Februar… [+1797 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Gerry Thornley",
+      "title": "Autumn Nations Cup offers a chance of hope in the toughest of years",
+      "description": "England are warm favourites in a tournament that could be a global event in future",
+      "url": "https://www.irishtimes.com/sport/rugby/autumn-nations-cup-offers-a-chance-of-hope-in-the-toughest-of-years-1.4406697",
+      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4406689&origw=1440",
+      "publishedAt": "2020-11-12T06:00:40Z",
+      "content": "Although its still a long shot, hopes of a vaccine being made available in early 2021 may well encourage the Six Nations to further explore the possibility of delaying next years tournament. The diff… [+8456 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "John O'Sullivan",
+      "title": "Rugby Stats: IRFU’s young talent pathway is bearing fruit in the Pro14",
+      "description": "Movement of young players between provinces will increase in the future",
+      "url": "https://www.irishtimes.com/sport/rugby/rugby-stats-irfu-s-young-talent-pathway-is-bearing-fruit-in-the-pro14-1.4406610",
+      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4406609&origw=1440",
+      "publishedAt": "2020-11-12T06:00:00Z",
+      "content": "In 2014 the IRFU made a commitment to revamping their elite player pathway with the express purpose of fast tracking the progression of young talent into the senior game; putting a structure in place… [+4969 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Paul Tan's Automotive News"
+        "name": "Mercola.com"
       },
-      "author": "Mick Chan",
-      "title": "2021 Hyundai Kona Electric – up to 484 km in range from 64 kWh battery; updated infotainment, safety kit",
-      "description": "Hyundai has unveiled its revised Kona Electric, which has received a host of exterior and interior updates for the 2021 model year. There continues to be two powertrain versions on offer; a base version with […]\nThe post 2021 Hyundai Kona Electric – up to 484…",
-      "url": "https://paultan.org/2020/11/11/2021-hyundai-kona-electric-up-to-484-km-in-range-from-64-kwh-battery-updated-infotainment-safety-kit/",
-      "urlToImage": "https://s2.paultan.org/image/2020/11/2021-Hyundai-Kona-Electric-1-e1605061123455-1200x626.jpg",
-      "publishedAt": "2020-11-11T04:33:39Z",
-      "content": "Hyundai has unveiled its revised Kona Electric, which has received a host of exterior and interior updates for the 2021 model year. \r\nThere continues to be two powertrain versions on offer; a base ve… [+4272 chars]"
+      "author": "Dr. Mercola",
+      "title": "How Blood Sugar Can Increase Your Body Temp to Disrupt Sleep",
+      "description": "Two common health conditions experienced by many people are insulin resistance and sleep disturbances, and it turns out the two are related. Insulin resistance is the basis for Type 2 diabetes. According to the American Diabetes Association, at least 10.5% of…",
+      "url": "https://articles.mercola.com/sites/articles/archive/2020/11/12/blood-sugar-can-raise-body-temp-to-disrupt-sleep.aspx",
+      "urlToImage": "https://media.mercola.com/ImageServer/Public/2020/November/FB/blood-sugar-can-raise-body-temp-to-disrupt-sleep-fb.jpg",
+      "publishedAt": "2020-11-12T06:00:00Z",
+      "content": "Disclaimer: The entire contents of this website are based upon the opinions of Dr. Mercola, unless otherwise noted. Individual articles are based upon the opinions of the respective author, who retai… [+1049 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Business Standard"
+        "id": "news24",
+        "name": "News24"
       },
-      "author": "Mark Landler and Melissa Eddy | NYT",
-      "title": "Does Trump's defeat in US elections signal the start of populism's decline?",
-      "description": "Populist leaders may have lost their most prominent champion, but their economic, social and political grievances remain potent",
-      "url": "https://www.business-standard.com/article/international/does-trump-s-defeat-in-us-elections-signal-the-start-of-populism-s-decline-120111100569_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-06/17/full/1466150137-7003.jpg",
-      "publishedAt": "2020-11-11T04:27:00Z",
-      "content": "When Hungary’s populist prime minister, Viktor Orban, joined a parade of foreign leaders in congratulating President-elect Joe Biden this week, he conspicuously failed to note that Mr. Biden had actu… [+8515 chars]"
+      "author": null,
+      "title": "News24.com | Veteran England scrumhalf sets sights on 2023 Rugby World Cup",
+      "description": "Ben Youngs may have won 100 England caps but the scrum-half now wants to mentally start all over again with a \"clean slate\" in the hope of playing at the 2023 World Cup in France.",
+      "url": "https://www.news24.com/sport/Rugby/veteran-england-scrumhalf-sets-sights-on-2023-rugby-world-cup-20201112",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10629/f18dd7b040a94ab09dbd78c3c251f1ca.jpg",
+      "publishedAt": "2020-11-12T05:59:33Z",
+      "content": "Ben Youngs may have won 100 England caps but the scrumhalf now wants to mentally start all over again with a \"clean slate\" in the hope of playing at the 2023 Rugby World Cup in France.\r\nYoungs became… [+2001 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Seeking Alpha"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "SA Transcripts",
-      "title": "Capstone Turbine Corporation (CPST) CEO Darren Jamison on Q2 2021 Results - Earnings Call Transcript",
-      "description": "Capstone Turbine Corporation (NASDAQ:CPST) Q2 2021 Earnings Conference Call November 10, 2020 16:45 ET Company Participants Colby Petersen - Corporate Counsel & Secretary Darren Jamison - President & Chief Executive Officer Eric Hencken - Chief Financial Offi…",
-      "url": "https://seekingalpha.com/article/4387906-capstone-turbine-corporation-cpst-ceo-darren-jamison-on-q2-2021-results-earnings-call",
-      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-      "publishedAt": "2020-11-11T04:22:04Z",
-      "content": "Capstone Turbine Corporation (NASDAQ:CPST) Q2 2021 Earnings Conference Call November 10, 2020 4:45 PM ET\r\nCompany Participants\r\nColby Petersen - Corporate Counsel &amp; Secretary\r\nDarren Jamison - Pr… [+43474 chars]"
+      "author": "Reuters Staff",
+      "title": "Grifo scores first goals as makeshift Italy beat Estonia - Reuters India",
+      "description": "Vincenzo Grifo scored his first two international goals at the age of 27 to help a makeshift Italy side, missing coach Roberto Mancini due to a COVID-19 infection, to a 4-0 friendly win over Estonia on Wednesday.",
+      "url": "https://in.reuters.com/article/soccer-friendly-ita-est-report-idINKBN27S0KY",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540930206&r=LYNXMPEGAB0BN&w=800",
+      "publishedAt": "2020-11-12T05:59:00Z",
+      "content": "By Reuters Staff\r\nFLORENCE, Italy (Reuters) - Vincenzo Grifo scored his first two international goals at the age of 27 to help a makeshift Italy side, missing coach Roberto Mancini due to a COVID-19 … [+1362 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Raw Story"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "Bob Brigham",
-      "title": "Trump’s America shatters coronavirus case record — but vaccines offer glimmer of hope",
-      "description": "The United States on Tuesday registered a record 200,000 new Covid-19 cases in one day, highlighting the desperate need for a vaccine after results from one medical trial fuelled optimism around the world. The vaccine news brought some relief from an otherwis…",
-      "url": "https://www.rawstory.com/2020/11/trumps-america-shatters-case-record-but-vaccines-offer-glimmer-of-hope/",
-      "urlToImage": "https://www.rawstory.com/wp-content/uploads/2020/07/COVID-19-patient-at-United-Memorial-Medical-Center-in-Houston-Texas.jpg",
-      "publishedAt": "2020-11-11T04:09:49Z",
-      "content": "The United States on Tuesday registered a record 200,000 new Covid-19 cases in one day, highlighting the desperate need for a vaccine after results from one medical trial fuelled optimism around the … [+6540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNX Software"
-      },
-      "author": "Jean-Luc Aufranc (CNXSoft)",
-      "title": "Giveaway Week 2020 winners announced",
-      "description": "CNX Software's “Giveaway week 2020” took place last week with 7 different prizes including three MINIX accessories (USB-C hubs and USD PD charger),",
-      "url": "https://www.cnx-software.com/2020/11/11/giveaway-week-2020-winners-announced/",
-      "urlToImage": "https://www.cnx-software.com/wp-content/uploads/2020/11/Giveaway-Week-2020-Winners.jpg",
-      "publishedAt": "2020-11-11T04:06:36Z",
-      "content": "CNX Software’s “Giveaway week 2020” took place last week with 7 different prizes including three MINIX accessories (USB-C hubs and USD PD charger), M5Stack Atom Echo ESP32 based programmable speaker,… [+1227 chars]"
+      "author": "Reuters Staff",
+      "title": "Grifo scores first goals as makeshift Italy beat Estonia - Reuters India",
+      "description": "Vincenzo Grifo scored his first two international goals at the age of 27 to help a makeshift Italy side, missing coach Roberto Mancini due to a COVID-19 infection, to a 4-0 friendly win over Estonia on Wednesday.",
+      "url": "https://www.reuters.com/article/soccer-friendly-ita-est-report-idINKBN27S0KY",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540930206&r=LYNXMPEGAB0BN&w=800",
+      "publishedAt": "2020-11-12T05:59:00Z",
+      "content": "By Reuters Staff\r\nFLORENCE, Italy (Reuters) - Vincenzo Grifo scored his first two international goals at the age of 27 to help a makeshift Italy side, missing coach Roberto Mancini due to a COVID-19 … [+1362 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Lewrockwell.com"
       },
-      "author": "Laurence M. Vance",
-      "title": "Does the Military Defend Our First Amendment Freedoms?",
-      "description": "It happens almost every time I write an article that is critical of the U.S. military. But it happens every time I write an article on Veterans Day that is critical of the U.S. military. In either case, I get a few e-mails that upbraid me for daring to critic…",
-      "url": "https://www.lewrockwell.com/2020/11/laurence-m-vance/does-the-military-defend-our-first-amendment-freedoms/",
+      "author": "No Author",
+      "title": "Fauci Versus Frontline Doctors and Science",
+      "description": "Americans suffer and die unnecessarily in this pandemic. Frontline doctors are ready and willing to use an effective at home/outpatient remedy. But they are being blocked because their medical freedom has been squashed. Dr. Anthony Fauci has ensured that the …",
+      "url": "https://www.lewrockwell.com/2020/11/no_author/fauci-versus-frontline-doctors-and-science-pandemic-malpractice/",
       "urlToImage": "https://www.lewrockwell.com/wp-content/themes/lrc/images/logo-med.png",
-      "publishedAt": "2020-11-11T04:01:00Z",
-      "content": "It happens almost every time I write an article that is critical of the U.S. military. But it happens every time I write an article on Veterans Day that is critical of the U.S. military.\r\nIn either c… [+6163 chars]"
+      "publishedAt": "2020-11-12T05:56:23Z",
+      "content": "Americans suffer and die unnecessarily in this pandemic. Frontline doctors are ready and willing to use an effective at home/outpatient remedy. But they are being blocked because their medical freedo… [+19028 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Daily Mail"
+        "name": "Hotukdeals.com"
+      },
+      "author": "apur32",
+      "title": "105° - HUAWEI MatePad Pro, 10.8 '' display, 6 GB RAM, 128 GB internal memory, Wi-F, Kirin 990 processor, EMUI 10 - £301.98 @ Amazon Italy",
+      "description": "<img src=\"https://images.hotukdeals.com/threads/content/T1Lv9/3586298.jpg\" data-width=\"360\" data-height=\"577\" data-image=\"3586298-T1Lv9\" data-alignment=\"-\" alt=\"3586298.jpg\" />Over £75 discount at checkout :D <br /><strong>Good price</strong> (y) <br /><br />…",
+      "url": "https://www.hotukdeals.com/deals/huawei-matepad-pro-108-display-6-gb-ram-128-gb-internal-memory-wi-f-kirin-990-processor-emui-10-ps30198-at-amazon-italy-3586298",
+      "urlToImage": "https://images.hotukdeals.com/threads/thread_full_screen/default/3586298_1.jpg",
+      "publishedAt": "2020-11-12T05:56:21Z",
+      "content": "Over £75 discount at checkout Good price‌ £399 on Amazon UK\r\nWith 90% screen-to-body ratio and 4.9mm folded bezels, the 10.8-inch huawei fullview display offers remarkable visual experiencesWith the … [+583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Anime News Network"
+      },
+      "author": null,
+      "title": "New SD Gundam World Heroes Anime Debuts Worldwide Next April",
+      "description": "New SD Gundam series follows last year's SD Gundam World Sangoku Sōketsuden",
+      "url": "https://www.animenewsnetwork.com/news/2020-11-12/new-sd-gundam-world-heroes-anime-debuts-worldwide-next-april/.166250",
+      "urlToImage": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.4/166250/worldheroes.jpg",
+      "publishedAt": "2020-11-12T05:53:29Z",
+      "content": "Sunrise announced a new anime in its SD Gundam Worldfranchise titled SD Gundam World Heroes on Thursday. The anime is slated for a worldwide debut in April 2021.\r\nThe anime continues on from last yea… [+1191 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Delhi's Covid cases spike as temperatures drop and pollution rises",
+      "description": "India's capital is grappling with a twin public health emergency - the pandemic and toxic air.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-54912871",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/900D/production/_115377863_gettyimages-1229562141.jpg",
+      "publishedAt": "2020-11-12T05:50:11Z",
+      "content": "By Krutika PathiBBC News, Delhi\r\nimage copyrightGetty Images\r\nimage captionHeavy pollution has shrouded the city in recent days\r\nIndia's capital, Delhi, is battling a winter surge in Covid-19 cases a… [+5288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Krutika Pathi - BBC News, Delhi",
+      "title": "Delhi's Covid cases spike as temperatures drop and pollution rises",
+      "description": "India's capital is grappling with a twin public health emergency - the pandemic and toxic air.",
+      "url": "https://news.yahoo.com/delhis-covid-cases-spike-temperatures-055011191.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/tzRIuvhoasihmuTP0IgBMw--~B/aD01NDk7dz05NzY7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-gb/bbc_us_articles_995/696a989efb8150431a2e2688d59b7a2d",
+      "publishedAt": "2020-11-12T05:50:11Z",
+      "content": "Heavy pollution has shrouded the city in recent days\r\nIndia's capital, Delhi, is battling a winter surge in Covid-19 cases as temperatures plummet and air pollution rises to dangerous levels.\r\nThe ci… [+5103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Agence France-Presse",
+      "title": "Hamilton Edges Closer To Seventh F1 Title, Sets Up Contract Talks",
+      "description": "Lewis Hamilton departed the Emilia Romagna Grand Prix at Imola earlier this month with an enigmatic suggestion, after his record-increasing 93rd win had secured Mercedes' unparalleled seventh consecutive constructors' championship, that he may not return to r…",
+      "url": "https://sports.ndtv.com/formula-1/lewis-hamilton-edges-closer-to-seventh-formula-one-title-sets-up-long-awaited-contract-talks-2324175",
+      "urlToImage": "https://c.ndtvimg.com/2020-11/k1l5ih3_lewis-hamilton-afp_625x300_12_November_20.jpg",
+      "publishedAt": "2020-11-12T05:44:57Z",
+      "content": "Lewis Hamilton can seal a record-equalling seventh drivers' world title, position himself to be \"best of the best\" and set up long-awaited negotiations for a new Mercedes contract at this weekend's T… [+3099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SoyaCincau.com"
+      },
+      "author": "Dzamira Dzafri",
+      "title": "Waze now shows railroad crossing alerts in Malaysia",
+      "description": "Waze has announced a new feature that will provide alerts to you if you are approaching a railroad crossing. A banner will appear on the app highlighting the crossing and encouraging you to approach with caution. “The Railroad Crossing feature is a result of …",
+      "url": "https://www.soyacincau.com/2020/11/12/waze-now-shows-railroad-crossing-alerts-in-malaysia/",
+      "urlToImage": "https://www.soyacincau.com/storage/2020/11/201112-waze-railroad-1.png",
+      "publishedAt": "2020-11-12T05:44:54Z",
+      "content": "Waze has announced a new feature that will provide alerts to you if you are approaching a railroad crossing. A banner will appear on the app highlighting the crossing and encouraging you to approach … [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "News24.com | Kiwi pair Lowe, Gibson-Park hope to pass the Test for Ireland",
+      "description": "New Zealanders James Lowe and Jamison Gibson-Park have travelled a similar path to representing their adopted country Ireland, but they are very different characters.",
+      "url": "https://www.news24.com/sport/Rugby/kiwi-pair-lowe-gibson-park-hope-to-pass-the-test-for-ireland-20201112",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7756/016eda3fe25943a28c766d274fbda022.jpg",
+      "publishedAt": "2020-11-12T05:44:29Z",
+      "content": "New Zealanders James Lowe and Jamison Gibson-Park have travelled a similar path to representing their adopted country Ireland, but they are very different characters.\r\nThey are both 28, play for Lein… [+4366 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "News24.com | Wales' losing streak puts coach Pivac under pressure",
+      "description": "Wales coach Wayne Pivac is facing plenty of awkward questions as his side head into their Autumn Nations Cup opener away to Ireland on a run of five straight defeats.",
+      "url": "https://www.news24.com/sport/Rugby/wales-losing-streak-puts-coach-pivac-under-pressure-20201112",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9443/def5a1bc58db4989bcb72d1733eba811.png",
+      "publishedAt": "2020-11-12T05:35:01Z",
+      "content": "Wales coach Wayne Pivac is facing plenty of awkward questions as his side head into Friday's Autumn Nations Cup opener away to Ireland on a run of five straight defeats.\r\nWhen Pivac succeeded fellow … [+4191 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Williams F1 team boss tests positive for COVID-19 - Reuters India",
+      "description": "Williams' acting principal Simon Roberts tested positive for COVID-19 on Wednesday and will miss this weekend's Turkish Grand Prix, the Formula One team said.",
+      "url": "https://in.reuters.com/article/motor-f1-turkey-williams-idINKBN27S0JI",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540928979&r=LYNXMPEGAB0AY&w=800",
+      "publishedAt": "2020-11-12T05:34:00Z",
+      "content": "By Reuters Staff\r\nLONDON (Reuters) - Williams acting principal Simon Roberts tested positive for COVID-19 on Wednesday and will miss this weekends Turkish Grand Prix, the Formula One team said.\r\nFILE… [+1798 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "News24.com | Makeshift Germany squeeze past Czech Republic in friendly",
+      "description": "A first-half goal by Benfica striker Luca Waldschmidt sealed a friendly win for Germany over the Czech Republic as the hosts kept a clean sheet for the first time this year.",
+      "url": "https://www.news24.com/sport/Soccer/International/makeshift-germany-squeeze-past-czech-republic-in-friendly-20201112",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7908/54996d38bd594f8da521adb2752d3822.jpg",
+      "publishedAt": "2020-11-12T05:30:15Z",
+      "content": "A first-half goal by Benfica striker Luca Waldschmidt sealed a 1-0 friendly win for Germany over the Czech Republic on Wednesday as the hosts kept a clean sheet for the first time this year.\r\nA makes… [+2561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "IANS",
+      "title": "Global Covid-19 cases surpass 52 million: Johns Hopkins University",
+      "description": "The overall number of global coronavirus cases has topped 52 million, while the deaths have surged to 1,282,790, according to the Johns Hopkins University",
+      "url": "https://www.business-standard.com/article/current-affairs/global-covid-19-cases-surpass-52-million-johns-hopkins-university-120111200520_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/16/full/1602792297-705.jpg",
+      "publishedAt": "2020-11-12T05:27:00Z",
+      "content": "The overall number of global coronavirus cases has topped 52 million, while the deaths have surged to 1,282,790, according to the Johns Hopkins University.\r\nAs of Thursday morning, the total caseload… [+2378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AllAfrica - Top Africa News"
+      },
+      "author": "CAF",
+      "title": "Libya Recalls 25 Players for Equatorial Guinea Double Header",
+      "description": "[CAF] Libya coach Ali Merguini has recalled 25 players for The Mediterranean Knights squad to face Equatorial Guinea in the frame of Group J match Day 3 and 4 of the 2021 Total Africa Cup of Nations qualifiers.",
+      "url": "https://allafrica.com/stories/202011120075.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2020-11-12T05:24:31Z",
+      "content": "Libya coach Ali Merguini has recalled 25 players for The Mediterranean Knights squad to face Equatorial Guinea in the frame of Group J match Day 3 and 4 of the 2021 Total Africa Cup of Nations qualif… [+1557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Indian Express"
+      },
+      "author": "IE Online",
+      "title": "Friendlies round-up: Portugal’s 7-0 rout of Andorra to Virus-affected Italy’s 4-0 win over Estonia",
+      "description": "Coming off a minor knee injury and having recently been sidelined by a positive COVID-19 result, Ronaldo entered the match after halftime at the Stadium of Light in Lisbon. He made it 6-0 with a close-range header in the 85th minute after having squandered a …",
+      "url": "https://indianexpress.com/article/sports/football/highlights-friendlies-round-up-portugals-7-0-rout-of-andorra-to-virus-affected-italys-4-0-win-over-estonia-7048763/",
+      "urlToImage": "https://images.indianexpress.com/2020/11/Untitled-design-62.jpg",
+      "publishedAt": "2020-11-12T05:14:53Z",
+      "content": "Updated: November 12, 2020 10:50:57 am\r\nPortugal's Cristiano Ronaldo, left, is congratulated by teammate Bernardo Silva after scoring his teams sixth goal during the international friendly match betw… [+7484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Chris Smith",
+      "title": "The most accurate coronavirus immunity test to date might be coming soon",
+      "description": "<ul>\n <li>A company has developed a new coronavirus immunity test that can reportedly provide more accurate results than some of the commercially available antibody tests.</li>\n <li>The company reported results from a COVID-19 immunity study in Italy that sho…",
+      "url": "https://bgr.com/2020/11/12/coronavirus-immunity-test-t-cell-adaptive-biotechnologies-study/",
+      "urlToImage": "https://bgr.com/wp-content/uploads/2020/11/coronavirus-immunity-antibody-test.jpg?quality=70&strip=all",
+      "publishedAt": "2020-11-12T05:14:26Z",
+      "content": "<ul><li>A company has developed a new coronavirus immunity test that can reportedly provide more accurate results than some of the commercially available antibody tests.</li><li>The company reported … [+5004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wflx.com"
       },
       "author": "",
-      "title": "Whistleblower says he didn't recant ballot tampering allegations",
-      "description": "USPS whistleblower Richard Hopkins says he did not recant his ballot tampering allegations.",
-      "url": "https://www.dailymail.co.uk/video/news/video-2289894/Whistleblower-says-didnt-recant-ballot-tampering-allegations.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/11/03/35539020-0-image-a-54_1605067115829.jpg",
-      "publishedAt": "2020-11-11T03:58:07Z",
-      "content": "3:16\r\nMan extradited from Italy to Australia over child sex charges"
+      "title": "State's new coronavirus cases rise 34% in day to 5,838; deaths up 52",
+      "description": "Florida's new coronavirus cases rose to 5,838, which is 34 percent more than the day before, as increased deaths subsided to 52 from 69. Florida's first-time coronavirus daily positivity rate decreased from 8.3% to 7.82 but Palm Beach County rose from 7.91 to…",
+      "url": "https://www.wflx.com/2020/11/12/state-new-coronavirus-cases-rise-day-deaths-up/",
+      "urlToImage": "https://www.wflx.com/resizer/O6Yk_X1p36w6_831-0rREcUqZ7w=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/YOEGIMGWUSVMWZZHK2XSA6UFGE.jpg",
+      "publishedAt": "2020-11-12T05:06:04Z",
+      "content": "Florida's new coronavirus cases rose to 5,838, which is 34 percent more than the day before, as increased deaths subsided to 52 from 69 one day ago. Also, Florida's first-time coronavirus daily posit… [+16825 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Seeking Alpha"
+        "name": "SPIN"
       },
-      "author": "SA Transcripts",
-      "title": "Adaptive Biotechnologies' (ADPT) CEO Chad Robins on Q3 2020 Results - Earnings Call Transcript",
-      "description": "Adaptive Biotechnologies Corporation (NASDAQ:ADPT) Q3 2020 Earnings Conference Call November 10, 2020 4:30 PM ET Company Participants Karina Calzadilla – Investor Relations Chad Robins – Chief Executive Officer and Co-Founder Julie Rubinstein – President Chad…",
-      "url": "https://seekingalpha.com/article/4387897-adaptive-biotechnologies-adpt-ceo-chad-robins-on-q3-2020-results-earnings-call-transcript",
-      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
-      "publishedAt": "2020-11-11T03:56:03Z",
-      "content": "Adaptive Biotechnologies Corporation (NASDAQ:ADPT) Q3 2020 Earnings Conference Call November 10, 2020 4:30 PM ET\r\nCompany Participants\r\nKarina Calzadilla Investor Relations\r\nChad Robins Chief Executi… [+56057 chars]"
+      "author": "Jason Stahl",
+      "title": "Born to Run",
+      "description": "Hanging up outside of the Hoboken mayor’s office are crooked and out of order framed pictures of past mayors. Very apropos for a city that’s known for its crookedness. Fortunately, Hoboken’s current leader, Mayor Ravi Bhalla, 46, has been straightening out th…",
+      "url": "https://www.spin.com/featured/ravi-bhalla-hoboken-mayor-interview-2020/",
+      "urlToImage": "https://static.spin.com/files/2020/11/IMG_2033-1605157655-1333x1000.jpg",
+      "publishedAt": "2020-11-12T05:03:05Z",
+      "content": "Hanging up outside of the Hoboken mayors office are crooked and out of order framed pictures of past mayors. Very apropos for a city thats known for its crookedness. Fortunately, Hobokens current lea… [+21281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWD"
+      },
+      "author": "luisazargani",
+      "title": "YNAP, The Prince’s Foundation Launch Sustainable Collection, Help Artisans",
+      "description": "The collection is available at the Yoox, Net-a porter, Mr Porter and The Outnet online stores at the same time — a first for the group — and is the result of a training program developed by YNAP and HRH The Prince of Wales, president of The Prince’s Foundatio…",
+      "url": "https://wwd.com/fashion-news/designer-luxury/ynap-the-princes-foundation-launch-sustainable-collection-help-artisans-1234654615/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2020/11/HRH-The-Prince-of-Wales-YOOX-NET-A-PORTER-Group-Chairman-CEO-with-six-of-the-Modern-Artisans-at-the-final-collection-review-at-Dumfries-House-2.jpg?w=640&h=415&crop=1",
+      "publishedAt": "2020-11-12T05:01:35Z",
+      "content": "MILAN — Imagine giving young artisans exposure to 4.3 million customers and 1 billion viewers.\r\nThat opportunity is provided by The Modern Artisan project, which is unveiling the Yoox Net-a-porter fo… [+6142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWD"
+      },
+      "author": "Martino Carrera",
+      "title": "GCDS Sells Majority Stake to Made in Italy Fund",
+      "description": "GCDS cofounders Giuliano and Giordano Calza will maintain their roles at the streetwear brand they founded in 2015.",
+      "url": "https://wwd.com/business-news/mergers-acquisitions/gcds-sells-majority-stake-made-in-italy-fund-1234655529/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2020/09/gcds-rtw-ss21-ho-001.jpg?crop=0px%2C168px%2C1365px%2C911px&resize=640%2C415",
+      "publishedAt": "2020-11-12T05:01:21Z",
+      "content": "MILAN — The GCDS brand is growing up.\r\nOn Thursday, Italian private equity Made in Italy Fund, managed by Quadrivio and Pambianco, revealed it has acquired a majority stake in the Italian streetwear … [+3046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Martino Carrera",
+      "title": "GCDS Sells Majority Stake to Made in Italy Fund",
+      "description": "GCDS cofounders Giuliano and Giordano Calza will maintain their roles at the streetwear brand they founded in 2015.",
+      "url": "https://finance.yahoo.com/news/gcds-sells-majority-stake-made-050121271.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/K6t2LoVr3UEnpOE7Nhyoxg--~B/aD0yMDQ4O3c9MTM2NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-US/wwd_finance_675/8225b74af5f7beb1516d242335e246b5",
+      "publishedAt": "2020-11-12T05:01:21Z",
+      "content": "MILAN The GCDS brand is growing up.\r\nOn Thursday, Italian private equity Made in Italy Fund, managed by Quadrivio and Pambianco, revealed it has acquired a majority stake in the Italian streetwear la… [+2981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Independent.ie"
+      },
+      "author": "David Chance, David Chance",
+      "title": "Europe needs to reform Stability Pact or risk crisis",
+      "description": "With a vaccine in the offing, governments across the eurozone can now be certain that they will not be in the business of underwriting their sinking economies forever.",
+      "url": "https://www.independent.ie/opinion/comment/europe-needs-to-reform-stability-pact-or-risk-crisis-39736200.html",
+      "urlToImage": "https://www.independent.ie/opinion/comment/3b4aa/39736199.ece/AUTOCROP/w1240h700/FILE%20PHOTO%20Paschal%20Donohoe%20has%20been%20elected%20president%20of%20the%20Eurogroup%20END",
+      "publishedAt": "2020-11-12T05:00:00Z",
+      "content": "With a vaccine in the offing, governments across the eurozone can now be certain that they will not be in the business of underwriting their sinking economies forever.Even though the war on coronavir… [+3008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "China.org.cn"
+      },
+      "author": "蔺丽瑶",
+      "title": "'Double 11' shopping spree redoubled in scale",
+      "description": "Chinese shoppers have spent big over the Singles' Day shopping festival, showing the country's strong economic recovery following the COVID-19 epidemic.",
+      "url": "http://www.china.org.cn/business/2020-11/12/content_76902320.htm",
+      "urlToImage": null,
+      "publishedAt": "2020-11-12T05:00:00Z",
+      "content": "The giant screen shows sales on Alibaba's e-commerce platform Tmall between Nov. 1 and 12:30 a.m. on Nov. 11, in Hangzhou, east China's Zhejiang province, Nov. 11, 2020. [Photo/Xinhua]\r\nChinese shopp… [+4840 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Factbox: Latest on worldwide spread of the coronavirus - Reuters",
+      "description": "Russia said its Sputnik V vaccine is 92% effective at protecting people from COVID-19, while Japan's Fujitsu, Mizuho and PeptiDream said they are forming a joint venture to develop treatments for the respiratory disease.",
+      "url": "https://www.reuters.com/article/health-coronavirus-latest-factbox-int-idUSKBN27S0HD",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201112&t=2&i=1540926739&r=LYNXMPEGAB0A6&w=800",
+      "publishedAt": "2020-11-12T04:57:00Z",
+      "content": "By Reuters Staff\r\n(Reuters) - Russia said its Sputnik V vaccine is 92% effective at protecting people from COVID-19, while Japans Fujitsu, Mizuho and PeptiDream said they are forming a joint venture … [+3372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thinkcuriouser.com"
+      },
+      "author": null,
+      "title": "Global Field Programmable Gate Array (FPGA) in Cyber Security Market Growth Key Futuristic Trends And Competitive Landscape With Profiling Eminent Players and Regional Overview. - The Think Curiouser",
+      "description": "Global Field Programmable Gate Array (FPGA) in Cyber Security Market Report helps the readers to maximize their profits and business making ventures by gaining complete insights of Field Programmable Gate Array (FPGA) in Cyber Security Industry. The latest de…",
+      "url": "https://thinkcuriouser.com/news/667615/global-field-programmable-gate-array-fpga-in-cyber-security-market-growth-key-futuristic-trends-and-competitive-landscape-with-profiling-eminent-players-and-regional-overview/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-12T04:48:00Z",
+      "content": "Global Field Programmable Gate Array (FPGA) in Cyber Security Market Report helps the readers to maximize their profits and business making ventures by gaining complete insights of Field Programmable… [+6329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The National Interest "
+      },
+      "author": "James Holmes",
+      "title": "Don't Forget: World War I was a Global Conflict (Not Just Europe)",
+      "description": "James Holmes\nWorld War I, Europe\n \nIt also makes sense to concentrate on France because the West is where the guns of August rang out. But the conflict also took place in far-flung lands, involving many different peoples.\nHere's What You Need To Remember: pow…",
+      "url": "https://nationalinterest.org/blog/reboot/dont-forget-world-war-i-was-global-conflict-not-just-europe-172324",
+      "urlToImage": "https://nationalinterest.org/sites/default/files/main_images/WWI.jpg",
+      "publishedAt": "2020-11-12T04:33:00Z",
+      "content": "Here's What You Need To Remember: powerful testaments to trench combat obscure accounts of other theaters of World War I.\r\nTodaythe eleventh hour of the eleventh day of the eleventh monthmarks the ce… [+8239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost"
+      },
+      "author": "FP Trending",
+      "title": "Fortnite to provide two months of Disney Plus access for free on making in-game purchases",
+      "description": "The offer is strictly for players who are 18 years old or older and is available in specific regions.",
+      "url": "https://www.firstpost.com/tech/gaming/fortnite-to-provide-two-months-of-disney-plus-access-for-free-on-making-in-game-purchases-9006721.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2020/11/disney-fortnite-1280.jpg",
+      "publishedAt": "2020-11-12T04:30:48Z",
+      "content": "FP TrendingNov 12, 2020 10:00:48 IST\r\nPopular game developer Epic Games announced that players of Fortnite who are new Disney+ subscribers and make real money purchases in the game will stand the cha… [+2055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Freerepublic.com"
+      },
+      "author": "My own workup",
+      "title": "COVID-19 Update - 11/11/2020",
+      "description": "PING LIST - Please contact me as needed... COVID-19 Update # 238 As of 11/10/2020 23:15 PDST     United States CDC - Provisional NumbersAs of 00/00/2020 23:45 PDST     Johns Hopkins University - Capture Nations InformatonAs of 00/00/2020 23:45 PDST     Johns …",
+      "url": "https://www.freerepublic.com/focus/f-news/3905095/posts",
+      "urlToImage": null,
+      "publishedAt": "2020-11-12T04:04:23Z",
+      "content": "Skip to comments.\r\nCOVID-19 Update - 11/11/2020My own workup\r\n | 11/11/2020\r\n | DoughtyOne\r\nPosted on 11/11/2020 8:04:23 PM PST by DoughtyOne\r\nPING LIST - Please contact me as needed...\r\nCOVID-19 Upd… [+21392 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Ciara O'Brien",
+      "title": "PlayStation 5 vs Xbox Series X: everything you need to know",
+      "description": "The next-gen consoles don’t disappoint but there some notable differences to be aware of",
+      "url": "https://www.irishtimes.com/business/technology/playstation-5-vs-xbox-series-x-everything-you-need-to-know-1.4405345",
+      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4405344&origw=1440",
+      "publishedAt": "2020-11-12T04:00:59Z",
+      "content": "This Christmas is heading for a big showdown. Seven years in the making, Sony and Microsoft are going head-to-head in a next-generation console war that will see both companies vie for the festive ma… [+9910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Agence France-Presse",
+      "title": "Diego Maradona Leaves Hospital Following Surgery",
+      "description": "Argentine football legend Diego Maradona left hospital on Wednesday followed by a convoy of supporters, eight days after undergoing surgery to remove a blood clot on his brain.",
+      "url": "https://sports.ndtv.com/football/diego-maradona-leaves-hospital-following-surgery-2324120",
+      "urlToImage": "https://c.ndtvimg.com/2020-11/vk3solag_diego-maradona-with-son-afp_625x300_12_November_20.jpg",
+      "publishedAt": "2020-11-12T04:00:01Z",
+      "content": "Argentine football legend Diego Maradona left hospital on Wednesday followed by a convoy of supporters, eight days after undergoing surgery to remove a blood clot on his brain. Maradona did not speak… [+2923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technoweekly.com"
+      },
+      "author": null,
+      "title": "Global Sensors in Internet of Things (IoT) Market Top Manufacturers: Acuity Brands, Arm, Bosch Sensortec, Cisco Systems, Ericsson etc. - TechnoWeekly",
+      "description": "Global Sensors in Internet of Things (IoT) Market Top Manufacturers: Acuity Brands, Arm, Bosch Sensortec, Cisco Systems, Ericsson etc.  TechnoWeekly",
+      "url": "https://technoweekly.com/coronavirus/1083645/global-sensors-in-internet-of-things-iot-market-top-manufacturers-acuity-brands-arm-bosch-sensortec-cisco-systems-ericsson-etc-3/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-12T03:43:00Z",
+      "content": "Regional Development: Detailed Analysis\r\nThe latest report presentation on Global Sensors in Internet of Things (IoT) market portrays a detailed analytical review of the market spectrum across both h… [+6020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Just Jared"
+      },
+      "author": "Just Jared",
+      "title": "Taylor Hill Suits Up in Versace to Present at CMA Awards 2020",
+      "description": "Taylor Hill is making a very stylish appearance at the 2020 CMA Awards! The 24-year-old model struck a pose on the red carpet while arriving at the country music awards event on Wednesday (November 11) at the Music City Center in Nashville, Tenn. Taylor looke…",
+      "url": "http://www.justjared.com/2020/11/11/taylor-hill-suits-up-in-versace-to-present-at-cma-awards-2020/",
+      "urlToImage": "http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2020/11/hill-versace.jpg",
+      "publishedAt": "2020-11-12T03:34:36Z",
+      "content": "Taylor Hill is making a very stylish appearance at the 2020 CMA Awards!\r\nThe 24-year-old model struck a pose on the red carpet while arriving at the country music awards event on Wednesday (November … [+482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BusinessLine"
+      },
+      "author": "Nandana James",
+      "title": "Lamborghini keen to deepen its India drive",
+      "description": "Expects one-third of sales to accrue from non-metro cities over the next three years",
+      "url": "https://www.thehindubusinessline.com/companies/lamborghini-keen-to-deepen-its-india-drive/article33080809.ece",
+      "urlToImage": "https://www.thehindubusinessline.com/companies/2yexs3/article33080805.ece/ALTERNATES/LANDSCAPE_615/Mr-Sharad-Agrawal",
+      "publishedAt": "2020-11-12T03:26:58Z",
+      "content": "Italian luxury supercar maker Lamborghini is eyeing one-third of its sales in India to accrue from non-metro cities over the next three years, a top company official said. \r\nThis is in line with the … [+4062 chars]"
     },
     {
       "source": {
@@ -1295,12 +1217,90 @@
         "name": "New Zealand Herald"
       },
       "author": "newsfeeds@nzherald.co.nz",
-      "title": "Terror messages must be deleted within an hour, Macron insists",
-      "description": "Emmanuel Macron has demanded that all terror messages be deleted from social media within one hour and slammed the \"misuse\" of Europe's asylum system by those bent on crime or terrorism.The French President also called for the creation...",
-      "url": "https://www.nzherald.co.nz/world/terror-messages-must-be-deleted-within-an-hour-macron-insists/VOIO7PUPVOKQGXYJPMAUEKTSBY/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/GE1fIlq-eBDVTqU7Gx7uUBE7dII=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/VWQDAYACMVWR67JLZJQ5L3SF6Q.jpg",
-      "publishedAt": "2020-11-11T03:48:41Z",
-      "content": "French President Emmanuel Macron looks at German Chancellor Angela Merkel on a screen, during a conference on terrorism. Photo / APEmmanuel Macron has demanded that all terror messages be deleted fro… [+3309 chars]"
+      "title": "Gregor Paul: The silver lining to All Blacks' Brisbane loss becomes clear",
+      "description": "OPINION: The silver lining to the loss in Brisbane is that it obviously managed to solidify in the selectors' minds just exactly what their best side looks like.They won't be definitive in all positions. They won't have closed...",
+      "url": "https://www.nzherald.co.nz/sport/gregor-paul-the-silver-lining-to-all-blacks-brisbane-loss-becomes-clear/NTNP5HMFZNFAVIBKZ7TFSKAFOA/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/AgPe46DCTZjZQjpA17MHwuBLoRg=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/CKGJPGRCE4IGHEO5PZK3ZAL2NA.jpg",
+      "publishedAt": "2020-11-12T03:07:44Z",
+      "content": "Anton Lienert-Brown of the All Blacks (C) clashes with Wallaby players during the 2020 Tri-Nations match between the Australian Wallabies and the All Blacks.OPINION:\r\nThe silver lining to the loss in… [+4032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Twit.tv"
+      },
+      "author": "TWiT",
+      "title": "TWiG 585: Suggestive Uses for Whipped Cream - TikTok to Trump: What's Up?",
+      "description": "TikTok to Trump: What's Up?<ul><li>Amazon Halo Band impressions</li><li>Eric Schmitt applies to be a citizen of Cyprus</li><li>Google trials light-based internet in Africa</li><li>Facebook, Google, and Twitter extend political ad bans to the detriment of Geor…",
+      "url": "https://twit.tv/shows/this-week-in-google/episodes/585",
+      "urlToImage": "https://elroy.twit.tv/sites/default/files/images/episodes/822051/hero/twig585_thumb.jpg",
+      "publishedAt": "2020-11-12T02:59:32Z",
+      "content": "Download Options\r\nAudio\r\nYouTube\r\n(Right-click and Save As... to download)"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KHOU.com"
+      },
+      "author": "Marcelino Benito (khou)",
+      "title": "Texas is first state to hit 1 million COVID-19 cases",
+      "description": "It took Texas eight months to reach 1 million COVID-19 cases, and now experts worry the case count will escalate even faster.",
+      "url": "https://www.khou.com/article/news/health/coronavirus/texas-first-state-to-hit-1-million-covid-19-cases/285-acfbb8da-9bf8-45d4-ba45-a0c7e183e7ee",
+      "urlToImage": "https://media.khou.com/assets/KHOU/images/c2259c4e-f2fe-410b-a211-5f21eb59cce2/c2259c4e-f2fe-410b-a211-5f21eb59cce2_1140x641.jpg",
+      "publishedAt": "2020-11-12T02:55:04Z",
+      "content": "HOUSTON Texas is leading the nation in the worst way. The state has now eclipsed the 1 million COVID-19 case mark. It's the first state in the country to do so.\r\nRELATED: Texas becomes 1st state to s… [+2367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "NEWS WIRES",
+      "title": "EU hopes to distribute Covid-19 vaccine within months, cases surge in Italy",
+      "description": "The European Union expressed hope Wednesday that it could start vaccinating people against the novel coronavirus as early as next year, as Italy recorded more than one million cases and Britain said its death toll has surpassed the 50,000 mark.",
+      "url": "https://www.france24.com/en/europe/20201112-eu-hopes-to-distribute-covid-19-vaccine-in-months-cases-surge-in-italy",
+      "urlToImage": "https://s.france24.com/media/display/a0f7a07a-2490-11eb-8a1b-005056bff430/w:1280/p:16x9/2020-11-09T150921Z_696267722_RC2RZJ9PBHVU_RTRMADP_3_HEALTH-CORONAVIRUS-ITALY.JPG",
+      "publishedAt": "2020-11-12T02:52:28Z",
+      "content": "The European Union expressed hope Wednesday that it could start vaccinating people against the novel coronavirus as early as next year, as Italy recorded more than one million cases and Britain said … [+4979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "NEWS WIRES",
+      "title": "EU says it hopes to start using Covid-19 vaccine early next year as cases surge in Italy",
+      "description": "The European Union expressed hope Wednesday that it could start vaccinating people against the novel coronavirus as early as next year, as Italy recorded more than one million cases and Britain said its death toll has surpassed the 50,000 mark.",
+      "url": "https://www.france24.com/en/europe/20201112-eu-says-it-hopes-to-start-using-covid-19-vaccine-early-next-year-as-cases-surge-in-italy",
+      "urlToImage": "https://s.france24.com/media/display/a0f7a07a-2490-11eb-8a1b-005056bff430/w:1280/p:16x9/2020-11-09T150921Z_696267722_RC2RZJ9PBHVU_RTRMADP_3_HEALTH-CORONAVIRUS-ITALY.JPG",
+      "publishedAt": "2020-11-12T02:48:16Z",
+      "content": "The European Union expressed hope Wednesday that it could start vaccinating people against the novel coronavirus as early as next year, as Italy recorded more than one million cases and Britain said … [+4979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "FRANCE24",
+      "title": "Kiwi pair Lowe, Gibson-Park hope to pass the Test for Ireland",
+      "description": "New Zealanders James Lowe and Jamison Gibson-Park have travelled a similar path to representing their adopted country Ireland, but they are very different characters.\n\nThey are both 28, play for Leinster and back in New Zealand they appeared for the Maori All…",
+      "url": "https://www.france24.com/en/live-news/20201112-kiwi-pair-lowe-gibson-park-hope-to-pass-the-test-for-ireland",
+      "urlToImage": "https://s.france24.com/media/display/0ae1754c-1f64-11eb-a650-005056bf87d6/w:1280/p:16x9/871ff95ba1096f3feb6a5f4f1e335ff06ed56b1c.jpg",
+      "publishedAt": "2020-11-12T02:44:11Z",
+      "content": "London (AFP)\r\nNew Zealanders James Lowe and Jamison Gibson-Park have travelled a similar path to representing their adopted country Ireland, but they are very different characters.\r\nThey are both 28,… [+3520 chars]"
+    },
+    {
+      "source": {
+        "id": "rt",
+        "name": "RT"
+      },
+      "author": "RT",
+      "title": "Airline groups embrace 'digital health passports' over quarantines as Covid shutdowns continue to cripple industry",
+      "description": "Three airline trade groups are calling for the adoption of digital health passports like the World Economic Forum- and Rockefeller-backed CommonPass in place of the quarantines and border closures that have slashed their profits.",
+      "url": "https://www.rt.com/news/506441-airlines-health-passport-lockdowns/",
+      "urlToImage": "https://cdni.rt.com/files/2020.11/article/5fac982f20302745a038f3ec.JPG",
+      "publishedAt": "2020-11-12T02:38:43Z",
+      "content": "Oneworld, Star Alliance, and SkyTeam – three of the largest global airline groups which together represent 60 percent of the world’s passenger air capacity – issued a statement praising smartphone-ba… [+4537 chars]"
     }
   ]
 }
