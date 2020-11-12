@@ -1,45 +1,32 @@
 {
   "status": "ok",
-  "totalResults": 735,
+  "totalResults": 752,
   "articles": [
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "news-com-au",
+        "name": "News.com.au"
       },
-      "author": null,
-      "title": "White House still hasn't said if Trump has tested negative for Covid-19 - CNN Video",
-      "description": "President Donald Trump says that he's been retested for Covid-19 but the White House hasn't said if the test was negative.",
-      "url": "http://us.cnn.com/videos/politics/2020/10/10/trump-coronavirus-retest-fox-news-collins-sot-ctn-vpx.cnn",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg",
-      "publishedAt": "2020-10-10T03:52:22.2699703Z",
-      "content": null
+      "author": "Andrew McMurtry",
+      "title": "State of Origin Game II live: NSW vs Queensland at ANZ Stadium",
+      "description": "The 2020 Origin series took an unexpected turn after Queensland's shock win in the first game and NSW need something special to force the three-match contest to a decider.",
+      "url": "https://www.news.com.au/sport/nrl/origin/state-of-origin-game-ii-live-nsw-vs-queensland-at-anz-stadium/live-coverage/ea1cef64b751016d0e1efe8cdfcedde0",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T17:17:11Z",
+      "content": "While the bitter Origin rivalry has spiced up on the field, rugby league Immortal and Origin great Andrew Johns has moved the fight into the commentary box as well.\r\nWith Today host Karl Stefanovic, … [+921 chars]"
     },
     {
       "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
+        "id": "news-com-au",
+        "name": "News.com.au"
       },
-      "author": "[{\"@type\":\"Person\",\"name\":\"Krista Torres\",\"url\":\"https://www.buzzfeed.com/kristatorres\",\"jobTitle\":\"BuzzFeed Staff\"}]",
-      "title": "17 People Who Brought Vehicles In For Repairs And Made Their Mechanics Gasp In Disbelief",
-      "description": "\"Customer states rear breaks sound like Dory talking to the whale in Finding Nemo.\"",
-      "url": "https://www.buzzfeed.com/kristatorres/weird-things-people-bring-to-car-mechanics",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/6/17/enhanced/690bc2095fe0/original-9826-1602004523-19.jpg?crop=3794:1992;0,0%26downsize=1250:*",
-      "publishedAt": "2020-10-10T03:52:20.1923625Z",
-      "content": "\"Customer states rear breaks sound like Dory talking to the whale in Finding Nemo.\""
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "[{\"@type\":\"Person\",\"name\":\"Agnes Abel\",\"url\":\"https://www.buzzfeed.com/ajacqueline\",\"jobTitle\":\"Community Contributor\"}]",
-      "title": "Are You Monica Geller, Pheobe Buffay, Or Rachel Green?",
-      "description": "\"Boyfriends and girlfriends will come and go, but this is for life.”",
-      "url": "https://www.buzzfeed.com/ajacqueline/based-on-your-choices-well-reveal-if-youre-moni-74pkd2i1bx",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/8/22/enhanced/f3938da1024d/original-933-1602196890-3.jpg?crop=1480:775;98,0%26downsize=1250:*",
-      "publishedAt": "2020-10-10T03:37:19.5041171Z",
-      "content": "\"Boyfriends and girlfriends will come and go, but this is for life."
+      "author": "Natalie Wolfe,Sarah McPhee and Ben Graham",
+      "title": "Coronavirus Australia live updates: Virus fragments found in western Sydney sewage",
+      "description": "NSW Health have urged more than 18,500 western Sydney residents to get tested for COVID-19, after virus fragments were discovered in sewage at two local sewage pumping stations.",
+      "url": "https://www.news.com.au/world/coronavirus/australia/coronavirus-australia-live-updates-restrictions-ease-in-victoria/live-coverage/581fbada2a215fe5101ab45c6a83f94e",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T13:55:00Z",
+      "content": "NSW Health have urged more than 18,500 western Sydney residents to get tested for COVID-19, after virus fragments were discovered in sewage at two local sewage pumping stations.\r\n \r\n “The area served… [+11419 chars]"
     },
     {
       "source": {
@@ -47,129 +34,363 @@
         "name": "Financial Times"
       },
       "author": null,
-      "title": "Mukesh Ambani: the relentless rise of Asia’s richest man",
-      "description": "‘He wants to be Netflix, Alibaba, everything’ — how the tycoon set his sights on creating a global tech giant",
-      "url": "https://www.ft.com/content/f70b4ab1-6b5e-4130-a968-b4ccedb2cfca",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe583be71-deee-4625-b423-ed41c01ea25d.jpg?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2020-10-10T03:22:21.7049117Z",
-      "content": "When Ajit Mohan landed in the swampy heat of Mumbai last December, he was a man on a mission. The 45-year-old media executive had recently joined Facebook to help reboot its fortunes in India. Althou… [+26069 chars]"
+      "title": "Hong Kong ousts four opposition lawmakers under new security rules",
+      "description": "Beijing grants special powers to city government in move critics say undermines autonomy",
+      "url": "https://www.ft.com/content/39a1d9ae-d238-4e34-a6f0-c04f8cc4c6b5",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd1faae66-48cc-4d79-8b5b-77079e03360d.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2020-11-11T10:07:22.231058Z",
+      "content": "Hong Kong’s government has ousted four pro-democracy lawmakers from the city’s de facto parliament using new powers granted by Beijing, in what critics say is part of a growing attack on the territor… [+3273 chars]"
     },
     {
       "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
+        "id": "ign",
+        "name": "IGN"
       },
       "author": null,
-      "title": "US election: Don’t just do something, sit there",
-      "description": "If you must bet on the outcome, go to the bookmaker. Otherwise wait things out",
-      "url": "https://www.ft.com/content/0324725f-177d-4227-9c66-bd7037c2957f",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b221705-6165-42dd-95d4-2aea8c74c2fc.jpg?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2020-10-10T03:22:20.1115599Z",
-      "content": "These are times that test investors’ souls. The US, the most important economy in the world and home to its largest markets, is a few weeks away from an election that will have major repercussions fo… [+4653 chars]"
+      "title": "Assassin's Creed Valhalla - Combat, Skills, Raids, and More - IGN",
+      "description": "Assassin's Creed Valhalla is overhauling combat to focus on what Vikings do best. As Eivor you'll raid, crush, and pillage. \r\n\r\nWe're breaking down the finer points of combat, raids, skill system, abilities, tips, tricks, strategies, and so much more.\r\n\r\nAnd …",
+      "url": "https://www.ign.com/videos/assassins-creed-valhalla-combat-skills-raids-and-more",
+      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/11/4/accombatoo-1604537330812.jpg?width=1280",
+      "publishedAt": "2020-11-11T10:07:22.215437Z",
+      "content": "Did you enjoy this video?"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "MP who left Liberal caucus made offensive remarks and mistreated staff, former employees allege | CBC News",
+      "description": "Four former employees of Toronto MP Yasmin Ratansi — who left the Liberal caucus this week after admitting she employed her sister for years on the public dime — allege she repeatedly made offensive comments and created a \"toxic and verbally abusive\" environm…",
+      "url": "http://www.cbc.ca/news/politics/former-employees-claim-mistreatment-by-mp-yasmin-ratansi-1.5796587",
+      "urlToImage": "https://i.cbc.ca/1.5796673.1605025748!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mp-yasmin-ratansi.jpg",
+      "publishedAt": "2020-11-11T10:07:22.1060897Z",
+      "content": "Four former employees of Toronto MP Yasmin Ratansi  who left the Liberal caucus this week after admitting she employed her sister for years on the public dime  allege she repeatedly made offensive co… [+7271 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Florida's DeSantis moves to allow citizens to shoot looters, rioters targeting businesses",
+      "description": "Florida Gov. Ron DeSantis has drafted “anti-mob” legislation that would expand the state’s Stand Your Ground law – a move that some worry would allow armed citizens to shoot and potentially kill anyone they suspect of looting.",
+      "url": "https://www.foxnews.com/politics/floridas-desantis-moves-to-allow-citizens-to-shoot-looters-rioters-targeting-businesses",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20252777423700.jpg",
+      "publishedAt": "2020-11-11T10:07:19.1224572Z",
+      "content": "Florida Gov. Ron DeSantis has drafted “anti-mob” legislation that would expand the state’s Stand Your Ground law – a move that some worry would allow armed citizens to shoot and potentially kill anyo… [+2150 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Covid-19: Universities to oversee student exodus for Christmas",
+      "description": "They are being asked to travel in the seven days after the national lockdown in England ends.",
+      "url": "https://www.bbc.co.uk/news/education-54887526",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5506/production/_115366712_gettyimages-653034529.jpg",
+      "publishedAt": "2020-11-11T09:56:00+00:00",
+      "content": "By Hannah RichardsonEducation and social affairs reporter\r\nimage copyrightGetty Images\r\nimage captionOne union said asking one million students to travel home in just one week \"leaves little room for… [+5410 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Ring video doorbells recalled over fire concerns",
+      "description": "Amazon’s Ring has recalled around 350,000 of its 2nd generation video doorbells sold in the US. Ring has received 23 reports of doorbells igniting and causing minor property damage, and eight reports of minor burns.",
+      "url": "https://www.theverge.com/2020/11/11/21559929/ring-video-doorbell-2nd-gen-fire-concerns-recall-hazard-screws-installation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Mu7Nqq_-W_1aKnFCFBQHq-kTEr4=/0x138:2040x1206/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9014821/dseifert170808_1901_0001.jpg",
+      "publishedAt": "2020-11-11T09:54:02Z",
+      "content": "Some 2nd generation devices can overheat if installed incorrectly \r\nPhoto by Dan Seifert / The Verge\r\nAmazons smart home brand Ring has issued a recall for around 350,000 of its 2nd generation video … [+1796 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Covid: Student Christmas travel plan to avoid Covid spike",
+      "description": "New guidance has been issued to England's universities - on how students can get home for Christmas.",
+      "url": "http://www.bbc.co.uk/news/live/uk-54899679",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.4/bbc_news_logo.png",
+      "publishedAt": "2020-11-11T09:52:38.8854855Z",
+      "content": "We've heard this morning that an evacuation-style operation will take place to get students home safely for Christmas after England's lockdown.\r\nThe key part of the plan is the mass distribution of r… [+1067 chars]"
     },
     {
       "source": {
         "id": "hacker-news",
         "name": "Hacker News"
       },
+      "author": "Samuel Arbesman",
+      "title": "The intriguing maps that reveal alternate histories",
+      "description": "What if major elections, wars and events had turned out differently? Samuel Arbesman explores the detail and delights of maps that plot alternative worlds to our own.",
+      "url": "https://www.bbc.com/future/article/20201104-the-intriguing-maps-that-reveal-alternate-histories",
+      "urlToImage": "https://ychef.files.bbci.co.uk/live/624x351/p08xc0py.jpg",
+      "publishedAt": "2020-11-11T09:52:28.2162655Z",
+      "content": "But one of the deepest pleasures of alternate histories are their maps. Sometimes these allow stories to unfurl, or complement the hypothetical world of a tale being told. But in many cases, the map … [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Groenewegen banned for nine months",
+      "description": "Jumbo-Visma cyclist Dylan Groenewegen has been banned for nine months for causing the crash that left Fabio Jakobsen in a coma at the Tour of Poland.",
+      "url": "http://www.bbc.co.uk/sport/cycling/54899754",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+      "publishedAt": "2020-11-11T09:52:26.4979426Z",
+      "content": "Jumbo-Visma cyclist Dylan Groenewegen has been banned for nine months for causing the crash that left Fabio Jakobsen in a coma at the Tour of Poland.\r\nHis ban will be backdated to the incident and wi… [+440 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": "Dongryul-Kim",
+      "title": "Dongryul-Kim/harvard_notes",
+      "description": "Notes for courses taken at Harvard (2015--2019). Contribute to Dongryul-Kim/harvard_notes development by creating an account on GitHub.",
+      "url": "https://github.com/Dongryul-Kim/harvard_notes",
+      "urlToImage": "https://avatars3.githubusercontent.com/u/38975784?s=400&v=4",
+      "publishedAt": "2020-11-11T09:52:21.9678225Z",
+      "content": "These are a collection of notes for courses I took at Harvard, from 2015 to 2019. All of them are live-TeXed, and please use at own risk."
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Parks manager in Kimberley, B.C., quits after months of harassment over pandemic closures | CBC News",
+      "description": "The parks manager in Kimberly, B.C. has resigned following months of bullying after recreational facilities in the city were ordered closed due to the COVID-19 pandemic, according to the city.",
+      "url": "http://www.cbc.ca/news/canada/british-columbia/kimberley-covid-restriction-parks-manager-resignation-1.5797808",
+      "urlToImage": "https://i.cbc.ca/1.4790675.1534624874!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/kimberley-mayor-don-mccormick.png",
+      "publishedAt": "2020-11-11T09:52:21.1711434Z",
+      "content": "The parks manager in Kimberly, B.C. has resigned following months of bullying after recreational facilities in the city were ordered closed due to the COVID-19 pandemic, according to the city.\r\nBrett… [+3046 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
       "author": null,
-      "title": "Modernising RISC OS in 2020: is there hope for the ancient ARM OS?",
-      "description": "The first computer I owned was a Sinclair ZX Spectrum, and I retain a lot of fondness for these tiny, cheap, severely-compromised machines. I just backed the ZX Spectrum Next kickstarter, for instance. But after I left university and got a job, I bought mysel…",
-      "url": "https://liam-on-linux.livejournal.com/73983.html",
-      "urlToImage": "https://l-files.livejournal.net/og_image/10092558/288?v=1602289856",
-      "publishedAt": "2020-10-10T03:22:20.0959381Z",
-      "content": "The first computer I owned was a Sinclair ZX Spectrum, and I retain a lot of fondness for these tiny, cheap, severely-compromised machines. I just backed the ZX Spectrum Next kickstarter, for instanc… [+23996 chars]"
+      "title": "Sharks team naming postponed after Covid test results delay",
+      "description": "Sharks head coach Sean Everitt had to postpone naming his match 23 to face Griquas in Kimberley on Friday, following delays in their Covid-19 test results.",
+      "url": "https://www.news24.com/sport/rugby/superrugby/sharks-team-naming-postponed-after-covid-test-results-delay-20201111",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10283/1430c89314da401facd8ede2224f6023.png",
+      "publishedAt": "2020-11-11T09:50:30+00:00",
+      "content": "The Sharks have had to postpone naming their match-23 to face Griquas in Kimberley on Friday, following delays in their Covid-19 test results.\r\nHead coach Sean Everitt was meant to announce the team … [+838 chars]"
     },
     {
       "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "The Conversation",
+      "title": "Workplaces still value beauty over brains — and this must stop",
+      "description": "Universities position themselves as places where brains matter. It seems strange then that students at a US university would rate attractive academics to be better teachers. This was the finding of a recent paper from the University of Memphis, which conclude…",
+      "url": "https://thenextweb.com/growth-quarters/2020/11/11/workplaces-still-value-beauty-over-brains-and-this-must-stop-syndication/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F11%2Ficons8-beauty-office-workplace-gq.png&signature=b7640deb04341f2c08c2094805ab28b5",
+      "publishedAt": "2020-11-11T09:50:12Z",
+      "content": "Universities position themselves as places where brains matter. It seems strange then that students at a US university would rate attractive academics to be better teachers. This was the finding of a… [+5362 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "ABC News",
+      "title": "Anthony Fauci says working with Trump Administration on the coronavirus pandemic has been 'very stressful'",
+      "description": "America's preeminent infectious disease expert, Dr Anthony Fauci, talks to 7.30 about calls for him to be beheaded, the necessity of lockdowns and his hopes for a coronavirus vaccine.",
+      "url": "http://www.abc.net.au/news/2020-11-11/anthony-fauci-interview-on-coronavirus-vaccine-trump-and-biden/12873046",
+      "urlToImage": "https://www.abc.net.au/cm/rimage/12873972-16x9-large.jpg?v=2",
+      "publishedAt": "2020-11-11T09:47:59Z",
+      "content": "When America's preeminent infectious disease expert, Dr Anthony Fauci, was in medical school he never imagined that his work would one day lead to calls for him to be beheaded. \r\nKey points:\r\n<ul><li… [+6630 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "The Irish Times",
+      "title": "Guinness recalls new non-alcoholic stout over problem with cans",
+      "description": "Company said ‘precautionary’ recall was due to microbiological contamination",
+      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/life-and-style/food-and-drink/guinness-recalls-new-non-alcoholic-stout-over-problem-with-cans-1.4406226\t",
+      "urlToImage": "https://www.irishtimes.com/polopoly_fs/1.4406225.1605088939!/image/image.jpg",
+      "publishedAt": "2020-11-11T09:47:43Z",
+      "content": "Guinness has announced a precautionary recall of its recently launched non-alcoholic stout in Britain amid concerns of microbiological contamination in some cans.\r\n Guinness said in a statement: As a… [+554 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "Clea Skopeliti",
+      "title": "Brexit news – live: Boris Johnson ‘to appoint Cummings’ friend’ as PM faces lockdown-extension revolt",
+      "description": "Follow the latest updates",
+      "url": "https://www.independent.co.uk/news/uk/politics/brexit-news-live-boris-johnson-uk-pmqs-updates-b1720903.html",
+      "urlToImage": "https://static.independent.co.uk/2020/11/11/07/08810870.jpg",
+      "publishedAt": "2020-11-11T09:46:00+00:00",
+      "content": "Boris Johnson is reportedly planning to appoint an ally of Dominic Cummings and former Vote Leave staffer as his chief of staff, cementing the role of the Brexit campaigning group at the top of gover… [+6874 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Hong Kong’s pro-democracy legislators resign en masse",
+      "description": "Mass resignations come after Hong Kong government disqualified four legislators on allegations of threatening security.",
+      "url": "http://www.aljazeera.com/news/2020/11/11/hong-kongs-pro-democracy-legislators-resign-en-masse",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news@2x.png?resize=1200%2C630",
+      "publishedAt": "2020-11-11T09:40:50Z",
+      "content": "All of Hong Kongs pro-democracy politicians have resigned from the citys legislature on Wednesday, just hours after the citys government disqualified four opposition legislators on allegations of end… [+330 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Rubio, defeated in 2016 presidential bid, says Trump would be frontrunner in 2024",
+      "description": "Sen. Marco Rubio, who lost to President Trump in his 2016 White House bid, said Trump would likely clear the field again if he needed to run for a comeback second term in 2024.",
+      "url": "https://www.foxnews.com/politics/rubio-says-trump-would-again-be-frontrunner-in-2024",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20162617540834.jpg",
+      "publishedAt": "2020-11-11T09:37:21.6908951Z",
+      "content": "Sen. Marco Rubio, who lost to President Trump in his 2016 White House bid, said Trump would likely clear the field again if he needed to run for a comeback second term in 2024.\r\nRubio, R-Fla., praise… [+1698 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": "schlae",
+      "title": "schlae/snark-barker",
+      "description": "A 100% compatible replica of the famed SB 1.0 sound card - schlae/snark-barker",
+      "url": "https://github.com/schlae/snark-barker",
+      "urlToImage": "https://avatars3.githubusercontent.com/u/1458118?s=400&v=4",
+      "publishedAt": "2020-11-11T09:37:21.5034431Z",
+      "content": "The Snark Barker is a 100% compatible clone of the famed SB 1.0 \"Killer Card\"\r\nsound card from 1989. It implements all the features, including the digital\r\nsound playback and recording, Ad Lib compat… [+3069 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "EU-UK trade talks set to go past mid-November deadline",
+      "description": "Britain and the European Union are likely to miss their mid-November deadline to clinch a post-Brexit trade because talks in London to break a deadlock are expected to run through the end of this week, sources on both sides told Reuters.",
+      "url": "https://www.rte.ie/news/brexit/2020/1111/1177403-brexit/",
+      "urlToImage": "https://img.rasset.ie/00157d53-1600.jpg",
+      "publishedAt": "2020-11-11T09:36:04Z",
+      "content": "Britain and the European Union are likely to miss their mid-November deadline to clinch a post-Brexit trade because talks in London to break a deadlock are expected to run through the end of this wee… [+872 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "James Matthey",
+      "title": "State of Origin fans slammed for ruining moment’s silence",
+      "description": "State of Origin fans slammed for ruining moment’s silence",
+      "url": "https://www.news.com.au/sport/nrl/state-of-origin-fans-slammed-for-ruining-minutes-silence/news-story/0830172845ca79a22e0d38ea8e3d9a12",
+      "urlToImage": "https://cdn.newsapi.com.au/image/v1/83f08e3f1c508b134afc7acbb0557435?width=650",
+      "publishedAt": "2020-11-11T09:35:00Z",
+      "content": "Footy fans have been slammed for ruining the Anzac tribute before kick-off in Origin 2, being played on Remembrance Day.Some supporters at Sydney’s ANZ Stadium broke out into cheers and then jeers du… [+510 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Paul Hannon, David Harrison",
+      "title": "A Covid-19 Vaccine Would Boost the Global Economy, But Not All at Once",
+      "description": "News that the Pfizer vaccine could be approved this month have boosted hopes for a quick recovery. But winter surge in infections poses challenges.",
+      "url": "https://www.wsj.com/articles/a-covid-19-vaccine-would-boost-the-global-economy-but-not-all-at-once-11605087345?mod=hp_lead_pos3",
+      "urlToImage": "https://images.wsj.net/im-258304/social",
+      "publishedAt": "2020-11-11T09:35:00Z",
+      "content": "The news that Pfizer Inc. and partner BioNTech SE could secure authorization for a coronavirus vaccine in a matter of weeks has sparked hopes that the global economy could bounce back strongly next y… [+281 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
       },
       "author": null,
-      "title": "Marie Kondo: decluttering in the time of Covid",
-      "description": "Who better to help us find order in the chaos of the pandemic than the supreme tidier herself?",
-      "url": "https://www.ft.com/content/dfb52765-4bb6-4faa-86a7-1e9333b40bb3",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbbb60fd-9329-4dd4-b299-f95c718568b6.jpg?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2020-10-10T03:22:18.2057853Z",
-      "content": "Marie Kondo wants to put the record straight. “A lot of people define me as a minimalist — that I’m someone who's going to come into your house and throw everything away. But that’s far from the trut… [+11264 chars]"
+      "title": "Super Wednesday: These are the wards where by-elections are happening",
+      "description": "The IEC is conducting by-elections in 95 wards across the country on Wednesday.",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/super-wednesday-these-are-the-wards-where-by-elections-are-happening-20201111",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10509/aa897aa1830c4e7392e5131f49ed3455.jpg",
+      "publishedAt": "2020-11-11T09:34:32+00:00",
+      "content": "<ul><li>The IEC is conducting by-elections in 95 wards across the country on Wednesday. </li><li>These wards are spread out over 55 municipalities across all nine provinces. </li><li>The IEC has said… [+1075 chars]"
     },
     {
       "source": {
-        "id": "google-news-au",
-        "name": "Google News (Australia)"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Roy Ward",
-      "title": "Coronavirus LIVE updates: Victoria records 14 new cases, no deaths for Saturday as NSW, Qld continue to bicker over border; Australian death toll stands at 897",
-      "description": "Victoria and the rest of Australia continue to battle the impacts of COVID-19.",
-      "url": "https://www.smh.com.au/national/coronavirus-live-updates-victoria-chase-lower-covid-19-cases-as-nsw-qld-continue-to-bicker-over-border-australian-death-toll-stands-at-897-20201010-p563sx.html",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.26475%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_smh_live_no_age_social_wm/1aab619a7227f61cc48aa78b1b6d4e89abeaeb0b",
-      "publishedAt": "2020-10-10T03:21:00+00:00",
-      "content": "\"When their applications are considered, there is no consideration whatsoever given to who they are.\r\n\"The only consideration is their circumstances, their health circumstances, their health needs, a… [+1563 chars]"
+      "author": "Dan Avery",
+      "title": "Playboy Mexico puts first transgender model on the cover",
+      "description": "Beauty influencer Victoria Volkova, 27, said she hopes her pictorial makes people more curious about what being transgender means.",
+      "url": "https://www.nbcnews.com/feature/nbc-out/playboy-mexico-puts-first-transgender-model-cover-n1247315",
+      "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2020_46/3427420/201110-playboy-mexico-transgender-cover-2x1-se-346p_ecf3a84d51717a2fadb605b36e07ad33.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2020-11-11T09:31:46Z",
+      "content": "Beauty influencer Victoria Volkova has broken new ground as the first transgender woman to appear on the cover of Playboy Mexico.\r\n\"Playboy Mexico is committed to the openness and diversity for which… [+3029 chars]"
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Tal Axelrod",
-      "title": "Federal judge shoots down Texas proclamation allowing one ballot drop-off location per county | TheHill",
-      "description": "A federal judge shot down a Texas proclamation limiting each county in the state to just one ballot drop-off location in this year’s elections, handing Democrats a key win in a competitive state.",
-      "url": "http://thehill.com/homenews/state-watch/520460-federal-judge-shoots-down-texas-proclamation-allowing-one-ballot-drop",
-      "urlToImage": "https://thehill.com/sites/default/files/article_images/ballotgetty.jpg",
-      "publishedAt": "2020-10-10T03:19:40Z",
-      "content": "A federal judge shot down a Texas proclamation limiting each county in the state to just one ballot drop-off location in this years elections, handing Democrats a key win in a competitive state.\r\nJud… [+4625 chars]"
+      "author": "Romain Dillet",
+      "title": "Molotov launches free ad-supported streaming service Mango",
+      "description": "French startup Molotov provides a TV streaming service in France that replaces the traditional set-top box. You can access live TV, subscribe to premium channels, watch content after they air and record content in the cloud. Today, the company is launching a …",
+      "url": "https://techcrunch.com/2020/11/11/molotov-launches-free-ad-supported-streaming-service-mango/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/04/molotov-ipad-1.jpg?w=533",
+      "publishedAt": "2020-11-11T09:30:55Z",
+      "content": "French startup Molotov provides a TV streaming service in France that replaces the traditional set-top box. You can access live TV, subscribe to premium channels, watch content after they air and rec… [+2328 chars]"
     },
     {
       "source": {
-        "id": "espn",
-        "name": "ESPN"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": null,
-      "title": "Mike Brosseau plays hero for Tampa Bay Rays against rival New York Yankees",
-      "description": "Mike Brosseau said his eighth-inning home run was all about what it did for the Rays, and not about any payback for Aroldis Chapman and the Yankees.",
-      "url": "http://espn.go.com/mlb/story/_/id/30081437/mike-brosseau-plays-hero-tampa-bay-rays-rival-new-york-yankees",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1010%2Fr758574_1296x729_16%2D9.jpg",
-      "publishedAt": "2020-10-10T03:18:00Z",
-      "content": "With one swing of the bat, Mike Brosseau put the Tampa Bay Rays into the AL Championship Series on Friday night.\r\nBut he insisted afterward that the home run off Aroldis Chapman was especially sweet … [+1705 chars]"
+      "author": "Al Jazeera",
+      "title": "Russian peacekeepers land in Armenia: Nagorno-Karabakh live news",
+      "description": "Planes, personnel and military vehicles are heading to Nagorno-Karabakh for a peacekeeping mission.",
+      "url": "http://www.aljazeera.com/news/2020/11/11/russian-peacekeepers-arrive-to-armenia-for-nagorno-karabakh-live",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/11/2020-11-10T121559Z_812361860_RC2C0K9TG18M_RTRMADP_3_ARMENIA-AZERBAIJAN-RUSSIA-PEACEKEEPERS-1.jpg?resize=1200%2C630",
+      "publishedAt": "2020-11-11T09:25:32Z",
+      "content": "The Russian Ministry of Defence has released footage of Russian peacekeepers and military vehicles at Erebuni airport in Armenia, where Moscow has a military base.\r\nAccording to the ministry, 20 plan… [+1845 chars]"
     },
     {
       "source": {
-        "id": "nhl-news",
-        "name": "NHL News"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "NHL.com",
-      "title": "Crawford agrees to terms on two-year, $7.8 million contract with Devils",
-      "description": "Corey Crawford agreed to terms on a two-year, $7.8 million contract with the New Jersey Devils on Friday. It has an average annual value on $3.9 million.",
-      "url": "https://www.nhl.com/news/corey-crawford-signing-update-news-status/c-319289020",
-      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/319237624/1024x576/cut.jpg",
-      "publishedAt": "2020-10-10T03:10:26Z",
-      "content": "Corey Crawford agreed to terms on a two-year, $7.8 million contract with the New Jersey Devils on Friday. It has an average annual value on $3.9 million.The 35-year-old goalie was 16-20-3 with a 2.77… [+2184 chars]"
+      "author": "Madeline Holcombe, CNN",
+      "title": "Tropical Storm Eta could become a hurricane once again as it veers toward Florida",
+      "description": "Tropical Storm Eta is strengthening over the Gulf of Mexico, and it could soon veer toward Florida once again with heavy downpours that could produce flash flooding, river flooding and landslides.",
+      "url": "https://www.cnn.com/2020/11/11/weather/eta-storm-wednesday/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201111032627-01-eta-1110-florida-super-tease.jpg",
+      "publishedAt": "2020-11-11T09:25:00+00:00",
+      "content": "(CNN)Tropical Storm Eta is strengthening over the Gulf of Mexico, and it could soon veer toward Florida once again with heavy downpours that could produce flash flooding, river flooding and landslide… [+2144 chars]"
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
       },
-      "author": "CBC News",
-      "title": "Armenia, Azerbaijan agree to ceasefire in Nagorno-Karabakh conflict | CBC News",
-      "description": "With Russia's mediation, Armenia and Azerbaijan agreed to a ceasefire in Nagorno-Karabakh starting at noon Saturday following two weeks of heavy fighting that marked the worst outbreak of hostilities in the separatist region in a quarter-century.",
-      "url": "http://www.cbc.ca/news/world/nagorno-karabakh-ceasefire-1.5756955",
-      "urlToImage": "https://i.cbc.ca/1.5756977.1602257362!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1228977089.jpg",
-      "publishedAt": "2020-10-10T03:07:22.8482317Z",
-      "content": "With Russia's mediation, Armenia and Azerbaijan agreed to a ceasefire in Nagorno-Karabakh starting at noon Saturday following two weeks of heavy fighting that marked the worst outbreak of hostilities… [+5605 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "CBC News",
-      "title": "Rising COVID-19 numbers prompt calls to bring back hazard pay for retail workers | CBC News",
-      "description": "Calls for the return of hazard pay are growing as workers on the front lines of Canada's retail industry grow increasingly anxious amid rising COVID-19 cases.",
-      "url": "http://www.cbc.ca/news/business/retail-workers-covid-raises-1.5757573",
-      "urlToImage": "https://i.cbc.ca/1.5559278.1588858776!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/virus-outbreak-florida.jpg",
-      "publishedAt": "2020-10-10T03:07:21.8953434Z",
-      "content": "Calls for the return of hazard pay are growing as workers on the front lines of Canada's retail industry grow increasingly anxious amid rising COVID-19 cases.\r\nWhile some companies offered so-called … [+4516 chars]"
+      "author": "By James Gant For Mailonline",
+      "title": "Extinction Rebellion activists hijack the Cenotaph on Remembrance Day in climate change protest",
+      "description": "Their banner read 'Honour Their Sacrifice, Climate Change Means War' and was placed next to the iconic memorial in central London.",
+      "url": "https://www.dailymail.co.uk/news/article-8937125/Extinction-Rebellion-activists-hijack-Cenotaph-Remembrance-Day-climate-change-protest.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/11/09/35545950-0-image-a-11_1605087268369.jpg",
+      "publishedAt": "2020-11-11T09:25:00+00:00",
+      "content": "Extinction Rebellion activists have hijacked the Cenotaph on Remembrance Day in a 'truly shameful' climate change stunt.\r\nEco-warriors unveiled a banner reading 'Honour Their Sacrifice, Climate Chang… [+11525 chars]"
     },
     {
       "source": {
@@ -177,12 +398,12 @@
         "name": "CBC News"
       },
       "author": "CBC News",
-      "title": "Ottawa fails to use 50,000 volunteer contact tracers",
-      "description": "Ottawa put out the call for volunteer contact tracers months ago but hasn't used any of the 50,000 people who signed up.",
-      "url": "http://www.cbc.ca/player/play/1804192835784",
-      "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/293/379/COVID-CONTACT-TRACING-FAIL-SHIVJI-091020.jpg",
-      "publishedAt": "2020-10-10T03:07:20.5050648Z",
-      "content": null
+      "title": "More than 600 deaths since August: the growing toll of Quebec's second wave of COVID-19 | CBC News",
+      "description": "Quebec has so far avoided the striking losses seen in the spring, when the virus ripped through ill-prepared long-term care homes. But the death toll has again begun to rise, with more than 600 deaths since school began in late August.",
+      "url": "http://www.cbc.ca/news/canada/montreal/quebec-covid-19-second-wave-1.5796847",
+      "urlToImage": "https://i.cbc.ca/1.5796848.1605036670!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pietro-iasenza-angela-iasenza-maria-mastromonaco.jpg",
+      "publishedAt": "2020-11-11T09:22:32.2257816Z",
+      "content": "Pietro Iasenza was in fantastic shape for his age when he celebrated his 89th birthday last June.\r\nHe had no health problems, lived in his home, still drove and ran all his own errands.\r\n\"He lived hi… [+5654 chars]"
     },
     {
       "source": {
@@ -190,25 +411,103 @@
         "name": "CBC News"
       },
       "author": "CBC News",
-      "title": "Canadians find different ways to celebrate Thanksgiving during the pandemic",
-      "description": "Canadians talk about how they will celebrate this Thanksgiving weekend during a pandemic.",
-      "url": "http://www.cbc.ca/player/play/1804206147605",
-      "urlToImage": "https://thumbnails.cbc.ca/maven_legacy/thumbnails/306/67/COVID-THANKSGIVING-RASMUSSEN-091020.jpg",
-      "publishedAt": "2020-10-10T03:07:18.505562Z",
-      "content": null
+      "title": "How a dress made of poppies has helped a small town mark Remembrance Day | CBC News",
+      "description": "Group in in Powassan, Ont., creates hand-made dress of fabric poppies as a 'labour of love' tribute to veterans.",
+      "url": "http://www.cbc.ca/news/canada/remembrance-day-poppy-dress-1.5795626",
+      "urlToImage": "https://i.cbc.ca/1.5796883.1605032083!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/poppy-dress.jpg",
+      "publishedAt": "2020-11-11T09:22:29.5077085Z",
+      "content": "\"Remembrance day to me means that I get to live in a country where I'm free. I can get up in the morning and not worry that my children are safe,\" said Julie Gohm.\r\nGohm, 59, owns The Original Bug Sh… [+4637 chars]"
     },
     {
       "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
+        "id": "cbc-news",
+        "name": "CBC News"
       },
-      "author": "hindustantimes.com | Edited by Prashasti Singh",
-      "title": "2 terrorists killed in encounter in Jammu and Kashmir’s Kulgam district",
-      "description": "A joint operation of the security forces was launched yesterday evening based on police inputs. Kashmir Zone Police said that the encounter was underway.",
-      "url": "https://www.hindustantimes.com/india-news/2-terrorists-killed-in-encounter-in-jammu-kashmir-s-kulgam-district/story-ks8mAw9gzZboTOmomCRUoI.html",
-      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/10/10/Pictures/personnel-stand-guard-encounter-killed-unidentified-militants_368f81e0-0a9f-11eb-bbb0-40eddbf766cc.jpg",
-      "publishedAt": "2020-10-10T03:06:00+00:00",
-      "content": "Two terrorists were killed in an encounter with security forces in Jammu and Kashmir’s Kulgam district, police said.\r\n“Kulgam Encounter Update: 2 unidentified terrorists killed. Operation in progress… [+671 chars]"
+      "author": "CBC News",
+      "title": "Second World War vet turns 100 with a socially distanced party — and a parade | CBC News",
+      "description": "For the first time in decades — and thanks to the global pandemic — war veteran Robert Spencer won't be able to attend the national Remembrance Day ceremony in Ottawa. So his friends and family gave him the next best thing — his own parade.",
+      "url": "http://www.cbc.ca/news/politics/robert-spencer-remembrance-day-veterans-second-world-war-1.5797363",
+      "urlToImage": "https://i.cbc.ca/1.5797535.1605046848!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robert-spencer-1.jpg",
+      "publishedAt": "2020-11-11T09:22:26.5842428Z",
+      "content": "For more than 20 years, Second World War veteran Robert Spencer has attended every single Remembrance Day ceremony in Ottawa.\r\n\"I think it's very important. It's important for history,\" said Spencer,… [+2758 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "How technology — and a global pandemic — are transforming Remembrance Day | CBC News",
+      "description": "Thanks to the pandemic, the Remembrance Day service in Ottawa this year will look like nothing we've ever seen before — no parade of elderly veterans, no solemn crowds depositing poppies on the Tomb of the Unknown Soldier. But by moving to digital platforms, …",
+      "url": "http://www.cbc.ca/news/politics/remembrance-day-virtual-online-pandemic-1.5784252",
+      "urlToImage": "https://i.cbc.ca/1.5784436.1604092241!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/commonwealth-war-graves-commission.jpg",
+      "publishedAt": "2020-11-11T09:22:22.1009833Z",
+      "content": "On a grey, windswept spring day three years ago, Ryan Mullens sat next to the grave of a long-dead soldier in the green shadows of the Canadian military cemetery at Groesbeek, Holland.\r\nClutching a w… [+8147 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "By James Tapsfield, Political Editor For Mailonline Danyal Hussain For Mailonline",
+      "title": "Government considers changing anti-Covid tier system AGAIN after December 2",
+      "description": "Ministers are now considering carving England up into different large regions before re-introducing tiered restrictions, with a new Tier 4 also being considered.",
+      "url": "https://www.dailymail.co.uk/news/article-8936191/Government-considers-changing-anti-Covid-tier-December-2.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/11/01/35537034-0-image-a-33_1605059976592.jpg",
+      "publishedAt": "2020-11-11T09:21:00+00:00",
+      "content": "Whole regions of England could be kept under brutal restrictions after the blanket lockdown ends on December 2 as the government prepares to overhaul the rules again. \r\nThe country is due to return t… [+12771 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "Sarah McPhee",
+      "title": "Dr Anthony Fauci reacts to former Trump aide Steve Bannon’s ‘beheading’ call",
+      "description": "Dr Anthony Fauci reacts to former Trump aide Steve Bannon’s ‘beheading’ call",
+      "url": "https://www.news.com.au/world/north-america/us-politics/dr-anthony-fauci-reacts-to-former-trump-aide-steve-bannons-beheading-call/news-story/3f6a10e88e0970935d86abf4c7feaf76",
+      "urlToImage": "https://cdn.newsapi.com.au/image/v1/650224e4e6c5be8d007fc0ca3700af81?width=650",
+      "publishedAt": "2020-11-11T09:20:00Z",
+      "content": "The United States top infectious disease expert, Dr Anthony Fauci, has described President Donald Trumps former adviser Steve Bannon calling for his beheading as unusual amid the very stressful coron… [+3468 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ingrid Lunden",
+      "title": "SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation",
+      "description": "This year, more than ever before because of the Covid-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done, and entertain themselves. That has created a huge bonanza for cybercriminals, but also c…",
+      "url": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=632",
+      "publishedAt": "2020-11-11T09:17:27Z",
+      "content": "This year, more than ever before because of the Covid-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done, and entertain themselves. Th… [+4316 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Xie Yu",
+      "title": "With Ant IPO in Limbo, Funds Let Investors Cash Out",
+      "description": "Small investors had poured about $9 billion into funds that planned to invest in Ant’s IPO",
+      "url": "https://www.wsj.com/articles/with-ant-ipo-in-limbo-funds-let-investors-cash-out-11605085858?mod=hp_lead_pos6",
+      "urlToImage": "https://images.wsj.net/im-258300/social",
+      "publishedAt": "2020-11-11T09:11:00Z",
+      "content": "Funds that touted access to Ant Group Co.s blockbuster share sale will let investors cash out early, following a social-media outcry after the financial-technology giants listing was abruptly halted … [+327 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Mike Butcher",
+      "title": "Seedcamp raises £78M for its fifth fund",
+      "description": "European pre-seed and seed-stage VC Seedcamp has reached £78M in the first and final close of its fifth fund, ‘Seedcamp V’, its largest to date. The round was backed by investors including British Patient Capital, Legal & General, TIFF, LGT, Vintage IP, Isome…",
+      "url": "https://techcrunch.com/2020/11/11/seedcamp-raises-78m-for-its-fifth-fund/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/12/reshma-sohoni-seedcamp.jpg?w=600",
+      "publishedAt": "2020-11-11T09:08:31Z",
+      "content": "European pre-seed and seed-stage VC Seedcamp has reached £78M in the first and final close of its fifth fund, Seedcamp V, its largest to date.\r\nThe round was backed by investors including British Pat… [+694 chars]"
     },
     {
       "source": {
@@ -216,25 +515,285 @@
         "name": "USA Today"
       },
       "author": null,
-      "title": "Rays revenge home run knocks off Yankees in winner-take-all Game 5, Tampa Bay returns to ALCS for first time since 2008",
-      "description": "Michael Brosseau's home run in the eighth inning lifts the Rays over the Yankees, 2-1, in ALDS Game 5. They face the Astros in the ALCS.",
-      "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2020/10/09/rays-beat-yankees-alds-game-5-mike-brosseau-aroldis-chapman/5945112002/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2020/10/10/USAT/d7a8d4ee-cfef-4764-9c38-636249090e4c-USATSI_15044409.jpg?crop=3915,2202,x0,y0&width=3200&height=1680&fit=bounds",
-      "publishedAt": "2020-10-10T03:00:34+00:00",
-      "content": "SportsPulse: The Tampa Bay Rays dispatched the New York Yankees and will now face the Houston Astros in an ALCS which promises to feature a lot of fire power.\r\nUSA TODAY\r\nSAN DIEGO -- They could walk… [+5202 chars]"
+      "title": "Veterans Day, coronavirus pandemic, CMA Awards: 5 things to know Wednesday",
+      "description": "America celebrates Veterans Day, Trump visits Arlington Cemetery, the CMA Awards and more things to start your Wednesday morning.",
+      "url": "https://www.usatoday.com/story/news/2020/11/11/trump-biden-veterans-day-cma-awards-coronavirus/6180612002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2018/09/04/USAT/8f150d91-601e-43c2-ac5f-e04e1b15a914-XXX_VeteransDay_VietnamMemorial01.JPG?crop=2135,1201,x830,y298&width=1600&height=800&fit=bounds",
+      "publishedAt": "2020-11-11T09:08:06+00:00",
+      "content": "America celebrates Veterans Day\r\nWednesday is Veterans Day, the federal holiday on which America celebrates those who served honorably in the military. The day was first recognized as Armistice Day i… [+4317 chars]"
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "cbc-news",
+        "name": "CBC News"
       },
-      "author": "CBS News",
-      "title": "CBS Evening News, October 9th, 2020",
-      "description": "Hurricane Delta threatens Louisiana with \"life-threatening\" storm surge; Baseballs bring three generations together in Alabama.",
-      "url": "https://www.cbsnews.com/video/100920-cbs-evening-news/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/10/836332a2-55a4-4111-96b5-7afd2daf91ec/thumbnail/1200x630/1eb695795dbb218bd479e966a2e6933c/1009-en-full-563383-640x360.jpg",
-      "publishedAt": "2020-10-10T03:00:09+00:00",
-      "content": "Hurricane Delta threatens Louisiana with \"life-threatening\" storm surge; Baseballs bring three generations together in Alabama."
+      "author": "CBC News",
+      "title": "Celebration of Kamala Harris win a sign that representation matters, say Canadian female politicians of colour | CBC News",
+      "description": "For politicians and other women of colour in Canada, the election of Kamala Harris to the second-highest political office in the U.S. is an inspiration not just to dream but to recognize their own potential to achieve their dreams.",
+      "url": "http://www.cbc.ca/news/canada/montreal/kamala-harris-canada-women-1.5797594",
+      "urlToImage": "https://i.cbc.ca/1.5794393.1605052015!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2020-protests-philadelphia.jpg",
+      "publishedAt": "2020-11-11T09:07:42.5940185Z",
+      "content": "When the U.S. election was called for Joe Biden last Saturday and it became clear Kamala Harris would be the next vice-president of the U.S., Annamie Paul thought of the importance of the moment for … [+3970 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Why rollout of COVID-19 vaccine could be 'the most difficult part' in Canada | CBC News",
+      "description": "Despite promising COVID-19 vaccine candidates on the horizon worldwide, experts say Canada needs to overcome major hurdles before it can develop rollout strategies to get the right shot into Canadians' arms.",
+      "url": "http://www.cbc.ca/news/health/coronavirus-canada-covid-19-vaccine-rollout-1.5797082",
+      "urlToImage": "https://i.cbc.ca/1.5796830.1605030901!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/virus-outbreak.jpg",
+      "publishedAt": "2020-11-11T09:07:34.1586172Z",
+      "content": "Despite promising COVID-19 vaccine candidates on the horizon worldwide, experts say Canada needs to overcome major hurdles before it can develop rollout strategies to get the right shot into Canadian… [+5931 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Schools have mostly stayed open amid COVID-19, but experts warn of winter flu season ahead | CBC News",
+      "description": "A little over two months into the school year, fears of a widespread shutdown like Canada saw last spring have not materialized. However, schools haven't been immune to COVID-19. Though some protective measures seem to have helped, health experts are raising …",
+      "url": "http://www.cbc.ca/news/canada/school-check-in-winter-flu-expectations-1.5795328",
+      "urlToImage": "https://i.cbc.ca/1.5740065.1601074463!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/back-to-school-toronto.jpg",
+      "publishedAt": "2020-11-11T09:07:31.3624377Z",
+      "content": "Less than two weeks into school this fall, Kathy Maloney knew the virtual option was not working for her kids. Both were growing increasingly frustrated at being unable to fully participate in their … [+7773 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Biden wins presidency but struggles with these voters",
+      "description": "Former Vice President Joe Biden may have crossed the Electoral College threshold to win the 2020 presidential race – but he did so while losing support from some demographics that Democrats had expected to help carry them to a landslide victory.",
+      "url": "https://www.foxnews.com/politics/biden-wins-presidency-struggles-voters",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315765327815.jpg",
+      "publishedAt": "2020-11-11T09:07:24.3173166Z",
+      "content": "Former Vice President Joe Biden may have crossed the Electoral College threshold to win the 2020 presidential race – but he did so amid a shift in demographics that failed to deliver the landslide vi… [+3494 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Remembering In Flanders Fields: Why John McCrae's poignant WW I words still have power today | CBC News",
+      "description": "While Remembrance Day ceremonies this year will be altered by the COVID-19 pandemic, they will likely continue to include a poem that has endured since it was written during the First World War: John McCrae’s iconic and poignant In Flanders Fields.",
+      "url": "http://www.cbc.ca/news/canada/remembrance-day-in-flanders-fields-john-mccrae-1.5797208",
+      "urlToImage": "https://i.cbc.ca/1.5797403.1605043299!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/819238596.jpg",
+      "publishedAt": "2020-11-11T09:07:24.2235907Z",
+      "content": "Like so many things in 2020, Canada's Remembrance Day ceremonies will be affected by the COVID-19 pandemic. Communities will still commemorate their war dead on Nov. 11, but this year, the services w… [+3511 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": null,
+      "title": "Parler, MeWe, Gab gain momentum as conservative social media alternatives in post-Trump age",
+      "description": "The rise of conservative-friendly platform Parler raises the specter of further political polarization through digital means.",
+      "url": "https://www.usatoday.com/story/tech/2020/11/11/parler-mewe-gab-social-media-trump-election-facebook-twitter/6232351002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/8c399606-d7e9-41de-bdad-fa14b9a11576-AP_Election_2020_Social_Media.jpg?crop=2050,1154,x0,y50&width=1600&height=800&fit=bounds",
+      "publishedAt": "2020-11-11T09:06:09+00:00",
+      "content": "Conservative-friendly social media platforms are on the rise, as traditional ones likes Twitter and Facebook crack down on misleading or false posts.\r\nUSA TODAY\r\nAmerica's crisis of political segrega… [+9570 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Steve O'Hear",
+      "title": "Carlos Gonzalez-Cadenas, angel investor and COO of GoCardless, is joining Index as partner",
+      "description": "Index Ventures, the London and San Francisco-headquartered venture capital firm that primarily invests in Europe and the U.S., has recruited its latest investment partner. Carlos Gonzalez-Cadenas, who is currently the COO of London-based fintech GoCardless an…",
+      "url": "https://techcrunch.com/2020/11/11/carlos-gonzalez-cadenas-angel-investor-and-coo-of-gocardless-is-joining-index-as-partner/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/Carlos-27.jpg?w=600",
+      "publishedAt": "2020-11-11T09:00:36Z",
+      "content": "Index Ventures, the London and San Francisco-headquartered venture capital firm that primarily invests in Europe and the U.S., has recruited its latest investment partner.\r\nCarlos Gonzalez-Cadenas, w… [+3756 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "James Maasdorp",
+      "title": "Scott Morrison cops backlash after interrupting Anne Ruston when she was asked about being a woman in Parliament",
+      "description": "Prime Minister Scott Morrison's interruption of minister Anne Ruston makes international headlines and prompts criticism on social media, but Ms Ruston says the intervention was \"entirely appropriate\".",
+      "url": "http://www.abc.net.au/news/2020-11-11/scott-morrison-anne-ruston-liberal-party-government/12873158",
+      "urlToImage": "https://www.abc.net.au/cm/rimage/12867762-16x9-large.jpg?v=2",
+      "publishedAt": "2020-11-11T09:00:03Z",
+      "content": "Scott Morrison has made international headlines and copped a backlash on social media after stepping in to talk over a female colleague who had been asked to reflect on the culture towards women in t… [+4637 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ News",
+      "title": "Nóra Quoirin's mother says police action 'ineffective'",
+      "description": "The mother of Nóra Quoirin, whose body was found in the Malaysian jungle last year, has told an inquest the police response to her disappearance while on holiday had been slow and ineffective.",
+      "url": "https://www.rte.ie/news/world/2020/1111/1177394-nora-quoirin-inquest/",
+      "urlToImage": "https://img.rasset.ie/001342ab-1600.jpg",
+      "publishedAt": "2020-11-11T08:57:49Z",
+      "content": "The mother of an Irish teenager who was found dead in the Malaysian jungle has told an inquest the police response to her disappearance while on holiday had been slow and ineffective.\r\nThe body of 15… [+2141 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ballerina with Alzheimer's returns to Swan Lake",
+      "description": "Alzheimer’s patient Marta Gonzalez, a former prima ballerina, was transformed as she listened to Tchaikovsky.",
+      "url": "http://www.bbc.co.uk/news/world-europe-54896710",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p08y1ftg.jpg",
+      "publishedAt": "2020-11-11T08:52:23.3661233Z",
+      "content": "A Spanish charity which uses music to improve the lives of dementia patients has released a video of Alzheimers patient Marta Gonzalez, a former prima ballerina, who is transformed as she listens to … [+243 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "ANC, DA to go head to head in battle for control of Nelson Mandela Bay in mayoral election",
+      "description": "The new developments could be a major game changer in the metro. The DA, which lost the metro to an ANC-led coalition, is eager to reclaim the city.",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/anc-da-to-go-head-to-head-in-battle-for-control-of-nelson-mandela-bay-in-mayoral-election-20201111",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7385/cbdcfa48c0104682b631f8db37f29a2b.jpg",
+      "publishedAt": "2020-11-11T08:50:33+00:00",
+      "content": "<ul><li>The High Court has upheld its decision that the Nelson Mandela Bay metro elect a new mayor within seven days. </li><li>This could mean major changes in the unstable metro. </li><li>The DA and… [+3945 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Manish Singh",
+      "title": "India's broadcasting ministry secures power to regulate streaming services, online content",
+      "description": "India’s Ministry of Information and Broadcasting, which oversees programs beamed on television and theatres in the country, will now also regulate policies for streaming platforms and digital news outlets in a move that is widely believed to kickstart an era …",
+      "url": "https://techcrunch.com/2020/11/11/indias-broadcasting-ministry-secures-power-to-regulate-streaming-services-online-content/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1065115112.jpg?w=695",
+      "publishedAt": "2020-11-11T08:49:16Z",
+      "content": "Indias Ministry of Information and Broadcasting, which oversees programs beamed on television and theatres in the country, will now also regulate policies for streaming platforms and digital news out… [+2911 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "Shishir Gupta",
+      "title": "Centre takes 1st step to level the field; to set ground rules for OTT, online news",
+      "description": "The Union Cabinet will soon consider a new bill to replace the Press and Registration of Books Act  1867 that would make it mandatory for news outlets, traditional or digital, to register with the government.",
+      "url": "https://www.hindustantimes.com/india-news/centre-takes-1st-step-to-level-the-field-to-set-ground-rules-for-ott-online-news/story-65lF4I68qUpTBShqJDn3MN.html",
+      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/11/11/Pictures/illustration-netflix-photograph-california-pictured-encinitas-television_19106886-23fa-11eb-9c71-c26c1d2bb974.jpg",
+      "publishedAt": "2020-11-11T08:47:29+00:00",
+      "content": "In the first step to regulate digital content, the government has expanded the powers of the information and broadcasting ministry to start regulating over the top, or OTT platforms such as Netflix, … [+3397 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Philip Wen",
+      "title": "Coronavirus Live Updates: U.S. Cases Hit Another Record High",
+      "description": "Coronavirus cases continue to surge across much of the U.S. as hospitals in some states are grappling with crowded intensive-care units.",
+      "url": "https://www.wsj.com/livecoverage/covid-2020-11-11?mod=hp_lead_pos1",
+      "urlToImage": "https://images.wsj.net/im-258293/social",
+      "publishedAt": "2020-11-11T08:46:36Z",
+      "content": "<ul><li>The U.S. reported more than 136,000 new coronavirus cases, a new single-day record.</li><li>Hospitalizations in the U.S. are at their highest level since the pandemic began.</li><li>Hong Kong… [+1626 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Matthew Beedham",
+      "title": "Tesla squeezes 5% more power into 2021 Model 3 with hardware improvements",
+      "description": "Despite announcing its entirely new 4680 cells at its long-awaited battery day event in September, Tesla hasn’t given up on improving its current crop of 2170 power units. According to Electrek, Tesla has improved the energy density of its 2170 cells by aroun…",
+      "url": "https://thenextweb.com/shift/2020/11/11/tesla-squeezes-5-more-power-into-2021-model-3-with-hardware-improvements/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F11%2Ftesla-battery-model-3-cells-range-car-ev-future-musk-panasonic.jpg&signature=f5898923858c5f6fb2af4a40c68ecc3b",
+      "publishedAt": "2020-11-11T08:40:44Z",
+      "content": "Despite announcing its entirely new 4680 cells at its long-awaited battery day event in September, Tesla hasnt given up on improving its current crop of 2170 power units.\r\nAccording to Electrek, Tesl… [+1490 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sam Byford",
+      "title": "Sony addresses PS5’s lack of web browser and 1440p support",
+      "description": "In an interview with Japanese outlet AV Watch, Sony VPs have addressed some of the functionality that won’t be on the PS5 at launch, including 1440p support and a web browser.",
+      "url": "https://www.theverge.com/2020/11/11/21559903/sony-playstation-5-no-browser-1440p-support-vr",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VC_Y4A008gAfwptYZZXA8yvkVXQ=/0x34:2040x1102/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22015307/vpavic_4278_20201030_0301.jpg",
+      "publishedAt": "2020-11-11T08:40:01Z",
+      "content": "But a better VR solution may be coming \r\nPhoto by Vjeran Pavic / The Verge\r\nAs is often the case with newly launched game consoles, the PlayStation 5 doesnt support every feature you might have hoped… [+1301 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Josh Fordham",
+      "title": "Frank Warren EXCLUSIVE: Positive Tyson Fury vs Anthony Joshua update, latest on Deontay Wilder situation and",
+      "description": "",
+      "url": "https://talksport.com/sport/boxing/787454/frank-warren-tyson-fury-vs-anthony-joshua-deontay-wilder-agit-kabayel/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/10/FuryJoshuathumb.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-11-11T08:38:31Z",
+      "content": "Frank Warren told talkSPORT there will be nothing standing in the way of the British heavyweight showdown between Tyson Fury and Anthony Joshua next year.\r\nThe pair look set to finally meet in 2021 i… [+2988 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Anton Stanley",
+      "title": "Gym work everyday, a prodigious leap, and the NBA – How ‘nightmare’ Dominic Calvert-Lewin heads the ball just",
+      "description": "",
+      "url": "https://talksport.com/football/787112/dominic-calvert-lewin-header-cristiano-ronaldo-gym-jump-leap-nba/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/11/TALKSPORT-CALVERT.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-11-11T08:36:06Z",
+      "content": "Going into the 2019/20 Premier League season, Dominic Calvert-Lewin needed to make the leap.\r\nHis previous two campaigns saw him score just four and six goals, respectively and Moise Kean had been si… [+6691 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "LIVE | #AceMagashule arrest warrant: ANC briefing expected on latest developments",
+      "description": "A warrant has been issued for the arrest of ANC secretary-general Ace Magashule, related to corruption in the Free State. Magashule has responded by downplaying the news.",
+      "url": "https://www.news24.com/news24/southafrica/news/live-arrest-warrant-issued-for-ace-magashule-20201110-2",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2754/5aa06405a93c4ef3a7be666d4824e787.jpg",
+      "publishedAt": "2020-11-11T08:33:16+00:00",
+      "content": "DA in Free State welcomes news of Ace Magashule arrest\r\nwarrant\r\nThe DA in the Free State has welcomed the news that an\r\narrest warrant has been obtained against ANC secretary-general Ace Magashule. … [+817 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Kenneth Morrison",
+      "title": "Belfast’s great survivor: The Europa Hotel",
+      "description": "More than 30 explosions failed to close ‘Europe’s most bombed hotel’, but could COVID-19 usher in its demise?",
+      "url": "http://www.aljazeera.com/features/2020/11/11/belfasts-great-survivor-the-hotel-europa",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_72090701113.jpg?resize=1200%2C630",
+      "publishedAt": "2020-11-11T08:32:16Z",
+      "content": "Belfasts Europa Hotel does not merely offer its visitor a warm welcome and tremendous hospitality, it offers a storied past and an unsurpassed history. This icon, once known as the most bombed hotel … [+8195 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": "PTI",
+      "title": "Supreme Court questions Maharashtra government over Arnab Goswami case, says matter pertains to personal liberty",
+      "description": "A vacation bench of Justices DY Chandrachud and Indira Banerjee asked the State whether there was any need for custodial interrogation of Mr Goswami as the issue pertains to personal liberty.",
+      "url": "https://www.thehindu.com/news/national/supreme-court-questions-maharashtra-government-over-arnab-goswami-case/article33073472.ece",
+      "urlToImage": "https://www.thehindu.com/news/national/10yf1b/article33040465.ece/ALTERNATES/LANDSCAPE_615/ARNABGOSWAMI",
+      "publishedAt": "2020-11-11T08:29:01+00:00",
+      "content": "The Supreme Court on Wednesday questioned the Maharashtra government over the 2018 abetment to suicide case against journalist Arnab Goswami and said that it would be a travesty of justice if persona… [+1002 chars]"
     },
     {
       "source": {
@@ -242,181 +801,181 @@
         "name": "The Hindu"
       },
       "author": "PTI",
-      "title": "2 militants shot dead in J&K’s Kulgam",
-      "description": "Security forces launch a cordon and search operation in Chingam area",
-      "url": "https://www.thehindu.com/news/national/militants-shot-dead-in-jks-kulgam/article32818939.ece",
-      "urlToImage": "https://www.thehindu.com/news/national/other-states/as7r1o/article31448869.ece/ALTERNATES/LANDSCAPE_615/LOWERMUNDAB",
-      "publishedAt": "2020-10-10T02:53:31Z",
-      "content": "Two militants were on Saturday killed in an encounter with security forces in Kulgam district of Jammu and Kashmir, police said.\r\nAlso read: 75th U.N. anniversary: India counters Pakistans J&amp;K re… [+518 chars]"
+      "title": "Supreme Court questions Maharashtra government over Arnab Goswami case, says matter pertains to personal liberty",
+      "description": "A vacation bench of Justices DY Chandrachud and Indira Banerjee asked the State whether there was any need for custodial interrogation of Mr Goswami as the issue pertains to personal liberty.",
+      "url": "https://www.thehindu.com/news/national/supreme-court-questions-maharashtra-government-over-arnab-goswami-case/article33073472.ece",
+      "urlToImage": "https://www.thehindu.com/news/national/10yf1b/article33040465.ece/ALTERNATES/LANDSCAPE_615/ARNABGOSWAMI",
+      "publishedAt": "2020-11-11T08:29:01Z",
+      "content": "The Supreme Court on Wednesday questioned the Maharashtra government over the 2018 abetment to suicide case against journalist Arnab Goswami and said that it would be a travesty of justice if persona… [+1002 chars]"
     },
     {
       "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
+        "id": "google-news-au",
+        "name": "Google News (Australia)"
       },
-      "author": "[{\"@type\":\"Person\",\"name\":\"Spencer Althouse\",\"url\":\"https://www.buzzfeed.com/spenceralthouse\",\"jobTitle\":\"BuzzFeed Staff\"}]",
-      "title": "16 Documentaries That Are So Freaky, You'll Probably Regret Watching Them",
-      "description": "\"If you made a dozen movies out of this, nobody would believe them.\"",
-      "url": "https://www.buzzfeed.com/spenceralthouse/most-disturbing-documentaries-ever",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/7/17/enhanced/df19c893ff83/original-355-1602090815-34.jpg?crop=1760:921;104,0%26downsize=1250:*",
-      "publishedAt": "2020-10-10T02:52:24.8241299Z",
-      "content": null
+      "author": "Amanda Meade",
+      "title": "Rudd and Turnbull will be called to give evidence at Senate inquiry into media diversity",
+      "description": "Sarah Hanson-Young secures inquiry after the popularity of Kevin Rudd’s petition for a royal commission into News Corp",
+      "url": "https://www.theguardian.com/media/2020/nov/11/rudd-and-turnbull-will-be-called-to-give-evidence-at-senate-inquiry-into-media-diversity",
+      "urlToImage": "https://i.guim.co.uk/img/media/58dbefae061f86f049973237128c2b638ae888a6/0_327_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b222f3c73a41d4c49138112d556b2d9e",
+      "publishedAt": "2020-11-11T08:24:30+00:00",
+      "content": "The former prime ministers Kevin Rudd and Malcolm Turnbull will be called to give evidence at a Senate inquiry into media diversity that will examine the dominance of News Corp Australia and its impa… [+5219 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
       },
-      "author": "Fox News",
-      "title": "Hurricane Delta makes landfall in Louisiana, weakens to Catergory 1 storm",
-      "description": "The storm will weaken as it draws near the coast, dropping to a Category 2 storm and then down to a tropical storm over the following days.",
-      "url": "https://www.foxnews.com/us/hurricane-delta-expected-weaken-landfall-louisiana",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/DeltaGulfSat_1.jpg",
-      "publishedAt": "2020-10-10T02:52:21.6686651Z",
-      "content": "Hurricane Delta made landfall around 6 p.m. CT Friday near Creole, La., with heavy rainfall and strong winds in a region already battered by multiple hurricanes this year. \r\nDelta was off the Louisia… [+4639 chars]"
-    },
-    {
-      "source": {
-        "id": "hacker-news",
-        "name": "Hacker News"
-      },
-      "author": null,
-      "title": "Xorpd – What if you knew how computers work?",
-      "description": null,
-      "url": "https://www.xorpd.net/",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T02:52:05.8600994Z",
-      "content": "- Learn Assembly language from scratch\r\n - x64 Assembly for the advanced\r\n - Learn Reverse Engineering"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RTÉ News",
-      "title": "Trump to speak today in attempt to revive campaign",
-      "description": "US President Donald Trump will give a public speech at the White House today for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three weeks before the election.",
-      "url": "https://www.rte.ie/news/2020/1010/1170647-trump-resumes-appearances/",
-      "urlToImage": "https://img.rasset.ie/0015756c-1600.jpg",
-      "publishedAt": "2020-10-10T02:50:29Z",
-      "content": "US President Donald Trump will give a public speech at the White House today for the first time since testing positive for Covid-19, as he prepares a rapid return to the campaign trail just three wee… [+4733 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Phil Helsel",
-      "title": "3-year-old burned after running off Yellowstone trail, falling into thermal feature",
-      "description": "A 3-year-old child suffered second-degree burns and was flown to a hospital after falling into a thermal area in Yellowstone National Park on Friday, the park said.",
-      "url": "https://www.nbcnews.com/news/us-news/3-year-old-burned-after-running-yellowstone-trail-falling-thermal-n1242796",
-      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png",
-      "publishedAt": "2020-10-10T02:47:00+00:00",
-      "content": "A 3-year-old child was burned after falling into a thermal feature at Yellowstone National Park on Friday.\r\nThe child suffered second-degree burns and was flown to a hospital after falling about 11:4… [+2289 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": "Caroline Schelle",
-      "title": "Gold Coast: A yellow Lamborghini has been seized after it was clocked speeding repeatedly",
-      "description": "Gold Coast: A yellow Lamborghini has been seized after it was clocked speeding repeatedly",
-      "url": "https://www.news.com.au/national/queensland/crime/gold-coast-a-yellow-lamborghini-has-been-seized-after-it-was-clocked-speeding-repeatedly/news-story/a77ea305d504607b6f96cb3f94caba11",
-      "urlToImage": "https://cdn.newsapi.com.au/image/v1/f13c08262b950a1b62bfcd53e4866f6d?width=650",
-      "publishedAt": "2020-10-10T02:47:00Z",
-      "content": "A yellow Lamborghini has been seized from a Gold Coast property after it was seen driving at more than double the speed limit. The luxury car was reported travelling at a high speed three times betwe… [+1158 chars]"
-    },
-    {
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "author": "Mary Papenfuss",
-      "title": "Trump's New Legacy: Biggest U.S. Trade Deficit In 14 Years",
-      "description": "Trade wars are not so easy to win after all. The president's much-touted tariffs haven't helped furious steelworkers hang on to their jobs.",
-      "url": "https://www.huffpost.com/entry/trump-trade-deficit-steelworkers-jobs_n_5f80f602c5b62f97bac2b429",
-      "urlToImage": "https://img.huffingtonpost.com/asset/5f81061e1f0000cb350c1a71.jpeg?cache=zxkoi8qgv9&ops=1778_1000",
-      "publishedAt": "2020-10-10T02:43:54Z",
-      "content": "Despite massive tariffs imposed by President Donald Trump, the U.S. just chalked up its biggest trade deficit in 14 years. \r\nThe gap between the value of goods and services the U.S. buys compared to … [+2537 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "CBC News",
-      "title": "Some federal Greens and New Democrats are pushing for a temporary alliance | CBC News",
-      "description": "As the risk of an election looms under a Liberal minority government, grassroots NDP and Green members are pushing their parties to enter into a one-time strategic alliance in the next election.",
-      "url": "http://www.cbc.ca/news/politics/ndp-green-alliance-singh-paul-1.5755459",
-      "urlToImage": "https://i.cbc.ca/1.5756291.1602201041!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/jagmeet-singh-and-annamie-paul.jpg",
-      "publishedAt": "2020-10-10T02:37:18.5583412Z",
-      "content": "With a minority government in power ready to fall on a confidence vote, grassroots NDP and Green members are pushing their parties to get ready for an early election by agreeing to a one-time strateg… [+2665 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "CBC News",
-      "title": "With election day getting closer, Donald Trump's odds are not getting any better | CBC News",
-      "description": "With less than four weeks to go before the U.S. presidential election is over, Joe Biden has widened his lead over Donald Trump.",
-      "url": "http://www.cbc.ca/news/politics/grenier-us-election-polls-1.5755976",
-      "urlToImage": "https://i.cbc.ca/1.5753181.1602033515!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/twitter-trump.JPG",
-      "publishedAt": "2020-10-10T02:37:15.1998019Z",
-      "content": "Two weeks ago, Donald Trump was on track to lose the U.S. presidential election. After a chaotic debate performance and a COVID-19 diagnosis, Trump's chances of winning the election fair and square h… [+5882 chars]"
+      "author": "Jade Macmillan",
+      "title": "Young workers now eligible for the $200 a fortnight JobMaker youth wage subsidy",
+      "description": "The $4 billion JobMaker hiring credit was one of the more controversial aspects of last month's Budget. Now that it's passed Parliament, here's what it will mean for workers.",
+      "url": "http://www.abc.net.au/news/2020-11-11/jobmaker-youth-wage-subsidy-explainer/12872472",
+      "urlToImage": "https://www.abc.net.au/cm/rimage/12705180-16x9-large.jpg?v=2",
+      "publishedAt": "2020-11-11T08:24:01Z",
+      "content": "The $4 billion JobMaker hiring credit was one of the more controversial aspects of last month's Budget.\r\nDespite some political argy-bargy along the way, the legislation has now passed Parliament. So… [+2498 chars]"
     },
     {
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "BERNIE WILSON",
-      "title": "Brosseau homer off Chapman lifts Rays over Yanks, into ALCS",
-      "description": "SAN DIEGO (AP) — Mike Brosseau homered off Aroldis Chapman with one out in the eighth inning and the Tampa Bay Rays beat the New York Yankees 2-1 Friday night to reach the AL Championship Series...",
-      "url": "https://apnews.com/b956481156ad47df3256b440b8e3b027",
+      "author": "JON GAMBRELL",
+      "title": "Bahrain's long-serving prime minister dies at age 84",
+      "description": "DUBAI, United Arab Emirates (AP) — Bahrain’s Prince Khalifa bin Salman Al Khalifa, one of the world’s longest-serving prime ministers who led his island nation’s government for decades and...",
+      "url": "https://apnews.com/b8694b37662032b8c7617efa00f896a9",
       "urlToImage": "",
-      "publishedAt": "2020-10-10T02:36:19Z",
+      "publishedAt": "2020-11-11T08:22:43Z",
       "content": null
     },
     {
       "source": {
-        "id": "nhl-news",
-        "name": "NHL News"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Nicholas J. Cotsonika",
-      "title": "NHL free agency off to tentative start amid pandemic",
-      "description": "The first day of NHL free agency was like most everything else in 2020: affected by the coronavirus pandemic.",
-      "url": "https://www.nhl.com/news/nhl-free-agency-off-to-tentative-start-amid-pandemic/c-319416392",
-      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/319416536/1024x576/cut.jpg",
-      "publishedAt": "2020-10-10T02:35:06Z",
-      "content": "The first day of NHL free agency was like most everything else in 2020: affected by the coronavirus pandemic.Two marquee unrestricted free agents landed long terms and big dollars on Friday. Defensem… [+4500 chars]"
+      "author": "MARIA CHENG",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "GENEVA (AP) — As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will...",
+      "url": "https://apnews.com/f1faf92adb0f02d7b028bd25199dd242",
+      "urlToImage": "",
+      "publishedAt": "2020-11-11T08:22:33Z",
+      "content": null
     },
     {
       "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
+        "id": "talksport",
+        "name": "TalkSport"
       },
-      "author": "Emma Parry and Grant Hodgson, The Sun",
-      "title": "Brad Pitt and Angelina Jolie’s Hollywood custody battle for their children",
-      "description": "Brad Pitt and Angelina Jolie’s Hollywood custody battle for their children",
-      "url": "https://www.news.com.au/entertainment/celebrity-life/brad-pitt-and-angelina-jolies-hollywood-custody-battle-for-their-children/news-story/1c6d927d7007fd66a81dc95511f3eaa8",
-      "urlToImage": "https://cdn.newsapi.com.au/image/v1/48894259924ff5bc22b29fb482509996?width=650",
-      "publishedAt": "2020-10-10T02:33:00Z",
-      "content": "Set to be one of the most expensive and drawn-out custody battles in Hollywood history, warring exes Brad Pitt and Angelina Jolie are pulling out all the stops in the hearing to decide access rights … [+8206 chars]"
+      "author": "talkSPORT",
+      "title": "Warren provides Tyson Fury vs Anthony Joshua update, Arsenal hero Wilshere ‘could never’ join Tottenham, bla",
+      "description": "",
+      "url": "https://talksport.com/sport/boxing/786270/tyson-fury-vs-anthony-joshua-arsenal-wilshere-tottenham-black-fa-chairman/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/11/TALKSPORT-BLOG-COMP-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-11-11T08:20:23Z",
+      "content": "News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services."
     },
     {
       "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Oliver Dawnay",
+      "title": "Jamie Carragher defends ‘best pundit’ Roy Keane and tells story of Man United icon at Sky Christmas party",
+      "description": "",
+      "url": "https://talksport.com/football/787314/roy-keane-sky-sports-jamie-carragher-man-united-liverpool-talksport/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/11/@23_carrajpg-JS555501363-e1605034868248.jpg?strip=all&quality=100&w=1071&h=661&crop=1",
+      "publishedAt": "2020-11-11T08:20:10Z",
+      "content": "Jamie Carragher defended Roy Keane’s punditry style and insists the former Manchester United captain is not the hot-head many view him as.\r\nA number of biting comments has seen Keane earn a reputatio… [+1840 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Clashes over Ivory Coast vote as neighbouring states urge talks",
+      "description": "Fighting erupted over President Alassane Ouattara’s re-election as West African nations and France call for talks.",
+      "url": "http://www.aljazeera.com/news/2020/11/11/clashes-over-ivory-coast-vote-as-neighbouring-states-urge-talks",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/11/AP_20308677009053-1.jpg?resize=1200%2C630",
+      "publishedAt": "2020-11-11T08:17:16Z",
+      "content": "More clashes broke out over Ivory Coast President Alassane Ouattaras re-election as West African nations and France called for dialogue to end tensions over his contested third term.\r\nOuattara secure… [+3958 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Sam Hancock",
+      "title": "Covid news - live: Students can go home for Christmas once lockdown ends as UK daily deaths rise above 500",
+      "description": "Follow the latest updates",
+      "url": "http://www.independent.co.uk/news/health/covid-news-live-uk-update-lockdown-deaths-b1720898.html",
+      "urlToImage": "https://static.independent.co.uk/2020/11/11/07/newFile-12.jpg",
+      "publishedAt": "2020-11-11T08:14:07Z",
+      "content": "University students in England are now being told they can head home for Christmas as soon as the lockdown ends next month.\r\nFace-to-face learning should end by 9 December, new guidance suggests, whi… [+2769 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
       },
       "author": null,
-      "title": "NRL star Tristan Sailor arrested after complaint from a woman",
-      "description": "NRL star Tristan Sailor arrested after complaint from a woman",
-      "url": "https://www.news.com.au/sport/nrl/nrl-star-tristan-sailor-arrested-after-complaint-from-a-woman/news-story/bb857355f08f5b61ebf0ca6501324493",
-      "urlToImage": "https://cdn.newsapi.com.au/image/v1/527b32bfa4fe3cae3de7ed05b9bd4a6f?width=650",
-      "publishedAt": "2020-10-10T02:29:00Z",
-      "content": "Aspiring NRL star Tristan Sailor has reportedly been arrested in relation to an alleged complaint made by a woman.The young gun, who is the son of rugby league legend Wendell Sailor, has played five … [+1525 chars]"
+      "title": "Stormers centre hopes Steyn is fit: 'If you want to be a Bok you have to play against the best'",
+      "description": "Stormers centre Rikus Pretorius is relishing a potential duel with Springbok Frans Steyn when the Cheetahs visit Newlands.",
+      "url": "https://www.news24.com/sport/Rugby/SuperRugby/stormers-centre-hopes-steyn-is-fit-if-you-want-to-be-a-bok-you-have-to-play-against-the-best-20201111",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10151/e30d1d5acde34777a651a935a8630afb.jpg",
+      "publishedAt": "2020-11-11T08:13:56+00:00",
+      "content": "<ul><li>Stormers centre Rikus Pretorius is relishing a potential duel against Frans Steyn when they face the Cheetahs.</li><li>Steyn is a doubt for the match at Newlands but Pretorius wants to test h… [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Josh Fordham",
+      "title": "Tyrone Mings believes appointing black FA chairman would be ‘huge step’ in fight for equality after Greg Cla",
+      "description": "",
+      "url": "https://talksport.com/football/787421/tyrone-mings-black-fa-chairman-huge-step-equality-greg-clarke/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/11/CLARKE-MINGS-e1605082266444.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-11-11T08:11:37Z",
+      "content": "Tyrone Mings believes it would be a huge step to have a black man or woman appointed Football Association chairman following Greg Clarkes resignation.\r\nClarke quit the role on Tuesday following his c… [+3696 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "BBC Sport",
+      "title": "Is Grealish England's future or odd man out?",
+      "description": "Grealish has impressed again for Aston Villa this season, but can he force his way into the England side?",
+      "url": "http://www.bbc.co.uk/sport/football/54570813",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14586/production/_115243338_gettyimages-1279221401.jpg",
+      "publishedAt": "2020-11-11T08:07:31.0997408Z",
+      "content": "Grealish got an assist on his full England debut, crossing for Dominic Calvert-Lewin to head in against Wales\r\n\"In England, they talk about creative problems in midfield, but Jack Grealish brings tha… [+8237 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ALEXANDRA OLSON and DAVID KOENIG",
+      "title": "EXPLAINER: Why do the media call races in US elections?",
+      "description": "Fifty-one separate elections — one in each state and one in Washington, DC. Each with different rules and regulations, and no national elections commission to tell the world who wins. How, then,...",
+      "url": "https://apnews.com/20e9b5688aa0b7404648ea74b1c2f4dc",
+      "urlToImage": "",
+      "publishedAt": "2020-11-11T08:06:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Hong Kong ousts 4 pro-democracy lawmakers as China cements control",
+      "description": "The decreasingly autonomous city's leaders quickly seized upon new powers granted by Beijing to sack lawmakers deemed a security threat.",
+      "url": "https://www.cbsnews.com/news/hong-kong-ousts-4-pro-democracy-lawmakers-as-china-cements-control/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/11/eba2e33f-bf72-4c30-9696-4df043be244d/thumbnail/1200x630/5d3cb742d5addf011eb58386b45447b3/hong-kong-china-lawmakers.jpg",
+      "publishedAt": "2020-11-11T08:06:12+00:00",
+      "content": "Former pan-democratic legislators Alvin Yeung Ngok-kiu, Kwok Ka-ki, Kenneth Leung and Dennis Kwok speak to the media after they were disqualified, in HOng Kong, China, November 11, 2020.\r\nTYRONE SIU/… [+2951 chars]"
     },
     {
       "source": {
@@ -424,12 +983,259 @@
         "name": "RTE"
       },
       "author": "RTÉ News",
-      "title": "Armenia, Azerbaijan declare temporary ceasefire",
-      "description": "Armenia and Azerbaijan have agreed to a ceasefire from noon today and to begin \"substantive talks\" over Nagorno-Karabakh, Russian Foreign Minister Sergei Lavrov said after marathon negotiations in Moscow.",
-      "url": "https://www.rte.ie/news/2020/1010/1170646-armenia-azerbaijan-declare-ceasefire/",
-      "urlToImage": "https://img.rasset.ie/0015756a-1600.jpg",
-      "publishedAt": "2020-10-10T02:25:45Z",
-      "content": "Armenia and Azerbaijan have agreed to a ceasefire from noon today and to begin \"substantive talks\" over Nagorno-Karabakh, Russian Foreign Minister Sergei Lavrov said after marathon negotiations in Mo… [+990 chars]"
+      "title": "HSE rejects claims over missing flu vaccine",
+      "description": "The Health Service Executive has rejected newspaper reports that hundreds of thousands of doses of the flu vaccine have gone missing.",
+      "url": "https://www.rte.ie/news/health/2020/1111/1177385-flu-vaccine/",
+      "urlToImage": "https://img.rasset.ie/0015a923-1600.jpg",
+      "publishedAt": "2020-11-11T08:02:32Z",
+      "content": "The Health Service Executive has rejected newspaper reports that hundreds of thousands of doses of the flu vaccine have gone missing.\r\nA spokesperson said there was a delay in sending out 50,000 dose… [+553 chars]"
+    },
+    {
+      "source": {
+        "id": "news-com-au",
+        "name": "News.com.au"
+      },
+      "author": "James Matthey",
+      "title": "State of Origin stars boycott national anthem again",
+      "description": "State of Origin stars boycott national anthem again",
+      "url": "https://www.news.com.au/sport/nrl/state-of-origin-stars-boycott-national-anthem-again/news-story/e6e859b4a7c05ee238db2f1e67ab1bc5",
+      "urlToImage": "https://cdn.newsapi.com.au/image/v1/03160bfef1094d3ade94f26c158c007c?width=650",
+      "publishedAt": "2020-11-11T08:02:00Z",
+      "content": "Multiple players once again declined to sing the national anthem before Origin II kicked off.Queensland centre Dane Gagai and NSW stars Cody Walker, Josh Addo-Carr, Jack Wighton and Payne Haas remain… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Angela Macdonald-Smith",
+      "title": "China fallout hits Woodside Scarborough gas sale",
+      "description": "Chinese parties had to drop out of the running to buy a stake in the $16 billion Scarborough project in Western Australia, Woodside chief executive Peter Coleman has revealed.",
+      "url": "http://www.afr.com/companies/energy/china-fallout-hits-woodside-scarborough-gas-sale-20201111-p56dmy",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.5174%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/4abb80cfb593cd0f02eec014a46d5c2310d5e234",
+      "publishedAt": "2020-11-11T08:00:00Z",
+      "content": "Until now, gas has appeared to escape any impact of the worsening crisis, which has so far affected coal, wine, barley and other commodities. LNG exports to China, for which Australia is its biggest … [+3950 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Sinéad Brennan",
+      "title": "Painting scarves eased worker's lockdown fears",
+      "description": "A restaurant worker who lost her job in lockdown never expected her hobby of painting silk scarves to transform into a business.",
+      "url": "https://www.rte.ie/news/ireland/2020/1110/1177220-painting-scarves-lockdown-business/",
+      "urlToImage": "https://img.rasset.ie/0015a7c3-1600.jpg",
+      "publishedAt": "2020-11-11T08:00:00Z",
+      "content": "A restaurant worker who lost her job in lockdown never expected her hobby of painting silk scarves to transform into a business. \r\nIseult McCormack, from Bray, Co Wicklow, had been working in Dublin … [+1413 chars]"
+    },
+    {
+      "source": {
+        "id": "the-huffington-post",
+        "name": "The Huffington Post"
+      },
+      "author": "Lee Moran",
+      "title": "Ex-Defense Secretary: Trump Admin Acting More Like Dictatorship Than A Democracy",
+      "description": "William Cohen warned that \"we’re witnessing the decimation\" of democratic institutions as the president refuses to accept defeat.",
+      "url": "https://www.huffpost.com/entry/william-cohen-donald-trump-election-response_n_5fab91ccc5b6d647a39a1f36",
+      "urlToImage": "https://img.huffingtonpost.com/asset/5d1dc1502400005f00faa6b5.jpeg?cache=1phr7j4luq&ops=1778_1000",
+      "publishedAt": "2020-11-11T07:57:02Z",
+      "content": "Former Defense Secretary William Cohen on Tuesday slammed Donald Trumps administration for acting like a dictatorship as the president continues to accept defeat in the 2020 election.\r\nWere witnessin… [+1601 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Rob Merrick",
+      "title": "Robert Jenrick: Officials refuse to release justification for £25m handout to Cabinet minister’s seat",
+      "description": "‘This lack of transparency has fuelled accusations of political bias in the selection process’",
+      "url": "http://www.independent.co.uk/news/uk/politics/robert-jenrick-handout-towns-fund-b1720559.html",
+      "urlToImage": "https://static.independent.co.uk/2020/10/13/10/POLITICS%20Jenrick%20%2010223805.jpg",
+      "publishedAt": "2020-11-11T07:54:20Z",
+      "content": "Officials are refusing to release the justification for a controversial £25m handout to a Cabinet ministers constituency approved by a colleague, a report reveals today.\r\nRobert Jenrick, the local go… [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": null,
+      "title": "India, China Agree On 3-Step Disengagement Plan In Pangong: Report",
+      "description": "In a major development, the ongoing India-China border conflict may be resolved soon as the armies of the two countries have agreed for disengagement from parts of the Eastern Ladakh sector under which they would be moving back to their respective positions b…",
+      "url": "https://www.ndtv.com/india-news/india-china-agree-to-3-step-disengagement-plan-in-pangong-report-2323748",
+      "urlToImage": "https://c.ndtvimg.com/2020-09/c28t1ntg_pangong-tso-lake-july-2019-reuters_625x300_03_September_20.jpg",
+      "publishedAt": "2020-11-11T07:51:50+00:00",
+      "content": "India, China have agreed for 3-step disengagement from the Pangong lake area. (FILE)\r\nNew Delhi: In a major development, the ongoing India-China border conflict may be resolved soon as the armies of … [+3414 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": null,
+      "title": "If Nitish Kumar Becomes Chief Minister, Credit Goes To Us: Shiv Sena",
+      "description": "Praising RJD leader Tejashwi Yadav for giving a \"spirited fight\" in the Bihar Assembly polls, the Shiv Sena today needled the BJP saying that if Nitish Kumar retains the post of Chief Minister despite the JD(U) winning fewer seats, the credit should go to the…",
+      "url": "https://www.ndtv.com/india-news/bihar-election-result-if-nitish-kumar-becomes-chief-minister-credit-goes-to-us-says-shiv-sena-2323744",
+      "urlToImage": "https://c.ndtvimg.com/2020-04/hddg3jvo_uddhav-thackeray-650_625x300_07_April_20.jpg",
+      "publishedAt": "2020-11-11T07:46:35+00:00",
+      "content": "Shiv Sena claimed that should Nitish Kumar become Chief Minister again, the credit will be Sena's\r\nMumbai: Praising RJD leader Tejashwi Yadav for giving a \"spirited fight\" in the Bihar Assembly polls… [+2962 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Jon Healy",
+      "title": "State of Origin II live: Phil Gould announces on Twitter he won't commentate for Channel Nine",
+      "description": "Phil Gould announces hours before kick-off he will not be part of Channel Nine's commentary team for the second game of the series, taking place in Sydney. Follow live.",
+      "url": "http://www.abc.net.au/news/2020-11-11/state-of-origin-ii-live-nsw-blues-queensland-maroons/12873144",
+      "urlToImage": "https://www.abc.net.au/cm/rimage/12814556-16x9-large.jpg?v=2",
+      "publishedAt": "2020-11-11T07:46:10Z",
+      "content": "Phil Gould has announced he will not be part of Channel Nine's commentary team for State of Origin II in Sydney, with Andrew Johns taking his place in Sydney as he did in Game II last year.\r\nFollow o… [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Sean Gallagher",
+      "title": "John Terry the best centre-back of Premier League era says Jamie Carragher as he lists Chelsea legend",
+      "description": "",
+      "url": "https://talksport.com/football/787294/john-terry-jamie-carragher-chelsea-liverpool-lionel-messi-thierry-henry-arsenal-barcelona-xavi-maldini/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2020/11/TALKSPORT-CARRAGHER-2.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2020-11-11T07:45:20Z",
+      "content": "Jamie Carragher joined Adrian Durham to co-host Drivetime – and he did not disappoint!\r\nThe former England and Liverpool defender – who famously clashed with Durham on the same show in 2007 following… [+5293 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "PA Media",
+      "title": "Priti Patel bullying report should be made public, No 10 adviser says",
+      "description": "Adviser on standards in public life says not putting allegations to bed risks losing voters’ trust",
+      "url": "https://www.theguardian.com/politics/2020/nov/11/priti-patel-bullying-report-should-be-made-public-no-10-adviser-says",
+      "urlToImage": "https://i.guim.co.uk/img/media/5cf742851814b6b61f1263fb9020dfb0b300e65d/0_268_5906_3544/master/5906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e424b0b839b8a40db60d8bbd34747d7a",
+      "publishedAt": "2020-11-11T07:45:00+00:00",
+      "content": "A report into claims the UK home secretary, Priti Patel, bullied staff should be made public or people may think the allegations were brushed over, an adviser to Boris Johnson has said.\r\nLord Evans o… [+1761 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "RTÉ Entertainment",
+      "title": "Irish accent emergency declared for Wild Mountain Thyme",
+      "description": "The trailer for the Emily Blunt, Jamie Dornan and Christopher Walken-starring Irish rom-com Wild Mountain Thyme has been released - and Tom Cruise may be in danger of losing his accent-mauling crown from Far and Away.",
+      "url": "https://www.rte.ie/entertainment/2020/1111/1177380-irish-accent-emergency-declared-for-wild-mountain-thyme/",
+      "urlToImage": "https://img.rasset.ie/0015a924-1600.jpg",
+      "publishedAt": "2020-11-11T07:40:00Z",
+      "content": "We need your consent to load this YouTube contentWe use YouTube to manage extra content that can set cookies on your device and collect data about your activity. Please review their details and accep… [+1474 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Ronald Mizen, Tom McIlroy",
+      "title": "Anthony Albanese imposes Labor 'bonk ban'",
+      "description": "Labor has moved to adopt tough new rules after revelations of poor behaviour by MPs and staff at Parliament House.",
+      "url": "http://www.afr.com/politics/federal/anthony-albanese-imposes-labor-bonk-ban-20201111-p56dls",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3235%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_130%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/312adc933b6446f37a335d8a72759c63964725be",
+      "publishedAt": "2020-11-11T07:36:08Z",
+      "content": "Mr Albanese announced the decision as opposition staffers said a ban was \"inevitable\".\r\nUnder the Labor Party I lead, the same standard applies as that put in place by Malcolm Turnbull,\" he told The … [+1846 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-au",
+        "name": "Google News (Australia)"
+      },
+      "author": "Charis Chang",
+      "title": "How Donald Trump could be forcibly removed from the White House",
+      "description": "How Donald Trump could be forcibly removed from the White House",
+      "url": "https://www.news.com.au/world/north-america/us-politics/how-donald-trump-could-be-forcibly-removed-from-the-white-house/news-story/0c43ff75b6f740094eb96d7639881452",
+      "urlToImage": "https://cdn.newsapi.com.au/image/v1/e6c36e28bb3996202ab334c8fedcb598?width=650",
+      "publishedAt": "2020-11-11T07:33:49+00:00",
+      "content": "Donald Trump is looking unlikely to concede the US presidential election but experts have revealed how he would be escorted out of the White House if he refuses to leave.There is no legal requirement… [+6921 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "WATCH | Cop critically injured at KwaZulu-Natal accident scene where car rolled into river",
+      "description": "A Durban police officer attending to an accident scene has been critically injured after the driver of another car lost control of the vehicle and crashed.",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/watch-cop-critically-injured-at-kwazulu-natal-accident-scene-where-car-rolled-into-river-20201111",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/7778/587b6a3afeee43ebbf894759a1ba696e.png",
+      "publishedAt": "2020-11-11T07:32:37+00:00",
+      "content": "A Durban police officer attending to an accident scene was critically injured when the driver of another car lost control of the vehicle and crashed into a police vehicle on Wednesday morning.\r\nAccor… [+1003 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Sarah Turner",
+      "title": "ASX shakes off correction as bond yield rebounds",
+      "description": "A COVID-19 vaccine within reach, plus the promise of stability in the White House, fuelled a sell-off in bonds and carried on the rotation within stocks reflecting unexpected optimism over economic growth.",
+      "url": "http://www.afr.com/markets/debt-markets/asx-shakes-off-correction-bond-rate-reclaims-1pc-20201111-p56dgk",
+      "urlToImage": "https://static.ffx.io/images/$zoom_1.26%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_no_label_no_age_social_wm/6fd2afdb56bbb40cef09cc649ba54200bdedf6f8",
+      "publishedAt": "2020-11-11T07:30:03Z",
+      "content": "Pfizer's claim that its candidate is more than 90 per cent effective came a day after Democrat Joe Biden claimed victory in the US presidential race, with Washington expected to be divided between a … [+4838 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Eleanor Mannion",
+      "title": "Galway designer's shoe art business a runaway success",
+      "description": "A young Galway designer who returned home from Canada due to the pandemic is up and running with a new shoe art business in Ireland.",
+      "url": "https://www.rte.ie/news/2020/1110/1177170-galway-shoe-art/",
+      "urlToImage": "https://img.rasset.ie/0015a760-1600.jpg",
+      "publishedAt": "2020-11-11T07:30:00Z",
+      "content": "A young Galway designer who returned home from Canada due to the pandemic is running with a new shoe art business in Ireland.\r\nBefore the outbreak, Barbara Bennett was pursuing a career in design in … [+1928 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
+      },
+      "author": "Phillip Coorey",
+      "title": "Labor's unrest: There's no clear alternative to Albanese",
+      "description": "While there is broad agreement that Anthony Albanese needs to lift, there is no consensus as to who would replace him",
+      "url": "http://www.afr.com/politics/federal/labor-s-unrest-there-s-no-clear-alternative-to-albanese-20201111-p56dh4",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2062%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_no_label_no_age_social_wm/224c603bf239c0a44660481dd68936c75c85fb45",
+      "publishedAt": "2020-11-11T07:27:11Z",
+      "content": "Mr Fitzgibbon left the frontbench on Tuesday following a blistering row with Mr Albanese the night before during which he insisted Joe Biden's win over Donald Trump last week was not due to Mr Biden'… [+2555 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "CRL Commission investigates sexual abuse allegations against Bishop Zondo",
+      "description": "Former Rivers of Living Waters Ministries member Solly Poopedi has accused Bishop Bafana Zondo of sexual assault and using his \"spiritual powers\" for \"evil\".",
+      "url": "https://www.news24.com/news24/SouthAfrica/News/crl-commission-investigates-sexual-abuse-allegations-against-bishop-zondo-20201110",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9459/878d03be76654d0d9a6bdad4deb17d3e.jpg",
+      "publishedAt": "2020-11-11T07:25:22+00:00",
+      "content": "<ul><li>Former church members have accused Bishop Bafana Zondo of sexual assault and using his \"spiritual powers\" for \"evil\".</li><li>Zondo heads up Rivers of Living Waters Ministries, which has bran… [+2816 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "PA Staff",
+      "title": "Football rumours from the media",
+      "description": "",
+      "url": "https://www.fourfourtwo.com/news/football-rumours-from-the-media-1605079441000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5vhXH5EmaZ73bzoqVNbjr8-1200-80.jpg",
+      "publishedAt": "2020-11-11T07:24:01Z",
+      "content": "What the papers say\r\nChatter about Cristiano Ronaldo leaving Juventus is bound to grow after a throwaway comment from Paris St Germains sporting director. The Daily Mail says Leonardo said something … [+1821 chars]"
     },
     {
       "source": {
@@ -437,12 +1243,12 @@
         "name": "Fox News"
       },
       "author": "Fox News",
-      "title": "Lucille Ball and Desi Arnaz's great-granddaughter, Desiree S. Anzalone, dead at 31",
-      "description": "Anzalone died after a battle with stage 4 breast cancer.",
-      "url": "https://www.foxnews.com/entertainment/lucille-ball-desi-arnaz-great-granddaughter-dead",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/DESIREE-ANZALONE-Lucille-Ball-with-Desi-Arnaz-INSTAGRAM-GETTY.jpg",
-      "publishedAt": "2020-10-10T02:22:20.8457658Z",
-      "content": "Desiree S. Anzalone, the great-granddaughter of Lucille Ball and Desi Arnaz Sr. has died after a battle with stage 4 breast cancer. She was 31.\r\nAnzalone died on Sept. 27 at Smilow Cancer Center in C… [+4444 chars]"
+      "title": "'Ingraham Angle' exclusive: Nevada poll worker claims she witnessed blatant voter fraud",
+      "description": "Voter fraud was allegedly committed in Nevada during the early voting period, according to a Clark County poll worker who told Fox News’ “The Ingraham Angle” what she witnessed in an exclusive interview Tuesday night.",
+      "url": "https://www.foxnews.com/politics/nevada-voter-fraud-election-2020-ingraham-angle-exclusive",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20307649760572.jpg",
+      "publishedAt": "2020-11-11T07:22:20.821797Z",
+      "content": "Voter fraud was allegedly committed in Nevada during the early voting period, according to a Clark County poll worker who told Fox News’ “The Ingraham Angle” what she witnessed in an exclusive interv… [+1913 chars]"
     },
     {
       "source": {
@@ -450,90 +1256,12 @@
         "name": "Financial Times"
       },
       "author": null,
-      "title": "Liverpool FC owner looks at stock market listing",
-      "description": "John Henry’s Fenway Sports Group in talks with Spac to sell $1.6bn stake",
-      "url": "https://www.ft.com/content/bcd99e94-1543-4d94-ad6c-0e0fb655756c",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8bba060-d052-43aa-a080-8831ca4311ee.jpg?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2020-10-10T02:22:20.783281Z",
-      "content": "John Henry, owner of Liverpool FC and Boston Red Sox, is in talks to publicly list his sports holdings in a merger with a blank-cheque company, two people familiar with the matter said.\r\nThe move wou… [+4158 chars]"
-    },
-    {
-      "source": {
-        "id": "rte",
-        "name": "RTE"
-      },
-      "author": "RTÉ News",
-      "title": "Three due in court following Tyrone drugs seizure",
-      "description": "Three men will appear in court today following the seizure of what police say was a significant quantity of suspected Class A drugs in County Tyrone on Thursday night.",
-      "url": "https://www.rte.ie/news/ulster/2020/1010/1170645-drugs-tyrone-cookstown-arrests-court/",
-      "urlToImage": "https://img.rasset.ie/0014fa82-1600.jpg",
-      "publishedAt": "2020-10-10T02:20:40Z",
-      "content": "Three men will appear in court today following the seizure of what police say was a significant quantity of suspected Class A drugs in County Tyrone on Thursday night. \r\nThe PSNI says the men, aged 2… [+381 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "Armenia and Azerbaijan agree to cease-fire after weeks of deadly conflict",
-      "description": "The cease-fire follows two weeks of heavy fighting that marked the worst outbreak of hostilities in the separatist region in a quarter-century.",
-      "url": "https://www.cbsnews.com/news/armenia-and-azerbaijan-agree-to-cease-fire-after-weeks-of-deadly-conflict/",
-      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/10/4a13a7e8-aa7e-4d52-b163-0b6101b1b429/thumbnail/1200x630/6e776bdbd2ff11541979e33aeffc8caf/gettyimages-1278468432.jpg",
-      "publishedAt": "2020-10-10T02:18:23+00:00",
-      "content": "With Russia's mediation, Armenia and Azerbaijan agreed to a cease-fire in Nagorno-Karabakh starting at noon on Saturday. The cease-fire follows two weeks of heavy fighting that marked the worst outbr… [+5683 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
-      },
-      "author": "Akhilesh Singh",
-      "title": "Only 1 non-BJP face in NDA cabinet now",
-      "description": "India News: NEW DELHI: The death of LJP leader and food and consumer affairs minister Ram Vilas Paswan has turned the Union Cabinet into a mostly all-BJP affair.",
-      "url": "https://timesofindia.indiatimes.com/india/only-1-non-bjp-face-in-nda-cabinet-now/articleshow/78583694.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-78583693,width-1070,height-580,imgsize-78093,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2020-10-10T02:10:00+00:00",
-      "content": "India News: NEW DELHI: The death of LJP leader and food and consumer affairs minister Ram Vilas Paswan has turned the Union Cabinet into a mostly all-BJP affair."
-    },
-    {
-      "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
-      },
-      "author": "Times Now Digital",
-      "title": "Sikh man was carrying firearms at BJP rally, claims WB Police, says 'turban fell off automatically in scuffle'",
-      "description": "The Sikh man, hired as a private security guard by a BJP leader, has served in the Indian Army and was carrying a licensed weapon in Nabanna Chalo rally.",
-      "url": "https://www.timesnownews.com/india/article/sikh-man-was-carrying-firearms-at-bjp-rally-claims-wb-police-says-turban-fell-off-automatically-in-scuffle/665023",
-      "urlToImage": "https://imgk.timesnownews.com/story/sikh_man.jpg?tr=w-560,h-292,fo-top",
-      "publishedAt": "2020-10-10T01:57:22+00:00",
-      "content": "<ul><li>'West Bengal Police respects all religions. The officer specifically asked him to put his Pagri back before the arrest'</li></ul>\r\n<ul><li>'We remain committed to our duty to uphold law and o… [+2089 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Miriam Lord",
-      "title": "Miriam Lord: Taoiseach and Tánaiste see red over ‘Level 5 leak’",
-      "description": "Leo rages at public health chief; Cap’n Grealish frets about the arts; Harris and Holohan framed",
-      "url": "https://www.irishtimes.com/news/politics/miriam-lord-taoiseach-and-t%C3%A1naiste-see-red-over-level-5-leak-1.4377018",
-      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4377017&origw=1440",
-      "publishedAt": "2020-10-10T01:54:06Z",
-      "content": "Their approach to business may have been different but there was no doubt this week that the Taoiseach and Tánaiste were fuming over Sunday nights leak of the National Public Health Emergency Teams (… [+3733 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Viral clip shows Biden lowering his mask to cough in his hand",
-      "description": "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada.",
-      "url": "https://www.foxnews.com/politics/biden-lowering-mask-cough-in-his-hand",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg",
-      "publishedAt": "2020-10-10T01:52:18.8599577Z",
-      "content": "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada. \r\nBiden, who sported a mask and his iconic aviators at a voter drive-in event, had taken a moment to catch his b… [+1221 chars]"
+      "title": "Ackman places new bet against corporate credit",
+      "description": "Billionaire says markets are once again complacent about the impact of pandemic",
+      "url": "https://www.ft.com/content/9697c211-c631-49b6-a91e-ae290fb02c3a",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd45e79e8-0809-47a3-9e23-0b7ee3c60a76.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2020-11-11T07:22:18.9941268Z",
+      "content": "Hedge fund manager Bill Ackman has put on another bet that companies will struggle to pay their debts, just eight months after he cashed in a $2.6bn profit from a similar trade at the start of the pa… [+2046 chars]"
     },
     {
       "source": {
@@ -541,766 +1269,38 @@
         "name": "Hacker News"
       },
       "author": null,
-      "title": "Reversing the technical interview (for a software witch) 2017",
+      "title": "Cell Signaling Technologies – Most detailed 3D model of human cells",
       "description": null,
-      "url": "https://aphyr.com/posts/340-reversing-the-technical-interview",
+      "url": "http://www.digizyme.com/cst_landscapes.html",
       "urlToImage": null,
-      "publishedAt": "2020-10-10T01:52:09.5185338Z",
-      "content": "If you want to get a job as a software witch, you’re going to have to pass a whiteboard interview. We all do them, as engineers–often as a part of our morning ritual, along with arranging a beautiful… [+3664 chars]"
+      "publishedAt": "2020-11-11T07:22:05.9348761Z",
+      "content": "Cell Signaling Technologies\r\nMolecular Landscapes"
     },
     {
       "source": {
-        "id": "rte",
-        "name": "RTE"
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
       },
-      "author": "Robert Shortt",
-      "title": "Lower than forecast budget deficit of €21bn expected",
-      "description": "The Government expects to run a budget deficit this year of just over €21 billion or 6% of GDP.",
-      "url": "https://www.rte.ie/news/ireland/2020/1010/1170644-white-paper-budget-deficit/",
-      "urlToImage": "https://img.rasset.ie/000cb8b7-1600.jpg",
-      "publishedAt": "2020-10-10T01:51:06Z",
-      "content": "The Government expects to run a budget deficit this year of just over €21 billion or 6% of GDP. \r\nThis figure is lower than forecast, largely due to stronger tax receipts and running 15% ahead of exp… [+1155 chars]"
+      "author": "Ed Pilkington",
+      "title": "Loser: Donald Trump derided defeat– now he must live with it",
+      "description": "What was once the president’s go-to insult now unequivocally applies to him, as his record of failure finally catches up with him",
+      "url": "https://www.theguardian.com/us-news/2020/nov/11/donald-trump-loser-president",
+      "urlToImage": "https://i.guim.co.uk/img/media/14f8551b6a4a5653f75c8bfc500db1d535071450/0_203_3000_1800/master/3000..jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=140c9f679b94132628041597b88e8ce3",
+      "publishedAt": "2020-11-11T07:15:00+00:00",
+      "content": "In the Manichean world of Donald Trump, there is one epithet more pathetic than any other: loser. He has used the term when describing fellow Republicans Mitt Romney and John McCain, critics such as … [+9814 chars]"
     },
     {
       "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "Brian Hutton",
-      "title": "Like it or not, climate change will make everyone change their lives",
-      "description": "Are we saying goodbye to milk in our cereal, private cars and a warming fire?",
-      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/news/ireland/irish-news/like-it-or-not-climate-change-will-make-everyone-change-their-lives-1.4376743\t",
-      "urlToImage": "https://www.irishtimes.com/polopoly_fs/1.4376735.1602253874!/image/image.jpg",
-      "publishedAt": "2020-10-10T01:50:33Z",
-      "content": "Imagine the scene, it is a bright, crisp October morning in 2030, yet the house, insulated heavily with the help of a State grant in 2027, is still relatively cosy from the heating created the night … [+6221 chars]"
-    },
-    {
-      "source": {
-        "id": "news-com-au",
-        "name": "News.com.au"
-      },
-      "author": "Ebony Bowden, New York Post",
-      "title": "Trump undergoes ‘medical exam’ on Fox News in first televised interview",
-      "description": "Trump undergoes ‘medical exam’ on Fox News in first televised interview",
-      "url": "https://www.news.com.au/world/coronavirus/global/trump-undergoes-medical-exam-on-fox-news-in-first-televised-interview/news-story/a5b9576f4313b7a4d6f2ede4803c937d",
-      "urlToImage": "https://cdn.newsapi.com.au/image/v1/1187b553376f18e9d0e2d398bfb6e801?width=650",
-      "publishedAt": "2020-10-10T01:48:00Z",
-      "content": "President Trump underwent a televisit of sorts on Fox News, his first on-camera interview since being hospitalised with the coronavirus, and admitted he didnt feel like how the President of the Unite… [+3299 chars]"
-    },
-    {
-      "source": {
-        "id": "reddit-r-all",
-        "name": "Reddit /r/all"
-      },
-      "author": null,
-      "title": "r/gaming - EA isn’t even pretending anymore",
-      "description": "8,786 votes and 303 comments so far on Reddit",
-      "url": "https://www.reddit.com/r/gaming/comments/j89913/ea_isnt_even_pretending_anymore/",
-      "urlToImage": "https://preview.redd.it/7amauf8ff5s51.jpg?auto=webp&s=e5062338c64d2d09480deba13069e272a286741a",
-      "publishedAt": "2020-10-10T01:37:34.7453338Z",
-      "content": "Not to defend EA, but this actually seems... ok?\r\nIf they label it \"legacy edition\" and state clearly that it's the old game with new rosters and whatnot, then they aren't trying to trick people into… [+384 chars]"
-    },
-    {
-      "source": {
-        "id": "reddit-r-all",
-        "name": "Reddit /r/all"
-      },
-      "author": null,
-      "title": "r/funny - Then vs Now, Jeff Goldblum recreated his iconic Jurassic Park pose",
-      "description": "16,492 votes and 356 comments so far on Reddit",
-      "url": "https://www.reddit.com/r/funny/comments/j87vnx/then_vs_now_jeff_goldblum_recreated_his_iconic/",
-      "urlToImage": "https://preview.redd.it/e7czzwae15s51.jpg?auto=webp&s=14fbf13e5ec952b4dd498a1091fbe3dbb55406f3",
-      "publishedAt": "2020-10-10T01:37:32.4177877Z",
-      "content": "Probably a combination of the fact that it's longer now, and older, grayer hair holding less of the natural oils.\r\nI say this as someone who both cut his hair short after many years of long hair, and… [+98 chars]"
-    },
-    {
-      "source": {
-        "id": "reddit-r-all",
-        "name": "Reddit /r/all"
-      },
-      "author": null,
-      "title": "Website Design – The Leader in Website Design – Squarespace",
-      "description": "Website Design - Design Your Own Website",
-      "url": "https://alb.reddit.com/cr?z=gAAAAABfgRBB5Nb7TCSB83OoJCQDZtDU1XmE8ahMw-Xws2aFBWuoHA78fICX2og0MGi8uaEDRcGpZjxHoUXqtYU8eGYcHBB-uJxwUDpGRSPnNxaILAVyUyjiWXNg8XdCjEYpTWZZAL-tRIDr32XGB2GJKbMuGc9EebE72Trn-o0xrYmkGIwtJew6rsp41nyCXqQRFllUaB_5RTQUopi8iXv7n6nRFNpQKXlrihY1296Ox2_tnx8jmWdGJ9w3I5c6Bhu_NzEmLYBrybIWTxUShkFUggVuge54yUTtZUIwy_ax8IBLPA3bBVQQVa4h49IvWJi4xEFLLwhc4jralGE9EbZvHXTv36vy7PlG2iXLrzOxZnINoJq1o_gpk0c1F_5xRVQbwl8DSvidFWpy3MjXrfIeeEBNvXnVMp6WYm9Brm-qq0_Xy4DttNWn5OxusdC45zr0u6o94BYB05ri4PrJ-E3bd04fZYNNMkWY3bWXQ4YLVIcFvpIKwlhpf3atq7CjRWqJey8Q5eVR8yghWOBstf4-MbMx_Dqb_zuYKy_YPdkatnwdxe5CPBiBQCdoZgm23naC-_0ZFJXh1KIZzN6-kH48Wu9WColjHTPXZ-WsIyufJ1UkJlv2_LHf75orx_RAAU2rCwRom9RsBQUTZnOkeGKNCQrrf6Ee-qItlW7ZymaczqJis9tDaE1K_5pNm1idL9CKOtCyybLEpKX4OBFyWGsZEH9BfYIvd1FR7hO3lhhtsjz0kewUpZM9NMooDTQ-DzkBrNDYH6x3sKHuvQ3FVO4nHZ_8KeyFw_nZY6BdPAXcj-2gDoSVRKqAbXyaOSK5KZlZft0qsk_6xT8u7Ylelzmi8YZ-f4spDBn4glmcP7MFM0QLu6qTI6gq2V3ywicLQ5kw2SumTdlci4czrkMRwVYkNoZJSE9qRyXNIel3ESr05gBTy89fmGEi6dylup6FGATvO3oE7XMs5k7fKrA7Z5r7uoINrj_rGcFv5eXTwdDPAfuIUKkAO4EbAGZY3OMC7eE-8GdKouDkpgGIlr6xdnyr4NtUx3ra-QxCEymJ_lal7x6ohor-Cbl2kWWA5k0ULbnmEqAqhKGznkIbO4UcWJoQZt2qcI0PdKenRFsPNGrCroblnHJlFHOj4f-g590TRw8BvNqJI6U9my_u0wgf8KEX2sneNV_9UsWqJgrEUJofWnUPdBJaLUTERm_dJAVce6TBqgjgm5NyVuwzO3JU7oQyvvip3ppbQQxM9oLix0SXQFTlQu5VCkV3wcA4g8AJAI80E7AWnsdUzONYvZAToN6ZrPf993tOUCqnNQBCl_6i3p9VRUP6TR6QNC6tBxOBgD7_-F2V1rm7KJ0H2W9-3s8Vs99c59RMfKoLUDeEvVHJCp00GGrIWjuEn0PByP_4CSJRjCrr4Qrd7IqTWioWb7MF9p9hbizjXwTQQiobB-TibH-64aQPuu6vkTywA8hARfH2wwYX22ysb88jUCNwPg9YiFfcThOaCuUwfHescHPODQ2wCjAAiB9eY1q3skkeGnFpd11565ll4AP1qbVcZ2mapwU4Pbc1uFnWPrLGQEmJms2L8aOC5JeQj6b32kJ1YBzMiVsw4al0e-SU2mNlMf8nJlH-24HZ8F8d1Hpn7SqvIRpfTQfRCTD1kGnLZ34SRjd4qrzkRwBAuu6RTB6j5zqhcNRI6i6u4Aw_y81hXv0Xvo5YPDLNenyE7bA21KsxGTiS0Ex-aQLKO2BgPjDOZuA0mDVXE8T8FCiYpyFeACDsb0rKqDrf9E_35huzmvaAdznjKnIMrD6lCo5VXJEpmq5MW2UzS1WzLZyn6dPcuGhNeUtoLX5Xrl_2xKqbotHcHsNFEmDtb-DxzdscwFuBujwwZ5mQTuKPodEm2nuNrIuQtfSUEVfBJ2WnMhKw2FOXbU5sAP79MOFOf1oEXN3q6nU8o8PKbgwgT7r81uhItH7pTRrM6qZRe2mF7b1_W5qiaz3K4vIUJznN_zmbYIR57Qz2kb4bkidutLPIvsyZZRgkrk6AOxpt9JgfvQzao2V-FUOGIfHJ2prwcsI4mdpC9bWRjwJacF2FIpXGRRQfp28aD-Wn1IWsbQDb_VjMf5D48F8ayF2diVuw3i6tA_CZzC2oTQhSkReaKrxWXRQC3_XVVzPyc5X5qoUrJ3N2_kPLkvUAvs45rKckCE_KKQZqWpKlL-1oldQ29cswF36YakfktvyxbMWYeA6XM1AoX9UuH4IIK8jV22FEeDPpJDcXgmz94rb65fsh9ReMCHJ6eCn4QqcNSvCQeIfg2UeLzAOpeZ1umyayzZgB9JFNjqmlGJmJk-XQuayVL26mMISydgsrCSU4S4cnIQ9CNivXIr7pndlH51YOcA-w",
-      "urlToImage": "http://static1.squarespace.com/static/5134cbefe4b0c6fb04df8065/t/5f46ae558289fe36ae375505/1598467679969/Squarespace-thumbnail.jpg?format=1500w",
-      "publishedAt": "2020-10-10T01:37:28.903038Z",
-      "content": "<li></li>\r\nChoose from one of Squarespaces best-in-class website templates.\r\n<li></li>\r\nUse our website builder to customize pages, menus, and navigation.\r\n<li></li>\r\nChange fonts, imagery, and margi… [+212 chars]"
-    },
-    {
-      "source": {
-        "id": "reddit-r-all",
-        "name": "Reddit /r/all"
-      },
-      "author": null,
-      "title": "r/pics - Jeff Goldblum recreates the iconic Jurassic Park pose, 27 years later",
-      "description": "35,081 votes and 574 comments so far on Reddit",
-      "url": "https://www.reddit.com/r/pics/comments/j86pak/jeff_goldblum_recreates_the_iconic_jurassic_park/",
-      "urlToImage": "https://preview.redd.it/5u0cqtfnp4s51.jpg?auto=webp&s=3c1a849758e211660ea41d678d5668e0c68d3ba9",
-      "publishedAt": "2020-10-10T01:37:28.3562984Z",
-      "content": "Um draw me like uh, like one of your uh, Cretaceous girls"
-    },
-    {
-      "source": {
-        "id": "reddit-r-all",
-        "name": "Reddit /r/all"
-      },
-      "author": null,
-      "title": "r/BlackPeopleTwitter - Blue a lil sus",
-      "description": "30,633 votes and 291 comments so far on Reddit",
-      "url": "https://www.reddit.com/r/BlackPeopleTwitter/comments/j87hyv/blue_a_lil_sus/",
-      "urlToImage": "https://preview.redd.it/tt9csrmmx4s51.jpg?auto=webp&s=892bfd5963a9e58a55568a8a29f0ce762b9c0b97",
-      "publishedAt": "2020-10-10T01:37:25.4976355Z",
-      "content": "They def like military/police. My ex told me how he was pulled over, high af, they realized he went to Afghanistan and they're like \"alright have a good one!\"\r\nEdit: my ex, like myself, is Mexican. H… [+213 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Trump says he's 'medication free,' details COVID-19 recovery in first on-camera interview since diagnosis",
-      "description": "“I wanted to leave after the first day,” Trump said of his stint at Walter Reed.",
-      "url": "https://www.foxnews.com/politics/trump-medication-free-covid-19-recovery-tucker-carlson",
-      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12856a10-0319-4812-9d69-e810b72a2daf/6a59da7e-173f-4a4c-ad67-6a6a7e4d061c/1280x720/match/image.jpg",
-      "publishedAt": "2020-10-10T01:37:16.187452Z",
-      "content": "President Trump opened up about his ongoing recovery from the novel coronavirus on “Tucker Carlson Tonight” Friday, sitting down for his first on-camera interview since he tested positive last week. … [+3225 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Conor Pope",
-      "title": "Travel sector fears EU traffic-light system will not be implemented",
-      "description": "EU-wide rules to replace green list would open up incoming and outgoing travel",
-      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/news/ireland/irish-news/travel-sector-fears-eu-traffic-light-system-will-not-be-implemented-1.4376734\t",
-      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4376732&origw=1440",
-      "publishedAt": "2020-10-10T01:36:05Z",
-      "content": "Ireland has the most draconian rules in Europe for people flying in and out, but has the weakest rules when it comes to following up with those arriving here to ensure they are self-isolating.\r\nThe I… [+4617 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Bob Price",
-      "title": "WATCH: Wisconsin Protesters Defy Curfew Orders for Third Night",
-      "description": "Protesters in Wauwatosa, Wisconsin, took to the streets again Friday night in defiance of a 7 p.m. curfew ordered by city officials.",
-      "url": "http://www.breitbart.com/law-and-order/2020/10/09/watch-wisconsin-protesters-defy-curfew-orders-for-third-night/",
-      "urlToImage": "https://media.breitbart.com/media/2020/10/Wauwatosa-3rd-night-640x335.png",
-      "publishedAt": "2020-10-10T01:35:58Z",
-      "content": "Protesters in Wauwatosa, Wisconsin, took to the streets again Friday night in defiance of a 7 p.m. curfew ordered by city officials. National Guard and local police prepared to enforce the order and … [+2128 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Christopher Brito",
-      "title": "At 48, Shaquille O'Neal reveals he just voted for the first time ever",
-      "description": "\"In other words, America, I voted for the first time, and it feels good,\" he said.",
-      "url": "https://www.cbsnews.com/news/shaquille-o-neal-election-voting-first-time-at-48/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/09/7e011ed5-ebfd-424a-8c7f-f44e16a067c4/thumbnail/1200x630/40c023932164104fe7349866e825dc84/gettyimages-1193010966.jpg",
-      "publishedAt": "2020-10-10T01:33:36+00:00",
-      "content": "Shaquille O'Neal has revealed he voted for the first time in his life. On \"The Big Podcast with Shaq,\" the 48-year-old former Los Angeles Lakers center on Wednesday confessed to never having voted be… [+1946 chars]"
-    },
-    {
-      "source": {
-        "id": "nhl-news",
-        "name": "NHL News"
-      },
-      "author": "NHL.com",
-      "title": "Shattenkirk agrees to three-year contract with Ducks",
-      "description": "Kevin Shattenkirk agreed to terms on a three-year contract with the Anaheim Ducks on Friday. Financial terms were not disclosed.",
-      "url": "https://www.nhl.com/news/anaheim-ducks-kevin-shattenkirk-three-year-contract/c-319288030",
-      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/319242042/1024x576/cut.jpg",
-      "publishedAt": "2020-10-10T01:30:33Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Haris Alic",
-      "title": "GOP Narrows Voter Registration Gap in Competitive North Carolina",
-      "description": "The GOP under President Donald Trump has narrowed the voter registration gap with Democrats in North Carolina, a prime 2020 battleground.",
-      "url": "http://www.breitbart.com/2020-election/2020/10/09/gop-narrows-voter-registration-advantage-in-competitive-north-carolina/",
-      "urlToImage": "https://media.breitbart.com/media/2020/10/AP_20263850587140-640x335.jpg",
-      "publishedAt": "2020-10-10T01:28:51Z",
-      "content": "The Republican Party under President Donald Trump has narrowed the voter registration gap with Democrats in North Carolina, a prime 2020 battleground.\r\nNorth Carolina, which has long been an outlier … [+8016 chars]"
-    },
-    {
-      "source": {
-        "id": "nhl-news",
-        "name": "NHL News"
-      },
-      "author": "Tim Campbell",
-      "title": "Little won't play for Jets this season",
-      "description": "Bryan Little won't play for the Winnipeg Jets this season, general manager Kevin Cheveldayoff said Friday.",
-      "url": "https://www.nhl.com/news/winnipeg-jets-bryan-little-injury-status/c-319414764",
-      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/319415112/1024x576/cut.jpg",
-      "publishedAt": "2020-10-10T01:27:20Z",
-      "content": "Bryan Little won't play for the Winnipeg Jets this season, general manager Kevin Cheveldayoff said Friday.The 32-year-old center was limited to seven games last season after sustaining a concussion i… [+2798 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "James Arkin",
-      "title": "South Carolina Senate debate scrapped after virus testing fight",
-      "description": "Democrat Jaime Harrison called for GOP Sen. Lindsey Graham to be tested for coronavirus before they debated Friday night, but Graham balked at the demand.",
-      "url": "https://www.politico.com/news/2020/10/09/south-carolina-senate-debate-428479",
-      "urlToImage": "https://static.politico.com/d2/6d/da4ad90e44a29cbbf4bf8cad07bb/1009scsenate.jpg",
-      "publishedAt": "2020-10-10T01:25:00+00:00",
-      "content": "\"The president of the United States has been out of pocket because he has the coronavirus,\" Harrison said, in response to questions from the panel of moderators. \"Sen. Graham said that folks want spe… [+3371 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news-ca",
-        "name": "Google News (Canada)"
-      },
-      "author": "Al Jazeera",
-      "title": "Armenia, Azerbaijan agree to ceasefire from midnight: Lavrov",
-      "description": "The breakthrough came after 10 hours of talks between the two sides in Moscow.",
-      "url": "https://www.aljazeera.com/news/2020/10/10/armenia-azerbaijan-agree-ceasefire-from-midnight-lavrov",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-09T141828Z_476737555_RC22FJ946YDF_RTRMADP_3_ARMENIA-AZERBAIJAN.jpg?resize=1200%2C630",
-      "publishedAt": "2020-10-10T01:24:43+00:00",
-      "content": "Armenia and Azerbaijan have agreed to a ceasefire from midnight on October 10, and plan to start substantive talks over Nagorno-Karabakh, Russian Foreign Minister Sergey Lavrov said on Saturday, afte… [+2059 chars]"
-    },
-    {
-      "source": {
-        "id": "msnbc",
-        "name": "MSNBC"
-      },
-      "author": "MSNBC",
-      "title": "The Last Word with Lawrence O’Donnell | MSNBC The Last Word",
-      "description": "More about The Last Word on MSNBC. Join The Last Word Lawrence O Donnell community for more news, videos and articles about politics & global change.",
-      "url": "https://www.msnbc.com/the-last-word",
-      "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2018_34/2539436/the_last_word_-social-avatar_1200x6301x_a769760b79c8bb61763d6e41914d7560.nbcnews-fp-1200-630.png",
-      "publishedAt": "2020-10-10T01:22:23.4574933Z",
-      "content": "After it was revealed that the FBI thwarted a plot to kidnap and kill the governor of Michigan, Sen. Gary Peters tells Lawrence ODonnell that Trumps complaints about Michigans Covid-19 restrictions a… [+63 chars]"
-    },
-    {
-      "source": {
-        "id": "hacker-news",
-        "name": "Hacker News"
-      },
-      "author": "mendhak",
-      "title": "GPSLogger has been removed from the Play Store, and development has been paused. · Issue #849 · mendhak/gpslogger",
-      "description": "Just yesterday GPSLogger has again been unpublished from the Play Store (for the nth time). Play Store removals are tricky business; I often don&#39;t see much reason given except vague statements ...",
-      "url": "https://github.com/mendhak/gpslogger/issues/849#issue-710863256",
-      "urlToImage": "https://avatars3.githubusercontent.com/u/746276?s=400&v=4",
-      "publishedAt": "2020-10-10T01:22:21.7235509Z",
-      "content": "Just yesterday GPSLogger has again been unpublished from the Play Store (for the nth time). Play Store removals are tricky business; I often don't see much reason given except vague statements and li… [+2195 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Trump: I don't know how I got COVID-19, would love to donate plasma",
-      "description": "President joins Dr. Marc Siegel to discuss his stay at Walter Reed, the presidential debates and dexamethasone",
-      "url": "https://video.foxnews.com/v/6199363424001/",
-      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db68f175-51bb-4bb7-aa0b-0860b7dbfb2d/4ee0e67b-dd28-4c78-8676-6d8c0900d54e/1280x720/match/image.jpg",
-      "publishedAt": "2020-10-10T01:22:19.7373452Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Trump sits for first on-camera interview since COVID-19 diagnosis",
-      "description": "Fox News medical contributor Dr. Marc Siegel interviews the president on 'Tucker Carlson Tonight'",
-      "url": "https://video.foxnews.com/v/6199363394001/",
-      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12856a10-0319-4812-9d69-e810b72a2daf/6a59da7e-173f-4a4c-ad67-6a6a7e4d061c/1280x720/match/image.jpg",
-      "publishedAt": "2020-10-10T01:22:19.0500149Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "hacker-news",
-        "name": "Hacker News"
-      },
-      "author": null,
-      "title": "Delphi 2 can compile large .pas files at 1.2M lines per second",
-      "description": null,
-      "url": "https://twitter.com/pervognsen/status/1265582295575982080",
-      "urlToImage": null,
-      "publishedAt": "2020-10-10T01:22:05.1449212Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Charlie Spiering",
-      "title": "Donald Trump Says He Is 'Medication Free' After Coronavirus Treatments",
-      "description": "President Donald Trump said Friday that he was \"medication-free\" after being treated for the coronavirus for the past week.",
-      "url": "http://www.breitbart.com/politics/2020/10/09/donald-trump-says-he-is-medication-free-after-coronavirus-treatments/",
-      "urlToImage": "https://media.breitbart.com/media/2020/10/Trump-Returns-to-White-House-from-Walter-Reed-640x335.jpg",
-      "publishedAt": "2020-10-10T01:21:47Z",
-      "content": "President Donald Trump said Friday that he was “medication-free” after being treated for the coronavirus for the past week.\r\n“Right now I’m medication free not taking any medications as of probably e… [+2501 chars]"
-    },
-    {
-      "source": {
-        "id": "the-next-web",
-        "name": "The Next Web"
-      },
-      "author": "Napier Lopez",
-      "title": "Report: Google is going to turn YouTube into a shopping hub",
-      "description": "YouTube is testing a feature that would allow users to directly purchase products they see in videos, according to a report by Bloomberg. It could be one of the biggest changes to Google’s streaming platform yet, turning it into a bit of an Amazon competitor.…",
-      "url": "https://thenextweb.com/plugged/2020/10/10/report-google-is-going-to-turn-youtube-into-a-video-shopping-hub/",
-      "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F03%2FYouTube-Dark.jpg&signature=9a7c1def58a3a8ecc4922d9003474be8",
-      "publishedAt": "2020-10-10T01:20:29Z",
-      "content": "YouTube is testing a feature that would allow users to directly purchase products they see in videos, according to a report by Bloomberg. It could be one of the biggest changes to Googles streaming p… [+1405 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news-au",
-        "name": "Google News (Australia)"
-      },
-      "author": "Graham Readfearn, Luke Henriques-Gomes",
-      "title": "Coronavirus live news: France sets daily record 20,000 cases; Australian state of Victoria reports 14 new infections",
-      "description": "Trump plans in-person rally on Monday as next presidential debate cancelled; Europe records 100,000 daily cases for first time; Canada at ‘tipping point’. Follow latest updates",
-      "url": "https://www.theguardian.com/world/live/2020/oct/10/coronavirus-live-news-france-sets-daily-record-20000-cases-australian-state-of-victoria-reports-14-new-infections",
-      "urlToImage": "https://i.guim.co.uk/img/media/34aaada9d252bd0df055cbd4887e9fb0dddedd80/0_0_7699_4621/master/7699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5677f026b0952e5f281b05c266fe357e",
-      "publishedAt": "2020-10-10T01:19:00+00:00",
-      "content": "Trump plans in-person rally on Monday as next presidential debate cancelled; Europe records 100,000 daily cases for first time; Canada at ‘tipping point’. Follow latest updates"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Caroline Linton",
-      "title": "Six alleged militia members accused in Michigan governor kidnapping plot arraigned on terrorism charges",
-      "description": "In total, 19 state felony charges were filed by Attorney General Dana Nessel against the seven men accused of being in the Wolverine Watchmen or associates of the Wolverine Watchmen.",
-      "url": "https://www.cbsnews.com/news/michigan-governor-kidnapping-6-alleged-militia-members-arraigned-on-terrorism-charges/",
-      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/08/594cd19b-6947-48ea-998e-7ac18fcc9720/thumbnail/1200x630/217f05c651927aaac6bf638a96bcf0a1/whitmer.jpg",
-      "publishedAt": "2020-10-10T01:18:29+00:00",
-      "content": "Six alleged members of a militia accused of plotting to kidnap Michigan Governor Gretchen Whitmer were arraigned Friday on terrorism charges, the state attorney general's office said. The seventh is … [+2820 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Brett Samuels",
-      "title": "Trump gives overview of COVID-19 case in first on camera interview since diagnosis | TheHill",
-      "description": "President Trump on Friday participated in his first on-camera interview since testing positive for COVID-19, during which he admitted that he remained hospitalized for observation after scans showed some congestion in his lungs and touted the benefits of his …",
-      "url": "http://thehill.com/homenews/administration/520457-trump-gives-overview-of-covid-19-case-in-first-on-camera-interview",
-      "urlToImage": "https://thehill.com/sites/default/files/trumpdonald_0100520getty.jpg",
-      "publishedAt": "2020-10-10T01:17:22Z",
-      "content": "President TrumpDonald John TrumpBiden campaign raises over M on day of VP debateTrump chastises Whitmer for calling him 'complicit' in extremism associated with kidnapping schemeTrump says he hopes t… [+4567 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jeffery Martin",
-      "title": "Donald Trump Says He's Off COVID Medication, Will Donate Plasma",
-      "description": "\"I'm medication free which, frankly, makes me feel good,\" President Donald Trump said. \"I don't like medication.\"",
-      "url": "https://www.newsweek.com/donald-trump-says-hes-off-covid-medication-will-donate-plasma-1538007",
-      "urlToImage": "https://d.newsweek.com/en/full/1649126/donald-trump.jpg",
-      "publishedAt": "2020-10-10T01:12:01Z",
-      "content": "In his first on-camera interview since being diagnosed with coronavirus, President Donald Trump revealed Friday that he was no longer taking medication for COVID-19 and that, if asked, he would donat… [+2351 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": null,
-      "title": "Destiny 2: Festival of the Lost and Mod Change Reactions - Fireteam Chat Ep. 280 - IGN",
-      "description": "The Festival of the Lost has returned and this week we react to the event in 2020, but we also got new news about how mods are changing and some new exotic weapons and gear that are on the way.",
-      "url": "https://www.ign.com/videos/destiny-2-festival-of-the-lost-and-mod-change-reactions-fireteam-chat-ep-280",
-      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/10/9/ftc1009-1602263127086.jpg?width=1280",
-      "publishedAt": "2020-10-10T01:07:16.6055157Z",
-      "content": "Did you enjoy this video?"
-    },
-    {
-      "source": {
-        "id": "hacker-news",
-        "name": "Hacker News"
-      },
-      "author": null,
-      "title": "Collision Detection",
-      "description": "An online book about collision detection using Processing.",
-      "url": "http://www.jeffreythompson.org/collision-detection/",
-      "urlToImage": "http://www.jeffreythompson.org/collision-detection/images/social-thumbnail.jpg",
-      "publishedAt": "2020-10-10T01:07:15.8244618Z",
-      "content": "[ your browser does not support the canvas tag ]\r\nJeff Thompson\r\nThe collision of objects underlies most game experiences and user-interfaces. Baseball bats collide with balls, zombies bump into wall… [+2389 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Daniel Villarreal",
-      "title": "Barack Obama Calls Donald Trump's Attempts to Restrict Census 'Disturbing'",
-      "description": "\"You've got one major party in this country that has made no bones about the fact that they want to make it harder for some people to vote,\" Obama said.",
-      "url": "https://www.newsweek.com/barack-obama-calls-donald-trumps-attempts-restrict-census-disturbing-1538003",
-      "urlToImage": "https://d.newsweek.com/en/full/1649123/obama.jpg",
-      "publishedAt": "2020-10-10T01:07:03Z",
-      "content": "Former Democratic President Barack Obama has called Republican President Donald Trump's effort to interfere with the 2020 Census \"disturbing\" and said that the Republican efforts to restrict voter ac… [+3659 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Gillian Tan",
-      "title": "Boston Red Sox Owner Said to Be in Talks With Beane’s  RedBall",
-      "description": "The owner of the Boston Red Sox and Liverpool Football Club is in talks to go public through a merger with blank-check firm RedBall Acquisition Corp., according to a person with knowledge of the matter.",
-      "url": "https://www.bloomberg.com/news/articles/2020-10-10/boston-red-sox-owner-said-to-be-in-talks-with-beane-s-redball",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itdkdq2.gszw/v0/1200x672.jpg",
-      "publishedAt": "2020-10-10T01:07:00+00:00",
-      "content": "The owner of the Boston Red Sox and \r\nLiverpool Football Club is in talks to go public through a merger with blank-check firm \r\nRedBall Acquisition Corp., according to a person with knowledge of the … [+1568 chars]"
-    },
-    {
-      "source": {
-        "id": "the-globe-and-mail",
-        "name": "The Globe And Mail"
-      },
-      "author": null,
-      "title": "Karen Gosbee’s tell-all book exposes domestic abuse amid extreme wealth",
-      "description": "Addiction, adultery, and physical abuse mired decades of a seemingly perfect life for the young family of Calgary banking titan George Gosbee",
-      "url": "https://www.theglobeandmail.com/business/article-karen-gosbees-tell-all-book-exposes-domestic-abuse-amid-extreme/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/3pj2TctTEHgoiWi88FSIiYj4chI=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/GWA47ORDFRD5RATD7A25HXAMUE.jpg",
-      "publishedAt": "2020-10-10T01:01:15Z",
-      "content": "Karen Gosbee and her husband George attend a gala at the Banff Centre in 2012.\r\nOne night in the fall of 2011, Karen Gosbees husband pinned and choked her on the granite steps in their palatial maste… [+12522 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news-ca",
-        "name": "Google News (Canada)"
-      },
-      "author": null,
-      "title": "Doug Ford’s critics call for more transparency on pandemic decisions",
-      "description": "Ontario’s move to reimpose COVID-19 restrictions comes as some questions mount about province’s opaque process",
-      "url": "https://www.theglobeandmail.com/canada/article-doug-fords-critics-call-for-more-transparency-on-pandemic-decisions/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/Z_vXOyqFv31pXM8xf6WzQWBZdzE=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5HH4IVY2N5JCJJMXMM7LJ3N5DE.jpg",
-      "publishedAt": "2020-10-10T00:59:56+00:00",
-      "content": "Ontario Premier Doug Ford holds a press conference regarding new restrictions at Queen's Park during the COVID-19 pandemic in Toronto on Oct. 2, 2020. \r\nNathan Denette/The Canadian Press\r\nOntario Pre… [+6335 chars]"
-    },
-    {
-      "source": {
-        "id": "the-globe-and-mail",
-        "name": "The Globe And Mail"
-      },
-      "author": null,
-      "title": "Doug Ford’s critics call for more transparency on pandemic decisions",
-      "description": "Ontario’s move to reimpose COVID-19 restrictions comes as some questions mount about province’s opaque process",
-      "url": "https://www.theglobeandmail.com/canada/article-doug-fords-critics-call-for-more-transparency-on-pandemic-decisions/",
-      "urlToImage": "https://www.theglobeandmail.com/resizer/Z_vXOyqFv31pXM8xf6WzQWBZdzE=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/5HH4IVY2N5JCJJMXMM7LJ3N5DE.jpg",
-      "publishedAt": "2020-10-10T00:59:56Z",
-      "content": "Ontario Premier Doug Ford holds a press conference regarding new restrictions at Queen's Park during the COVID-19 pandemic in Toronto on Oct. 2, 2020. \r\nNathan Denette/The Canadian Press\r\nOntario Pre… [+6335 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "Trump to hold first White House event since COVID diagnosis",
-      "description": "President Trump is inviting guests to the White House for the first in-person event since his coronavirus diagnosis. Ben Tracy reports.",
-      "url": "https://www.cbsnews.com/video/trump-to-hold-first-white-house-event-since-covid-diagnosis/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/10/b8d0b39d-d09a-4b47-898f-067437da747c/thumbnail/1200x630/3ad808560fca87dc3c9f7793f2a90ba6/cbsn-fusion-trump-to-hold-first-white-house-event-since-covid-diagnosis-thumbnail-563305-640x360.jpg",
-      "publishedAt": "2020-10-10T00:56:50+00:00",
-      "content": "President Trump is inviting guests to the White House for the first in-person event since his coronavirus diagnosis. Ben Tracy reports."
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "Louisiana braces for dangerous flooding from Hurricane Delta",
-      "description": "Louisiana is bracing for dangerous flooding from Hurricane Delta. David Begnaud reports.",
-      "url": "https://www.cbsnews.com/video/louisiana-braces-for-dangerous-flooding-from-hurricane-delta/",
-      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/10/4558dc1d-2acf-438e-8256-cfc63bce0ff1/thumbnail/1200x630/e02efc0733094f991b0e89131bd673b4/cbsn-fusion-louisiana-braces-for-dangerous-flooding-from-hurricane-delta-thumbnail-563302-640x360.jpg",
-      "publishedAt": "2020-10-10T00:55:02+00:00",
-      "content": "Louisiana is bracing for dangerous flooding from Hurricane Delta. David Begnaud reports."
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Jennifer O'Connell",
-      "title": "Rose McGowan, president SVP: ‘The only criteria for help is need’",
-      "description": "Charity boss says needs are growing but pandemic has made society more empathetic",
-      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/news/ireland/irish-news/rose-mcgowan-president-svp-the-only-criteria-for-help-is-need-1.4376630\t",
-      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4376629&origw=1440",
-      "publishedAt": "2020-10-10T00:54:00Z",
-      "content": "Poverty isnt always about money. Poverty is also about loneliness and lack of connection, says Rose McGowan, incoming president of the Society of St Vincent de Paul (SVP), and only the second female … [+6622 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Sarah Lynch Baldwin",
-      "title": "Hurricane Delta makes landfall on Louisiana coast - live updates",
-      "description": "Hurricane Delta, now a Category 2 storm, made landfall near Creole, Louisiana, on Friday evening.",
-      "url": "https://www.cbsnews.com/live-updates/hurricane-delta-track-path-latest-news-updates-2020-10-09/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/09/450f0278-6b00-499d-af47-c78cb8298bd7/thumbnail/1200x630/4cbd07e68a74b9d92edef91a591150e0/hurricane.jpg",
-      "publishedAt": "2020-10-10T00:53:58+00:00",
-      "content": "For residents in Hurricane Delta's path, the destruction a hurricane can wreak is nothing new. Just six weeks earlier, Hurricane Laura touched down in the U.S., devoting homes in southern Louisiana. … [+921 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": null,
-      "title": "The PlayStation 4 Games You Won't Be Able to Play on PlayStation 5 - IGN Daily Fix - IGN",
-      "description": "In today's Daily Fix, Akeem lists the PS4 games that aren't backward compatible with PS5, Marvel's Avengers devs have a plan to bring players back, and IGN's scathing review of FIFA 21 on Switch.",
-      "url": "https://www.ign.com/videos/the-playstation-4-games-you-wont-be-able-to-play-on-playstation-5-ign-daily-fix",
-      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/10/9/dailyfix-100920blogroll-1602285838661.jpg?width=1280",
-      "publishedAt": "2020-10-10T00:52:21.6721733Z",
-      "content": "Did you enjoy this video?"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "[{\"@type\":\"Person\",\"name\":\"Allie Hayes\",\"url\":\"https://www.buzzfeed.com/alliehayes\",\"jobTitle\":\"BuzzFeed Staff\"}]",
-      "title": "21 Horror Movie Scenes So Messed Up, They Just Might Be The Most Disturbing Of All Time",
-      "description": "Don't! Read! This! While! Eating! Or! At! Night!",
-      "url": "https://www.buzzfeed.com/alliehayes/most-disturbing-horror-movie-scenes-ever",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/6/22/enhanced/8cc393f40df6/original-10417-1602023787-4.jpg?crop=1581:830;0,0%26downsize=1250:*",
-      "publishedAt": "2020-10-10T00:52:15.6268017Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": null,
-      "title": "St. Louis Blues agree to seven-year deal with defenseman Torey Krug, who leaves Boston Bruins",
-      "description": "Defenseman Torey Krug, one of the top prizes in the free-agent market, has decided to leave the Boston Bruins for the St. Louis Blues.",
-      "url": "http://espn.go.com/nhl/story/_/id/30080623/st-louis-blues-agree-seven-year-deal-defenseman-torey-krug-leaves-boston-bruins",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1007%2Fr757087_1296x729_16%2D9.jpg",
-      "publishedAt": "2020-10-10T00:52:00Z",
-      "content": "Defenseman Torey Krug, one of the top prizes in this year's free-agent class, has agreed to a seven-year contract worth $45.5 million with the St. Louis Blues, the team announced Friday night.\r\nA blu… [+1272 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news-in",
-        "name": "Google News (India)"
-      },
-      "author": "AP",
-      "title": "Armenia, Azerbaijan agree on ceasefire in Nagorno-Karabakh",
-      "description": "The announcement follows 10 hours of talks between the diplomats in Moscow, which were sponsored by Russian Foreign Minister Sergey Lavrov",
-      "url": "https://www.thehindu.com/news/international/armenia-azerbaijan-agree-on-cease-fire-in-nagorno-karabakh/article32818771.ece",
-      "urlToImage": "https://www.thehindu.com/news/international/ljydvk/article32818770.ece/ALTERNATES/LANDSCAPE_615/THAVDNAGOMO",
-      "publishedAt": "2020-10-10T00:49:38+00:00",
-      "content": "Officials from Armenia and Azerbaijan on Friday said they have agreed to a cease-fire in Nagorno-Karbakh starting at noon Saturday.\r\nThe Hindu Explains | Whats behind the Armenia-Azerbaijan clashes?\r… [+881 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hindu",
-        "name": "The Hindu"
-      },
-      "author": "AP",
-      "title": "Armenia, Azerbaijan agree on ceasefire in Nagorno-Karabakh",
-      "description": "The announcement follows 10 hours of talks between the diplomats in Moscow, which were sponsored by Russian Foreign Minister Sergey Lavrov",
-      "url": "https://www.thehindu.com/news/international/armenia-azerbaijan-agree-on-cease-fire-in-nagorno-karabakh/article32818771.ece",
-      "urlToImage": "https://www.thehindu.com/news/international/ljydvk/article32818770.ece/ALTERNATES/LANDSCAPE_615/THAVDNAGOMO",
-      "publishedAt": "2020-10-10T00:49:38Z",
-      "content": "Officials from Armenia and Azerbaijan on Friday said they have agreed to a cease-fire in Nagorno-Karbakh starting at noon Saturday.\r\nThe Hindu Explains | Whats behind the Armenia-Azerbaijan clashes?\r… [+881 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "Hurricane Delta slams into Louisiana Gulf Coast as Category 2 storm",
-      "description": "Hurricane Delta made landfall as a Category 2 storm in Creole, Louisiana. The storm is unleashing damaging winds and a life-threatening storm surge just six weeks after Hurricane Laura struck. Jeff Berardelli joined CBSN with the latest on the storm.",
-      "url": "https://www.cbsnews.com/video/hurricane-delta-slams-into-louisiana-gulf-coast-as-category-2-storm/",
-      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/10/43fa2d9f-a346-456f-bb1f-fadf9c2148e7/thumbnail/1200x630/148bf2b845bed473563a14b9d5ee8766/cbsn-fusion-hurricane-delta-slams-into-louisiana-gulf-coast-as-category-2-storm-thumbnail-563256-640x360.jpg",
-      "publishedAt": "2020-10-10T00:47:27+00:00",
-      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "President Trump to hold first public events since COVID-19 diagnosis",
-      "description": "President Trump will hold some of his first public events in the coming days since being diagnosed with COVID-19. On Saturday, he's expected to speak about \"law and order\" during an event at the White House, and on Monday he'll hold a rally in Florida. \"Face …",
-      "url": "https://www.cbsnews.com/video/president-trump-to-hold-first-public-events-since-covid-19-diagnosis/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/10/32f3edf9-b911-4e9f-934d-35f0a90fc391/thumbnail/1200x630/5c42cfc563ae3ee783363173c28ef6c6/cbsn-fusion-president-trump-to-hold-first-public-events-since-covid-19-diagnosis-thumbnail-563276-640x360.jpg",
-      "publishedAt": "2020-10-10T00:47:26+00:00",
-      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "FBI/DHS: Government election systems face threat from active Zerologon exploits",
-      "description": "Zerologon gives attackers instant access to all-powerful domain controllers.",
-      "url": "https://arstechnica.com/information-technology/2020/10/feds-say-active-exploits-of-critical-zerologon-bug-threaten-elections-orgs/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/digital-padlock-760x380.jpg",
-      "publishedAt": "2020-10-10T00:43:18+00:00",
-      "content": "24 with 21 posters participating\r\nThe FBI and the cybersecurity arm of the Department of Homeland Security said they have detected hackers exploiting a critical Windows vulnerability against state an… [+2489 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news-au",
-        "name": "Google News (Australia)"
-      },
-      "author": "Lucy Mae Beers",
-      "title": "Victorian Premier confirms Melbourne will not ease COVID restrictions quickly on October 19",
-      "description": "The Victorian premier has confirmed Melbourne will not ease COVID restrictions as quickly as planned, but assured there will be steps taken.",
-      "url": "https://7news.com.au/lifestyle/health-wellbeing/victorian-premier-confirms-melbourne-will-not-ease-covid-restrictions-quickly-on-october-19-c-1377781",
-      "urlToImage": "https://images.s.7news.com.au/publication/C-1377781/e0a7d2055eaa34583f16f7dddff4878660711b78-16x9-x0y0w1920h1080.png?imwidth=1024",
-      "publishedAt": "2020-10-10T00:42:27+00:00",
-      "content": "The Victorian premier has confirmed Melbourne will not ease restrictions as quickly as planned, but assured there will be steps taken.\r\nOver the past few days, stubbornly high COVID case increases ha… [+1826 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "Hurricane Delta makes landfall on Louisiana's Gulf Coast",
-      "description": "Hurricane Delta slammed into Louisiana's Gulf Coast Friday, making landfall miles from where Hurricane Laura struck just six weeks ago. Shreveport, Louisiana, Mayor Adrian Perkins joined CBSN with more on the storm's impact.",
-      "url": "https://www.cbsnews.com/video/hurricane-delta-makes-landfall-on-louisianas-gulf-coast/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/10/522dcd3c-a9c4-4a86-9351-f9e31372b8bc/thumbnail/1200x630/079a9d83eabd6ced43362a12fb3f373c/cbsn-fusion-hurricane-delta-makes-landfall-on-louisianas-gulf-coast-thumbnail-563257-640x360.jpg",
-      "publishedAt": "2020-10-10T00:42:02+00:00",
-      "content": "Hurricane Delta slammed into Louisiana's Gulf Coast Friday, making landfall miles from where Hurricane Laura struck just six weeks ago. Shreveport, Louisiana, Mayor Adrian Perkins joined CBSN with mo… [+24 chars]"
-    },
-    {
-      "source": {
-        "id": "the-irish-times",
-        "name": "The Irish Times"
-      },
-      "author": "Pat Leahy, Cliff Taylor, Jack Horgan-Jones, Martin Wall",
-      "title": "Budget 2021: Pandemic set to push spending to record €5bn-€6bn",
-      "description": "Deficit for 2020 expected to be €21bn, considerably less than had been feared",
-      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/news/politics/budget-2021-pandemic-set-to-push-spending-to-record-5bn-6bn-1.4377012\t",
-      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4376082&origw=1440",
-      "publishedAt": "2020-10-10T00:39:57Z",
-      "content": "The Government is this weekend finalising the largest budget package in the history of the State as it continues to borrow and spend vast amounts to pay the economic and social costs of the coronavir… [+2894 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "New details emerge about plot to kidnap Michigan governor - CNN Video",
-      "description": "New details emerge about the men accused in in an alleged domestic terrorism plot to kidnap Michigan Democratic Gov. Gretchen Whitmer, including a history of anti-government views and calls for violence and bloodshed. CNN's Sara Sidner has the details.",
-      "url": "http://us.cnn.com/videos/politics/2020/10/09/new-details-michigan-governor-gretchen-whitmer-kidnap-plot-fbi-sidner-ebof-vpx.cnn",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201008124357-01-gretchen-whitmer-lead-image-super-tease.jpg",
-      "publishedAt": "2020-10-10T00:37:22.0153715Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": null,
-      "title": "TMNT",
-      "description": "SALE: Cowabunga! All our Teenage Mutant Ninja Turtle shirts and fleeces are on sale this week only! Your final price is shown only in your cart. Ends Midnight Sunday, October 11! Teenage Mutant Ninja Turtles designs are here and we've got all your favorite fi…",
-      "url": "https://bit.ly/3iyFHGm",
-      "urlToImage": "http://cdn.shopify.com/s/files/1/0255/3842/9014/files/STRW2403-10001008-CHAR_HTR_1200x1200.jpg?v=1579117858",
-      "publishedAt": "2020-10-10T00:37:16.8916461Z",
-      "content": "IGN Store\r\nApparel for What You're Into. Star Wars, Nintendo, Marvel and Much More. Shop securely with free shipping and returns offered on our full range of officially licensed t-shirts, fleece swea… [+34 chars]"
-    },
-    {
-      "source": {
-        "id": "the-huffington-post",
-        "name": "The Huffington Post"
-      },
-      "author": "Sarah Ruiz-Grossman",
-      "title": "Trump Takes Sham 'Health Assessment' In Bizarre Fox Appearance",
-      "description": "The president appeared on Fox News host Tucker Carlson's show in his first on-screen interview since getting the coronavirus.",
-      "url": "https://www.huffpost.com/entry/trump-tucker-carlson-coronavirus_n_5f80e54fc5b62f97bac2a452",
-      "urlToImage": "https://img.huffingtonpost.com/asset/5f8101382200008fef82c6d0.png?ops=1200_630",
-      "publishedAt": "2020-10-10T00:35:11Z",
-      "content": "President Donald Trump said he feels “really good, really strong” in a remote, televised “health assessment” performed on Fox News by Dr. Marc Siegel, a frequent Fox News contributor.\r\nThe president … [+2084 chars]"
-    },
-    {
-      "source": {
-        "id": "nhl-news",
-        "name": "NHL News"
-      },
-      "author": "NHL.com",
-      "title": "Krug agrees to seven-year, $45.5 million contract with Blues",
-      "description": "Torey Krug signed a seven-year, $45.5 million contract with the St. Louis Blues on Friday. It has an average annual value of $6.5 million.",
-      "url": "https://www.nhl.com/news/st-louis-blues-torey-krug-seven-year-contract/c-319288430",
-      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/319217480/1024x576/cut.jpg",
-      "publishedAt": "2020-10-10T00:32:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Amazon has canceled Crucible, its free-to-play multiplayer shooter that had already been returned to closed b…",
-      "description": "Amazon has officially canceled Crucible, its free-to-play multiplayer shooter. It’s the end of a rocky journey for the game, which was first launched in May after years in development before being put back into closed beta in July.",
-      "url": "https://www.theverge.com/2020/10/9/21510190/amazon-crucible-canceled-game-studios-closed-beta",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FaJUP_35_lzL0PWbF5umDZ8Xg10=/0x157:8000x4345/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19985260/amazon_crucible_key_art.jpeg",
-      "publishedAt": "2020-10-10T00:32:05Z",
-      "content": "The game was put back into closed beta in July\r\nImage: Amazon Game Studios\r\nAmazon has officially canceled Crucible, its free-to-play multiplayer shooter. Its the end of a rocky journey for the game,… [+1714 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Sam Machkovech",
-      "title": "RIP to Crucible, Amazon Games’ first PC shooter: 2020-2020",
-      "description": "Server shutdown set for November 9; game will live after servers go dark.",
-      "url": "https://arstechnica.com/gaming/2020/10/amazon-games-kills-its-ambitious-shooter-crucible-after-only-five-months/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/Crucible_flameout-760x380.jpg",
-      "publishedAt": "2020-10-10T00:31:27+00:00",
-      "content": "Enlarge/ We've previously put these Amazon Games mascots behind prison bars; now, they're in flames. RIP, Crucible. We hardly knew ye.\r\n14 with 12 posters participating\r\nAs it turns out, Amazon's ide… [+3866 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Second Trump-Biden debate canceled: How it impacts 2020 election",
-      "description": "Debate comission had previously planned virtual event; The 'Special Report' All-Star panel has reaction and analysis",
-      "url": "https://video.foxnews.com/v/6199342475001/",
-      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg",
-      "publishedAt": "2020-10-10T00:22:16.5924066Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Hurricane Delta makes landfall in Louisiana as Category 2 storm",
-      "description": "'Life-threatening' storm surge expected; Fox News senior correspondent Mike Tobin has the latest on 'The Story'",
-      "url": "https://video.foxnews.com/v/6199352775001/",
-      "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6d0ab87-688c-4b22-8c5c-c9dcc4301747/cb3f0891-fae6-4393-b943-943503fa7bc0/1280x720/match/image.jpg",
-      "publishedAt": "2020-10-10T00:22:16.0612898Z",
-      "content": null
+      "author": "Rebecca Falconer",
+      "title": "Hong Kong disqualifies pro-democracy lawmakers over China patriotism law",
+      "description": "City officials said they were \"endangering national security,\" without specifying how, per Reuters.",
+      "url": "https://www.axios.com/hong-kong-disqualifies-lawmakers-china-patriotism-law-81506760-a959-46a5-a16a-daa7dd2e0d85.html",
+      "urlToImage": "https://images.axios.com/MXpn3J7vIStEuHfvHHaoP1j1ntA=/fit-in/1366x1366/2020/11/11/1605077821945.None",
+      "publishedAt": "2020-11-11T07:10:31Z",
+      "content": "Texas has surpassed 1 million confirmed COVID-19 cases, Johns Hopkins University data shows.\r\nWhy it matters: Texas is the first U.S. state to pass the milestone. It has the 10th most cases in the wo… [+194 chars]"
     }
   ]
 }

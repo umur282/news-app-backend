@@ -1,1137 +1,45 @@
 {
   "status": "ok",
-  "totalResults": 2286,
+  "totalResults": 19238,
   "articles": [
     {
       "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Patrick Keddie",
-      "title": "What’s Turkey’s role in the Nagorno-Karabakh conflict?",
-      "description": "Turkey supports Azerbaijan and wants a seat at the negotiating table, but Ankara's interest goes beyond brotherly love.",
-      "url": "https://www.aljazeera.com/features/2020/10/30/whats-turkeys-role-in-the-nagorno-karabakh-conflict",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/10/2012-06-26T120000Z_1695407985_GM1E86R02Q801_RTRMADP_3_TURKEY-AZERBAIJAN-PIPE.jpg?resize=1200%2C630",
-      "publishedAt": "2020-10-30T09:44:17Z",
-      "content": "Istanbul, Turkey  NATO, the United States, Russia, and Iran have repeatedly called for an halt to the intense fighting that broke out between Azerbaijan and Armenia over the disputed region of Nagorn… [+10733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "By Chris Pleasance Jack Wright Nick Fagge Peter Allen In Paris for MailOnline",
-      "title": "Nice terror attack: Jihadist seen smiling in photo taken as he entered Europe",
-      "description": "Taken on October 8 as he entered mainland Europe through the Italian port city of Bari, this is the smiling face of Nice terrorist Brahim Aoussaoui who went on to massacre three people at a church.",
-      "url": "https://www.dailymail.co.uk/news/article-8896593/Nice-terror-attack-Jihadist-seen-smiling-photo-taken-entered-Europe.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/30/07/35030810-0-image-a-9_1604043339019.jpg",
-      "publishedAt": "2020-10-30T09:44:12Z",
-      "content": "Pictured smiling just weeks before massacring three people at a Catholic church in Nice, this is the face of terrorist killer Brahim Aoussaoui as he entered mainland Europe.\r\nThe picture was taken by… [+36821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Japan Times"
-      },
-      "author": "Bobby Ghosh",
-      "title": "Terror attacks in France demand statesmanship, not demagoguery",
-      "description": "What leaders say at moments like these matters. And all the more so now because too many leaders have recently been unable or unwilling to say the right things.",
-      "url": "https://www.japantimes.co.jp/opinion/2020/10/30/commentary/world-commentary/terror-attacks-france-demand-statesmanship-not-demagoguery/",
-      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/10/np_file_47725-870x579.jpeg",
-      "publishedAt": "2020-10-30T09:20:17Z",
-      "content": "World leaders behave in a settled pattern after a terrorist attack, so we know what to expect after the gruesome events in Nice on Thursday.\r\nFrench President Emmanuel Macron will proclaim outrage at… [+4914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
-      "author": "Mustafa Akyol and Swaminathan S. Anklesaria Aiyar",
-      "title": "Why India’s Muslims Reach for Liberalism",
-      "description": "When Prime Minister Narendra Modi makes Hindus more equal than religious minorities, Muslims seek equality from the secular Constitution, not Shariah.",
-      "url": "https://www.nytimes.com/2020/10/30/opinion/india-muslims-liberalism.html",
-      "urlToImage": "https://static01.nyt.com/images/2020/10/30/opinion/30Akyol-01/30Akyol-01-facebookJumbo.jpg",
-      "publishedAt": "2020-10-30T09:00:17Z",
-      "content": "All such liberal moves, according to Sharik Laliwala, a Muslim Indian commentator, signify a fundamental transformation in the political strategy of the Muslim community. Indian Muslims, he added, ar… [+2136 chars]"
-    },
-    {
-      "source": {
-        "id": "abc-news",
-        "name": "ABC News"
-      },
-      "author": "The Associated Press",
-      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
-      "description": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, has died at age 72",
-      "url": "https://abcnews.go.com/International/wireStory/turkish-pm-veteran-politician-mesut-yilmaz-dies-73919777",
-      "urlToImage": "https://s.abcnews.com/images/International/WireAP_70c0dec6677f47e7808eabb520ffc1d2_16x9_992.jpg",
-      "publishedAt": "2020-10-30T08:55:16Z",
-      "content": "ISTANBUL -- Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the officia… [+1424 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Toronto Star"
-      },
-      "author": "The Associated Press",
-      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
-      "description": "ISTANBUL - Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in...",
-      "url": "https://www.thestar.com/news/world/middleeast/2020/10/30/former-turkish-pm-and-veteran-politician-mesut-yilmaz-dies.html",
-      "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
-      "publishedAt": "2020-10-30T08:54:24Z",
-      "content": "ISTANBUL - Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the official… [+1423 chars]"
-    },
-    {
-      "source": {
-        "id": "independent",
-        "name": "Independent"
-      },
-      "author": "Via AP news wire",
-      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
-      "description": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, has died at age 72",
-      "url": "https://www.independent.co.uk/news/former-turkish-pm-and-veteran-politician-mesut-yilmaz-dies-politician-government-pm-country-two-b1443483.html",
-      "urlToImage": "https://static.independent.co.uk/2020/10/30/08/Turkey_Obit_Yilmaz_13690.jpg",
-      "publishedAt": "2020-10-30T08:53:57Z",
-      "content": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country died Friday at age 72, the official Anadolu new… [+1412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Associated Press",
-      "title": "Former Turkish PM and veteran politician Mesut Yilmaz dies",
-      "description": "Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the official Anadolu news agency reported. Yilmaz led the now-defunct center-right …",
-      "url": "https://news.yahoo.com/former-turkish-pm-veteran-politician-085355596.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/mtqHmmx8_hrVekbq3wMjMQ--~B/aD0yMDAwO3c9MTg2NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap.org/845b7954e0b80007e3a52ad4455aacb6",
-      "publishedAt": "2020-10-30T08:53:55Z",
-      "content": "ISTANBUL (AP) Mesut Yilmaz, a former Turkish prime minister and veteran politician who served as premier three times during a tumultuous political era in his country, died Friday at age 72, the offic… [+1426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnik International"
-      },
-      "author": "Dhairya Maheshwari . Sputnik International",
-      "title": "Macron Photos Plastered on Roads Amid Protests in Indian Cities as Outrage Grows Among Muslims",
-      "description": "The Indian government has condemned the recent terrorist attacks in France, including the heinous assault in Nice inside a church. India stands with France in the fight against terrorism, Prime Minister Narendra Modi tweeted on Thursday.",
-      "url": "https://sputniknews.com/india/202010301080923013-macron-photos-plastered-on-roads-amid-protests-in-indian-cities-as-outrage-grows-among-muslims/",
-      "urlToImage": "https://cdn2.img.sputniknews.com/images/07e4/0a/1e/1080924279.jpg",
-      "publishedAt": "2020-10-30T08:16:26Z",
-      "content": "The Indian government has condemned the recent terrorist attacks in France, including the heinous assault in Nice inside a church. India stands with France in the fight against terrorism, Prime Minis… [+3757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "bdnews24.com"
-      },
-      "author": null,
-      "title": "New terror attacks leave France embattled at home and abroad",
-      "description": "A terror attack that killed three people in Nice on Thursday left France increasingly embattled at home and abroad, as the government called for toughening measures against Islamist extremism, amid rising tensions with Muslim nations.",
-      "url": "https://bdnews24.com/world/europe/2020/10/30/new-terror-attacks-leave-france-embattled-at-home-and-abroad",
-      "urlToImage": "https://d30fl32nd2baj9.cloudfront.net/media/2020/10/30/nice-attack-301020-01.jpg/ALTERNATES/w640/nice-attack-301020-01.jpg",
-      "publishedAt": "2020-10-30T07:59:52Z",
-      "content": "A knife-wielding assailant left two people dead in Nices towering neo-Gothic basilica, including a 60-year-old woman who was nearly decapitated, and a third victim died after taking refuge in a nearb… [+8650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Times of Israel"
-      },
-      "author": null,
-      "title": "Israel-Arab accords an earthquake for Palestinians, who pin their hopes on Biden",
-      "description": "Sudan deal has deepened the shock in Ramallah, which is digging in despite impatience among erstwhile Sunni supporters. The Palestinians aren't going anywhere, but the PA might be",
-      "url": "https://www.timesofisrael.com/israel-arab-accords-an-earthquake-for-palestinians-who-pin-their-hopes-on-biden/",
-      "urlToImage": "https://static.timesofisrael.com/www/uploads/2020/10/AP_10031003714-1024x640.jpg",
-      "publishedAt": "2020-10-30T07:54:43Z",
-      "content": "The Organization of Islamic Cooperation has long been considered an anti-Israel institute, to put it mildly.\r\nIt was established following an Australian tourists attempt to burn down Jerusalem’s Al A… [+11657 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Moneycontrol"
-      },
-      "author": null,
-      "title": "Explainer: Whatâs happening in France, Emmanuel Macronâs gambit and why Turkey is being vocal",
-      "description": "French President Emmanuel Macronâs remarks about Islam amid recent attacks in France have led to the Muslim world squaring up against France. But, origins of this new conflict may be more complicated.",
-      "url": "https://www.moneycontrol.com/news/world/explainer-whats-happening-in-france-emmanuel-macrons-gambit-and-why-turkey-is-being-vocal-6039551.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/10/AP20303494538024-770x433.jpg",
-      "publishedAt": "2020-10-30T07:52:15Z",
-      "content": "French President Emmanuel Macrons recent remarks about Islam have led to an uproar in the Muslim world, directly placing France against many countries.\r\nThis started on October 16, when an 18-year-ol… [+6161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "author": "Henry Samuel and Abdelatif Azdine",
-      "title": "France defiant as recently arrived knifeman brings terror back to Nice",
-      "description": "A copy of the Koran belonging to the suspect, two telephones and a bag containing two other knives were found in the church where three people were killed.",
-      "url": "https://www.smh.com.au/world/europe/france-defiant-as-recently-arrived-knifeman-brings-terror-back-to-nice-20201030-p56a97.html",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.2208%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_187/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/6d15fee0815e8accba9b2b07b4e27f27da0bd24a",
-      "publishedAt": "2020-10-30T07:49:35Z",
-      "content": "He then launched a frenzied assault on a woman aged 44, who managed to run across the road to a hamburger outlet where she died of her wounds shortly afterwards.\r\n\"I heard people screaming,\" said Jac… [+7486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zerohedge.com"
-      },
-      "author": "Tyler Durden",
-      "title": "Russian Blitz In Syria Warns Turkey To Back Off In Caucasus",
-      "description": "Russian Blitz In Syria Warns Turkey To Back Off In Caucasus\n\n Tyler Durden\n \nFri, 10/30/2020 - 03:30\n\n Authored by Finian Cunningham via The Strategic Culture Foundation,\r\n\n\nIn an unprecedented show of strength, Russian warplanes this week reportedly launched…",
-      "url": "https://www.zerohedge.com/geopolitical/russian-blitz-syria-warns-turkey-back-caucasus",
-      "urlToImage": "https://www.zerohedge.com/s3/files/styles/max_650x650/public/2020-10/finian-930x520.jpg?itok=cmlOHAav",
-      "publishedAt": "2020-10-30T07:30:00Z",
-      "content": "Authored by Finian Cunningham via The Strategic Culture Foundation,\r\nIn an unprecedented show of strength, Russian warplanes this week reportedly launched devastating attacks on a Turkish-backed mili… [+4462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EURACTIV"
-      },
-      "author": "Krassen Nikolov",
-      "title": "Bulgaria’s Grand Mufti attacks Macron, defends Erdogan",
-      "description": "The Grand Mufti’s Office in Bulgaria accused French President Emmanuel Macron of “following in the footsteps of the neo-fascist way of conducting politics and rhetoric.” According to the Grand Mufti’s statement, the Charlie Hebdo satirical magazine, which was…",
-      "url": "https://www.euractiv.com/section/politics/short_news/bulgarias-grand-mufti-attacks-macron-defends-erdoga/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/10/w_56458011-800x450.jpg",
-      "publishedAt": "2020-10-30T07:09:51Z",
-      "content": "The Grand Muftis Office in Bulgaria accused French President Emmanuel Macron of “following in the footsteps of the neo-fascist way of conducting politics and rhetoric.”\r\nAccording to the Grand Mufti’… [+915 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnik International"
-      },
-      "author": null,
-      "title": "Moscow Warned Paris Many Times of Dangers Posed by Terrorists From North Caucasus, Deputy FM Says",
-      "description": "MOSCOW (Sputnik) - Moscow has repeatedly warned Paris of the threat coming from terrorists from the North Caucasus, but France kept accepting them as \"fighters for freedom\" and even granting citizenship to some of them, Russian Deputy Foreign Minister Oleg Sy…",
-      "url": "https://sputniknews.com/europe/202010301080923802-moscow-warned-paris-many-times-of-dangers-posed-by-terrorists-from-north-caucasus-deputy-fm-says/",
-      "urlToImage": "https://cdn1.img.sputniknews.com/images/107230/85/1072308586.png",
-      "publishedAt": "2020-10-30T07:07:58Z",
-      "content": "MOSCOW (Sputnik) - Moscow has repeatedly warned Paris of the threat coming from terrorists from the North Caucasus, but France kept accepting them as \"fighters for freedom\" and even granting citizens… [+2341 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EURACTIV"
-      },
-      "author": "Jennifer Baker, Marlene Stocker",
-      "title": "Tweets of the Week: Macron-Erdogan row, Poland Non-mention, Lockdown 2",
-      "description": "Erdogan and Macron row like only Presidents can, VDL's wishy-washy on Polish abortion ban, and lockdown two is the only Covid plan!",
-      "url": "http://www.euractiv.com/section/politics/video/tweets-of-the-week-macron-erdogan-row-poland-non-mention-lockdown-2/",
-      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/10/thmb-4x09-1-800x450.png",
-      "publishedAt": "2020-10-30T06:35:22Z",
-      "content": "Erdogan and Macron row like only Presidents can, VDL’s wishy-washy on Polish abortion ban, and lockdown two is the only Covid plan!\r\nAs TurkishPresident Tayyip Erdogan entered into a war of words wit… [+3000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zerohedge.com"
-      },
-      "author": "Tyler Durden",
-      "title": "Neo-Ottoman Nights Of Armenian-Azerbaijani War",
-      "description": "Neo-Ottoman Nights Of Armenian-Azerbaijani War\n\n Tyler Durden\n \nFri, 10/30/2020 - 02:00\n\n Submitted by SouthFront.org,\r\n\n\nTurkish Sultan-in-Chief Recep Tayyip Erdogan has come up with a justification for the deployment of Syrian militants to the Nagorno-Karab…",
-      "url": "https://www.zerohedge.com/geopolitical/neo-ottoman-nights-armenian-azerbaijani-war",
-      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-10/erdogan%20sultan%20in%20chief.jpg?itok=j9eCcfFy",
-      "publishedAt": "2020-10-30T06:00:00Z",
-      "content": "Submitted by SouthFront.org,\r\nTurkish Sultan-in-Chief Recep Tayyip Erdogan has come up with a justification for the deployment of Syrian militants to the Nagorno-Karabakh conflict zone to support the… [+4081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Greg Barton, Chair in Global Islamic Politics, Alfred Deakin Institute for Citizenship and Globalisation, Deakin University, Fethi Mansouri, Research professor, Deakin University",
-      "title": "For French Muslims, every terror attack brings questions about their loyalty to the republic",
-      "description": "France and its leaders are endlessly repeating the mistakes of the past, burdened by a flawed framing of identity and a needlessly narrow path to belonging.",
-      "url": "https://theconversation.com/for-french-muslims-every-terror-attack-brings-questions-about-their-loyalty-to-the-republic-149151",
-      "urlToImage": "https://images.theconversation.com/files/366616/original/file-20201030-24-15aqemt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2020-10-30T05:48:15Z",
-      "content": "IAN LANGSDON/EPA\r\nAfter three people died in a knife attack in Nice this week that French President Emmanuel Macron called an “Islamist terrorist attack”, there was a sense of déjà vu — we have seen … [+6923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Historynewsnetwork.org"
-      },
-      "author": null,
-      "title": "A Teacher, His Killer and the Failure of French Integration",
-      "description": "<p>The murder of a French social studies teacher who showed his multiethnic class images offensive to Islam illustrates the dilemma of the French policy of secularism, which is beset on one side by complaints that immigrants do not assimilate and on the other…",
-      "url": "https://historynewsnetwork.org/article/178012?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+hnn%2Fzxkz+%28HNN+Breaking+News%29",
-      "urlToImage": "https://s3.amazonaws.com/hnn-bucket/sites/default/files/178012-SamuelPatyDemonstration.jpg",
-      "publishedAt": "2020-10-30T04:23:01Z",
-      "content": "They could have easily shared the same classroom — the immigrant teenager and the veteran teacher known for his commitment to instilling the nation’s ideals, in a relationship that had turned waves o… [+1558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India.com"
-      },
-      "author": "Manish Shukla",
-      "title": "Turkey and Pakistan`s campaign to boycott French products backfire as Saudi Arabia steps in - Zee News",
-      "description": "<ol><li>Turkey and Pakistan`s campaign to boycott French products backfire as Saudi Arabia steps in  Zee News\r\n</li><li>India ‘strongly deplores’ attacks on Macron for tough stance on radical Islam  Hindustan Times\r\n</li><li>Turkey rakes up a new front with F…",
-      "url": "https://zeenews.india.com/world/turkey-and-pakistans-campaign-to-boycott-french-products-backfires-as-saudi-arabia-steps-in-2321103.html",
-      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2020/10/30/896166-turkey-saudi.jpg",
-      "publishedAt": "2020-10-30T04:23:01Z",
-      "content": "New Delhi: The temperament displayed by French President Emmanuel Macron to fight the radical Islamist terrorism after the brutal murder of teacher Samuel Paty and the outrage by the French citizens … [+5032 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Globalsecurity.org"
-      },
-      "author": "John Pike",
-      "title": "France-Turkey Dispute Grows Over Cartoons and Influence in Africa",
-      "description": "The war of words between France and Turkey over cartoons portraying Islam's Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the diplomatic storm over freedom of expression versus religious sensitivity…",
-      "url": "https://www.globalsecurity.org/wmd/library/news/france/france-201029-voa01.htm",
-      "urlToImage": null,
-      "publishedAt": "2020-10-30T04:10:28Z",
-      "content": "By Dorian Jones October 29, 2020\r\nThe war of words between France and Turkey over cartoons portraying Islam's Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to esc… [+2434 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "author": "FRANCE24",
-      "title": "Red lines, high stakes for Brand France in conservative Gulf",
-      "description": "French brands have long enjoyed prestige in the Gulf, but the country's clout in the conservative region is in jeopardy amid fury over the French president's defence of cartoons insulting Islam.\n\nMuslims worldwide have protested President Emmanuel Macron's st…",
-      "url": "https://www.france24.com/en/live-news/20201030-red-lines-high-stakes-for-brand-france-in-conservative-gulf",
-      "urlToImage": "https://s.france24.com/media/display/d476f00e-1a5e-11eb-b23c-005056a964fe/w:1280/p:16x9/8d01451c84c8f72b40f462f44a6ff8df6e07bfe9.jpg",
-      "publishedAt": "2020-10-30T03:20:17Z",
-      "content": "Doha (AFP)\r\nFrench brands have long enjoyed prestige in the Gulf, but the country's clout in the conservative region is in jeopardy amid fury over the French president's defence of cartoons insulting… [+4690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slashdot.org"
-      },
-      "author": "feedfeeder",
-      "title": "France terror attack: 3 dead in Nice could roil debate over free speech and Islam - Vox.com",
-      "description": "France terror attack: 3 dead in Nice could roil debate over free speech and IslamVox.com Knife attack in French city of Nice: Live updatesCNN Offensive Charlie Hebdo cartoon pushes Turkey-France tensions into overdrive.NBC News Europe outbreak worsens, France…",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=138007902",
-      "urlToImage": null,
-      "publishedAt": "2020-10-30T01:33:46Z",
-      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "author": "Henry Samuel",
-      "title": "'Words have consequences': Turkey's Erdogan cited in wave of deaths in France",
-      "description": "Erdogan said this week that Muslims were subject to a 'lynch campaign' comparable to the persecution of the Jews in the Second World War.\"",
-      "url": "https://www.smh.com.au/world/europe/words-have-consequences-turkey-s-erdogan-cited-in-wave-of-deaths-in-france-20201030-p569yz.html",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.2249%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/b2ec395e84b8567a67260a71438ec1c0a65cfb82",
-      "publishedAt": "2020-10-30T00:30:00Z",
-      "content": "Paris: Turkey's president has been accused of fanning the flames of Islamist violence against France, which mourned its second beheading in two weeks in an attack on a church in Nice that left three … [+686 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mother Jones"
-      },
-      "author": "Daniel Friedman",
-      "title": "Trump Admitted Years Ago to a “Little Conflict of Interest” in Turkey. It’s Not So Little.",
-      "description": "In December 2015, Donald Trump, then a presidential candidate, made a casual admission. “I have a little conflict of interest ’cause I have a major, major building in Istanbul,” Trump told his interviewer, Steve Bannon, who would later take over Trump’s presi…",
-      "url": "https://www.motherjones.com/politics/2020/10/trump-erdogan-turkey-conflict-of-interest-halkbank/",
-      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2020/10/Erdogan-Trump-AP19317782960592-1.jpg?w=1200&h=630&crop=1",
-      "publishedAt": "2020-10-29T23:53:44Z",
-      "content": "President Donald Trump and Turkish President Recep Tayyip Erdogan after a Nov. 13, 2019, news conference at the White House.Evan Vucci/AP\r\nFor indispensable reporting on the coronavirus crisis, the e… [+7361 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": null,
-      "title": "Merkel Delivers Somber Warning...",
-      "description": "Merkel Delivers Somber Warning...\r\n\n \n \n \n (Second column, 16th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:Fury Over New Covid Lockdowns in Europe Threatens Compliance...\r\n2nd surge worse than 1st?\r\nSan Fran's once-vibrant downtown empty...\r\nNJ city: $1,000 fi…",
-      "url": "https://www.bloomberg.com/news/articles/2020-10-29/merkel-delivers-somber-warning-to-eu-leaders-on-virus-reaction",
-      "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1atxmJ.img?h=630&w=1200&m=6&q=60&o=t&l=f&f=jpg",
-      "publishedAt": "2020-10-29T23:49:37Z",
-      "content": "(Bloomberg) -- German Chancellor Angela Merkel delivered a wake-up call to fellow leaders in the 27-nation European Union, saying they all failed to step in quickly enough to control the pandemic as … [+5046 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Slickdeals.net"
-      },
-      "author": "rrc06",
-      "title": "Trump Corruptly Meddled With Probe Into Crimes by Bank in Turkey",
-      "description": "drain the swamp.... \n \nhttps://nymag.com/intelligencer/2020/10/trump-turkey-bank-scandal-corruption-erdogan-halkbank-conflict-interest.html \n \nBiden’s casual assumption in 2016 that granting Erdogan ...",
-      "url": "https://slickdeals.net/f/14483129-trump-corruptly-meddled-with-probe-into-crimes-by-bank-in-turkey",
-      "urlToImage": "https://slickdeals.net/images/avatar/sd/new/sd-facebook-5-2.png",
-      "publishedAt": "2020-10-29T23:28:10Z",
-      "content": "Scandals tend to be complicated, especially scandals involving banks. But this one is extremely simple. The basic elements:1) The Justice Department was prosecuting financial crimes by a Turkish bank… [+948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wnd.com"
-      },
-      "author": "Patrick J. Buchanan",
-      "title": "Challenges the next president faces",
-      "description": "Of the presidents in the modern era, many have been dealt a difficult hand by history, but perhaps none more so than Donald Trump. In 1952, Harry Truman was in his third year of a stalemated war in Korea that was costing 200 American lives every week. He lost…",
-      "url": "https://www.wnd.com/2020/10/next-president-faces/",
-      "urlToImage": "https://www.wnd.com/wp-content/uploads/2012/09/nuclear-missiles-weapons.jpg",
-      "publishedAt": "2020-10-29T23:06:25Z",
-      "content": "Of the presidents in the modern era, many have been dealt a difficult hand by history, but perhaps none more so than Donald Trump. \r\nIn 1952, Harry Truman was in his third year of a stalemated war in… [+4802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Shubhajit Roy",
-      "title": "France church attack: PM underlines India’s support; between lines a key message",
-      "description": "“I strongly condemn the recent terrorist attacks in France, including today’s heinous attack in Nice inside a church. Our deepest and heartfelt condolences to the families of the victims and the people of France,” the PM tweeted.",
-      "url": "https://indianexpress.com/article/india/france-church-attack-narendra-modi-india-message-6909319/",
-      "urlToImage": "https://images.indianexpress.com/2020/06/modi-macron-1200.jpg",
-      "publishedAt": "2020-10-29T23:00:19Z",
-      "content": "Written by Shubhajit Roy\r\n | New Delhi | \r\nOctober 30, 2020 4:30:19 am\r\nFrench President Emmanuel Macron with Prime Minister Narendra Modi. (Reuters/File)A day after becoming the first non-Western co… [+5735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Cascade Behavioral Health",
-      "title": "Cascade Behavioral Hospital COVID-19 Positive Cases",
-      "description": "TUKWILA, Wash. (Oct. 29, 2020), Oct. 29, 2020 (GLOBE NEWSWIRE) -- While we continue to take all precautions in accordance with the latest Centers for Disease Control (CDC) guidance, our hospital, like all other health systems, has recently been impacted with …",
-      "url": "https://finance.yahoo.com/news/cascade-behavioral-hospital-covid-19-223200520.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/_ewK1CWLIZwl631PTWcpUQ--~B/aD05NTE7dz0xNTAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/a64feb718e2ff805d825ecadb0302e55",
-      "publishedAt": "2020-10-29T22:32:00Z",
-      "content": "Three people have been killedincluding one elderly woman and another person by decapitationand several others injured in a suspected terror attack inside the Notre-Dame basilica in the French city of… [+4411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Star Online"
-      },
-      "author": "Zhi Linfei",
-      "title": "Xinhua Middle East news summary at 2200 GMT, Oct. 29",
-      "description": "BEIRUT -- Lebanon and Israel held on Thursday the third round of indirect talks on maritime border demarcation, local media reported. Read full story",
-      "url": "https://www.thestar.com.my/news/world/2020/10/30/xinhua-middle-east-news-summary-at-2200-gmt-oct-29",
-      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2020-10-29T22:05:00Z",
-      "content": "BEIRUT -- Lebanon and Israel held on Thursday the third round of indirect talks on maritime border demarcation, local media reported.\r\n The next round of talks will take place on Nov. 11, which refle… [+1269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Zerohedge.com"
-      },
-      "author": "Tyler Durden",
-      "title": "Report Alleges Trump Quashed Criminal Probe Into Turkish Bank That Funneled Billions To Iran",
-      "description": "Report Alleges Trump Quashed Criminal Probe Into Turkish Bank That Funneled Billions To Iran\n\n Tyler Durden\n \nThu, 10/29/2020 - 18:05\n\n Prior bombshell claims in former national security advisor John Bolton's book released last summer alleging that President …",
-      "url": "https://www.zerohedge.com/political/real-foreign-influence-targeted-white-house-centers-erdogan-linked-turkish-bank",
-      "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2020-10/halkbank.jpg?itok=V8odB5ON",
-      "publishedAt": "2020-10-29T22:05:00Z",
-      "content": "Prior bombshell claims in former national security advisor John Bolton's book released last summer alleging that President Trump had agreed to quash a federal probe into a Turkish state-owned bank as… [+5327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Haaretz"
-      },
-      "author": "Aluf Benn",
-      "title": "Rabin’s legacy lives on through Netanyahu",
-      "description": "The agreements Netanyahu has signed with the United Arab Emirates and Bahrain recall the Rabin legacy far more than Ariel Sharon’s unilateral pullout from Gaza",
-      "url": "https://www.haaretz.com/israel-news/.premium-rabin-s-legacy-lives-on-through-netanyahu-1.9274060",
-      "urlToImage": "https://www.haaretz.com/polopoly_fs/1.9274229.1604004580!/image/3001239885.jpg_gen/derivatives/headline_1200x630/3001239885.jpg",
-      "publishedAt": "2020-10-29T22:04:13Z",
-      "content": "It happened in the fall of 1993, a few weeks after the White House signing ceremony for the Oslo Accords and the historic handshake between Prime Minister Yitzhak Rabin and Palestine Liberation Organ… [+5160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "By Jack Wright Chris Pleasance Nick Fagge Peter Allen In Paris for MailOnline",
-      "title": "Pictured: Terrorist, 21, who killed three with foot-long knife in Nice church terror rampage",
-      "description": "Brahim Aoussaoui, a 21-year-old Tunisian who arrived in Europe on a migrant boat last month, attacked worshippers with a knife in Nice's Notre Dame basilica.",
-      "url": "https://www.dailymail.co.uk/news/article-8894929/Pictured-Terrorist-21-killed-three-foot-long-knife-Nice-church-terror-rampage.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/29/21/35018222-0-image-a-28_1604006783365.jpg",
-      "publishedAt": "2020-10-29T22:00:19Z",
-      "content": "Brahim Aoussaoui, a 21-year-old Tunisian migrant, killed three worshippers in the Notre Dame basilica in Nice\r\nThe Islamist terrorist who shouted 'Allahu Akbar' as he butchered a man and two women du… [+32887 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VOA News"
-      },
-      "author": null,
-      "title": "NATO Allies Growing Weary of Turkish Aggression",
-      "description": "The United States is pushing NATO countries to work with Turkey in hopes of healing divisions that have seen Ankara move closer to Russia, but at least one of those allies is bracing for more turmoil.\n\nGreece, embroiled in a dispute with Turkey over rights an…",
-      "url": "https://www.voanews.com/usa/nato-allies-growing-weary-turkish-aggression",
-      "urlToImage": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-10/000_1X20VN.jpg",
-      "publishedAt": "2020-10-29T21:30:20Z",
-      "content": "WASHINGTON - The United States is pushing NATO countries to work with Turkey in hopes of healing divisions that have seen Ankara move closer to Russia, but at least one of those allies is bracing for… [+3667 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "David Ignatius",
-      "title": "The world is watching this election. Here’s what other countries have to gain and lose.",
-      "description": "To say the world is watching does not begin to describe the global focus on the United States.",
-      "url": "https://www.washingtonpost.com/opinions/the-world-is-watching-this-election-heres-what-other-countries-have-to-gain-and-lose/2020/10/29/91f2db98-1a1e-11eb-befb-8864259bd2d8_story.html",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NIUDBMAZLEI6XPX3RBSCLG6S3A.jpg&w=1440",
-      "publishedAt": "2020-10-29T21:28:04Z",
-      "content": "Talking with foreign officials in recent weeks, Ive been struck by the intensity of their interest in what happens on Nov. 3. They have studied up on the electoral college, the quirks of mail-in voti… [+4948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ed Ram",
-      "title": "Armenia's prime minister calls for Russian peacekeepers to halt war in Nagorno Karabakh",
-      "description": "Armenia's prime minister has said that he will accept Russian peacekeepers in the disputed region of Nagorno Karabakh if it ends his country's increasingly costly war with Azerbaijan. In an interview with the Telegraph, Nikol Pashinyan said that a neutral for…",
-      "url": "https://news.yahoo.com/armenias-prime-minister-calls-russian-212222431.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/hPzg27rj6nIRE.k0tJpnsA--~B/aD0xMTIyO3c9MTc5NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-GB/the_telegraph_258/c37d4cf8188d94643459204e51c4e96c",
-      "publishedAt": "2020-10-29T21:22:22Z",
-      "content": "Armenia's prime minister, Nikol Pashinyan - UNTV\r\nArmenia's prime minister has said that he will accept Russian peacekeepers in the disputed region of Nagorno Karabakh if it ends his country's increa… [+5633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Power Line"
-      },
-      "author": "Paul Mirengoff",
-      "title": "Behind the bloody attacks in France",
-      "description": "(Paul Mirengoff) The Islamist violence in France that John describes in his post below is the bloody tip of the spear of the Islamic world’s reaction to President Macron’s attempt to defeat terrorism. Turkey’s president, the deplorable thug Erdogan, attacked …",
-      "url": "http://www.powerlineblog.com/archives/2020/10/behind-the-bloody-attacks-in-france.php",
-      "urlToImage": "https://www.powerlineblog.com/ed-assets/2020/10/macron-and-erdogan.jpg",
-      "publishedAt": "2020-10-29T21:03:53Z",
-      "content": "The Islamist violence in France that John describes in his post below is the bloody tip of the spear of the Islamic world’s reaction to President Macron’s attempt to defeat terrorism. Turkey’s presid… [+2590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Stephen Nellis",
-      "title": "Apple's subscription bundle of news, music and services to launch Friday",
-      "description": "The bundle varies by geography but generally combines Apple's news, music, video and cloud storage offerings, putting it in fiercer competition with music rivals such as Spotify Technology SA and television content rivals Netflix Inc , Walt Disney Co and AT&T…",
-      "url": "https://finance.yahoo.com/news/apples-subscription-bundle-news-music-204358754.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/8d8APdmlMsnApLrF3gOqnw--~B/aD01MzA7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-US/reuters.com/100d7e49fd89416f6026026b5913fb00",
-      "publishedAt": "2020-10-29T20:43:58Z",
-      "content": "Three people have been killedincluding one elderly woman and another person by decapitationand several others injured in a suspected terror attack inside the Notre-Dame basilica in the French city of… [+4411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "esquire.com"
-      },
-      "author": "Charles P. Pierce",
-      "title": "Trump's Devotion to Foreign Strongmen and Shady Money Knows No Bounds",
-      "description": "The president and Turkey's Recep Tayyip Erdogan have been doing the junior prom slow-dance thing ever since 2016",
-      "url": "https://www.esquire.com/news-politics/politics/a34523893/trump-erdogan-turkish-bank-investigation/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/erdo-1604002233.jpg?crop=1.00xw:0.723xh;0,0.0600xh&resize=1200:*",
-      "publishedAt": "2020-10-29T20:14:00Z",
-      "content": "In keeping with our Thursday theme of international financial bunco, the New York Times brings us yet another story about the administration*'s devotion to foreign strongmen and the president*s devot… [+3004 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Indian Express"
-      },
-      "author": "Explained Desk",
-      "title": "Explained: Why another Charlie Hebdo cartoon is fanning Turkey-France tensions",
-      "description": "Turkey’s Erdogan has called for a boycott of French goods and questioned Macron’s sanity, after the latter declared that ‘Islam is a religion that is in crisis today all over the world’.",
-      "url": "https://indianexpress.com/article/explained/explained-why-another-charlie-hebdo-cartoon-is-fanning-turkey-france-tensions-6909228/",
-      "urlToImage": "https://images.indianexpress.com/2020/10/macron-erdogan-1200.jpg",
-      "publishedAt": "2020-10-29T20:01:20Z",
-      "content": "Erdogans spokesperson said the recent cartoons were the latest example of French President Macrons anti-Muslim agenda. (Photos: AP)The recent edition of French satirical magazine Charlie Hebdo, which… [+4907 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Frances Martel",
-      "title": "Erdogan on Eve of Jihad Wave in France: 'No Muslim Can Be a Terrorist'",
-      "description": "Turkish Islamist President Recep Tayyip Erdogan declared on Wednesday that \"no Muslim can be a terrorist.\"",
-      "url": "https://www.breitbart.com/middle-east/2020/10/29/erdogan-eve-jihad-wave-france-no-muslim-can-be-terrorist/",
-      "urlToImage": "https://media.breitbart.com/media/2020/07/Erdogan-640x335.jpg",
-      "publishedAt": "2020-10-29T19:47:37Z",
-      "content": "Turkish Islamist President Recep Tayyip Erdogan declared in an aggressive speech against Western values of free expression Wednesday that “no Muslim can be a terrorist” because only “black-hearted” p… [+5016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Daily Caller"
-      },
-      "author": "Dylan Housman",
-      "title": "French Authorities Reportedly Stop Attempted Copycat After Nice Attack",
-      "description": "French police stopped another potential terrorist attack at a church in a Paris suburb Thursday after the fatal stabbing of three people earlier in Nice.",
-      "url": "https://dailycaller.com/2020/10/29/french-police-stop-attempted-copycat-killer-nice-attack-radical-islamic-terrorism/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2020/10/Nice-attack-scaled-e1603999497425.jpg",
-      "publishedAt": "2020-10-29T19:41:13Z",
-      "content": "French police stopped another potential terrorist attack at a church in a Paris suburb Thursday after the fatal stabbing of three people earlier in the day in Nice, according to reports. \r\nA lone sus… [+1438 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": "Levon Sevunts",
-      "title": "Senate motion calls on Canada to recognize independence of Nagorno-Karabakh",
-      "description": "Conservative Sen. Leo Housakos is calling on Canada to recognize the independence of Nagorno-Karabakh and \"immediately condemn the joint Azerbaijani-Turkish aggression\" against the breakaway Armenian-populated region in the South Caucasus.",
-      "url": "https://www.cbc.ca/news/politics/nagorno-karabakh-armenia-azerbaijan-turkey-housakos-1.5782179",
-      "urlToImage": "https://i.cbc.ca/1.5782257.1603998985!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/azerbaijan-armenia.jpg",
-      "publishedAt": "2020-10-29T19:25:58Z",
-      "content": "Conservative Sen. Leo Housakos is calling on Canada to recognize the independence of Nagorno-Karabakh and \"immediately condemn the joint Azerbaijani-Turkish aggression\" against the breakaway Armenian… [+4653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Republic World"
-      },
-      "author": "Shubham Bose",
-      "title": "France Church Attack: UN Chief Antonio Guterres condemns heinous knife attack in Nice",
-      "description": "UN chief has extended his deepest condolences to the families of the victims and said that the United Nations stands in solidarity with the French authorities",
-      "url": "https://www.republicworld.com/world-news/europe/france-church-attack-un-chief-antonio-guterres-condemns-heinous-knife-attack-in-nice.html",
-      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/ryvkukbvqurrtugp_1603997584.jpeg?tr=f-jpeg",
-      "publishedAt": "2020-10-29T19:20:39Z",
-      "content": "UN Secretary-General Antonio Guterres has strongly condemned the recent knife attack at a Church in the French city of Nice. As per reports, the heinous attack left three people dead at the Notre Dam… [+1952 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Presstv.com"
-      },
-      "author": null,
-      "title": "Somalis protest against offensive cartoons on birthday of Prophet Mohammad",
-      "description": "Protesters in Mogadishu gathered on Thursday to protest against French president and the printing of cartoons of Prophet Mohammad in France.",
-      "url": "https://www.presstv.com/Detail/2020/10/29/637506/Somalis-protest-against-offensive-cartoons-on-birthday-of-Prophet-Mohammad",
-      "urlToImage": "https://cdn.presstv.com/photo/20201029/a442b3c3-45b9-4cd2-8adb-075eeb7b0e7e.jpg",
-      "publishedAt": "2020-10-29T19:19:35Z",
-      "content": "Protesters in Somalia's capital Mogadishu gathered on Thursday for a second day to protest against French President Emmanuel Macron and the printing of cartoons of Prophet Mohammad (PBUH) in France.\r… [+1113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Eric Lipton and Benjamin Weiser",
-      "title": "Turkish Bank Case Showed Erdogan's Influence With Trump",
-      "description": "WASHINGTON -- ​Geoffrey Berman was outraged.The top federal prosecutor in Manhattan, Berman had traveled to Washington in June 2019 to discuss a particularly delicate case with Attorney General William Barr and some of his top aides: a criminal investigation …",
-      "url": "https://news.yahoo.com/turkish-bank-case-showed-erdogans-190801983.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_vaNwUjAAI5m7Vw6dE7s7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/guT.X4j4IAJI.A3ui89tEQ--~B/aD0zNTIwO3c9NTI4MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_new_york_times_articles_158/19610dc4c0f03c277bc707f5499ea076",
-      "publishedAt": "2020-10-29T19:08:01Z",
-      "content": "Attorney General William Barr at the White House on Aug. 3, 2020. (Doug Mills/The New York Times)\r\nWASHINGTON — Geoffrey Berman was outraged.\r\nThe top federal prosecutor in Manhattan, Berman had trav… [+22863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Standard"
-      },
-      "author": "Reuters",
-      "title": "Three dead as woman beheaded in attack in French church; security hiked",
-      "description": "A defiant President Emmanuel Macron, declaring that France had been subject to an Islamist terrorist attack, said he would deploy thousands more soldiers to protect important French sites",
-      "url": "https://www.business-standard.com/article/international/three-dead-as-woman-beheaded-in-attack-in-french-church-security-hiked-120103000022_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/30/full/1603997837-0421.jpg",
-      "publishedAt": "2020-10-29T18:55:00Z",
-      "content": "A knife-wielding attacker shouting \"Allahu Akbar\" (God is Greatest) beheaded a woman and killed two other people in a church in the French city of Nice on Thursday.\r\nA defiant President Emmanuel Macr… [+5276 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "By Theodoric Meyer",
-      "title": "Monument adds a Democrat",
-      "description": "New details on the lobbying on the tax overhaul — Internet Association adds a senior vice president",
-      "url": "https://www.politico.com/newsletters/politico-influence/2020/10/29/monument-adds-a-democrat-490748",
-      "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-      "publishedAt": "2020-10-29T18:53:48Z",
-      "content": "Presented by Facebook\r\nWith Daniel Lippman\r\nMONUMENT ADDS A DEMOCRAT: Monument Advocacy is bringing on a Democratic lobbyist ahead of Election Day. Larry Duncan, who previously ran his own firm, Poto… [+10616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vanity Fair"
-      },
-      "author": "Joe Hagan",
-      "title": "Writing the Finale: 21 Fever-Dream Endings for the Trump Show",
-      "description": "For four years, together and alone, we’ve quietly authored our own endings to the Trumpian roller coaster, whether in a week or another 100 years. Here, in part one of two, writers, poets, and politicos—from Adam McKay to Alexander Chee to Eileen Myles—weigh …",
-      "url": "https://www.vanityfair.com/news/2020/10/21-fever-dream-endings-for-the-trump-show",
-      "urlToImage": "https://media.vanityfair.com/photos/5f9ae129d070eec8d50f0fb0/16:9/w_1280,c_limit/trump-tv-how-will-it-end-VF120118.jpg",
-      "publishedAt": "2020-10-29T18:29:07Z",
-      "content": "Nobody knows anything, screenwriter William Goldman once said about Hollywood, but its hard to think of a truer accounting of this political moment. With days until the election, the fate of the nati… [+6347 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": null,
-      "title": "Azerbaijan hits maternity hospital in conflict with Armenia over Nagorno-Karabakh",
-      "description": "Armenian and Azerbaijani forces fought over the separatist region Nagorno-Karabakh despite a U.S.-brokered cease-fire.",
-      "url": "https://www.usatoday.com/story/news/world/2020/10/29/azerbaijan-hits-hospital-dispute-armenia-over-nagorno-karabakh/6073536002/",
-      "urlToImage": "https://www.gannett-cdn.com/presto/2020/10/29/USAT/07d45230-8cfb-4f3d-b6bf-cb9e415f6203-AP_APTOPIX_Armenia_Azerbaijan.JPG?crop=4978,2800,x0,y92&width=3200&height=1680&fit=bounds",
-      "publishedAt": "2020-10-29T18:22:07Z",
-      "content": "A hospital in Nagorno-Karabakh's regional capital of Stepanakert was hit by shelling on Wednesday amid the ongoing conflict between Azerbaijan and Armenia. (Oct. 29)\r\nAP Domestic\r\nYEREVAN, Armenia Ro… [+6985 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hot Air"
-      },
-      "author": "<![CDATA[Allahpundit]]>, tips@hotair.com (Hot Air Network, LLC), Hot Air Network, LLC",
-      "title": "So that's why Trump and Barr dumped the U.S. Attorney in charge of the SDNY",
-      "description": "<![CDATA[\"[T]his story is a good example of why pious Republican outrage over possible Biden overseas entanglements falls with such a thud,\" said Ross Douthat about this Times scoop, correctly. It's everything that the Hunter Biden laptop narrative claims to …",
-      "url": "https://hotair.com/archives/allahpundit/2020/10/29/thats-trump-barr-dumped-u-s-attorney-charge-sdny/",
-      "urlToImage": "https://hotair.com/wp/wp-content/uploads/2020/10/tb-3.jpg",
-      "publishedAt": "2020-10-29T18:01:36Z",
-      "content": "[T]his story is a good example of why pious Republican outrage over possible Biden overseas entanglements falls with such a thud, said Ross Douthat about this Times scoop, correctly. Its everything t… [+8148 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Beer Institute",
-      "title": "Beer Institute Releases September 2020 Domestic Tax Paid Estimate",
-      "description": "WASHINGTON, Oct. 29, 2020 (GLOBE NEWSWIRE) -- Today, the Beer Institute published an unofficial estimate of domestic tax paid shipments by beer brewers for September 2020:The September 2020 estimate is 14,800,000 barrels, which is virtually the same as the Se…",
-      "url": "https://finance.yahoo.com/news/beer-institute-releases-september-2020-180000613.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/1Gdyz1LlPZRVWU3VKrZ.Ug--~B/aD01NzY7dz01NzY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/globenewswire.com/ddd9c16e615c71dacb997842a311b6cc",
-      "publishedAt": "2020-10-29T18:00:00Z",
-      "content": "Three people have been killedincluding one elderly woman and another person by decapitationand several others injured in a suspected terror attack inside the Notre-Dame basilica in the French city of… [+4411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AlterNet"
-      },
-      "author": "Mark Sumner",
-      "title": "Some of the mystery around why Barr was so anxious to fire US Attorney Berman has been solved",
-      "description": "In June, Attorney General William Barr suddenly announced the resignation of U.S. attorney Geoffrey Berman. There was only one problem—Berman had not resigned, and he wasn't going to resign. So Barr fired him. Berman disputed Barr's ability to remove him from…",
-      "url": "https://www.alternet.org/2020/10/some-of-the-mystery-around-why-barr-was-so-anxious-to-fire-us-attorney-berman-has-been-solved/",
-      "urlToImage": "https://www.alternet.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNDQ0MjI1MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYyNTg0MTA2NX0.SVSSGQf7NGYqtagh5JeewPKUtKEdpOoZl5syhGhPa3U/image.jpg?width=1200&coordinates=0%2C60%2C0%2C60&height=600",
-      "publishedAt": "2020-10-29T17:43:05Z",
-      "content": "In June, Attorney General William Barr suddenly announced the resignation of U.S. attorney Geoffrey Berman. There was only one problemBerman had not resigned, and he wasn't going to resign. So Barr f… [+4434 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Presstv.com"
-      },
-      "author": null,
-      "title": "French president in Nice after deadly knife attack",
-      "description": "French president arrived in the southern port city of Nice after three people killed in knife attack.",
-      "url": "https://www.presstv.com/Detail/2020/10/29/637499/French-president-macron-Nice-attack",
-      "urlToImage": "https://cdn.presstv.com/Photo/2020/10/29/266a14ef-057f-4ab1-9349-e05550652ce8.jpg",
-      "publishedAt": "2020-10-29T17:42:03Z",
-      "content": "French President Emmanuel Macron has arrived in the southern port city of Nice, which was the scene of a deadly knife attack earlier on Thursday, leaving several people dead and attacker wounded.\r\nTh… [+4854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lawfare"
-      },
-      "author": "Anna Salvatore, Tia Sewell",
-      "title": "Today’s Headlines and Commentary",
-      "description": "Attorney General Bill Barr tried to squash the Justice Department’s investigation into a state-owned Turkish bank accused of funneling money to Iran. According to a New York Times report, the president’s political appointees at the department slowed down the …",
-      "url": "https://www.lawfareblog.com/todays-headlines-and-commentary-2191",
-      "urlToImage": "https://www.lawfareblog.com/lawfare-default.png",
-      "publishedAt": "2020-10-29T17:41:50Z",
-      "content": "Attorney General Bill Barr tried to squash the Justice Departments investigation into a state-owned Turkish bank accused of funneling money to Iran. According to a New York Times report, the presiden… [+6075 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Paul Waldman",
-      "title": "How Trump’s epic corruption reveals hidden weaknesses in the system",
-      "description": "He has offered us a corruption master class, showing how deep and wide it can go.",
-      "url": "https://www.washingtonpost.com/opinions/2020/10/29/how-trumps-epic-corruption-reveals-hidden-weaknesses-system/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LC7TTEQYPMI6XC62QFGKK3QTRM.jpg&w=1440",
-      "publishedAt": "2020-10-29T17:39:36Z",
-      "content": "In doing so he has revealed that opportunities for corruption are far more numerous than we knew, which means that well need a sweeping reexamination of the systems we put in place to prevent it.\r\nLe… [+5319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WSOC Charlotte"
-      },
-      "author": "",
-      "title": "The Latest: Trump tweets support for France after attack",
-      "description": "U.S. President Donald Trump has taken to Twitter to express his support for France after a knife-wielding man killed three people in an attack at a church in the southern French city of Nice",
-      "url": "https://www.wsoctv.com/news/world/latest-trump-tweets/K45HQH4VYI6LDP7QUBHKTXHKR4/",
-      "urlToImage": "https://www.wsoctv.com/resizer/-mz1fpXbQ3McitF9bzQdyiY_hU0=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/26QEMVCFPKRRVPQAZESK7LCS2Q.jpg",
-      "publishedAt": "2020-10-29T17:20:28Z",
-      "content": "U.S. President Donald Trump has taken to Twitter to express his support for France after a knife-wielding man killed three people in an attack at a church in the southern French city of Nice.\r\nTrump … [+13824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Cut"
-      },
-      "author": "Madeleine Aggeler",
-      "title": "Three Dead in Knife Attack in France",
-      "description": "The attack comes amid a period of growing tension in France over secularism and religious equality.",
-      "url": "http://www.thecut.com/2020/10/france-terror-attack-three-dead-in-knife-attack-in-nice.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/859/b4f/fc9f6cabe72c6fc680ca866974c83ece5c-nice-france-2.1x.rsocial.w1200.jpg",
-      "publishedAt": "2020-10-29T17:08:02Z",
-      "content": "Three people are dead after a man wielding a knife attacked a church in the southern French city of Nice on Thursday. According to Reuters, of the three, two people died in the citys Notre-Dame Basil… [+1942 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TPM"
-      },
-      "author": "Matt Shuham",
-      "title": "5 Points On The Huge Story About Trump And A Turkish Bank That’s Flying Under The Radar",
-      "description": "The President and senior administration officials — including multiple attorneys general — repeatedly meddled in a federal investigation into the state-owned…",
-      "url": "https://talkingpointsmemo.com/fivepoints/5-points-on-the-huge-story-about-trump-and-a-turkish-bank-thats-flying-under-the-radar",
-      "urlToImage": "https://cdn.talkingpointsmemo.com/wp-content/uploads/2020/10/GettyImages-1186510980-804x558.jpg",
-      "publishedAt": "2020-10-29T17:03:27Z",
-      "content": "The President and senior administration officials — including multiple attorneys general — repeatedly meddled in a federal investigation into the state-owned Turkish bank Halkbank, the New York Times… [+5363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Mirror Online"
-      },
-      "author": "mirrornews@mirror.co.uk (Eric Gaillard, Milo Boyd)",
-      "title": "Dad-of-two who was church sacristan named as first victim of Nice terror attack",
-      "description": "Vincent Loques, who was a warden of the Notre Dame basilica, died when a knife-wielding man stormed into the Nice church and slit his throat, fatally stabbed one woman and beheaded another",
-      "url": "https://www.mirror.co.uk/news/world-news/breaking-nice-attack-dad-two-22927142",
-      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22927175.ece/ALTERNATES/s1200/0_THP_CHP_291020SLUG_8838JPG.jpg",
-      "publishedAt": "2020-10-29T17:03:09Z",
-      "content": "The first of three victims of a brutal knife attack in Nice has been named.\r\nVincent Loques, 45, was a warden of the Notre Dame basilica, which was attacked this morning by a man thought to be Tunisi… [+4833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "UN News"
-      },
-      "author": null,
-      "title": "UN strongly condemns knife attack inside Nice church which left three dead",
-      "description": "The UN Secretary-General on Thursday strongly condemned a knife attack inside a French church in the southern French city of Nice, which reportedly left three worshippers dead.",
-      "url": "https://news.un.org/en/story/2020/10/1076452",
-      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/29-10-2020-Nice-France.jpg/image770x420cropped.jpg",
-      "publishedAt": "2020-10-29T16:54:57Z",
-      "content": "In a statement released by his Spokesperson, António Guterres extended his condolences to the families of the victims, and reaffirmed the solidarity of the United Nations with the people and the Gove… [+4144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Deutsche Welle (www.dw.com)",
-      "title": "The French-Turkish spat that could 'widen the civilizational divide'",
-      "description": "France's Emmanual Macron and Turkey's Recep Tayyip Erdogan have been trading barbs over free speech and a French plan to fight radical Islam. The motivations for the fight are many, and the consequences could be great.",
-      "url": "https://www.dw.com/en/the-french-turkish-spat-that-could-widen-the-civilizational-divide/a-55436645",
-      "urlToImage": "https://static.dw.com/image/55438930_304.jpg",
-      "publishedAt": "2020-10-29T16:25:00Z",
-      "content": "The current rivalry between France and Turkey may not be new, but it appears to have reached new heights or rather lows.\r\n\"All you can say about a head of state who treats millions of members of vari… [+6153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Memeorandum.com"
-      },
-      "author": null,
-      "title": "Trump Quashed Probe Into Crimes by Bank in Turkey, Which Is Paying Trump (Jonathan Chait/New York Magazine)",
-      "description": "Jonathan Chait / New York Magazine:\nTrump Quashed Probe Into Crimes by Bank in Turkey, Which Is Paying Trump  —  In 2016, Turkish strongman Recep Tayyip Erdogan asked then-Vice-President Joe Biden to lean on federal prosecutors who were investigating a Turkis…",
-      "url": "https://www.memeorandum.com/201029/p72",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/0e6/0d6/6ba24a66addd8d445afd35e0aa44545e30-Trump-and-Erdogan.2x.rsocial.w600.jpg",
-      "publishedAt": "2020-10-29T16:20:05Z",
-      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\r\nUnlike sister sites Techmeme and Mediagazer, it is not a human-edited news out… [+72 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Protothema.gr"
-      },
-      "author": "Thema Newsroom",
-      "title": "France: Turks attack Armenians in Lyon’s neighborhoods! (videos)",
-      "description": "As soon as it got dark, amid a curfew, Turks took to the streets shouting \"Allah Akbar\" and \"Where are the Armenians?\"",
-      "url": "http://en.protothema.gr/france-turks-attack-armenians-in-lyons-neighborhoods-videos/",
-      "urlToImage": "http://en.protothema.gr/wp-content/uploads/2020/10/gallia_tourkoi1-150x150.jpg",
-      "publishedAt": "2020-10-29T16:16:21Z",
-      "content": "“Allahu Akbar (God is great) is not a nationalist slogan, but an Islamic slogan”, wrote one user, commenting on the controversial video posted on Twitter by the Arabic-language website DuvaR.\r\n“Erdog… [+74 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Mail"
-      },
-      "author": "By Tim Stickings For Mailonline",
-      "title": "Jihadists celebrate Nice terror attack as ISIS and al-Qaeda call for more violence",
-      "description": "The latest in a long line of violent attacks in France was 'already being celebrated massively across jihadi communities' by late Thursday, according to a monitoring group.",
-      "url": "https://www.dailymail.co.uk/news/article-8893873/Jihadists-celebrate-Nice-terror-attack-ISIS-al-Qaeda-call-violence.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/29/16/35006152-0-image-a-29_1603987728620.jpg",
-      "publishedAt": "2020-10-29T16:10:39Z",
-      "content": "Online jihadists celebrated the latest terror attack on France today after three people were murdered by a knifeman in Nice on a day which also saw a gunman killed in Avignon and a guard attacked at … [+4088 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Leda Reynolds",
-      "title": "France Raises Terror Threat to Highest Level After Spate of Attacks That Left 3 Dead and Others Injured",
-      "description": "Move comes after three killed in the French city of Nice by a knifeman who struck on Thursday morning.",
-      "url": "https://www.newsweek.com/france-raises-terror-threat-level-highest-after-spate-attacks-which-have-left-3-dead-others-injured-1543252",
-      "urlToImage": "https://d.newsweek.com/en/full/1661411/notre-dame-nice.jpg",
-      "publishedAt": "2020-10-29T16:05:50Z",
-      "content": "France has raised its terror threat alert to the highest possible level after a spate of attacks in a single day left three people dead and others injured.\r\nA woman was beheaded at a church in the ci… [+1988 chars]"
-    },
-    {
-      "source": {
-        "id": "rt",
-        "name": "RT"
-      },
-      "author": "RT",
-      "title": "Ankara condemns ‘heinous terrorist attack’ in Nice, offers ‘condolences’ to France in break from Erdogan-Macron spat",
-      "description": "A terrorist attack at a church in Nice which killed three people has been condemned by Ankara. Turkey also expressed solidarity with the French people in a lull to the ongoing war of words between the two nations’ leaders. Read Full Article at RT.com",
-      "url": "https://www.rt.com/news/504942-turkey-condemns-terrorist-attack-france/",
-      "urlToImage": "https://cdni.rt.com/files/2020.10/article/5f9ae6e720302762bf13af29.JPG",
-      "publishedAt": "2020-10-29T16:05:43Z",
-      "content": "The French government has now placed the country on high alert after a slew of incidents on Thursday.\r\nA man and two women were killed in a terror attack in Nice, while police shot an attacker in Avi… [+2124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hindustan Times"
-      },
-      "author": "Rezaul H Laskar | Edited by Sohini Sarkar",
-      "title": "India backs Macron after attacks by Pakistan, Turkey; says no justification for terror - Hindustan Times",
-      "description": "<ol><li>India backs Macron after attacks by Pakistan, Turkey; says no justification for terror  Hindustan Times\r\n</li><li>India strongly deplores personal attacks on French President Emmanuel Macron  Times of India\r\n</li><li>Protests grow across Musilm world …",
-      "url": "https://www.hindustantimes.com/india-news/india-backs-macron-after-attacks-by-pakistan-turkey-says-no-justification-for-terror/story-96JQ8PiCMemPAuc8eIZnIL.html",
-      "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/10/29/Pictures/topshot-france-police-investigation-attack_0128036e-19ff-11eb-aaf6-cc648d414a4d.jpg",
-      "publishedAt": "2020-10-29T16:01:14Z",
-      "content": "India on Thursday came out strongly in support of French President Emmanuel Macron’s stance on radical Islam in the wake of the beheading of a teacher in Paris and deplored personal attacks on him by… [+3910 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FRANCE 24 English"
-      },
-      "author": null,
-      "title": "This huge crowd in Turkey has nothing to do with France's Muhammad cartoons",
-      "description": "A video published on Facebook on October 24 has gone viral on Arabic-speaking social media platforms. The post claims to show huge crowds gathering in Istanbul to defend the Prophet Muhammad, after French President Emmanuel Macron's declaration that he would …",
-      "url": "https://observers.france24.com/en/content/20201029-debunked-turkey-crowd-france-cartoons",
-      "urlToImage": "https://s.observers.france24.com/media/display/043a61fa-19ff-11eb-9664-005056a964fe/w:1024/p:16x9/image_1.png",
-      "publishedAt": "2020-10-29T15:57:07Z",
-      "content": "A video published on Facebook on October 24 has gone viral on Arabic-speaking social media platforms. The post says that it shows huge crowds gathering in Istanbul to defend the Prophet Muhammad, aft… [+2233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Economist"
-      },
-      "author": "The Economist",
-      "title": "Business this week",
-      "description": "",
-      "url": "https://www.economist.com/the-world-this-week/2020/10/29/business-this-week",
-      "urlToImage": "https://www.economist.com/img/b/1280/720/90/sites/default/files/20201031_WWP501.jpg",
-      "publishedAt": "2020-10-29T15:53:27Z",
-      "content": "The prospect of a resurgence in covid-19 and new lockdowns made it a rocky week for stockmarkets. On Wall Street the S&amp;P 500 and Dow Jones Industrial Average each fell by 3.5% in a day, the Nasda… [+4612 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Haaretz"
-      },
-      "author": "Kunwar Khuldune Shahid",
-      "title": "In Erdogan and Imran Khan’s hypocritical war on ‘anti-Muslim’ blasphemy, the body count rises",
-      "description": "Pakistan and Turkey’s campaign against free speech in France, aided by a cynical abuse of the Holocaust, is duplicitous in the extreme. With extremist Muslim attacks multiplying, it now constitutes dangerous incitement",
-      "url": "https://www.haaretz.com/world-news/.premium-body-count-rises-in-turkey-and-pakistan-s-hypocritical-war-on-anti-muslim-offense-1.9268714",
-      "urlToImage": "https://www.haaretz.com/polopoly_fs/1.9268954.1603987113!/image/263112003.jpg_gen/derivatives/headline_1200x630/263112003.jpg",
-      "publishedAt": "2020-10-29T15:53:25Z",
-      "content": "In the wake of an extremist Muslim’s beheading of a French teacher who showed his pupils cartoons of the Prophet Muhammed, part of his class on free speech, French President Emmanuel Macron offered a… [+12573 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Joshua Bote, USA TODAY",
-      "title": "3 dead in 'terrorist' knife attack in French church, second beheading in two weeks",
-      "description": "French anti-terrorism prosecutors are investigating a knife attack at a church in Nice that killed two people and wounded several others.",
-      "url": "https://news.yahoo.com/3-dead-terrorist-knife-attack-132221987.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/MSXTCD7BKvFeuNPbM5Tr2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM1/https://s.yimg.com/uu/api/res/1.2/yXeYGYcxFzpVKqkOukFtGw--~B/aD0yMjc2O3c9MzQxMTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-us/usa_today_news_641/58c8b112ea7aabb91cb8558b553d5687",
-      "publishedAt": "2020-10-29T15:46:10Z",
-      "content": "Three people were killed at a church in the city of Nice, an attack that the citys mayor says is an act of terrorism.\r\nIt is the third attack in the nation in two months, taking place weeks after a F… [+2674 chars]"
-    },
-    {
-      "source": {
-        "id": "breitbart-news",
-        "name": "Breitbart News"
-      },
-      "author": "Chris Tomlinson",
-      "title": "Migrants in Cyprus Tear Down French Embassy Flag",
-      "description": "A group of around 80 Muslims, mostly comprised of migrants from Egypt and Syria, tore down the French flag at the country's embassy in Cyprus this week.",
-      "url": "https://www.breitbart.com/europe/2020/10/29/migrants-in-cyprus-tear-down-french-embassy-flag/",
-      "urlToImage": "https://media.breitbart.com/media/2020/10/GettyImages-1280919903-640x335.png",
-      "publishedAt": "2020-10-29T15:45:16Z",
-      "content": "A group of around 80 Muslims, mostly comprised of migrants from Egypt and Syria, tore down the French flag at the country’s embassy in Cyprus this week.\r\nThe Muslim group held a demonstration in fron… [+2124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Sydney Morning Herald"
-      },
-      "author": "Bevan Shields",
-      "title": "France on high alert, deploys military after beheading at church in Nice",
-      "description": "A woman has been beheaded and two others stabbed to death inside a church during a fresh series of \"barbaric\" terrorist attacks that have shocked France.",
-      "url": "https://www.smh.com.au/world/europe/france-on-high-alert-deploys-military-after-beheading-at-church-in-nice-20201029-p569xf.html",
-      "urlToImage": "https://static.ffx.io/images/$zoom_0.1706138231029483%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_54/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/3874be67be7c4c8c51bb520d4e5c45ed8eccddc9",
-      "publishedAt": "2020-10-29T15:37:05Z",
-      "content": "The attack took place just a fortnight after an 18-year-old Chechen-Russian beheaded a Paris school teacher who had shown his students cartoons of the Prophet Mohammad during a lesson about free spee… [+5610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Campbell MacDiarmid",
-      "title": "Turkish president fueled anger leading to French terror attacks, experts believe",
-      "description": "The Turkish president’s bellicose rhetoric towards France over the publication of caricatures of the Prophet Mohammed may have contributed to a climate of anger that led to the deadly terror attack in the city of Nice on Thursday, terrorism experts and EU pol…",
-      "url": "https://news.yahoo.com/turkish-president-fueled-anger-leading-153523902.html",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7RU_cKi4RUMh_aKM97xMQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjUw/https://s.yimg.com/uu/api/res/1.2/WM9rqzfVtM6nCYjJWEgqlA--~B/aD0xNTYzO3c9MjUwMTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en-GB/the_telegraph_258/5b7ea5a34a92a88986769ab68df5f1a5",
-      "publishedAt": "2020-10-29T15:35:23Z",
-      "content": "A knife-wielding man killed three people at the Notre-Dame Basilica in the French city of Nice on Thursday - AFP\r\nThe Turkish presidents bellicose rhetoric towards France over the publication of cari… [+4126 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Times of Israel"
-      },
-      "author": null,
-      "title": "Islamists have declared war on France, Jewish community leader says",
-      "description": "Following fatal church knife attack, vice president of CRIF umbrella group Gil Taieb tweets, 'We stand united against Islamist barbarism'",
-      "url": "https://www.timesofisrael.com/islamists-have-declared-war-on-france-jewish-community-leader-says/",
-      "urlToImage": "https://static.timesofisrael.com/www/uploads/2020/10/Screenshot-2020-10-29-at-17.11.52-e1603984422528-1024x640.png",
-      "publishedAt": "2020-10-29T15:25:02Z",
-      "content": "JTA — Islamists have declared war on France, a senior leader of French Jews said following multiple assaults, including the murder of three people at a church in Nice.\r\nGil Taieb, the vice president … [+1837 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Haaretz"
-      },
-      "author": "Jack Khoury",
-      "title": "Israel's Islamic Movement protests prophet's caricatures outside French Embassy",
-      "description": "'Hate may cause extremists from both sides to do violent things,' movement chairman says, at latest protest by Islamic Movement, which comes on the day of another suspected attack in a French church",
-      "url": "https://www.haaretz.com/israel-news/.premium-israel-s-islamic-movement-protests-prophet-s-caricatures-outside-french-embassy-1.9272650",
-      "urlToImage": "https://www.haaretz.com/polopoly_fs/1.9272999.1603985294!/image/118954956.jpg_gen/derivatives/headline_1200x630/118954956.jpg",
-      "publishedAt": "2020-10-29T15:23:25Z",
-      "content": "Hundreds of members of the Islamic Movement protested outside the French Embassy in Tel Aviv Thursday against French Prime Minister Emmanuel Macron's support for displaying the caricatures of the Pro… [+5292 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "India Today"
-      },
-      "author": null,
-      "title": "India stands with France in fight against terrorism, PM Modi condemns attack",
-      "description": "\"Our deepest and heartfelt condolences to the families of the victims and the people of France,\" Prime Minister Narendra Modi said in a tweet in response to a terror attack in the French city of Nice.",
-      "url": "https://www.indiatoday.in/world/story/india-stands-with-france-in-fight-against-terrorism-pm-narendra-modi-condemns-terror-attack-in-nice-1736343-2020-10-29",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Modi_Macron__Reuters__0-647x363.jpeg?AnP7aHk3UgNQe_h_rEaOyzxwi1X_ekrq",
-      "publishedAt": "2020-10-29T15:20:37Z",
-      "content": "Prime Minister Narendra Modi took to Twitter on Thursday to condemn the recent terrorist attacks in France. The tweet was in response to a knife attack reported from the French city of Nice where a w… [+1752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sputnik International"
-      },
-      "author": "Mike Rivero",
-      "title": "Live Updates: Azerbaijan Takes Control Of Settlements in Four Karabakh Districts, Aliev Says",
-      "description": "Russian President Vladimir Putin earlier discussed the development of the Nagorno-Karabakh conflict by phone with Turkish President Recep Tayyip Erdogan; the Russian president expressed deep concern over the ongoing hostilities, as well as the increasing invo…",
-      "url": "https://sputniknews.com/world/202010281080897521-Live-Updates-Azerbaijan-Takes-Control-Of-Settlements-in-Four-Karabakh-Districts-Aliev-Says/",
-      "urlToImage": "https://cdn1.img.sputniknews.com/images/07e4/0a/17/1080855794.jpg",
-      "publishedAt": "2020-10-29T14:38:18Z",
-      "content": "Russian President Vladimir Putin earlier discussed the development of the Nagorno-Karabakh conflict by phone with Turkish President Recep Tayyip Erdogan; the Russian president expressed deep concern … [+1621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Defense One"
-      },
-      "author": "Ben Watson and Bradley Peniston",
-      "title": "Today's D Brief: Another vice chief has COVID; New warnings for hospitals; Anti-ISIS air strikes; Mass shootings, up; And a bit more.",
-      "description": "",
-      "url": "https://www.defenseone.com/threats/2020/10/the-d-brief-october-29-2020/169651/",
-      "urlToImage": "https://cdn.defenseone.com/media/img/upload/2020/10/29/DB_lander/open-graph.png",
-      "publishedAt": "2020-10-29T14:26:30Z",
-      "content": "Space Forces vice chief has COVID. Gen. David Thompson, vice chief of space operations, took a test after learning that a family member tested positive. Hes now working from home in accordance with e… [+9424 chars]"
-    },
-    {
-      "source": {
-        "id": "new-york-magazine",
-        "name": "New York Magazine"
-      },
-      "author": "Jonathan Chait",
-      "title": "Trump Quashed Probe Into Crimes by Bank in Turkey, Which Is Paying Trump",
-      "description": "If Trump wins, the House should impeach him.",
-      "url": "http://nymag.com/intelligencer/2020/10/trump-turkey-bank-scandal-corruption-erdogan-halkbank-conflict-interest.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/0e6/0d6/6ba24a66addd8d445afd35e0aa44545e30-Trump-and-Erdogan.1x.rsocial.w1200.jpg",
-      "publishedAt": "2020-10-29T14:20:08Z",
-      "content": "In 2016, Turkish strongman Recep Tayyip Erdogan asked then-Vice-President Joe Biden to lean on federal prosecutors who were investigating a Turkish bank for financial crimes and to hand over a dissid… [+3964 chars]"
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Al Jazeera",
-      "title": "Timeline: A series of attacks in France amid a debate over Islam",
-      "description": "The atmosphere in France is tense, with three killed in an attack on a church in Nice.",
-      "url": "https://www.aljazeera.com/news/2020/10/29/timeline-how-muslim-anger-towards-france-flared",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-28T180911Z_907185297_RC2TRJ90K0H5_RTRMADP_3_FRANCE-SECURITY-PAKISTAN.jpg?resize=1200%2C630",
-      "publishedAt": "2020-10-29T14:15:53Z",
-      "content": "A rift between the Muslim world and France is widening, as leaders and the public in several Muslim countries respond to a speech on October 2 in which President Emmanuel Macron said Islam was in cri… [+6180 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "TheBlaze"
+        "name": "HYPEBEAST"
       },
-      "author": "Leon Wolf",
-      "title": "Brutal 'terrorist attack' beheading reported in Nice, France, amid escalating tensions in Mohammad cartoon row",
-      "description": "Reports from Nice, France, indicate that at least three people have been brutally attacked, including one who was beheaded and another two who have been confirmed dead, inside a church in Nice, France. The mayor of Nice, Christian Estrosi, has already stated …",
-      "url": "https://www.theblaze.com/news/terrorist-knife-attack-beheading-nice-france",
-      "urlToImage": null,
-      "publishedAt": "2020-10-29T14:15:29Z",
-      "content": null
+      "author": "info@hypebeast.com (HYPEBEAST), HYPEBEAST",
+      "title": "Totem Automobili Electrifies '60s Alfa Romeo Giulia GT 1600/1750 To Deliver 518 BHP",
+      "description": "Italian restomod start-up Totem Automobili has announced its first project, which combines the beauty and elegance of the Alfa Romeo Giulia GT 1600/1750 with the performance and accessibility of 21st-century electric power. Indeed, this restomod Totem GT Elec…",
+      "url": "https://hypebeast.com/2020/11/totem-automobili-gt-1960-alfa-romeo-giulia-gta-electric-car-restomod-1970s-italian-518-bhp",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F11%2Ftotem-automobili-gt-1960-alfa-romeo-giulia-gta-electric-car-restomod-1970s-italian-518-bhp-tw.jpg?w=960&cbr=1&q=90&fit=max",
+      "publishedAt": "2020-11-11T10:07:01Z",
+      "content": "Italian restomod start-up Totem Automobili has announced its first project, which combines the beauty and elegance of the Alfa Romeo Giulia GT 1600/1750 with the performance and accessibility of 21st… [+1623 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Legalinsurrection.com"
+        "name": "Motley Fool"
       },
-      "author": "Vijeta Uniyal",
-      "title": "France: Attacker Shouting “Allahu Akbar” Beheads 70-Year-Old Woman in Church",
-      "description": "Three killed, several injured in \"Islamo-fascist attack,\" French official says.\nThe post France: Attacker Shouting “Allahu Akbar” Beheads 70-Year-Old Woman in Church first appeared on Le·gal In·sur·rec·tion.",
-      "url": "https://legalinsurrection.com/2020/10/france-attacker-shouting-allahu-akbar-beheads-70-year-old-woman-in-church/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2020/10/France-Nice-Jihad-terror-attack.png",
-      "publishedAt": "2020-10-29T14:00:55Z",
-      "content": "Three killed, several injured in “Islamo-fascist attack,” French official says. A knife-wielding jihadi beheaded a woman and murdered two others at a church this morning in southern France.\r\n“A man w… [+3368 chars]"
+      "author": "newsfeedback@fool.com (Motley Fool Transcribing)",
+      "title": "Adaptive Biotechnologies Corporation (ADPT) Q3 2020 Earnings Call Transcript",
+      "description": "ADPT earnings call for the period ending September 30, 2020.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2020/11/11/adaptive-biotechnologies-corporation-adpt-q3-2020/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template.jpg",
+      "publishedAt": "2020-11-11T10:00:57Z",
+      "content": "Image source: The Motley Fool.\r\nAdaptive Biotechnologies Corporation (NASDAQ:ADPT)Q3 2020 Earnings CallNov 10, 2020, 4:30 p.m. ET\r\nContents:\r\n<ul><li>Prepared Remarks</li><li>Questions and Answers</l… [+58377 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Globalresearch.ca"
+        "id": "reuters",
+        "name": "Reuters"
       },
-      "author": "Steven Sahiounie",
-      "title": "Macron’s Attack on Islam Reveals “Intolerance and Hatred,” Says Nobel Peace Laureate",
-      "description": "The beheading of a teacher in France elicited inflammatory remarks from President Emmanuel Macron, which in turn has been met with an Arab boycott of French goods and outrage by the Muslim world.\nMacron is accusing Muslims of separatism…\nThe post Macron’s Att…",
-      "url": "https://www.globalresearch.ca/macron-attack-islam-reveals-intolerance-hatred-says-nobel-peace-laureate/5727990",
-      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2020/10/thumbs_b_c_82a2664e4ce96743ac395f493090ab4d.jpg",
-      "publishedAt": "2020-10-29T13:54:34Z",
-      "content": "The beheading of a teacher in France elicited inflammatory remarks from President Emmanuel Macron, which in turn has been met with an Arab boycott of French goods and outrage by the Muslim world.\r\nMa… [+8963 chars]"
+      "author": "Shashank Nayar",
+      "title": "UPDATE 1-European shares extend rally on vaccine cheer - Reuters",
+      "description": "* Nordea Bank falls on stake sale by Finnish insurer Sampo (Adds comments; updates prices)",
+      "url": "https://www.reuters.com/article/europe-stocks-idUSL4N2HX25Z",
+      "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+      "publishedAt": "2020-11-11T10:00:00Z",
+      "content": "(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window)\r\n* Spain, Italy to get COVID-19 vaccines by early 2021\r\n* 68% of STOXX 600 cos have beaten… [+2654 chars]"
     },
     {
       "source": {
@@ -1139,168 +47,1260 @@
         "name": "CNA"
       },
       "author": "CNA",
-      "title": "France raises its alert level to maximum after Nice knife attack",
-      "description": "France raises its alert level to maximum after a Nice knife attack",
-      "url": "https://www.channelnewsasia.com/news/world/nice-knife-attack-france-raises-alert-level-13405666",
-      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13404990/16x9/991/557/b01772f53aec738a190665209c28c052/Tz/france-attack-85672-jpg-1603966867.jpg",
-      "publishedAt": "2020-10-29T13:41:09Z",
-      "content": "PARIS: French Prime Minister Jean Castex said the countrys threat level will be raised to its maximum after an attack near a church in Nice killed three people on Thursday (Oct 29).\r\nThe move comes j… [+3660 chars]"
+      "title": "Recordings reveal WHO's analysis of COVID-19 pandemic in private",
+      "description": "GENEVA: As the coronavirus exploded around the globe, scientists at the World Health Organization (WHO) were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant to say so publicly, leaked recordings of intern…",
+      "url": "https://www.channelnewsasia.com/news/world/covid-19-coronavirus-pandemic-who-member-states-criticism-13516098",
+      "urlToImage": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13515986/16x9/991/557/b86f3d9464211e8486592f43eb4f2471/ZG/who-pandemic-recordings-80046-jpg-1605081967.jpg",
+      "publishedAt": "2020-11-11T09:58:42Z",
+      "content": "GENEVA: As the coronavirus exploded around the globe, scientists at the World Health Organization (WHO) were sometimes privately frustrated by the mistakes made by some of their top donor countries b… [+6082 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "FRANCE 24 English"
+        "name": "The Japan Times"
       },
-      "author": "FRANCE24",
-      "title": "Knifeman kills three at French church, ratcheting up terror fears",
-      "description": "A knife-wielding man killed three people at a church in the French city of Nice on Thursday, slitting the throat of at least one of them, in what officials are treating as the latest jihadist attack to rock the country.\n\nThe assailant was shot and wounded by …",
-      "url": "https://www.france24.com/en/live-news/20201029-knifeman-kills-three-at-french-church-ratcheting-up-terror-fears",
-      "urlToImage": "https://s.france24.com/media/display/6bd8310c-19eb-11eb-b0ca-005056bff430/w:1280/p:16x9/a643d0c156d7602e1b4db6b2addfacdaffee97b4.jpg",
-      "publishedAt": "2020-10-29T13:34:10Z",
-      "content": "Nice (France) (AFP)\r\nA knife-wielding man killed three people at a church in the French city of Nice on Thursday, slitting the throat of at least one of them, in what officials are treating as the la… [+4597 chars]"
+      "author": "Pankaj Mishra",
+      "title": "America’s age of anger is just getting started",
+      "description": "There is little respite from clownish demagoguery once a long-standing political order loses credibility and legitimacy among a significantly large proportion of the population.",
+      "url": "https://www.japantimes.co.jp/opinion/2020/11/11/commentary/japan-commentary/us-age-of-anger-donald-trump/",
+      "urlToImage": "https://cdn.japantimes.2xx.jp/wp-content/uploads/2020/11/np_file_49558-870x580.jpeg",
+      "publishedAt": "2020-11-11T09:52:34Z",
+      "content": "A nightmare began with Donald Trumps victory in November 2016. It has just been extended indefinitely with his narrow loss and wild allegations of electoral fraud.\r\nIn his 2016 campaign, Trump prospe… [+5053 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Fark.com"
+        "name": "Lithub.com"
+      },
+      "author": "Lit Hub Excerpts",
+      "title": "You Have the Prettiest Mask",
+      "description": "The summer before plague masks took over the Chaunce School for Girls, my whole world kind of gasped. Everything suddenly got really slow and nervous. It was that moment that happens right before the scream. The world in general, and not just my world, was a …",
+      "url": "https://lithub.com/you-have-the-prettiest-mask/",
+      "urlToImage": "https://lithub.com/wp-content/uploads/2020/11/unnamed.jpg",
+      "publishedAt": "2020-11-11T09:48:52Z",
+      "content": "The summer before plague masks took over the Chaunce School for Girls, my whole world kind of gasped. Everything suddenly got really slow and nervous. It was that moment that happens right before the… [+22144 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Amanda Cooper",
+      "title": "Global stocks edge up, as COVID-19 vaccine optimism boosts 'real economy' shares but dents tech",
+      "description": "Summary List Placement\n\nGlobal equities edged higher on Wednesday, as investor cash continued to flow into previously unloved \"real economy\" stocks, but political uncertainty in Washington and record COVID-19 infection rates across the US and Europe eroded so…",
+      "url": "https://www.businessinsider.com/global-equities-rise-covid19-vaccine-real-economy-tech-stocks-2020-11",
+      "urlToImage": "https://i.insider.com/5fabaaabf7d1cb0019e3b090?width=1200&format=jpeg",
+      "publishedAt": "2020-11-11T09:48:36Z",
+      "content": "Global equities edged higher on Wednesday, as investor cash continued to flow into previously unloved \"real economy\" stocks, but political uncertainty in Washington and record COVID-19 infection rate… [+4043 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Associated Press",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency.",
+      "url": "https://www.foxnews.com/health/recordings-reveal-whos-analysis-of-pandemic-in-private",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20314583780046.jpg",
+      "publishedAt": "2020-11-11T09:46:45Z",
+      "content": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by… [+10029 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Italy police carrying out enforcement orders against former, current Autostrade managers - Reuters UK",
+      "description": "Italy's finance police said it was carrying out enforcement orders against a series of former and current top managers of Atlantia <ATL.MI> unit Autostrade per l'Italia, in an ongoing probe related to the 2018 Genoa bridge collapse.",
+      "url": "https://www.reuters.com/article/uk-italy-motorway-arrests-idUKKBN27R13F",
+      "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+      "publishedAt": "2020-11-11T09:45:00Z",
+      "content": "By Reuters Staff\r\nROME (Reuters) - Italy's finance police said it was carrying out enforcement orders against a series of former and current top managers of Atlantia ATL.MI unit Autostrade per l'Ital… [+685 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Former Atlantia CEO put under house arrest in bridge probe - sources - Reuters UK",
+      "description": "Former Atlantia <ATL.MI> chief executive Giovanni Castellucci has been put under house arrest in a probe related to a deadly 2018 Genoa bridge collapse, three sources with knowledge of the matter told Reuters.",
+      "url": "https://uk.reuters.com/article/uk-italy-motorway-arrests-idUKKBN27R13F",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540821891&r=LYNXMPEGAA0KG&w=800",
+      "publishedAt": "2020-11-11T09:45:00Z",
+      "content": "By Reuters Staff\r\nFILE PHOTO: A logo of the Atlantia Group is seen outside their headquarters in Rome, Italy August 31, 2018. REUTERS/Alessandro Bianchi\r\nMILAN (Reuters) - Former Atlantia ATL.MI chie… [+1201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "James Olley",
+      "title": "How are teams adjusting to more penalties and who are the best takers?",
+      "description": "The change in handball laws and increased VAR intervention has seen a major rise in penalties being awarded. How are teams handling the pressure?",
+      "url": "https://www.espn.com/soccer/english-premier-league/story/4231710/premier-leaguechampions-league-seeing-more-penalties-in-2020-21-how-are-teams-sharpening-their-skills",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F1110%2Fr774014_1296x729_16%2D9.jpg",
+      "publishedAt": "2020-11-11T09:43:34Z",
+      "content": "Penalty taking has never been more important than it is in 2020. The introduction of VAR across Europe's top leagues, combined with revisions to the handball law, have contributed to a dramatic incre… [+11996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FXStreet"
+      },
+      "author": "FXStreet Team",
+      "title": "EUR/USD: Covid reality bites, critical support at 1.1780 in danger",
+      "description": "EUR/USD has struggled to hold onto gains related to vaccine hopes as Covid's hold in Europe and the US is weighing on markets. Critical support at 1.1",
+      "url": "https://www.fxstreet.com/news/eur-usd-covid-reality-bites-critical-support-at-11780-in-danger-202011110938",
+      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/MoneyEURUSD_2_Large.jpg",
+      "publishedAt": "2020-11-11T09:38:42Z",
+      "content": "EUR/USD has struggled to hold onto gains related to vaccine hopes as Covid's hold in Europe and the US is weighing on markets. Critical support at 1.1780 is in danger, as FXStreet’s Analyst Yohay Ela… [+1447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "C21media.net"
+      },
+      "author": "Nico Franks",
+      "title": "Asacha hires former Disney exec",
+      "description": "The fledgling pan-European drama group set up by alumni from Endemol Shine, Banijay and Zodiak Media has hired former Disney executive Maria Grazia Ursino to handle development and distribution. Asach...",
+      "url": "https://www.c21media.net/asacha-hires-former-disney-exec/",
+      "urlToImage": "https://www.c21media.net/wp-content/uploads/2020/11/maria-grazia-ursino-620.jpg",
+      "publishedAt": "2020-11-11T09:36:01Z",
+      "content": "The fledgling pan-European drama group set up by alumni from Endemol Shine, Banijay and Zodiak Media has hired former Disney executive Maria Grazia Ursino to handle development and distribution.\r\nMar… [+1965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
       },
       "author": null,
-      "title": "The Turkish bank case going on in SDNY shows the amount of influence Erdogan has over Trump [News]",
-      "description": "The Turkish bank case going on in SDNY shows the amount of influence Erdogan has over Trump",
-      "url": "https://www.fark.com/comments/11001793/The-Turkish-bank-case-going-on-in-SDNY-shows-amount-of-influence-Erdogan-has-over-Trump",
-      "urlToImage": "https://fark-usrimg-full.nyc3.digitaloceanspaces.com/Y/Yd/fark_YdeKNqbdTD5u6cowDs76sm2bqCQ.jpg?AWSAccessKeyId=HBAYEKZHGUB4NAYQBVSQ&Expires=1604289600&Signature=NhoY6oXt4rJqq9N5bf%2Fg83Vjw6A%3D",
-      "publishedAt": "2020-10-29T13:32:44Z",
-      "content": "&lt;thread&gt;Blockbuster report (a case I've followed closely)\r\nHighlights\r\n1. Trump tried to obstruct righteous prosecution of #Iran sanction-busters!\r\n2. Fired US Attorney to help Erdogan\r\n3. @Joe… [+84 chars]"
+      "title": "Ureteral Stents Market Size Worth $723.6 Million By 2027 | CAGR: 7.0%: Grand View Research, Inc.",
+      "description": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global ureteral stents market size is anticipated to reach USD 723.6 million by 2027, expanding at a CAGR of 7.0%, according to a new report by Grand View Research, Inc. Rising incidence of urological diseases …",
+      "url": "https://www.prnewswire.com/news-releases/ureteral-stents-market-size-worth-723-6-million-by-2027--cagr-7-0-grand-view-research-inc-301170624.html",
+      "urlToImage": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
+      "publishedAt": "2020-11-11T09:35:00Z",
+      "content": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global ureteral stents market size is anticipated to reach USD 723.6 million by 2027, expanding at a CAGR of 7.0%, according to a new report by Grand … [+5810 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "VOA News"
+        "name": "Streetartnews.net"
       },
-      "author": null,
-      "title": "France-Turkey Dispute Grows Over Cartoons and Influence in Africa",
-      "description": "The war of words between France and Turkey over cartoons portraying Islam’s Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the diplomatic storm over freedom of expression versus religious sensitivity…",
-      "url": "https://www.voanews.com/europe/france-turkey-dispute-grows-over-cartoons-and-influence-africa",
-      "urlToImage": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-10/2020-10-27T111140Z_1195505003_RC2ZQJ9H4TWS_RTRMADP_3_FRANCE-SECURITY-BOYCOTT-TURKEY.JPG",
-      "publishedAt": "2020-10-29T13:28:21Z",
-      "content": "ISTANBUL - The war of words between France and Turkey over cartoons portraying Islams Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the di… [+2425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "VOA News"
-      },
-      "author": null,
-      "title": "France-Turkey Dispute Grows Over Cartoons and Influence",
-      "description": "The war of words between France and Turkey over cartoons portraying Islam’s Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the diplomatic storm over freedom of expression versus religious sensitivity…",
-      "url": "https://www.voanews.com/europe/france-turkey-dispute-grows-over-cartoons-and-influence",
-      "urlToImage": "https://im-media.voltron.voanews.com/Drupal/01live-166/2020-10/2020-10-27T111140Z_1195505003_RC2ZQJ9H4TWS_RTRMADP_3_FRANCE-SECURITY-BOYCOTT-TURKEY.JPG",
-      "publishedAt": "2020-10-29T13:28:21Z",
-      "content": "ISTANBUL - The war of words between France and Turkey over cartoons portraying Islams Prophet Muhammad, triggered by the recent beheading of a French teacher, continues to escalate. But behind the di… [+2425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insideover.com"
-      },
-      "author": "Alex Kassidiaris",
-      "title": "Ankara's geopolitical gambits send turkish lira to historic lows",
-      "description": "With the Turkish economy struggling, President Recep Erdogan keeps pushing through an expansionist foreign policy and using harsh rhetoric in the international scene. The current indicators highlight that unless some of Erdogan’s fundamental policies are prom…",
-      "url": "https://www.insideover.com/economy/ankaras-geopolitical-gambits-send-turkish-lira-to-historic-lows.html",
-      "urlToImage": "https://www.insideover.com/wp-content/uploads/2020/09/Recep-Tayyip-Erdogan-2-scaled-e1601191878975.jpg",
-      "publishedAt": "2020-10-29T13:24:13Z",
-      "content": "With the Turkish economy struggling, President Recep Erdogan keeps pushing through an expansionist foreign policy and using harsh rhetoric in the international scene.\r\nThe current indicators highligh… [+7632 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "AFP",
-      "title": "Saudi wounds French consulate guard in Jeddah knife attack",
-      "description": "A Saudi citizen wounded a guard in a knife attack Thursday at the French consulate in the Red Sea city of Jeddah, officials said, as France faces growing anger over satirical cartoons of the Prophet Mohammed.",
-      "url": "https://news.yahoo.com/saudi-wounds-french-consulate-guard-120354245.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/gAunMU8xNDRNX67eXpWHUw--~B/aD01MTE7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/0c2fe82dcaa306c7c19de2d76287513b",
-      "publishedAt": "2020-10-29T13:20:31Z",
-      "content": "A Saudi citizen wounded a guard in a knife attack Thursday at the French consulate in the Red Sea city of Jeddah, officials said, as France faces growing anger over satirical cartoons of the Prophet … [+3854 chars]"
+      "author": "StreetArtNews",
+      "title": "“Cerimonia” by Tresoldi Academy in Bologna, Italy",
+      "description": "Cerimonia is the first site-specific installation realized by TRAC – Tresoldi Academy, the school created in collaboration between STUDIO STUDIO STUDIO, the interdisciplinary lab founded by Edoardo Tresoldi to create and support contemporary art projects and …",
+      "url": "https://streetartnews.net/2020/11/cerimonia-by-tresoldi-academy-in-bologna-italy.html",
+      "urlToImage": "https://streetartnews.net/wp-content/uploads/2020/11/TRAC_Tresoldi_Academy_Cerimonia-©-Roberto-Conte_1.jpg",
+      "publishedAt": "2020-11-11T09:32:17Z",
+      "content": "Cerimonia is the first site-specific installation realized by TRAC – Tresoldi Academy, the school created in collaboration between STUDIO STUDIO STUDIO, the interdisciplinary lab founded by Edoardo T… [+2761 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Daily Mail"
       },
-      "author": "By Tim Stickings For Mailonline",
-      "title": "Nice attack: French politicians demand action to 'wipe out Islamo-fascism'",
-      "description": "The triple murder in Nice is the latest in a long line of terror attacks in France in recent years, including the Charlie Hebdo massacre in 2015 and the beheading of a school teacher near Paris.",
-      "url": "https://www.dailymail.co.uk/news/article-8893203/Nice-attack-French-politicians-demand-action-wipe-Islamo-fascism.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2020/10/29/13/34998054-0-A_person_who_was_wounded_during_the_attack_on_a_cathedral_in_Nic-a-30_1603976440454.jpg",
-      "publishedAt": "2020-10-29T13:01:44Z",
-      "content": "French politicians lined up to demand tougher action against Islamist terrorism today after three people were murdered by a knifeman in Nice. \r\nThe triple murder is the latest in a long line of terro… [+4848 chars]"
+      "author": "By Charlotte Dean For Mailonline",
+      "title": "Mission Impossible 7: Hayley Atwell grapples with Esai Morales on a canal bridge",
+      "description": "The actress, 38, was seen holding up some form of weapon to villain Esai  as he blocked the attack from her as-yet-unnamed character.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-8936991/Mission-Impossible-7-Hayley-Atwell-grapples-Esai-Morales-canal-bridge.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/11/09/35544872-0-image-a-28_1605087315266.jpg",
+      "publishedAt": "2020-11-11T09:28:19Z",
+      "content": "They were spotted filming a brutal fight scene on the deserted streets of Venice earlier this week, with Esai Morales even strangling his co-star Hayley Atwell. \r\nAnd it appeared Hayley was seeking h… [+4728 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Daily Caller"
+        "name": "FXStreet"
       },
-      "author": "Marlo Safi",
-      "title": "Attacker screaming 'Allahu akbar' decapitates one, kills two others at French church",
-      "description": "An attacker screaming “Allahu Akbar’ beheaded a woman and killed two other people at a church in France on Thursday.",
-      "url": "https://dailycaller.com/2020/10/29/attacker-allahu-akbar-france-nice-church-terrorism-decapitate/",
-      "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2020/10/GettyImages-1229339976-scaled-e1603974556118.jpg",
-      "publishedAt": "2020-10-29T12:49:41Z",
-      "content": "An attacker screaming “Allahu akbar’ beheaded a woman and killed two other people Thursday at a church in France, numerous sources reported.\r\nThe elderly victim that was “virtually beheaded” had come… [+4481 chars]"
+      "author": "Yohay Elam",
+      "title": "EUR/USD Forecast: Euro suffers virus reality check, critical support at 1.1780 in danger",
+      "description": "Reality bites – while a vaccine serves as a light at the end of the tunnel, that glimmer remains far and insufficient to guide those walking in the da",
+      "url": "https://www.fxstreet.com/analysis/eur-usd-forecast-euro-suffers-virus-reality-check-critical-support-at-11780-in-danger-202011110911",
+      "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/photo-of-the-american-and-euro-banknotes-57153806_Large.jpg",
+      "publishedAt": "2020-11-11T09:11:12Z",
+      "content": "<ul><li>EUR/USD has struggled to hold onto gains related to vaccine hopes. </li><li>Covid's hold in Europe and the US is weighing on markets. </li><li>Wednesday's four-hour chart is showing the curre… [+2564 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Antiwar.com"
+        "id": "football-italia",
+        "name": "Football Italia"
       },
-      "author": "Mike Rivero",
-      "title": "Erdogan Threatens New Invasion of Northern Syria Over Kurdish Presence",
-      "description": "Tensions are once again soaring on the Syria-Turkey border, with Turkish President Recep Tayyip Erdogan now declaring he has “legitimate reason” to re-invade northern Syria, and that such an option could happen “at any moment.”\nThis would be the latest of sev…",
-      "url": "https://news.antiwar.com/2020/10/28/erdogan-threatens-new-invasion-of-northern-syria-over-kurdish-presence/",
-      "urlToImage": "https://news.antiwar.com/wp-content/uploads/2019/10/awc_logo_for-circle-profile_600sq-01.png",
-      "publishedAt": "2020-10-29T12:31:50Z",
-      "content": "Tensions are once again soaring on the Syria-Turkey border, with Turkish President Recep Tayyip Erdogan now declaring he has “legitimate reason” to re-invade northern Syria, and that such an option c… [+1554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "AlterNet"
-      },
-      "author": "Raw Story",
-      "title": "Revealed: DOJ moved to quash probe into Turkish bank after lobbying from Erdogan",
-      "description": "A major new investigation from the New York Times reveals that President Donald Trump's Department of Justice has moved to aggressively squash an investigation into a Turkish bank after the president was repeatedly lobbied on the issue by Turkish President Re…",
-      "url": "https://www.alternet.org/2020/10/revealed-trumps-doj-moved-to-squash-probe-into-turkish-bank-after-lobbying-from-erdogan/",
+      "author": "Football Italia staff",
+      "title": "Probable line-ups: Italy-Estonia",
+      "description": "Assistant coach Alberico Evani will oversee the match in the absence of Roberto Mancini, as Kevin Lasagna could start for Italy against Estonia.  \tThe match at the Artemio Franchi starts at 19.45 UK time.  \tThe local health authority and the respective bubble…",
+      "url": "https://www.football-italia.net/161874/probable-line-ups-italy-estonia",
       "urlToImage": null,
-      "publishedAt": "2020-10-29T12:29:26Z",
-      "content": null
+      "publishedAt": "2020-11-11T09:09:38Z",
+      "content": "Assistant coach Alberico Evani will oversee the match in the absence of Roberto Mancini, as Kevin Lasagna could start for Italy against Estonia.\r\nThe match at the Artemio Franchi starts at 19.45 UK t… [+1476 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "msnNOW"
+        "name": "Foreign Policy"
       },
-      "author": "Mike Rivero",
-      "title": "US says 'very real' risk of Turkey sanctions over Russian arms",
-      "description": "A US official warned Wednesday that NATO ally Turkey faced a risk of sanctions after it defiantly tested Russia's S-400 air defense system.\n\"That risk is very real because they... continue to pursue the S-400,\" said R. Clarke Cooper, the top State Department …",
-      "url": "https://www.msn.com/en-us/news/world/us-says-very-real-risk-of-turkey-sanctions-over-russian-arms/ar-BB1aumv2",
-      "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1auifM.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg&x=219&y=240",
-      "publishedAt": "2020-10-29T12:29:25Z",
-      "content": "© Adem ALTAN\r\n Turkish President Recep Tayyip Erdogan, seen here in August 2020, has drawn threats of US sanctions after tests of the Russian S-400 air system\r\nA US official warned Wednesday that NAT… [+2068 chars]"
+      "author": "Elisabeth Braw",
+      "title": "Forget U.N. Peacekeepers: Send in the Gendarmes",
+      "description": "In gray-zone conflicts, police don’t have the skills to bring peace and full-scale military interventions can lead to escalation. A force that can bring stability is needed.",
+      "url": "https://foreignpolicy.com/2020/11/11/forget-u-n-peacekeepers-send-in-the-gendarmes/",
+      "urlToImage": "https://foreignpolicy.com/wp-content/uploads/2020/11/france-gendarmes-attack-nice.jpg?w=1000",
+      "publishedAt": "2020-11-11T09:06:17Z",
+      "content": "We believe that both parties should accept Scandinavian peacekeepers and we’re working with Scandinavian governments to put together a peacekeeping force that could deployed into the region to keep a… [+9389 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WWD"
+        "name": "PRNewswire"
       },
-      "author": "jweil2",
-      "title": "France on Edge After New Terror Attack, Hours Before Lockdown",
-      "description": "Two people were killed in the southern city of Nice inside the Notre Dame basilica on Thursday morning.",
-      "url": "https://wwd.com/business-news/government-trade/france-nice-terror-attack-lockdown-1234649131/",
-      "urlToImage": "https://wwd.com/wp-content/uploads/2020/09/eiffel-tower-1.jpeg?crop=0px%2C0px%2C5760px%2C3842px&resize=640%2C415",
-      "publishedAt": "2020-10-29T12:28:34Z",
-      "content": "PARIS – Tensions in France, already high hours before a new national lockdown, escalated after a terrorist attack in the southern city of Nice on Thursday morning.\r\nThree people were killed in an inc… [+4990 chars]"
+      "author": null,
+      "title": "Bacterial & Viral Specimen Collection Market Size Worth $38.8 Billion By 2027: Grand View Research, Inc.",
+      "description": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global bacterial and viral specimen collection market size is expected to reach USD 38.8 billion by 2027, expanding at a CAGR of 14.0%, according to a new report by Grand View Research, Inc. The advent of high-…",
+      "url": "https://www.prnewswire.com/news-releases/bacterial--viral-specimen-collection-market-size-worth-38-8-billion-by-2027-grand-view-research-inc-301170641.html",
+      "urlToImage": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
+      "publishedAt": "2020-11-11T09:05:00Z",
+      "content": "SAN FRANCISCO, Nov. 11, 2020 /PRNewswire/ -- The global bacterial and viral specimen collection market size is expected to reach USD 38.8 billion by 2027, expanding at a CAGR of 14.0%, according to a… [+7145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rigzone"
+      },
+      "author": "Bloomberg",
+      "title": "Oil Up After Report Points to Easing US Stockpiles",
+      "description": "Oil extended gains in New York after an industry report pointed to a bigger-than-expected decline in U.S. crude stockpiles.",
+      "url": "https://www.rigzone.com/news/wire/oil_up_after_report_points_to_easing_us_stockpiles-11-nov-2020-163818-article/",
+      "urlToImage": "https://images.rigzone.com/images/news/articles/163818_582x327.png",
+      "publishedAt": "2020-11-11T09:00:14Z",
+      "content": "(Bloomberg) -- Oil extended gains above $42 a barrel in New York after an industry report pointed to a bigger-than-expected decline in U.S. crude stockpiles, adding to bullish momentum after a vaccin… [+3368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Post Magazine"
+      },
+      "author": "Chan Kin-wa, Chan Kin-wa",
+      "title": "Windsurfer Hayley Chan determined to make it to Tokyo after being forced to go through the selection process again",
+      "description": "Experienced board sailor Hayley Chan Hei-man is determined to regain her spot on the Hong Kong squad for the Tokyo Olympics after being forced to qualify again because of the global pandemic.Chan and teammate Michael Cheng Chun-leung won the men’s and women’s…",
+      "url": "https://www.scmp.com/sport/hong-kong/article/3109394/windsurfer-hayley-chan-determined-make-it-tokyo-after-being-forced",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/11/9be715e0-23e4-11eb-8a46-f186a810a22a_image_hires_165805.jpg?itok=CoTbWBQn&v=1605085103",
+      "publishedAt": "2020-11-11T08:58:25Z",
+      "content": "Published: 4:58pm, 11 Nov, 2020\r\nUpdated: 4:58pm, 11 Nov, 2020"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "C21media.net"
+      },
+      "author": "KarolinaKaminska",
+      "title": "Amazon takes Alex Rider to S2",
+      "description": "Amazon Prime Video and the tech giant’s free streaming service IMDb TV have greenlit a second season of spy thriller series Alex Rider. Produced by Eleventh Hour Films and Sony Pictures Television f...",
+      "url": "https://www.c21media.net/amazon-takes-alex-rider-to-s2/",
+      "urlToImage": "https://www.c21media.net/wp-content/uploads/2020/07/alex-rider-office.jpg",
+      "publishedAt": "2020-11-11T08:57:04Z",
+      "content": "Alex Rider S1 debuted on Amazon in the UK, Australia and Germany this summer\r\nAmazon Prime Video and the tech giants free streaming service IMDb TV have greenlit a second season of spy thriller serie… [+697 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "By MARIA CHENG AP Medical Writer",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "GENEVA (AP) — As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant to say so publicly, leaked recordings of…",
+      "url": "https://apnews.com/a66b6ec65368e004d20bad9af159b9ca",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/b4/db48ac99-6960-5a56-946b-7babcc9f55a9/5faba2b51086c.image.jpg?crop=1650%2C928%2C0%2C163&resize=1120%2C630&order=crop%2Cresize",
+      "publishedAt": "2020-11-11T08:54:28Z",
+      "content": "WHO scientists soon grew concerned about Japan. On Feb. 1, a passenger who disembarked the Diamond Princess cruise ship in Hong Kong tested positive for the coronavirus. At the ships next stop in Yok… [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Via AP news wire",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donors but reluctant to say so publicly, leaked recordings of internal meetings show",
+      "url": "https://www.independent.co.uk/news/recordings-reveal-whos-analysis-of-pandemic-in-private-who-scientists-epidemics-who-scientists-b1720927.html",
+      "urlToImage": "https://static.independent.co.uk/2020/11/11/08/WHO_Pandemic_Recordings_15800.jpg",
+      "publishedAt": "2020-11-11T08:54:28Z",
+      "content": "As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant t… [+5790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MARIA CHENG",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but reluctant to say so publicly, leaked recordings of internal meetings sh…",
+      "url": "https://finance.yahoo.com/news/recordings-reveal-whos-analysis-pandemic-085427850.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Yi6IZs0tDEKif3BAkTc2FA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzU4/https://s.yimg.com/uu/api/res/1.2/LKZKGtNZtFeqn6stjnGOfg--~B/aD0xOTM0O3c9Mjg0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap.org/3b053f147445534dad236c48f6cc4280",
+      "publishedAt": "2020-11-11T08:54:27Z",
+      "content": "GENEVA (AP) As the coronavirus exploded around the globe, scientists at the World Health Organization were sometimes privately frustrated by the mistakes made by some of their top donor countries but… [+5787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Wire"
+      },
+      "author": null,
+      "title": "BearingPoint survey: Europe’s public servants at the time of pandemic: Mobilized, resilient and ready to embrace new ways of working and to develop new skills",
+      "description": "AMSTERDAM--(BUSINESS WIRE)-- #bearingpoint--In a major pan-European survey, BearingPoint assesses the experiences of public servants working in front-line and citizen-facing roles.",
+      "url": "https://www.businesswire.com/news/home/20201111005064/en/BearingPoint-survey-Europe%E2%80%99s-public-servants-at-the-time-of-pandemic-Mobilized-resilient-and-ready-to-embrace-new-ways-of-working-and-to-develop-new-skills",
+      "urlToImage": "https://mms.businesswire.com/media/20201111005064/en/820913/23/Andrew_Montgomery.jpg",
+      "publishedAt": "2020-11-11T08:54:07Z",
+      "content": "AMSTERDAM--(BUSINESS WIRE)--In a major new pan-European survey, management and technology consultancy BearingPoint assesses the experiences of public servants working in front-line and citizen-facing… [+6994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Joe Giudice's Happy Ex-Wife Teresa Found a New Boyfriend",
+      "description": "Joe Giudice is glad his ex-wife is moving on with her life ... and tells us he's happy Teresa's got a hot new boyfriend. Okay, \"hot\" is our word, not his. The ex 'Real Housewives of New Jersey' star tells TMZ ... he's known for some time Teresa's…",
+      "url": "https://www.tmz.com/2020/11/11/joe-giudice-happy-teresa-new-boyfriend-ex-wife-divorce/",
+      "urlToImage": "https://imagez.tmz.com/image/f1/16by9/2020/11/10/f1a786394bfa4ca68b18d5553a88f2c3_xl.jpg",
+      "publishedAt": "2020-11-11T08:50:20Z",
+      "content": "Joe Giudice is glad his ex-wife is moving on with her life ... and tells us he's happy Teresa's got a hot new boyfriend. Okay, \"hot\" is our word, not his.\r\nThe ex 'Real Housewives of New Jersey' star… [+695 chars]"
+    },
+    {
+      "source": {
+        "id": "football-italia",
+        "name": "Football Italia"
+      },
+      "author": "Football Italia staff",
+      "title": "Brahim: 'Zlatan shows there's no age in football'",
+      "description": "Milan attacker Brahim Diaz said Zlatan Ibrahimovic âis the same age as my father but continues to make a differenceâ.",
+      "url": "https://www.football-italia.net/161873/brahim-zlatan-shows-theres-no-age-football",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:40:08Z",
+      "content": "Milan attacker Brahim Diaz said Zlatan Ibrahimovic ‘is the same age as my father but continues to make a difference’.\r\nThe Real Madrid loanee has impressed in his first months with the Rossoneri and … [+1647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Republic World"
+      },
+      "author": "Wasiq Agha",
+      "title": "Netherlands vs Spain live stream, prediction, team news, international friendlies live",
+      "description": "The Netherlands take on Spain on Wednesday night, Nov 11 (Nov 12 in India) at 1:15 am IST. Here are the Netherlands vs Spain live stream details & match preview",
+      "url": "https://www.republicworld.com/sports-news/football-news/netherlands-vs-spain-live-stream-prediction-team-news-international-friendlies-live.html",
+      "urlToImage": "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8903g6siqzkfatyf_1605083694.jpeg?tr=f-jpeg",
+      "publishedAt": "2020-11-11T08:39:54Z",
+      "content": "The Netherlands take on Spain in a mouth-watering clash in the upcoming round of international friendlies. The friendly will take place at the Johan Cruijff ArenA in Amsterdam. The Netherlands vs Spa… [+3104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "seattlepi.com"
+      },
+      "author": "By MARIA CHENG, AP Medical Writer",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "GENEVA (AP) — As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency.\nWith i…",
+      "url": "https://www.seattlepi.com/news/article/Recordings-reveal-WHO-s-analysis-of-pandemic-in-15718247.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/15/16/21/20243525/3/rawImage.jpg",
+      "publishedAt": "2020-11-11T08:38:04Z",
+      "content": "GENEVA (AP) — As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse… [+9528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thinkcuriouser.com"
+      },
+      "author": null,
+      "title": "Global Internet of Things (IoT) in Energy Market 2025 Current as Well as the Future Challenges: AGT INTERNATIONAL, CISCO SYSTEMS, INTERNATIONAL BUSINESS MACHINE (IBM) CORPORATION, SAP, CARRIOTS SL, DAVRA NETWORKS, etc. - The Think Curiouser",
+      "description": "Global Internet of Things (IoT) in Energy Market 2025 Current as Well as the Future Challenges: AGT INTERNATIONAL, CISCO SYSTEMS, INTERNATIONAL BUSINESS MACHINE (IBM) CORPORATION, SAP, CARRIOTS SL, DAVRA NETWORKS, etc.  The Think Curiouser",
+      "url": "https://thinkcuriouser.com/energy/653194/global-internet-of-things-iot-in-energy-market-2025-current-as-well-as-the-future-challenges-agt-international-cisco-systems-international-business-machine-ibm-corporation-sap-carriots-s-l-2/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:36:40Z",
+      "content": "Regional Development: Detailed Analysis\r\nThe latest report presentation on Global Internet of Things (IoT) in Energy market portrays a detailed analytical review of the market spectrum across both hi… [+5723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": "MARIA CHENG",
+      "title": "Recordings reveal WHO’s analysis of pandemic in private",
+      "description": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that US President-elect Joe Biden will reverse a decision by Washington to leave the health agency.",
+      "url": "https://www.bostonglobe.com/2020/11/11/business/recordings-reveal-whos-analysis-pandemic-private/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/KW3_Ao6wJHlZhk336LeSnpIFlG0=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/P2VXE6EHPBGLGRWEMEA22AHXKE.jpg",
+      "publishedAt": "2020-11-11T08:30:01Z",
+      "content": "Biden has promised to overturn President Donald Trumps decision in June to cut off funds to WHO and withdraw the US WHO has also bowed to demands from member countries for an independent panel to rev… [+8676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FOX13 Memphis"
+      },
+      "author": "By MARIA CHENG",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
+      "url": "https://www.fox13memphis.com/news/recordings-reveal/KH662E7GDSTWEIXVZ3K3R6TOXQ/",
+      "urlToImage": "https://www.fox13memphis.com/resizer/a1cVZxzhjg4aGa_Dtu8Yq_ThWeA=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/E4HJOML43TCGOECWQGTZBIR7LY.jpg",
+      "publishedAt": "2020-11-11T08:25:22Z",
+      "content": "GENEVA — (AP) As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse… [+9515 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARIA CHENG AP Medical Writer",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
+      "url": "https://abcnews.go.com/Business/wireStory/recordings-reveal-analysis-pandemic-private-74142174",
+      "urlToImage": "https://s.abcnews.com/images/Health/WireAP_636bda33af184069b939603f16895025_16x9_992.jpg",
+      "publishedAt": "2020-11-11T08:25:18Z",
+      "content": "GENEVA -- As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a d… [+9426 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "MARIA CHENG AP Medical Writer",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
+      "url": "https://abcnews.go.com/Health/wireStory/recordings-reveal-analysis-pandemic-private-74142173",
+      "urlToImage": "https://s.abcnews.com/images/Health/WireAP_636bda33af184069b939603f16895025_16x9_992.jpg",
+      "publishedAt": "2020-11-11T08:25:14Z",
+      "content": "GENEVA -- As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a d… [+9426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Toronto Star"
+      },
+      "author": "Maria Cheng - The Associated Press",
+      "title": "Recordings reveal WHO’s analysis of pandemic in private",
+      "description": "GENEVA - As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that...",
+      "url": "https://www.thestar.com/life/2020/11/11/recordings-reveal-whos-analysis-of-pandemic-in-private.html",
+      "urlToImage": "https://images.thestar.com/yzWuo0i4dVGrbnpqVC2bPhq_RRw=/1280x1024/smart/filters:cb(1605086623075)/https://www.thestar.com/content/dam/thestar/life/2020/11/11/recordings-reveal-whos-analysis-of-pandemic-in-private/WRC128-810_2018_054956.jpg",
+      "publishedAt": "2020-11-11T08:23:53Z",
+      "content": "GENEVA - As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a de… [+9484 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Via AP news wire",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As its annual meeting is underway this week, the World Health Organization is under intense pressure to reform",
+      "url": "https://www.independent.co.uk/news/recordings-reveal-whos-analysis-of-pandemic-in-private-who-who-analysis-tedros-adhanom-ghebreyesus-agency-b1720909.html",
+      "urlToImage": "https://static.independent.co.uk/2020/11/11/08/WHO_Pandemic_Recordings_80046.jpg",
+      "publishedAt": "2020-11-11T08:22:34Z",
+      "content": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by… [+9443 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "By MARIA CHENG AP Medical Writer",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "GENEVA (AP) — As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency.",
+      "url": "https://apnews.com/f1faf92adb0f02d7b028bd25199dd242",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/5/34/534eeeb7-2d2d-56cd-84b8-763784cab8ec/5faba28f6a376.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+      "publishedAt": "2020-11-11T08:22:34Z",
+      "content": "Throughout February and March, COVID-19 triggered outbreaks in South Korea, Singapore, Iran and elsewhere. The virus also gained a foothold in Italy, turning Europe into the epicenter of the pandemic… [+1222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "MARIA CHENG",
+      "title": "Recordings reveal WHO's analysis of pandemic in private",
+      "description": "As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a decision by Washington to leave the health agency. For example, in priv…",
+      "url": "https://news.yahoo.com/recordings-reveal-whos-analysis-pandemic-082233669.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/inckZphKFBNJrE.VGIXxKw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/.ggHbh.FJ2hha1RrT19tPQ--~B/aD0yOTA5O3c9NDM2NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ap.org/78659050040c4656696c5e3f0148c550",
+      "publishedAt": "2020-11-11T08:22:33Z",
+      "content": "GENEVA (AP) As the coronavirus explodes again, the World Health Organization finds itself both under intense pressure to reform and holding out hope that U.S. President-elect Joe Biden will reverse a… [+9433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "SA Transcripts",
+      "title": "Xebec Adsorption Inc. (XEBEF) CEO Kurt Sorschak on Q3 2020 Results - Earnings Call Transcript",
+      "description": "Xebec Adsorption Inc. (OTCQX:XEBEF) Q3 2020 Earnings Conference Call November 10, 2020 11:00 ET Company Participants Brandon Chow - Investor Relations Kurt Sorschak - Chief Executive Officer Stéphane Archambault - Chief Financial Officer Louis Dufour - Chief …",
+      "url": "https://seekingalpha.com/article/4387941-xebec-adsorption-inc-xebef-ceo-kurt-sorschak-on-q3-2020-results-earnings-call-transcript",
+      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "publishedAt": "2020-11-11T08:20:04Z",
+      "content": "Xebec Adsorption Inc. (OTCQX:XEBEF) Q3 2020 Earnings Conference Call November 10, 2020 11:00 AM ET\r\nCompany Participants\r\nBrandon Chow - Investor Relations\r\nKurt Sorschak - Chief Executive Officer\r\nS… [+59336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hospitality Net"
+      },
+      "author": "InterContinental Hotels Group PLC (IHG)",
+      "title": "Looking forward to travel: explore emerging locations and revisit timeless destinations in 2021",
+      "description": "Miss travelling back to your favourite cities or itching to go off the beaten track? IHG Hotels & Resorts curates the top ten destinations to visit when we're ready to travel again, along with new luxury and lifestyle hotel openings in 2021 in these new and i…",
+      "url": "https://www.hospitalitynet.org/news/4101569.html",
+      "urlToImage": "https://www.hospitalitynet.org/picture/xl_153120756.jpg",
+      "publishedAt": "2020-11-11T08:20:00Z",
+      "content": "Miss travelling back to your favourite cities or itching to go off the beaten track? IHG Hotels &amp; Resorts curates the top ten destinations to visit when we're ready to travel again, along with ne… [+14658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thedailyphiladelphian.com"
+      },
+      "author": null,
+      "title": "Global Technology Platforms for Internet of Things (IoT) Market Segmentation and Opportunities Forecast To 2025 | PTC, SAP, Software AG, Telit, Microsoft, Amazon - The Daily Philadelphian",
+      "description": "Global Technology Platforms for Internet of Things (IoT) Market Segmentation and Opportunities Forecast To 2025 | PTC, SAP, Software AG, Telit, Microsoft, Amazon  The Daily Philadelphian",
+      "url": "https://thedailyphiladelphian.com/uncategorized/126711/global-technology-platforms-for-internet-of-things-iot-market-segmentation-and-opportunities-forecast-to-2025-ptc-sap-software-ag-telit-microsoft-amazon/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:16:14Z",
+      "content": "“Final Report will add the analysis of the impact of COVID-19 on this industry.”\r\nGlobal “Technology Platforms for Internet of Things (IoT) Market” Research Report 2020-2025 is a historical overview … [+13996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fresnobserver.com"
+      },
+      "author": "Ruby Arterburn",
+      "title": "IIoT (Industrial Internet of Things) Technology Market Size, Share, Global Trend, New Technological Advancements And Geographical Forecast Till 2026 - Fresno Observer",
+      "description": "Investments in Information technologies by companies and increasing cloud adoption are expected to drive the global IIoT (industrial internet of things) technology market says Fortune Business in",
+      "url": "https://fresnobserver.com/iiot-industrial-internet-of-things-technology-market-size-share-global-trend-new-technological-advancements-and-geographical-forecast-till-2026/17763/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:12:56Z",
+      "content": "Investments in Information technologies by companies and increasing cloud adoption are expected to drive the global IIoT (industrial internet of things) technology market says Fortune Business insigh… [+7019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technoweekly.com"
+      },
+      "author": null,
+      "title": "Global Internet of Things Technology Market Top Players By 2026: INTEL, QUALCOMM, TEXAS INSTRUMENTS, INTERNATIONAL BUSINESS MACHINES (IBM), STMICROELECTRONICS etc. - TechnoWeekly",
+      "description": "Global Internet of Things Technology Market Top Players By 2026: INTEL, QUALCOMM, TEXAS INSTRUMENTS, INTERNATIONAL BUSINESS MACHINES (IBM), STMICROELECTRONICS etc.  TechnoWeekly",
+      "url": "https://technoweekly.com/energy/1044700/global-internet-of-things-technology-market-top-players-by-2026-intel-qualcomm-texas-instruments-international-business-machines-ibm-stmicroelectronics-etc-2/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:10:00Z",
+      "content": "Global Internet of Things Technology Market: Introduction\r\nThe recently added research report has been meticulously conceived and presented to render a pin-point analytical review of the current mark… [+5876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technoweekly.com"
+      },
+      "author": null,
+      "title": "Global Internet of Things (IoT) Testing Market Top Players By 2026: COGNIZANT TECHNOLOGY SOLUTIONS, INFOSYS, CAPGEMINI, RAPID7, SMARTBEAR SOFTWARE etc. - TechnoWeekly",
+      "description": "Global Internet of Things (IoT) Testing Market Top Players By 2026: COGNIZANT TECHNOLOGY SOLUTIONS, INFOSYS, CAPGEMINI, RAPID7, SMARTBEAR SOFTWARE etc.  TechnoWeekly",
+      "url": "https://technoweekly.com/coronavirus/1044694/global-internet-of-things-iot-testing-market-top-players-by-2026-cognizant-technology-solutions-infosys-capgemini-rapid7-smartbear-software-etc-2/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:09:00Z",
+      "content": "Predicting Growth Scope: Global Internet of Things (IoT) Testing Market\r\nUnbiased research initiatives offer relevant cues on the impressive market recovery from a sudden pandemic crisis that substan… [+6237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PRNewswire"
+      },
+      "author": null,
+      "title": "Clarivate Annual G20 Scorecard Report Highlights Research Performance of the World's Leading Economies",
+      "description": "Web of Science data analyzes G20 nations as a driver for innovation plus a special analysis of members' contribution to recent COVID-19 research LONDON, Nov. 11, 2020 /PRNewswire/ -- Clarivate Plc (NYSE:CCC), a global leader in providing trusted information a…",
+      "url": "https://www.prnewswire.com/news-releases/clarivate-annual-g20-scorecard-report-highlights-research-performance-of-the-worlds-leading-economies-301170488.html",
+      "urlToImage": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+      "publishedAt": "2020-11-11T08:09:00Z",
+      "content": "Web of Science data analyzes G20 nations as a driver for innovation plus a special analysis of members' contribution to recent COVID-19 research \r\nLONDON, Nov. 11, 2020 /PRNewswire/ -- Clarivate Plc … [+7213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Wire"
+      },
+      "author": null,
+      "title": "RAM Active Investments Launches the RAM Diversified Alpha Fund (UCITS)",
+      "description": "GENEVA--(BUSINESS WIRE)--RAM Active Investments launches a new Systematic Macro Fund - RAM Diversified Alpha Strategy (UCITS)",
+      "url": "https://www.businesswire.com/news/home/20201111005303/en/RAM-Active-Investments-Launches-the-RAM-Diversified-Alpha-Fund-UCITS",
+      "urlToImage": "https://mms.businesswire.com/media/20201111005303/en/767347/23/RAM_ActiveInvestments_Logo_RGB_300dpi.jpg",
+      "publishedAt": "2020-11-11T08:08:51Z",
+      "content": "GENEVA--(BUSINESS WIRE)--RAM Active Investments SA (\"RAM AI\"), a systematic asset manager based in Geneva, is launching the RAM (LUX) SYSTEMATIC FUNDS DIVERSIFIED ALPHA (the Fund), a fund which will … [+4570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technoweekly.com"
+      },
+      "author": null,
+      "title": "Global Internet of Things (IoT) in Smart Cities Market Top Players By 2026: BOSCH SOFTWARE INNOVATION, CISCO SYSTEMS, HUAWEI TECHNOLOGIES, IBM, INTEL etc. - TechnoWeekly",
+      "description": "Global Internet of Things (IoT) in Smart Cities Market Top Players By 2026: BOSCH SOFTWARE INNOVATION, CISCO SYSTEMS, HUAWEI TECHNOLOGIES, IBM, INTEL etc.  TechnoWeekly",
+      "url": "https://technoweekly.com/energy/1044613/global-internet-of-things-iot-in-smart-cities-market-top-players-by-2026-bosch-software-innovation-cisco-systems-huawei-technologies-ibm-intel-etc-2/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:08:00Z",
+      "content": "This versatile composition of research derivatives pertaining to diverse concurrent developments in the global Internet of Things (IoT) in Smart Cities market is poised to induce forward-looking pers… [+7468 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AllAfrica - Top Africa News"
+      },
+      "author": "CAF",
+      "title": "Africa: Tunisia Unveils 26-Man Squad for Tanzania Double Header",
+      "description": "[CAF] Tunisia coach Mondher Kebaier has announced his 26-man squad list for the upcoming Cameroon 2021 Africa Cup of Nations Qualifiers' double header against Tanzania.",
+      "url": "https://allafrica.com/stories/202011110285.html",
+      "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "publishedAt": "2020-11-11T08:05:57Z",
+      "content": "Tunisia coach Mondher Kebaier has announced his 26-man squad list for the upcoming Cameroon 2021 Africa Cup of Nations Qualifiers' double header against Tanzania.\r\nZamalek midfielder Ferjani Sassi an… [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "Markit",
+      "title": "Eurozone Recovery And COVID-19 Heading For A Double Dip",
+      "description": "The initial estimate of eurozone GDP growth in Q3 far surpassed expectations. But renewed COVID-19 restrictions point to a sizeable GDP decline in Q4.",
+      "url": "https://seekingalpha.com/article/4387938-eurozone-recovery-and-covidminus-19-heading-for-double-dip",
+      "urlToImage": "https://static3.seekingalpha.com/uploads/2020/11/11/saupload_eurozonevolutility-11092020.png",
+      "publishedAt": "2020-11-11T08:03:47Z",
+      "content": "Huge positive surprise in Q3\r\nEurostat's preliminary flash estimate for Q3 GDP in the eurozone delivered a huge upward surprise. The record q/q increase of far surpassed the market consensus expectat… [+4264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Moneycontrol"
+      },
+      "author": null,
+      "title": "Coffee production in India could be hit by migrant labour shortage this season",
+      "description": "According to UPASI, about 5.88 lakh migratory labourers are engaged in the coffee plantations season activity between October and March every year. Coffee estates require labourers for plucking",
+      "url": "https://www.moneycontrol.com/news/business/markets/coffee-production-in-india-could-be-hit-by-migrant-labour-shortage-this-season-6102981.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/09/Coffee-770x433.jpg",
+      "publishedAt": "2020-11-11T08:02:56Z",
+      "content": "Already hit by fall in exports, coffee plantations in India could be affected this season (October 2020-September 2021) due to lack of migrant labour in the estates to pluck coffee.\r\nAccording to ind… [+5423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prnewsleader.com"
+      },
+      "author": null,
+      "title": "Global Internet of Things (IoT) Cloud Platform Market Top Manufacturers: Amazon Web Services, Google, IBM, Microsoft, Salesforce.com etc. - PRnews Leader",
+      "description": "Global Internet of Things (IoT) Cloud Platform Market Top Manufacturers: Amazon Web Services, Google, IBM, Microsoft, Salesforce.com etc.  PRnews Leader",
+      "url": "https://prnewsleader.com/coronavirus/1855242/global-internet-of-things-iot-cloud-platform-market-top-manufacturers-amazon-web-services-google-ibm-microsoft-salesforce-com-etc-3/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T08:02:42Z",
+      "content": "This versatile composition of research derivatives pertaining to diverse concurrent developments in the global Internet of Things (IoT) Cloud Platform market is poised to induce forward-looking persp… [+7469 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Eni and HitecVision form Nordic renewable energy venture - Reuters UK",
+      "description": "Norwegian private equity group HitecVision and Italy's Eni have formed a joint venture to develop green energy projects in the Nordic region, the companies said on Wednesday.",
+      "url": "https://uk.reuters.com/article/us-eni-hitecvision-renewables-idUKKBN27R0T7",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540811673&r=LYNXMPEGAA0DL&w=800",
+      "publishedAt": "2020-11-11T08:01:00Z",
+      "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Italian energy company Eni is seen at a gas station in Rome, Italy September 30, 2018. REUTERS/Alessandro Bianchi\r\nOSLO (Reuters) - Norwegian private equity … [+725 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Staff",
+      "title": "Eni and HitecVision form Nordic renewable energy venture - Reuters UK",
+      "description": "Norwegian private equity group HitecVision <HITV.NFF> and Italy's Eni <ENI.MI> have formed a joint venture to develop green energy projects in the Nordic region, the companies said on Wednesday.",
+      "url": "https://uk.reuters.com/article/us-eni-hitecvision-renewables-idUSKBN27R0T7",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20201111&t=2&i=1540810172&r=LYNXMPEGAA0DL&w=800",
+      "publishedAt": "2020-11-11T08:01:00Z",
+      "content": "By Reuters Staff\r\nFILE PHOTO: The logo of Italian energy company Eni is seen at a gas station in Rome, Italy September 30, 2018. REUTERS/Alessandro Bianchi\r\nOSLO (Reuters) - Norwegian private equity … [+742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DailyFX"
+      },
+      "author": "Daniel Moss",
+      "title": "EU Stoxx 50 Outlook: Rebound on Vaccine News Running Out of Steam",
+      "description": "The EU Stoxx 50 index could slip lower in the coming days as vaccine optimism begins to fade amid a backdrop of rising Covid-19 infections and tightening restrictions.",
+      "url": "https://www.dailyfx.com/forex/fundamental/daily_briefing/session_briefing/euro_open/2020/11/11/EU-Stoxx-50-Outlook-Rebound-on-Vaccine-News-Running-Out-of-Steam-.html",
+      "urlToImage": "https://a.c-dn.net/b/0DVI1o/headline_GERMAN_STOCK_EXCHANGE_21.JPG",
+      "publishedAt": "2020-11-11T08:00:00Z",
+      "content": "EU Stoxx 50 Index, European Central Bank, Vaccine, Lockdowns, Coronavirus Talking Points:\r\n<ul><li>The New Zealand Dollar significantly outperformed its major counterparts after the RBNZ held interes… [+6076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Research and Markets",
+      "title": "Global Pathogen Reduction Systems Market Report 2020-2025: Recent Outbreak of COVID-19 is Expected to Drive the Demand for These Systems",
+      "description": "Dublin, Nov. 11, 2020 (GLOBE NEWSWIRE) -- The \"Global Pathogen Reduction Systems Market, By Type, By Application, By Product, By End User, By Region, Competition, Forecast & Opportunities, 2025\" report has been added to ResearchAndMarkets.com's offering.The G…",
+      "url": "https://news.yahoo.com/global-pathogen-reduction-systems-market-075300748.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/75gvpwvOKpyn2yn1GnxC4g--~B/aD01ODt3PTQ4MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/93d5b27580f67db722dd7c112e43e8bc",
+      "publishedAt": "2020-11-11T07:53:00Z",
+      "content": "Dublin, Nov. 11, 2020 (GLOBE NEWSWIRE) -- The \"Global Pathogen Reduction Systems Market, By Type, By Application, By Product, By End User, By Region, Competition, Forecast &amp; Opportunities, 2025\" … [+6194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thinkcuriouser.com"
+      },
+      "author": null,
+      "title": "Cyber security as a Service Market 2020 Growing with Major Key Player Symantec, MCAFEE, Trend Micro, Cisco, Fortinet, Panda Security, Ciphercloud, Zscaler, Alert Logic, Radware, Armor, AT&T, BAE Systems, Capgemini, Choice CyberSecurity, Transputec, BlackStratus, FireEye, LookingGlass, Optiv, TCS,....",
+      "description": "Cyber security as a Service Market 2020 Growing with Major Key Player Symantec, MCAFEE, Trend Micro, Cisco, Fortinet, Panda Security, Ciphercloud, Zscaler, Alert Logic, Radware, Armor, AT&T, BAE Systems, Capgemini, Choice CyberSecurity, Transputec, BlackStrat…",
+      "url": "https://thinkcuriouser.com/news/639515/cyber-security-as-a-service-market-2020-growing-with-major-key-player-symantec-mcafee-trend-micro-cisco-fortinet-panda-security-ciphercloud-zscaler-alert-logic-radware-armor-att-bae-s/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T07:39:00Z",
+      "content": "“\r\nThe global Cyber security as a Service market is comprehensively and Insightful information in the report, taking into consideration various factors such as competition, regional growth, segmentat… [+4598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Streetartnews.net"
+      },
+      "author": "StreetArtNews",
+      "title": "“Polvere di Stelle” by INTI in Naples, Italy",
+      "description": "Street artist INTI is back with a new mural entitled “Polvere di Stelle” in the Barra neighborhood in Naples. This project was done in collaboration with the Campania region and Jorit Foundation.b-sm = 300x250; sm > none; “Look with the naked eye, without pla…",
+      "url": "https://streetartnews.net/2020/11/polvere-di-stelle-by-inti-in-naples-italy.html",
+      "urlToImage": "https://streetartnews.net/wp-content/uploads/2020/11/123944376_3554809617920264_5877970860628769832_o.jpg",
+      "publishedAt": "2020-11-11T07:36:03Z",
+      "content": "Street artist INTI is back with a new mural entitled Polvere di Stelle” in the Barra neighborhood in Naples. This project was done in collaboration with the Campania region and Jorit Foundation.\r\n“Lo… [+970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FXStreet"
+      },
+      "author": "Yohay Elam",
+      "title": "Forex Today: Markets torn between covid resurgence and vaccine hopes, kiwi jumps, Lagarde eyed",
+      "description": "Here is what you need to know on Wednesday, November 11: Markets are edging higher and the dollar is on the back foot as the surge of COVID-19 cases c",
+      "url": "https://www.fxstreet.com/news/forex-today-markets-torn-between-covid-resurgence-and-vaccine-hopes-kiwi-jumps-lagarde-eyed-202011110735",
+      "urlToImage": "https://editorial.fxstreet.com/images/Macroeconomics/Events/Coronavirus/coronavirus3_Large.jpg",
+      "publishedAt": "2020-11-11T07:35:38Z",
+      "content": "Here is what you need to know on Wednesday, November 11:\r\nMarkets are edging higher and the dollar is on the back foot as the surge of COVID-19 cases counters the dramatic vaccine announcement on Mon… [+2307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "author": "EURACTIV Network",
+      "title": "Virologist: A compulsory vaccine is the worst thing",
+      "description": "In today's edition of the Capitals, find out more about how the Chinese and Russian intelligence services are among the most active in the Czech Republic, Spain and Italy announcing the purchase of the Pfizer vaccine, and so much more.",
+      "url": "http://www.euractiv.com/section/politics/news/virologist-a-compulsory-vaccine-is-the-worst-thing/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/11/vac-800x450.png",
+      "publishedAt": "2020-11-11T07:34:35Z",
+      "content": "The Capitals brings you the latest news from across Europe, through on-the-ground reporting by EURACTIVs media network. You can subscribe to the newsletter here.\r\nBefore you start reading today’s edi… [+9710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digitimes"
+      },
+      "author": "Adam Hwang",
+      "title": "Laster, Edison Opto swing to operating profits in 3Q20",
+      "description": "LED automotive lighting module maker Laster Tech and LED packaging service provider Edison Opto saw business turn from operating losses to operating profits of NT$42.4 million (US$1.46 million) and NT$7.4 million respectively for third-quarter 2020, according…",
+      "url": "https://www.digitimes.com/news/a20201111PD206.html",
+      "urlToImage": "https://www.digitimes.com/newsshow/20201111PD206_files/2_b.jpg",
+      "publishedAt": "2020-11-11T07:30:40Z",
+      "content": "LED automotive lighting module maker Laster Tech and LED packaging service provider Edison Opto saw business turn from operating losses to operating profits of NT$42.4 million (US$1.46 million) and N… [+2525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "author": "Alessandro Follis",
+      "title": "Italy to get 40 million Pfizer vaccines, Spain just 20 million",
+      "description": "Italy will receive 40 million doses of the COVID-19 vaccine developed by Pfizer-BioNTech, of which the EU has ordered 300 million doses.  Meanwhile, Spain hopes to receive 20 million doses from US pharmaceutical giant to immunise up to 10 million...",
+      "url": "https://www.euractiv.com/section/politics/short_news/italy-to-get-40-million-pfizer-vaccines-spain-just-20-million/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/11/spain-2-800x450.jpg",
+      "publishedAt": "2020-11-11T07:29:37Z",
+      "content": "Italy will receive 40 million doses of the COVID-19 vaccine developed by Pfizer-BioNTech, of which the EU has ordered 300 million doses. \r\nMeanwhile, Spain hopes to receive 20 million doses from US p… [+1941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "FRANCE 24",
+      "title": "Gladbach forward Marcus Thuram eyes first France cap in Finland friendly",
+      "description": "Borussia Moenchengladbach forward Marcus Thuram, son of France's 1998 World Cup winner Lilian, is hoping to win his maiden cap on Wednesday when the world champions take on Finland in a friendly at the Stade de France.",
+      "url": "https://www.france24.com/en/sport/20201111-gladbach-forward-marcus-thuram-eyes-first-france-cap-in-finland-friendly",
+      "urlToImage": "https://s.france24.com/media/display/d560b4f6-23ea-11eb-b92f-005056a964fe/w:1280/p:16x9/000_8UW7T8.jpg",
+      "publishedAt": "2020-11-11T07:20:53Z",
+      "content": "Borussia Moenchengladbach forward Marcus Thuram, son of France's 1998 World Cup winner Lilian, is hoping to win his maiden cap on Wednesday when the world champions take on Finland in a friendly at t… [+1908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Telegraph.co.uk"
+      },
+      "author": "Telegraph Sport",
+      "title": "Autumn Nations Cup 2020 fixtures: Match dates, times and TV schedule",
+      "description": "The Six Nations teams, Georgia and Fiji will compete for the Autumn Nations Cup",
+      "url": "https://www.telegraph.co.uk/rugby-union/2020/11/autumn-nations-cup-fixtures-2020-match-dates-times-tv-schedule/",
+      "urlToImage": "https://www.telegraph.co.uk/content/dam/rugby-union/2020/10/20/TELEMMGLPICT000241363168_trans_NvBQzQNjv4BqaRL1kC4G7DT9ZsZm6Pe3PUPXbRlaI4_qh_dM2Z5d688.jpeg?impolicy=logo-overlay",
+      "publishedAt": "2020-11-11T07:13:06Z",
+      "content": "The Autumn Nations Cup begins on November 13, running over the course of four rounds with England, Ireland, Scotland, Wales, France, Italy, Georgia and Fiji competing.\r\nAmazon Prime have the main bro… [+1121 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Rebecca Falconer",
+      "title": "Hong Kong disqualifies pro-democracy lawmakers after China passes patriotism law",
+      "description": "Hong Kong's government disqualified four opposition pro-democracy lawmakers on Wednesday, per Bloomberg.Why it matters: The ouster of Kenneth Leung, Dennis Kwok, Alvin Yeung and Kwok Ka-ki came moments after the Chinese parliament passed a resolution allowing…",
+      "url": "https://www.axios.com/hong-kong-disqualifies-lawmakers-china-patriotism-law-81506760-a959-46a5-a16a-daa7dd2e0d85.html",
+      "urlToImage": "https://images.axios.com/MXpn3J7vIStEuHfvHHaoP1j1ntA=/fit-in/1366x1366/2020/11/11/1605077821945.None",
+      "publishedAt": "2020-11-11T07:10:29Z",
+      "content": "Texas has surpassed 1 million confirmed COVID-19 cases, Johns Hopkins University data shows.\r\nWhy it matters: Texas is the first U.S. state to pass the milestone. It has the 10th most cases in the wo… [+194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Just Jared"
+      },
+      "author": "Just Jared",
+      "title": "Angela Bassett Returning For 'Mission: Impossible 7' Movie as Erika Sloane",
+      "description": "Angela Bassett will be back on screen as Erika Sloane in Mission: Impossible 7. ComingSoon.net reports that the 62-year-old actress will pop up on the big screen next to Tom Cruise once again, after first appearing in 2018′s Mission: Impossible – Fallout. “Th…",
+      "url": "http://www.justjared.com/2020/11/11/angela-bassett-returning-for-mission-impossible-7-movie-as-erika-sloane/",
+      "urlToImage": "http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2020/11/angela-mi.jpg",
+      "publishedAt": "2020-11-11T07:05:14Z",
+      "content": "Angela Bassett will be back on screen as Erika Sloane in Mission: Impossible 7.\r\nComingSoon.net reports that the 62-year-old actress will pop up on the big screen next to Tom Cruise once again, after… [+794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technoweekly.com"
+      },
+      "author": null,
+      "title": "Global Internet of Things (IoT) Software Market Top Players By 2026: Cisco Systems, Inc., Bosch Software Innovations GmbH, General Electric, Google Inc. etc. - TechnoWeekly",
+      "description": "Global Internet of Things (IoT) Software Market Top Players By 2026: Cisco Systems, Inc., Bosch Software Innovations GmbH, General Electric, Google Inc. etc.  TechnoWeekly",
+      "url": "https://technoweekly.com/science/1040536/global-internet-of-things-iot-software-market-top-players-by-2026-cisco-systems-inc-bosch-software-innovations-gmbh-general-electric-google-inc-etc-3/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T07:04:00Z",
+      "content": "Regional Development: Detailed Analysis\r\nThe latest report presentation on Global Internet of Things (IoT) Software market portrays a detailed analytical review of the market spectrum across both his… [+6101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vnexpress.net"
+      },
+      "author": "Duong Tam",
+      "title": "Vietnamese teacher among 10 finalists for $1 mln UK education prize",
+      "description": "Ha Anh Phuong of Vietnam has been shortlisted among 10 finalists for the 2020 Global Teacher Prize for her contribution to education in remote areas.",
+      "url": "https://e.vnexpress.net/news/news/vietnamese-teacher-among-10-finalists-for-1-mln-uk-education-prize-4190146.html",
+      "urlToImage": "https://vcdn-english.vnecdn.net/2020/11/11/cohaanhphuong32451605009651-16-2647-6120-1605069544_1200x0.jpg",
+      "publishedAt": "2020-11-11T07:01:54Z",
+      "content": "The 29-year-old, a high school English teacher in the northern Phu Tho Province, is the first Vietnamese and youngest ever to make the short list.\r\nThe other nine are from Brazil, India, Italy, Malay… [+2600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EURACTIV"
+      },
+      "author": "Frédéric Simon",
+      "title": "Gas denied ‘transition’ fuel status in draft EU green finance rules",
+      "description": "Power plants fuelled by natural gas will not be classed as “sustainable” or “transition” investments in Europe unless they meet emission limits which are so low that none are currently able to comply, according to draft EU rules seen by EURACTIV.",
+      "url": "http://www.euractiv.com/section/energy-environment/news/gas-denied-transition-fuel-status-in-eu-green-finance-rules/",
+      "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/11/Gas-power-plant-800x450.jpg",
+      "publishedAt": "2020-11-11T06:55:56Z",
+      "content": "Power plants fuelled by natural gas will not be classed as sustainable or transition investments in Europe unless they meet emission limits which are so low that none are currently able to comply, ac… [+6990 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Rebecca Falconer",
+      "title": "Texas becomes first U.S. state to exceed 1 million coronavirus cases",
+      "description": "Texas has surpassed 1 million confirmed COVID-19 cases, Johns Hopkins University data shows.Why it matters: Texas is the first U.S. state to pass the milestone. It has the 10th most cases in the world, reporting 1,010,364 infections by early Wednesday — more …",
+      "url": "https://www.axios.com/texas-first-state-surpass-1-million-covid-cases-2f3d16ab-0ae9-4417-a93d-eff7cdde3f14.html",
+      "urlToImage": "https://images.axios.com/Vbp-mvNa59mlXc_wk0bBvjHVkAY=/fit-in/1366x1366/2020/11/11/1605076884493.jpg",
+      "publishedAt": "2020-11-11T06:51:30Z",
+      "content": "Texas has surpassed 1 million confirmed COVID-19 cases, Johns Hopkins University data shows.\r\nWhy it matters: Texas is the first U.S. state to pass the milestone. It has the 10th most cases in the wo… [+194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Deutsche Welle (www.dw.com)",
+      "title": "EU weighs tighter border controls after Paris terrorism summit",
+      "description": "EU leaders have called for security at the bloc's external borders to be ramped up following deadly Islamist terror attacks in France and Austria. France's Emmanuel Macron demanded a \"rapid and coordinated response.\"",
+      "url": "https://www.dw.com/en/eu-weighs-tighter-border-controls-after-paris-terrorism-summit/a-55553916",
+      "urlToImage": "https://static.dw.com/image/55488958_304.jpg",
+      "publishedAt": "2020-11-11T06:41:00Z",
+      "content": "European leaders on Tuesday proposed tightening the extrernal borders of the EU's visa-free Schengen zone in response to a series of deadly attacks blamed on Islamist extremists.\r\nThe announcement ca… [+3423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Coronavirus vaccine results fuel hopes for return to normal",
+      "description": "Hugely promising results from a coronavirus vaccine trial fuelled optimism around the world on Nov. 10 even as tighter restrictions were imposed in Europe and the Middle East to try and stem the worst pandemic in a century.",
+      "url": "https://www.hurriyetdailynews.com/coronavirus-vaccine-results-fuel-hopes-for-return-to-normal-159919",
+      "urlToImage": "https://i.hurimg.com/i/hdn/75/200x200/5fab8256d3806c0cdcfb7fda.jpg",
+      "publishedAt": "2020-11-11T06:17:00Z",
+      "content": "WASHINGTON-Agence France-Presse\r\nHugely promising results from a coronavirus vaccine trial fuelled optimism around the world on Nov. 10, even as tighter restrictions were imposed in Europe and the Mi… [+4973 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Robert O'Byrne",
+      "title": "Fr Browne’s brilliance captures Wicklow’s beauty on camera",
+      "description": "Robert O’Byrne introduces a collection of the Jesuit’s timeless images focused on Wicklow",
+      "url": "https://www.irishtimes.com/culture/books/fr-browne-s-brilliance-captures-wicklow-s-beauty-on-camera-1.4404412",
+      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4404411&origw=1440",
+      "publishedAt": "2020-11-11T06:08:00Z",
+      "content": "Now recognised as Irelands finest photographer during the first half of the last century, Frank Browne perceived the medium that brought him posthumous fame primarily as a hobby. He spent the greater… [+8863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurowire.co"
+      },
+      "author": null,
+      "title": "Cyber Security in Financial Services Market 2020 Global Analysis, Trends, Forecast up to 2025 - Eurowire",
+      "description": "“The Cyber Security in Financial Services Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size, share, demand, development patter…",
+      "url": "https://eurowire.co/news/1053303/cyber-security-in-financial-services-market-2020-global-analysis-trends-forecast-up-to-2025/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T06:08:00Z",
+      "content": "“The Cyber Security in Financial Services Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current sit… [+5135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Market Study Report, LLC.",
+      "title": "Global smart healthcare market size to record 16.2% CAGR through 2027",
+      "description": "The research report on ‘global smart healthcare market’ evaluates the major development trends, restraining factors, and expansion opportunities defining the growth rate of this industry landscape over the period of 2020-2027.Selbyville, Delaware, Nov. 11, 20…",
+      "url": "https://news.yahoo.com/global-smart-healthcare-market-size-060600566.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/g_2DwlFophJj733RLaPQAQ--~B/aD01Mzt3PTQ4NjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/globenewswire.com/9a49d23996bd852fd8f21c7c5b3f9bad",
+      "publishedAt": "2020-11-11T06:06:00Z",
+      "content": "The research report on global smart healthcare market evaluates the major development trends, restraining factors, and expansion opportunities defining the growth rate of this industry landscape over… [+8935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EUobserver"
+      },
+      "author": "Elena Sánchez Nicolás",
+      "title": "[Green Deal] Italy 'manifestly failed' on air pollution, EU top court rules",
+      "description": "The European Court of Justice concluded Italy has been \"systematically and persistently\" exceeding daily and annual limits of particulate matter pollution permitted by EU rules on clean air.",
+      "url": "https://euobserver.com/green-deal/150024",
+      "urlToImage": "https://s3.eu-central-1.amazonaws.com/euobs-media/56d6362b89d91d268b2a80bb513a68dc-480x.jpg",
+      "publishedAt": "2020-11-11T06:03:25Z",
+      "content": "Italy has been \"systematically and persistently\" exceeding daily and annual limits of particulate matter pollution permitted by EU rules, the European Court of Justice (ECJ) ruled on Tuesday (10 Nove… [+2512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wired.co.uk"
+      },
+      "author": "Richard Davies",
+      "title": "The next economic shock will be hyper-aged societies",
+      "description": "As we deal with the immediate crisis brought on by Covid-19, we are already hurtling towards economic systems defined by old age",
+      "url": "https://www.wired.co.uk/article/future-economy-richard-davies",
+      "urlToImage": "https://wi-images.condecdn.net/image/JaMlMwwd9ad/crop/1440/0.5235602094240838/f/wired-ft-economy-5.jpg",
+      "publishedAt": "2020-11-11T06:00:00Z",
+      "content": "Richard Davies\r\nCovid-19 is a shock that has swept the world, affecting countries rich and poor. It is not the only one. While governments focus on the pandemic, we are quietly hurtling towards a new… [+4455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Globalsecurity.org"
+      },
+      "author": "John Pike",
+      "title": "United Arab Emirates - MQ-9B Remotely Piloted Aircraft",
+      "description": "The State Department has made a determination approving a possible Foreign Military Sale to the Government of the United Arab Emirates of MQ-9B Remotely Piloted Aircraft and related equipment for an estimated cost of $2.97 billion. The Defense Security Cooper…",
+      "url": "https://www.globalsecurity.org/military/library/news/2020/11/mil-201110-dsca01.htm",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T05:59:30Z",
+      "content": "Media/Public Contact: pm-cpa@state.govTransmittal No: 21-05\r\nWASHINGTON, November 10, 2020 -- The State Department has made a determination approving a possible Foreign Military Sale to the Governmen… [+5399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Life"
+      },
+      "author": "Jade Boren",
+      "title": "Joe Giudice’s Feelings On Teresa’s Hot New Romance Revealed: Why He’s Not Jealous",
+      "description": "Despite being married for 20 years, Joe Giudice knew it was 'only a matter of time' until his ex-wife, Teresa, 'found someone new.' A source reveals why Joe felt no 'jealousy' towards Teresa's new beau.",
+      "url": "https://hollywoodlife.com/2020/11/11/joe-giudice-reaction-teresa-new-boyfriend-luis-louie-ruelas-romance/",
+      "urlToImage": "https://hollywoodlife.com/wp-content/uploads/2020/11/Joe-Giudice-Teresa-Giudice-new-relationshop-ap-ftr.jpg",
+      "publishedAt": "2020-11-11T05:56:38Z",
+      "content": "Joe Giudice has a lot of history with Teresa Giudice — as in 20 years of marriage, and being childhood sweethearts on top of that — but he’s not feeling any “jealousy” now that she’s began a new love… [+2758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "SA Transcripts",
+      "title": "The Blackstone Group Inc. (BX) Management Presents at Bank of America Future of Financials Virtual Conference 2020 (Transcript)",
+      "description": "The Blackstone Group Inc. (NYSE:BX) Bank of America Future of Financials Virtual Conference 2020 November 10, 2020, 12:30 PM ET Company Participants Jon Gray - President and COO Conference Call Participants Michael Carrier - Bank of America Presentation Micha…",
+      "url": "https://seekingalpha.com/article/4387919-blackstone-group-inc-bx-management-presents-bank-of-america-future-of-financials-virtual",
+      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "publishedAt": "2020-11-11T05:47:05Z",
+      "content": "The Blackstone Group Inc. (NYSE:BX) Bank of America Future of Financials Virtual Conference 2020 November 10, 2020 12:30 PM ET\r\nCompany Participants\r\nJon Gray - President and COO\r\nConference Call Par… [+53287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurowire.co"
+      },
+      "author": null,
+      "title": "Teleoperation and Telerobotics in Industrial Internet of Things (IIoT) Industry Market Size 2020 Industry Share, Strategies, Growth Analysis, Regional Demand, Revenue, Key Manufacturers and 2026 Forecast Research Report - Eurowire",
+      "description": "Teleoperation and Telerobotics in Industrial Internet of Things (IIoT) Industry Market Size 2020 Industry Share, Strategies, Growth Analysis, Regional Demand, Revenue, Key Manufacturers and 2026 Forecast Research Report  Eurowire",
+      "url": "https://eurowire.co/news/1052739/teleoperation-and-telerobotics-in-industrial-internet-of-things-iiot-industry-market-size-2020-industry-share-strategies-growth-analysis-regional-demand-revenue-key-manufacturers-and-2026-forec/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T05:13:00Z",
+      "content": "A recent market research report added to repository of Credible Markets is an in-depth analysis of “Global Teleoperation and Telerobotics in Industrial Internet of Things (IIoT) Industry Market\r\n”. O… [+7761 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "David Morgan",
+      "title": "DOC NYC documentary film festival goes online",
+      "description": "Highlights from America's largest non-fiction film festival, now streaming more than 200 features and shorts",
+      "url": "https://www.cbsnews.com/news/doc-nyc-2020-documentary-film-festival-goes-online/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/11/11/65cea7e4-1664-4017-9f15-434db9254ae2/thumbnail/1200x630/d05b1fd2c8099273095d5b1715e68003/jacinta-cinetic.jpg",
+      "publishedAt": "2020-11-11T05:07:21Z",
+      "content": "Non-fiction is once again the star attraction of DOC NYC, America's largest documentary film festival, now in its 11th year. But in this era of COVID-19 the festival's offerings are being shared onli… [+16157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "New type of test may better discern immunity to the coronavirus",
+      "description": "A new type of test can detect a person’s immune response to the coronavirus better than a widely used antibody test, according to research released on Tuesday. The test detects the response to T cells — an arms of the immune system ‚ to the virus.",
+      "url": "https://www.bostonglobe.com/2020/11/11/nation/new-type-test-may-better-discern-immunity-coronavirus/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/zBHSEKkrIGckn8x0WuTRswOVtDM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6ENZIGBQFZYDVIGQVES5JNWPQE.jpg",
+      "publishedAt": "2020-11-11T05:04:20Z",
+      "content": "The companys data have not yet been reviewed for publication in a scientific journal, but experts say the work is promising for assessing T cells role in the illness caused by the coronavirus.\r\nExpos… [+6000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lse.ac.uk"
+      },
+      "author": "Valerio Ercolani and António Antunes",
+      "title": "Unintended consequence of fiscal stimuli: tightening households’ credit constraints",
+      "description": "Since Keynes, the benefits associated to countercyclical fiscal policies have been recognised by the greater part of the economics community. Indeed, the global financial crisis and, especially, the current COVID-19 crisis saw massive increases in public debt…",
+      "url": "https://blogs.lse.ac.uk/businessreview/2020/11/11/unintended-consequences-of-fiscal-stimuli-tightening-households-credit-constraints/",
+      "urlToImage": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2020/11/money.jpg",
+      "publishedAt": "2020-11-11T05:00:28Z",
+      "content": "Since Keynes, the benefits associated to countercyclical fiscal policies have been recognised by the greater part of the economics community. Indeed, the global financial crisis and, especially, the … [+6777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Bryce Baschuk",
+      "title": "Biden Gets a $4 Billion Reminder to Patch Trade Ties With Europe",
+      "description": "(Bloomberg) -- Barely 48 hours after President-elect Joe Biden pledged to “make America respected around the world again,” the European Union was among the first in line to remind him that trans-Atlantic trade relations might be a good place to start.Brussels…",
+      "url": "https://finance.yahoo.com/news/biden-gets-4-billion-reminder-050000617.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/4XDPLd4KNcsu2SgeTNUHNA--~B/aD0xMzM0O3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/359fae69e022bb48f85369868d722d0b",
+      "publishedAt": "2020-11-11T05:00:00Z",
+      "content": "(Bloomberg) -- Barely 48 hours after President-elect Joe Biden pledged to make America respected around the world again, the European Union was among the first in line to remind him that trans-Atlant… [+5729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thinkcuriouser.com"
+      },
+      "author": null,
+      "title": "Internet of Things Insurance Market Data Survey Report 2020-2025 | SAP SE, Oracle Corporation, Google, Microsoft Corporation, etc - The Think Curiouser",
+      "description": "Internet of Things Insurance Market Data Survey Report 2020-2025 | SAP SE, Oracle Corporation, Google, Microsoft Corporation, etc  The Think Curiouser",
+      "url": "https://thinkcuriouser.com/news/645871/internet-of-things-insurance-market-data-survey-report-2020-2025-sap-se-oracle-corporation-google-microsoft-corporation-etc/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T04:49:09Z",
+      "content": "This is an excellent research study specially compiled to provide the latest insights into critical aspects of the Internet of Things Insurance Market. The report includes different market forecasts … [+4165 chars]"
+    },
+    {
+      "source": {
+        "id": "news24",
+        "name": "News24"
+      },
+      "author": null,
+      "title": "News24.com | Rugby shake-up goes on with new Autumn Nations Cup",
+      "description": "The inaugural Autumn Nations Cup starts with Ireland facing Wales in Dublin as rugby union continues to deal with the fall-out from the coronavirus pandemic.",
+      "url": "https://www.news24.com/sport/Rugby/rugby-shake-up-goes-on-with-new-autumn-nations-cup-20201111",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9455/2086c40e29134dc2b3463f2d2b78a00f.jpg",
+      "publishedAt": "2020-11-11T04:44:41Z",
+      "content": "The inaugural Autumn Nations Cup starts with Ireland facing Wales in Dublin on Friday as rugby union continues to deal with the fall-out from the coronavirus pandemic.\r\nAn eight-team event will featu… [+4611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technoweekly.com"
+      },
+      "author": null,
+      "title": "Semiconductor Wireless Sensor Internet of Things Market 2020 – 2027, Impact Analysis, Drivers, Opportunities, Pricing and Manufacturers - TechnoWeekly",
+      "description": "Semiconductor Wireless Sensor Internet of Things Market 2020 – 2027, Impact Analysis, Drivers, Opportunities, Pricing and Manufacturers  TechnoWeekly",
+      "url": "https://technoweekly.com/news/1034144/semiconductor-wireless-sensor-internet-of-things-market-2020-2027-impact-analysis-drivers-opportunities-pricing-and-manufacturers/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T04:43:00Z",
+      "content": "“ Semiconductor Wireless Sensor Internet of Things Market Global and Regional Markets Coverage, 2019 to 2027\r\nThe market is expected to experience robust growth during the forecast timeframe from 202… [+4255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Technoweekly.com"
+      },
+      "author": null,
+      "title": "Cyber Security Of Security Hardware Market Statistical Forecasts 2025, Globalisation & Trade with Key Players – Huawei, Symantec Corporation, Topsec, Venustech, Nsfocus, Asiainfo, H3C, 360 Enterprise Security, Sangfor, Westone, DBAPPSecurity Ltd - TechnoWeekly",
+      "description": "The Global Cyber Security Of Security Hardware Market report is a significant framework of the key segments of the Cyber Security Of Security Hardware market. Each sector is rapidly and gradually developing and inspected through this examination. Industry est…",
+      "url": "https://technoweekly.com/technologies/1030919/cyber-security-of-security-hardware-market-statistical-forecasts-2025-globalisation-trade-with-key-players-huawei-symantec-corporation-topsec-venustech-nsfocus-asiainfo-h3c-360-enterpr/",
+      "urlToImage": null,
+      "publishedAt": "2020-11-11T04:38:00Z",
+      "content": "“\r\nThe Global Cyber Security Of Security Hardware Market report is a significant framework of the key segments of the Cyber Security Of Security Hardware market. Each sector is rapidly and gradually … [+6833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Associated Press",
+      "title": "Amazon Faces EU Antitrust Charges Over Misuse of Data From Vendors",
+      "description": "European Union regulators filed antitrust charges against Amazon, accusing the e-commerce giant of using its access to data from companies that sell products on its platform to gain an unfair advantage over them.",
+      "url": "https://gadgets.ndtv.com/internet/news/amazon-antitrust-charge-case-eu-european-union-vendor-data-manipulation-product-launch-margrethe-vestager-2323628",
+      "urlToImage": "https://i.gadgets360cdn.com/large/amazon_india_50000_temp_jobs_reuters_1590142585417.jpg",
+      "publishedAt": "2020-11-11T04:34:31Z",
+      "content": "European Union regulators filed antitrust charges Tuesday against Amazon, accusing the e-commerce giant of using its access to data from companies that sell products on its platform to gain an unfair… [+3950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Paul Tan's Automotive News"
+      },
+      "author": "Mick Chan",
+      "title": "2021 Hyundai Kona Electric – up to 484 km in range from 64 kWh battery; updated infotainment, safety kit",
+      "description": "Hyundai has unveiled its revised Kona Electric, which has received a host of exterior and interior updates for the 2021 model year. There continues to be two powertrain versions on offer; a base version with […]\nThe post 2021 Hyundai Kona Electric – up to 484…",
+      "url": "https://paultan.org/2020/11/11/2021-hyundai-kona-electric-up-to-484-km-in-range-from-64-kwh-battery-updated-infotainment-safety-kit/",
+      "urlToImage": "https://s2.paultan.org/image/2020/11/2021-Hyundai-Kona-Electric-1-e1605061123455-1200x626.jpg",
+      "publishedAt": "2020-11-11T04:33:39Z",
+      "content": "Hyundai has unveiled its revised Kona Electric, which has received a host of exterior and interior updates for the 2021 model year. \r\nThere continues to be two powertrain versions on offer; a base ve… [+4272 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Business Standard"
+      },
+      "author": "Mark Landler and Melissa Eddy | NYT",
+      "title": "Does Trump's defeat in US elections signal the start of populism's decline?",
+      "description": "Populist leaders may have lost their most prominent champion, but their economic, social and political grievances remain potent",
+      "url": "https://www.business-standard.com/article/international/does-trump-s-defeat-in-us-elections-signal-the-start-of-populism-s-decline-120111100569_1.html",
+      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-06/17/full/1466150137-7003.jpg",
+      "publishedAt": "2020-11-11T04:27:00Z",
+      "content": "When Hungary’s populist prime minister, Viktor Orban, joined a parade of foreign leaders in congratulating President-elect Joe Biden this week, he conspicuously failed to note that Mr. Biden had actu… [+8515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "SA Transcripts",
+      "title": "Capstone Turbine Corporation (CPST) CEO Darren Jamison on Q2 2021 Results - Earnings Call Transcript",
+      "description": "Capstone Turbine Corporation (NASDAQ:CPST) Q2 2021 Earnings Conference Call November 10, 2020 16:45 ET Company Participants Colby Petersen - Corporate Counsel & Secretary Darren Jamison - President & Chief Executive Officer Eric Hencken - Chief Financial Offi…",
+      "url": "https://seekingalpha.com/article/4387906-capstone-turbine-corporation-cpst-ceo-darren-jamison-on-q2-2021-results-earnings-call",
+      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "publishedAt": "2020-11-11T04:22:04Z",
+      "content": "Capstone Turbine Corporation (NASDAQ:CPST) Q2 2021 Earnings Conference Call November 10, 2020 4:45 PM ET\r\nCompany Participants\r\nColby Petersen - Corporate Counsel &amp; Secretary\r\nDarren Jamison - Pr… [+43474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Raw Story"
+      },
+      "author": "Bob Brigham",
+      "title": "Trump’s America shatters coronavirus case record — but vaccines offer glimmer of hope",
+      "description": "The United States on Tuesday registered a record 200,000 new Covid-19 cases in one day, highlighting the desperate need for a vaccine after results from one medical trial fuelled optimism around the world. The vaccine news brought some relief from an otherwis…",
+      "url": "https://www.rawstory.com/2020/11/trumps-america-shatters-case-record-but-vaccines-offer-glimmer-of-hope/",
+      "urlToImage": "https://www.rawstory.com/wp-content/uploads/2020/07/COVID-19-patient-at-United-Memorial-Medical-Center-in-Houston-Texas.jpg",
+      "publishedAt": "2020-11-11T04:09:49Z",
+      "content": "The United States on Tuesday registered a record 200,000 new Covid-19 cases in one day, highlighting the desperate need for a vaccine after results from one medical trial fuelled optimism around the … [+6540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNX Software"
+      },
+      "author": "Jean-Luc Aufranc (CNXSoft)",
+      "title": "Giveaway Week 2020 winners announced",
+      "description": "CNX Software's “Giveaway week 2020” took place last week with 7 different prizes including three MINIX accessories (USB-C hubs and USD PD charger),",
+      "url": "https://www.cnx-software.com/2020/11/11/giveaway-week-2020-winners-announced/",
+      "urlToImage": "https://www.cnx-software.com/wp-content/uploads/2020/11/Giveaway-Week-2020-Winners.jpg",
+      "publishedAt": "2020-11-11T04:06:36Z",
+      "content": "CNX Software’s “Giveaway week 2020” took place last week with 7 different prizes including three MINIX accessories (USB-C hubs and USD PD charger), M5Stack Atom Echo ESP32 based programmable speaker,… [+1227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lewrockwell.com"
+      },
+      "author": "Laurence M. Vance",
+      "title": "Does the Military Defend Our First Amendment Freedoms?",
+      "description": "It happens almost every time I write an article that is critical of the U.S. military. But it happens every time I write an article on Veterans Day that is critical of the U.S. military. In either case, I get a few e-mails that upbraid me for daring to critic…",
+      "url": "https://www.lewrockwell.com/2020/11/laurence-m-vance/does-the-military-defend-our-first-amendment-freedoms/",
+      "urlToImage": "https://www.lewrockwell.com/wp-content/themes/lrc/images/logo-med.png",
+      "publishedAt": "2020-11-11T04:01:00Z",
+      "content": "It happens almost every time I write an article that is critical of the U.S. military. But it happens every time I write an article on Veterans Day that is critical of the U.S. military.\r\nIn either c… [+6163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "",
+      "title": "Whistleblower says he didn't recant ballot tampering allegations",
+      "description": "USPS whistleblower Richard Hopkins says he did not recant his ballot tampering allegations.",
+      "url": "https://www.dailymail.co.uk/video/news/video-2289894/Whistleblower-says-didnt-recant-ballot-tampering-allegations.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/11/11/03/35539020-0-image-a-54_1605067115829.jpg",
+      "publishedAt": "2020-11-11T03:58:07Z",
+      "content": "3:16\r\nMan extradited from Italy to Australia over child sex charges"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "SA Transcripts",
+      "title": "Adaptive Biotechnologies' (ADPT) CEO Chad Robins on Q3 2020 Results - Earnings Call Transcript",
+      "description": "Adaptive Biotechnologies Corporation (NASDAQ:ADPT) Q3 2020 Earnings Conference Call November 10, 2020 4:30 PM ET Company Participants Karina Calzadilla – Investor Relations Chad Robins – Chief Executive Officer and Co-Founder Julie Rubinstein – President Chad…",
+      "url": "https://seekingalpha.com/article/4387897-adaptive-biotechnologies-adpt-ceo-chad-robins-on-q3-2020-results-earnings-call-transcript",
+      "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+      "publishedAt": "2020-11-11T03:56:03Z",
+      "content": "Adaptive Biotechnologies Corporation (NASDAQ:ADPT) Q3 2020 Earnings Conference Call November 10, 2020 4:30 PM ET\r\nCompany Participants\r\nKarina Calzadilla Investor Relations\r\nChad Robins Chief Executi… [+56057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "newsfeeds@nzherald.co.nz",
+      "title": "Terror messages must be deleted within an hour, Macron insists",
+      "description": "Emmanuel Macron has demanded that all terror messages be deleted from social media within one hour and slammed the \"misuse\" of Europe's asylum system by those bent on crime or terrorism.The French President also called for the creation...",
+      "url": "https://www.nzherald.co.nz/world/terror-messages-must-be-deleted-within-an-hour-macron-insists/VOIO7PUPVOKQGXYJPMAUEKTSBY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/GE1fIlq-eBDVTqU7Gx7uUBE7dII=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/VWQDAYACMVWR67JLZJQ5L3SF6Q.jpg",
+      "publishedAt": "2020-11-11T03:48:41Z",
+      "content": "French President Emmanuel Macron looks at German Chancellor Angela Merkel on a screen, during a conference on terrorism. Photo / APEmmanuel Macron has demanded that all terror messages be deleted fro… [+3309 chars]"
     }
   ]
 }
